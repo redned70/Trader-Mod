@@ -1,2 +1,34 @@
-# Trader-Mod
+# Trader-Mod v5.1
 Exile Easy Trader Mod System
+
+This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.
+It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources including documentation on exilemod and in game from various places.
+I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.
+If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).
+This file does not include how to install mods or add to loot tables as that is already well documented.
+ned
+*** 1.0.0 Update***
+New Exile trader: Diving 
+A3 Headgear is no longer required as it has now been put into the Exile default trader
+Apex addons done as separate file and load
+CfgTraders also now in separate file
+
+>> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese 
+>> comented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
+
+***0.9.4 Update***
+Since update i have tried to match prices for active items (not CUPV or CUPW or TRYK as i dont use them). 
+******************
+NOTE RHS IS BOTH RUS AND USA.
+
+****** Added Jonzie thanks to XxFri3ndlyxX ******
+****** Added HAP thanks to XxFri3ndlyxX ******
+****** Thanks to XxFri3ndlyxX for fix to RHSW ******
+****** Fixed duplicate B_OutdoorPack_Base listing ******
+****** Fixed duplicate B_Kitbag_rgr listing ******
+
+***0.9.8 Update***
+****** Adjusted Exile items to match new item list ******
+****** Adjusted every "quality =" for a basic balance of purchasing (see mission config for "class requiredRespect") ******
+****** Added external load for "CfgTraders" to complete fully external loading of trader ******
+****** Exile now has new class "Shotguns" so be aware! ****** 

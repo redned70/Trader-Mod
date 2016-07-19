@@ -1,0 +1,475 @@
+This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.
+It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources including documentation on exilemod and in game from various places.
+I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.
+If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).
+This file does not include how to install mods or add to loot tables as that is already well documented.
+ned
+*** 1.0.0 Update***
+New Exile trader: Diving 
+A3 Headgear is no longer required as it has now been put into the Exile default trader
+Apex addons done as separate file and load
+CfgTraders also now in separate file
+
+>> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese 
+>> comented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
+
+***0.9.4 Update***
+Since update i have tried to match prices for active items (not CUPV or CUPW or TRYK as i dont use them). 
+******************
+NOTE RHS IS BOTH RUS AND USA.
+
+****** Added Jonzie thanks to XxFri3ndlyxX ******
+****** Added HAP thanks to XxFri3ndlyxX ******
+****** Thanks to XxFri3ndlyxX for fix to RHSW ******
+****** Fixed duplicate B_OutdoorPack_Base listing ******
+****** Fixed duplicate B_Kitbag_rgr listing ******
+
+***0.9.8 Update***
+****** Adjusted Exile items to match new item list ******
+****** Adjusted every "quality =" for a basic balance of purchasing (see mission config for "class requiredRespect") ******
+****** Added external load for "CfgTraders" to complete fully external loading of trader ******
+****** Exile now has new class "Shotguns" so be aware! ****** 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+1.	INSERT THE TRADERS FOLDER INTO YOUR MISSION PBO, DELETING ANY MOD FOLDERS YOU DONT USE.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgExileArsenal" DOWN TO LINE ABOVE "class CfgExileCustomCode" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
+	
+class CfgExileArsenal
+{
+	#include "TRADERS\APEX\ItemListAPEX.hpp"
+	#include "TRADERS\ARMA3V\ItemListARMA3V.hpp"
+	#include "TRADERS\ARMA3W\ItemListARMA3W.hpp"
+	#include "TRADERS\CUPW\ItemListCUPW.hpp"
+	#include "TRADERS\CUPV\ItemListCUPV.hpp"
+	#include "TRADERS\HAP\ItemListHAP.hpp"
+	#include "TRADERS\HLC\ItemListHLC.hpp"
+	#include "TRADERS\HVP\ItemListHVP.hpp"
+	#include "TRADERS\HVP\ItemListHWP.hpp"
+	#include "TRADERS\Jonzie\ItemListJonzie.hpp"
+	#include "TRADERS\MASV\ItemListMASV.hpp"
+	#include "TRADERS\MASW\ItemListMASW.hpp"
+	#include "TRADERS\R3FW\ItemListR3FW.hpp"
+	#include "TRADERS\RHSV\ItemListRHSV.hpp"
+	#include "TRADERS\RHSW\ItemListRHSW.hpp"
+	#include "TRADERS\TRYK\ItemListTRYK.hpp"
+	#include "TRADERS\PODS\ItemListPODS.hpp"
+	#include "TRADERS\CUSTOM\ItemListCUSTOM.hpp"
+	#include "TRADERS\Exile\ItemListExile.hpp"
+};
+
+---------------------------------------------------------------------------------------------------------------------------
+
+3.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgTraderCategories" DOWN TO LINE ABOVE "class CfgTraders" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
+
+class CfgTraderCategories
+{
+	#include "TRADERS\APEX\TraderCategoriesAPEX.hpp"
+	#include "TRADERS\ARMA3V\TraderCategoriesARMA3V.hpp"
+	#include "TRADERS\ARMA3W\TraderCategoriesARMA3W.hpp"
+	#include "TRADERS\CUPW\TraderCategoriesCUPW.hpp"
+	#include "TRADERS\CUPV\TraderCategoriesCUPV.hpp"
+	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
+	#include "TRADERS\HLC\TraderCategoriesHLC.hpp"
+	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"
+	#include "TRADERS\HVP\TraderCategoriesHWP.hpp"
+	#include "TRADERS\Jonzie\TraderCategoriesJonzie.hpp"
+	#include "TRADERS\MASV\TraderCategoriesMASV.hpp"
+	#include "TRADERS\MASW\TraderCategoriesMASW.hpp"
+	#include "TRADERS\R3FW\TraderCategoriesR3FW.hpp"
+	#include "TRADERS\RHSV\TraderCategoriesRHSV.hpp"
+	#include "TRADERS\RHSW\TraderCategoriesRHSW.hpp"
+	#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
+	#include "TRADERS\PODS\TraderCategoriesPODS.hpp"	
+	#include "TRADERS\CUSTOM\TraderCategoriesCUSTOM.hpp"
+	#include "TRADERS\Exile\TraderCategoriesExile.hpp"
+};
+
+---------------------------------------------------------------------------------------------------------------------------
+
+4.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgTraders" DOWN TO LINE "class CfgTrading" with
+
+class CfgTraders
+{
+	#include "TRADERS\CfgTraders.hpp"
+};
+
+
+5.	IN TRADERS\CfgTraders.hpp FILE EDIT AS BELOW
+	EDIT TRADERS TO INCLUDE ALL CLASSES FOR EACH MOD (THE TRADER CLASS FILE HAS A LIST OF EVERY CLASS USED)
+	All mods included are in the trader list.txt file(AND BELOW), comment out or delete whatever you dont need and paste over the top of the same lines.
+
+	***YOU CAN REPLACE THE CLASS CFGTRADERS WITH THE FOLLOWING. REMEMBER TO DELETE LIES RELATING TO THE MODS YOU DONT USE OR LEAVE OUT CLASSES YOU DO NOT WISH TO USE FROM THAT MOD (LIKE LAUNCHERS)***
+	
+	
+	class CfgTraders
+{
+	/**
+	 * Weapons, scopes, silencers, ammo
+	 */
+	class Exile_Trader_Armory
+	{
+		name = "ARMORY";
+		showWeaponFilter = 1;
+		categories[] = 
+		{
+			"PointerAttachments",
+			"CUPPointerAttachments",
+			"MASPointerAttachments",
+			"R3FPointerAttachments",
+			"RHSPointerAttachments",
+			"BipodAttachments",
+			"APEXBipodAttachments",
+			"R3FBipodAttachments",
+			"RHSBipodAttachments",
+			"MuzzleAttachments",
+			"APEXMuzzleAttachments",
+			"HLCMuzzleAttachments",
+			"CUPMuzzleAttachments",
+			"MASMuzzleAttachments",
+			"R3FMuzzleAttachments",
+			"RHSMuzzleAttachments",
+			"OpticAttachments",
+			"APEXOpticAttachments",
+			"HLCOpticAttachments",
+			"CUPOpticAttachments",
+			"MASOpticAttachments",
+			"R3FOpticAttachments",
+			"RHSOpticAttachments",
+			"Ammunition",
+			"APEXAmmunition",
+			"HLCAmmunition",
+			"CUPAmmunition",
+			"MASAmmunition",
+			"R3FAmmunition",
+			"RHSAmmunition",
+			"Pistols",
+			"APEXPistols",
+			"CUPPistols",
+			"MASPistols",
+			"R3FPistols",
+			"RHSPistols",
+			"Shotguns",
+			"SubMachineGuns",
+			"APEXSubMachineGuns",
+			"CUPSubMachineGuns",
+			"MASSubMachineGuns",
+			"R3FSubMachineGuns",
+			"LightMachineGuns",
+			"APEXLightMachineGuns",
+			"HLCLightMachineGuns",
+			"CUPLightMachineGuns",
+			"MASLightMachineGuns",
+			"R3FLightMachineGuns",
+			"RHSLightMachineGuns",
+			"AssaultRifles",
+			"APEXAssaultRifles",
+			"HAPASSAULTRIFLES",
+			"HLCAssaultRifles",
+			"CUPAssaultRifles",
+			"MASAssaultRifles",
+			"R3FAssaultRifles",
+			"RHSAssaultRifles",
+			"SniperRifles",
+			"APEXSniperRifles",
+			"HAPSNIPERRIFLES",
+			"HLCSniperRifles",
+			"HWPweapons",
+			"CUPSniperRifles",
+			"MASSniperRifles",
+			"R3FSniperRifles",
+			"RHSSniperRifles"
+		};
+	};
+
+	/**
+	 * Satchels, nades, UAVs, static MGs
+	 */
+	class Exile_Trader_SpecialOperations
+	{
+		name = "SPECIAL OPERATIONS";
+		showWeaponFilter = 1; // for noob tubes
+		categories[] = 
+		{
+			"Flares",
+			"Smokes",
+			"UAVs",
+			"StaticMGs",
+			"Navigation",
+			"ExplosiveWeapons",
+			"Explosives",
+			"A3Launchers",
+			"CUPLaunchers",
+			"MASLaunchers",
+			"R3FLaunchers",
+			"RHSLaunchers",
+			"CUPLauncherAmmo",
+			"MASLauncherAmmo",
+			"R3FLauncherAmmo",
+			"RHSLauncherAmmo",
+			"A3LauncherAmmo",	
+			"CUPExplosive",
+			"MASExplosive",
+			"RHSMines"
+		};
+	};
+
+	/**
+	 * Uniforms, vests, helmets, backpacks
+	 */
+	class Exile_Trader_Equipment
+	{	
+		name = "EQUIPMENT";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Headgear",
+			"APEXHeadgear",
+			"HAPHEADGEAR",
+			"MASHeadgear",
+			"RHSHeadgear",
+			"TRYKHeadgear",
+			"Uniforms",
+			"APEXUniforms",
+			"HAPUNIFORMS",
+			"RHSUniforms",
+			"TRYKUniforms",
+			"Vests",
+			"APEXVests",
+			"HAPVESTS",
+			"RHSVests",
+			"TRYKVests",
+			"Backpacks",
+			"APEXBackpacks",
+			"A3Backpacks",
+			"HAPBACKPACKS",
+			"MASBackpacks",
+			"TRYKBackpacks",
+			"Tools",
+			"APEXTools",
+			"MASTools",
+			"FirstAid"
+		};
+	};
+
+	/**
+	 * Cans, cans, cans
+	 */
+	class Exile_Trader_Food
+	{
+		name = "FAST FOOD";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Food",
+			"Drinks"
+		};
+	};
+
+	/**
+	 * Light bulbs, metal, etc.
+	 */
+	class Exile_Trader_Hardware
+	{
+		name = "HARDWARE";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Hardware",
+			//"R3FTools",
+			"CBuilding"
+		};
+	};
+
+	/**
+	 * Sells cars and general vehicles
+	 */
+	class Exile_Trader_Vehicle
+	{
+		name = "VEHICLE";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Bikes",
+			"Cars",
+			"A3Cars",
+			"HAPCARS",
+			"HVPCars",
+			"JonzieCars",
+			"MASCars",
+			"CUPUnarmed",
+			"HAPTRUCKS",
+			"MASTrucks",
+			"CUPArmed",
+			"MASArmed",
+			"A3Armed",
+			"RHSVehicles",
+			"CTrucks",
+			"Trucks",
+			"A3Trucks",
+			"CUGVs"
+			//"MASTanks"
+			//"A3Tanks"	
+			//"UGV"	
+			//"A3UGVs"				
+		};
+	};
+
+	/**
+	 * Sells choppers and planes
+	 */
+	class Exile_Trader_Aircraft
+	{
+		name = "AIRCRAFT";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Choppers", 
+			"CChoppers",			
+			"CUPChoppers",
+			"MASChoppers",
+			"RHSChoppers",
+			"A3unarmedChoppers",
+			"A3armedChoppers",
+			"Planes",
+			"A3Planes",
+			"CPlanes",
+			"HVPPlanes",
+			"MASPlanes",
+			"RHSPlanes",
+			//"CUAVs",
+			//"A3UAVs",
+			"Pods"		
+		};
+	};
+
+	/**
+	 * Sells ships and boats
+	 */ 
+	class Exile_Trader_Boat
+	{
+		name = "BOAT";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Boats",
+			"A3Boats",
+		};
+	};
+
+	class Exile_Trader_Diving
+	{
+		name = "DIVERS";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Diving"
+		};
+	};	
+	
+	/**
+	 * Sells Community Items
+	 */ 
+	class Exile_Trader_CommunityCustoms
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community"
+		};
+	};
+	class Exile_Trader_CommunityCustoms2
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community2"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms3
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community3"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms4
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community4"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms5
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community5"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms6
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community6"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms7
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community7"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms8
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community8"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms9
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community9"
+		};
+	};
+
+	class Exile_Trader_CommunityCustoms10
+	{
+		name = "COMMUNITY";
+		showWeaponFilter = 0;
+		categories[] = 
+		{
+			"Community10"
+		};
+	};
+	
+};

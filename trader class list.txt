@@ -1,0 +1,237 @@
+----------- [CiC]red_ned ----------
+----------- http://cic-gaming.co.uk ----------
+
+
+----------- community ----------
+Community
+
+----------- Pointer attachments ----------
+PointerAttachments
+CUPPointerAttachments
+R3FPointerAttachments
+MASPointerAttachments
+RHSPointerAttachments
+
+----------- bipods ----------
+BipodAttachments
+R3FBipodAttachments
+RHSBipodAttachments
+APEXBipodAttachments
+
+----------- silencers ----------
+MuzzleAttachments
+HLCMuzzleAttachments
+CUPMuzzleAttachments
+MASMuzzleAttachments
+R3FMuzzleAttachments
+RHSMuzzleAttachments
+APEXMuzzleAttachments
+
+----------- uavs ----------
+UAVs
+CUAVs
+A3UAVs
+
+----------- ugvs ----------
+CUGVs
+A3UGVs
+
+----------- staticMGs ----------
+StaticMGs
+
+----------- scopes ----------
+OpticAttachments
+HLCOpticAttachments
+CUPOpticAttachments
+MASOpticAttachments
+R3FOpticAttachments
+RHSOpticAttachments
+APEXOpticAttachments
+
+----------- ammo ----------
+Ammunition
+HLCAmmunition
+CUPAmmunition
+MASAmmunition
+R3FAmmunition
+RHSAmmunition
+APEXAmmunition
+
+----------- flares ----------
+Flares
+
+----------- smokes ----------
+Smokes
+
+----------- explosives ----------
+Explosives
+CUPExplosive
+MASExplosive
+RHSMines
+
+----------- launchers ----------
+A3Launchers
+CUPLaunchers
+MASLaunchers
+R3FLaunchers
+RHSLaunchers		
+
+----------- launcher ammo ----------			
+A3LauncherAmmo
+CUPLauncherAmmo
+MASLauncherAmmo	
+R3FLauncherAmmo		
+RHSLauncherAmmo
+			
+----------- pistols ----------
+Pistols
+CUPPistols
+MASPistols
+R3FPistols
+RHSPistols
+APEXPistols
+
+----------- Shotguns ----------
+Shotguns
+
+----------- sub machineguns ----------
+SubMachineGuns
+CUPSubMachineGuns
+R3FSubMachineGuns
+MASSubMachineGuns
+APEXSubMachineGuns
+
+----------- light machineguns ----------
+LightMachineGuns
+HAPASSAULTRIFLES
+HLCLightMachineGuns
+CUPLightMachineGuns
+MASLightMachineGuns
+R3FLightMachineGuns
+RHSLightMachineGuns
+APEXLightMachineGuns
+
+----------- assault rifles ----------
+AssaultRifles
+HLCAssaultRifles
+CUPAssaultRifles
+MASAssaultRifles
+R3FAssaultRifles
+RHSAssaultRifles
+APEXAssaultRifles
+
+----------- sniper rifles ----------
+SniperRifles
+HAPSNIPERRIFLES
+HLCSniperRifles
+HWPweapons
+CUPSniperRifles
+MASSniperRifles
+RHSSniperRifles
+APEXSniperRifles
+
+----------- uniforms ----------
+Uniforms
+HAPUNIFORMS
+RHSUniforms
+TRYKUniforms
+Diving
+APEXUniforms
+
+----------- vests ----------
+Vests
+HAPVESTS
+RHSVests
+TRYKVests
+APEXVests
+
+----------- headgear ----------
+Headgear
+A3Headgear
+HAPHEADGEAR
+MASHeadgear
+RHSHeadgear
+TRYKHeadgear
+APEXHeadgear
+
+----------- hardware ----------
+Hardware
+----------- building supplies ----------
+CBuilding
+
+----------- food ----------
+Food
+
+----------- drinks ----------
+Drinks
+
+----------- tools ----------
+Tools
+MASTools
+R3FTools	<<probably best not use.
+APEXTools
+
+----------- first aid ----------
+FirstAid
+
+----------- navigation ----------
+Navigation
+
+----------- backpacks ----------
+Backpacks
+A3Backpacks
+HAPBACKPACKS
+MASBackpacks
+TRYKBackpacks
+APEXBackpacks
+
+----------- bikes ----------
+Bikes
+
+----------- cars ----------
+Cars
+HAPCARS
+HVPCars
+MASCars
+A3Cars
+JonzieCars
+
+----------- trucks ----------
+Trucks
+CTrucks
+CUPUnarmed
+CUPArmed
+HAPTRUCKS
+MASTrucks
+MASArmed
+RHSVehicles
+A3Trucks
+
+----------- tanks ----------
+MASTanks
+A3Tanks
+
+----------- helicopters ----------
+Choppers
+CChoppers
+CUPChoppers
+MASChoppers
+RHSChoppers
+A3unarmedChoppers
+A3armedChoppers
+
+----------- boats ----------
+Boats
+A3Boats
+
+----------- planes ----------
+Planes
+CPlanes
+HVPPlanes
+RHSPlanes
+MASPlanes
+MASPlanes
+A3Planes
+
+----------- taru pods ----------
+PODS
