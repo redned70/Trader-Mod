@@ -16,9 +16,6 @@ CfgTraders also now in separate file
 >> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese 
 >> comented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
 
-***0.9.4 Update***
-Since update i have tried to match prices for active items (not CUPV or CUPW or TRYK as i dont use them). 
-******************
 NOTE RHS IS BOTH RUS AND USA.
 
 ****** Added Jonzie thanks to XxFri3ndlyxX ******
@@ -26,9 +23,3 @@ NOTE RHS IS BOTH RUS AND USA.
 ****** Thanks to XxFri3ndlyxX for fix to RHSW ******
 ****** Fixed duplicate B_OutdoorPack_Base listing ******
 ****** Fixed duplicate B_Kitbag_rgr listing ******
-
-***0.9.8 Update***
-****** Adjusted Exile items to match new item list ******
-****** Adjusted every "quality =" for a basic balance of purchasing (see mission config for "class requiredRespect") ******
-****** Added external load for "CfgTraders" to complete fully external loading of trader ******
-****** Exile now has new class "Shotguns" so be aware! ****** 
