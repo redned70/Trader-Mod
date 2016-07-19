@@ -6,8 +6,9 @@ It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources
 I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).
 This file does not include how to install mods or add to loot tables as that is already well documented.
-ned
-*** 1.0.0 Update***
+
+
+ 1.0.0 Update
 New Exile trader: Diving 
 A3 Headgear is no longer required as it has now been put into the Exile default trader
 Apex addons done as separate file and load
