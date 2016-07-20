@@ -4,6 +4,10 @@ I have only compiled what i found, attempted to simplify class names and created
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
+
+*** Update v5.2 ***
+****** Added RHS GREF thanks to pomp4h ******
+
 *** 1.0.0 Update***
 New Exile trader: Diving 
 A3 Headgear is no longer required as it has now been put into the Exile default trader
@@ -11,7 +15,7 @@ Apex addons done as separate file and load
 CfgTraders also now in separate file
 
 >> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese 
->> comented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
+>> commented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
 
 ***0.9.4 Update***
 Since update i have tried to match prices for active items (not CUPV or CUPW or TRYK as i dont use them). 
@@ -53,6 +57,7 @@ class CfgExileArsenal
 	#include "TRADERS\MASV\ItemListMASV.hpp"
 	#include "TRADERS\MASW\ItemListMASW.hpp"
 	#include "TRADERS\R3FW\ItemListR3FW.hpp"
+	#include "TRADERS\RHSGREF\ItemListGREF.hpp"
 	#include "TRADERS\RHSV\ItemListRHSV.hpp"
 	#include "TRADERS\RHSW\ItemListRHSW.hpp"
 	#include "TRADERS\TRYK\ItemListTRYK.hpp"
@@ -80,6 +85,7 @@ class CfgTraderCategories
 	#include "TRADERS\MASV\TraderCategoriesMASV.hpp"
 	#include "TRADERS\MASW\TraderCategoriesMASW.hpp"
 	#include "TRADERS\R3FW\TraderCategoriesR3FW.hpp"
+	#include "TRADERS\RHSGREF\TraderCategoriesGREF.hpp"
 	#include "TRADERS\RHSV\TraderCategoriesRHSV.hpp"
 	#include "TRADERS\RHSW\TraderCategoriesRHSW.hpp"
 	#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
@@ -105,8 +111,6 @@ class CfgTraders
 	***YOU CAN REPLACE THE CLASS CFGTRADERS WITH THE FOLLOWING. REMEMBER TO DELETE LIES RELATING TO THE MODS YOU DONT USE OR LEAVE OUT CLASSES YOU DO NOT WISH TO USE FROM THAT MOD (LIKE LAUNCHERS)***
 	
 	
-	class CfgTraders
-{
 	/**
 	 * Weapons, scopes, silencers, ammo
 	 */
@@ -141,6 +145,7 @@ class CfgTraders
 			"RHSOpticAttachments",
 			"Ammunition",
 			"APEXAmmunition",
+			"GREFAmmunition",
 			"HLCAmmunition",
 			"CUPAmmunition",
 			"MASAmmunition",
@@ -173,6 +178,7 @@ class CfgTraders
 			"MASAssaultRifles",
 			"R3FAssaultRifles",
 			"RHSAssaultRifles",
+			"GREFWeapons",
 			"SniperRifles",
 			"APEXSniperRifles",
 			"HAPSNIPERRIFLES",
@@ -231,16 +237,19 @@ class CfgTraders
 			"HAPHEADGEAR",
 			"MASHeadgear",
 			"RHSHeadgear",
+			"GREFHeadgear",
 			"TRYKHeadgear",
 			"Uniforms",
 			"APEXUniforms",
 			"HAPUNIFORMS",
 			"RHSUniforms",
+			"GREFUniforms",
 			"TRYKUniforms",
 			"Vests",
 			"APEXVests",
 			"HAPVESTS",
 			"RHSVests",
+			"GREFVests",
 			"TRYKVests",
 			"Backpacks",
 			"APEXBackpacks",
@@ -307,6 +316,8 @@ class CfgTraders
 			"MASArmed",
 			"A3Armed",
 			"RHSVehicles",
+			"GREFArmed",
+			"GREFUnarmed",
 			"CTrucks",
 			"Trucks",
 			"A3Trucks",
@@ -332,6 +343,7 @@ class CfgTraders
 			"CUPChoppers",
 			"MASChoppers",
 			"RHSChoppers",
+			"GREFChoppers",
 			"A3unarmedChoppers",
 			"A3armedChoppers",
 			"Planes",
@@ -340,6 +352,7 @@ class CfgTraders
 			"HVPPlanes",
 			"MASPlanes",
 			"RHSPlanes",
+			"GREFPlanes",
 			//"CUAVs",
 			//"A3UAVs",
 			"Pods"		
@@ -471,5 +484,3 @@ class CfgTraders
 			"Community10"
 		};
 	};
-	
-};

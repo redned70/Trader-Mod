@@ -1,0 +1,329 @@
+RHS:GREF CLASS-NAMES
+---IT SHOULD BE READY FOR QUICK ADDING TO YOUR SERVER, BUT YOU SHOULD CHECK IT IF YOU HAVE PROBLEMS---- 
+
+
+
+   RHS GREF VEST
+
+   "rhsgref_6b23",
+   "rhsgref_6b23_khaki",
+   "rhsgref_6b23_khaki_medic",
+   "rhsgref_6b23_khaki_nco",
+   "rhsgref_6b23_khaki_officer",
+   "rhsgref_6b23_khaki_rifleman",
+   "rhsgref_6b23_khaki_sniper",
+   "rhsgref_6b23_ttsko_digi",
+   "rhsgref_6b23_ttsko_digi_medic",
+   "rhsgref_6b23_ttsko_digi_nco",
+   "rhsgref_6b23_ttsko_digi_officer",
+   "rhsgref_6b23_ttsko_digi_rifleman",
+   "rhsgref_6b23_ttsko_digi_sniper",
+   "rhsgref_6b23_ttsko_forest",
+   "rhsgref_6b23_ttsko_forest_rifleman",
+   "rhsgref_6b23_ttsko_mountain",
+   "rhsgref_6b23_ttsko_mountain_medic",
+   "rhsgref_6b23_ttsko_mountain_nco",
+   "rhsgref_6b23_ttsko_mountain_officer",
+   "rhsgref_6b23_ttsko_mountain_rifleman",
+   "rhsgref_6b23_ttsko_mountain_sniper",
+   "rhsgref_otv_digi",
+   "rhsgref_otv_khaki"
+
+
+
+
+
+
+
+   RHS GREF Uniforms
+
+   "rhsgref_uniform_alpenflage",
+   "rhsgref_uniform_flecktarn",
+   "rhsgref_uniform_para_ttsko_mountain",
+   "rhsgref_uniform_para_ttsko_oxblood",
+   "rhsgref_uniform_para_ttsko_urban",
+   "rhsgref_uniform_reed",
+   "rhsgref_uniform_specter",
+   "rhsgref_uniform_tigerstripe",
+   "rhsgref_uniform_ttsko_forest",
+   "rhsgref_uniform_ttsko_mountain",
+   "rhsgref_uniform_ttsko_urban",
+   "rhsgref_uniform_vsr",
+   "rhsgref_uniform_woodland",
+   "rhsgref_uniform_woodland_olive"
+
+
+
+
+
+   RHS GREF helmets
+
+  "rhsgref_6b27m",
+  "rhsgref_6b27m_ttsko_digi",
+  "rhsgref_6b27m_ttsko_forest",
+  "rhsgref_6b27m_ttsko_mountain",
+  "rhsgref_6b27m_ttsko_urban",
+  "rhsgref_Booniehat_alpen",
+  "rhsgref_fieldcap",
+  "rhsgref_fieldcap_ttsko_digi",
+  "rhsgref_fieldcap_ttsko_forest",
+  "rhsgref_fieldcap_ttsko_mountain",
+  "rhsgref_fieldcap_ttsko_urban",
+  "rhsgref_patrolcap_specter",
+  "rhsgref_ssh68",
+  "rhsgref_ssh68_emr",
+  "rhsgref_ssh68_ttsko_digi",
+  "rhsgref_ssh68_ttsko_forest",
+  "rhsgref_ssh68_ttsko_mountain",
+  "rhsgref_ssh68_un"
+
+    RHS GREF WEAPONS
+
+    "rhs_weap_kar98k",
+    "rhs_weap_m21a",
+    "rhs_weap_m21a_fold",
+    "rhs_weap_m21a_pr",
+    "rhs_weap_m21s",
+    "rhs_weap_m21s_fold",
+    "rhs_weap_m21s_pr",
+    "rhs_weap_m70ab2",
+    "rhs_weap_m70ab2_fold",
+    "rhs_weap_m70b1",
+    "rhs_weap_m76",
+    "rhs_weap_m92",
+    "rhs_weap_m92_fold",
+    "rhs_weap_m38"
+	
+	RHS GREF Ammunition
+	
+	"rhsgref_5Rnd_792x57_kar98k",
+    "rhsgref_30rnd_556x45_m21",
+    "rhsgref_5Rnd_762x54_m38",
+    "rhsgref_10Rnd_792x57_m76"
+    
+	"rhs_30Rnd_762x39mm"  ---->!!!!this one is from old RHS AFRF+USAF, careful for duplicate if you already had these addons before!!! 
+	
+	
+	RHS GREF vehicle armored
+
+    "rhsgref_BRDM2",
+    "rhsgref_BRDM2_ATGM",
+    "rhsgref_BRDM2UM",
+    "rhsgref_un_m1117"
+
+    RHS GREF vehicle wheel
+
+    "rhsgref_cdf_reg_uaz_ags",
+    "rhsgref_cdf_reg_uaz_dshkm",
+    "rhsgref_cdf_reg_uaz_spg9"
+
+    RHS GREF helicopters
+
+    "rhsgref_mi24g_CAS"
+
+    RHS GREF planes
+
+    "RHS_AN2",
+    "rhs_l159_CDF_CAP",
+    "rhs_l159_CDF_CAS",
+    "rhs_l159_CDF_plamen",
+    "rhs_l159_CDF",
+    "rhs_l39_cdf"
+
+
+
+RHS GREF WEAPONS and ammunition list
+
+"rhs_weap_kar98k";
+/Ammunition 
+"rhsgref_5Rnd_792x57_kar98k";
+
+"rhs_weap_m21a";
+/Ammunition 
+"rhsgref_30rnd_556x45_m21"
+
+"rhs_weap_m21a_fold";
+/Ammunition
+"rhsgref_30rnd_556x45_m21";
+
+"rhs_weap_m21a_pr";
+/Ammunition
+"rhsgref_30rnd_556x45_m21";
+
+"rhs_weap_m21s";
+/Ammunition
+"rhsgref_30rnd_556x45_m21";
+
+"rhs_weap_m21s_fold";
+/Ammunition
+"rhsgref_30rnd_556x45_m21"
+
+"rhs_weap_m21s_pr";
+/Ammunition
+"rhsgref_30rnd_556x45_m21";
+
+"rhs_weap_m70ab2";
+/Ammunition
+"rhs_30Rnd_762x39mm";
+
+"rhs_weap_m70ab2_fold";
+/Ammunition
+"rhs_30Rnd_762x39mm";
+
+"rhs_weap_m70b1";
+/Ammunition
+"rhs_30Rnd_762x39mm";
+
+"rhs_weap_m76";
+/Ammunition
+"rhsgref_10Rnd_792x57_m76";
+
+"rhs_weap_m92";
+/Ammunition
+"rhs_30Rnd_762x39mm";
+
+"rhs_weap_m92_fold";
+/Ammunition
+"rhs_30Rnd_762x39mm";
+
+"rhs_weap_m38";
+/Ammunition
+"rhsgref_5Rnd_762x54_m38";
+
+
+
+
+    Price and Quality
+
+    ///////////////////////////////////////////////////////////////////////////////
+	// RHS GREF Uniforms
+	///////////////////////////////////////////////////////////////////////////////
+    class rhsgref_uniform_alpenflage                { quality = 3; price = 150; };
+    class rhsgref_uniform_flecktarn                 { quality = 3; price = 150; };
+    class rhsgref_uniform_para_ttsko_mountain       { quality = 3; price = 150; };
+    class rhsgref_uniform_para_ttsko_oxblood        { quality = 3; price = 150; };
+    class rhsgref_uniform_para_ttsko_urban           { quality = 3; price = 150; };
+    class rhsgref_uniform_reed                        { quality = 3; price = 150; };
+    class rhsgref_uniform_specter                     { quality = 3; price = 150; };
+    class rhsgref_uniform_tigerstripe                 { quality = 3; price = 150; };
+    class rhsgref_uniform_ttsko_forest                 { quality = 3; price = 150; };
+    class rhsgref_uniform_ttsko_mountain              { quality = 3; price = 150; };
+    class rhsgref_uniform_ttsko_urban                  { quality = 3; price = 150; };
+    class rhsgref_uniform_vsr                          { quality = 3; price = 150; };
+    class rhsgref_uniform_woodland                      { quality = 3; price = 150; };
+    class rhsgref_uniform_woodland_olive                 { quality = 3; price = 150; };
+	
+	
+	///////////////////////////////////////////////////////////////////////////////
+	//RHS GREF Vests
+	///////////////////////////////////////////////////////////////////////////////
+   class rhsgref_6b23                               { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki                         { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki_medic                   { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki_nco                     { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki_officer                 { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki_rifleman                { quality = 3; price = 150; };
+   class rhsgref_6b23_khaki_sniper                  { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi                    { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi_medic              { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi_nco                { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi_officer            { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi_rifleman           { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_digi_sniper             { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_forest                  { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_forest_rifleman         { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain                { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain_medic          { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain_nco            { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain_officer        { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain_rifleman       { quality = 3; price = 150; };
+   class rhsgref_6b23_ttsko_mountain_sniper         { quality = 3; price = 150; };
+   class rhsgref_otv_digi                           { quality = 3; price = 150; };
+   class rhsgref_otv_khaki                          { quality = 3; price = 150; };
+
+    ///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF Helmets 
+	///////////////////////////////////////////////////////////////////////////////
+        class rhsgref_6b27m                                         { quality = 2; price = 60; };
+        class rhsgref_6b27m_ttsko_digi                             { quality = 2; price = 60; };
+        class rhsgref_6b27m_ttsko_forest                           { quality = 2; price = 60; }; 
+        class rhsgref_6b27m_ttsko_mountain                         { quality = 2; price = 60; };
+        class rhsgref_6b27m_ttsko_urban                            { quality = 2; price = 60; };
+        class rhsgref_Booniehat_alpen                              { quality = 2; price = 60; };
+        class rhsgref_fieldcap                                     { quality = 2; price = 60; };
+        class rhsgref_fieldcap_ttsko_digi                          { quality = 2; price = 60; }; 
+        class rhsgref_fieldcap_ttsko_forest                        { quality = 2; price = 60; };
+        class rhsgref_fieldcap_ttsko_mountain                      { quality = 2; price = 60; };
+        class rhsgref_fieldcap_ttsko_urban                         { quality = 2; price = 60; };
+        class rhsgref_patrolcap_specter                            { quality = 2; price = 60; };
+        class rhsgref_ssh68                                        { quality = 2; price = 60; };
+        class rhsgref_ssh68_emr                                    { quality = 2; price = 60; };
+        class rhsgref_ssh68_ttsko_digi                             { quality = 2; price = 60; };
+        class rhsgref_ssh68_ttsko_forest                           { quality = 2; price = 60; };   
+        class rhsgref_ssh68_ttsko_mountain                         { quality = 2; price = 60; }; 
+        class rhsgref_ssh68_un                                     { quality = 2; price = 60; };
+		
+	///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF Weapons
+	///////////////////////////////////////////////////////////////////////////////	
+       class rhs_weap_kar98k                                      { quality = 2; price = 1500; };   
+       class rhs_weap_m21a                                        { quality = 2; price = 1500; };  
+       class rhs_weap_m21a_fold                                   { quality = 2; price = 1500; };
+       class rhs_weap_m21a_pr                                     { quality = 2; price = 1500; };
+       class rhs_weap_m21s                                        { quality = 2; price = 1500; };
+       class rhs_weap_m21s_fold                                   { quality = 2; price = 1500; }; 
+       class rhs_weap_m21s_pr                                     { quality = 2; price = 1500; };
+       class rhs_weap_m70ab2                                      { quality = 2; price = 1500; }; 
+       class rhs_weap_m70ab2_fold                                 { quality = 2; price = 1500; }; 
+       class rhs_weap_m70b1                                       { quality = 2; price = 1500; };
+       class rhs_weap_m76                                         { quality = 2; price = 1500; };
+       class rhs_weap_m92                                         { quality = 2; price = 1500; };
+       class rhs_weap_m92_fold                                    { quality = 2; price = 1500; };   
+       class rhs_weap_m38                                         { quality = 2; price = 1500; };
+	   
+	 ///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF Ammunition
+	///////////////////////////////////////////////////////////////////////////////
+    
+
+      class rhsgref_5Rnd_792x57_kar98k                                    { quality = 1; price = 75; };    
+      class rhsgref_30rnd_556x45_m21                                      { quality = 1; price = 75; };   
+      class rhsgref_10Rnd_792x57_m76                                      { quality = 1; price = 75; };
+      class rhsgref_5Rnd_762x54_m38                                       { quality = 1; price = 75; };
+	  
+	  class rhs_30Rnd_762x39mm                                            { quality = 1; price = 75; };  ------> OLD AMMUNITION FROM     RHS--->CAREFUL FOR DUPLICATES IF YOU HAD THESE ADDONS BEFORE
+    
+	
+	///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF vehicle Armored
+	///////////////////////////////////////////////////////////////////////////////
+	
+	class rhsgref_BRDM2                                                   { quality = 1; price = 99000; };
+    class rhsgref_BRDM2_ATGM                                              { quality = 1; price = 99000; }; 
+    class rhsgref_BRDM2UM                                                 { quality = 1; price = 99000; }; 
+    class rhsgref_un_m1117                                                { quality = 1; price = 99000; }; 
+	
+	///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF vehicle wheel
+	///////////////////////////////////////////////////////////////////////////////
+	
+	class rhsgref_cdf_reg_uaz_ags                                         { quality = 1; price = 25000; }; 
+    class rhsgref_cdf_reg_uaz_dshkm                                       { quality = 1; price = 25000; }; 
+    class rhsgref_cdf_reg_uaz_spg9                                        { quality = 1; price = 25000; };  
+
+    ///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF helicopters
+	/////////////////////////////////////////////////////////////////////////////// 
+    
+	class rhsgref_mi24g_CAS	                                              { quality = 1; price = 99000; };
+	
+	///////////////////////////////////////////////////////////////////////////////
+	//  RHS GREF planes
+	/////////////////////////////////////////////////////////////////////////////// 
+	
+	class RHS_AN2                                                         { quality = 1; price = 15000; };
+    class rhs_l159_CDF_CAP                                                { quality = 1; price = 299999; };  
+    class rhs_l159_CDF_CAS                                                { quality = 1; price = 299999; }; 
+    class rhs_l159_CDF_plamen                                             { quality = 1; price = 299999; };
+    class rhs_l159_CDF                                                    { quality = 1; price = 299999; };
+    class rhs_l39_cdf                                                     { quality = 1; price = 299999; };

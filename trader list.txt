@@ -4,8 +4,6 @@
 	// Leaving out classes from these traders allows things to be sold to trader but not bought.
 	///////////////////////////////////////////////////////////////////////////////
 
-	class CfgTraders
-{
 	/**
 	 * Weapons, scopes, silencers, ammo
 	 */
@@ -40,6 +38,7 @@
 			"RHSOpticAttachments",
 			"Ammunition",
 			"APEXAmmunition",
+			"GREFAmmunition",
 			"HLCAmmunition",
 			"CUPAmmunition",
 			"MASAmmunition",
@@ -72,6 +71,7 @@
 			"MASAssaultRifles",
 			"R3FAssaultRifles",
 			"RHSAssaultRifles",
+			"GREFWeapons",
 			"SniperRifles",
 			"APEXSniperRifles",
 			"HAPSNIPERRIFLES",
@@ -130,16 +130,19 @@
 			"HAPHEADGEAR",
 			"MASHeadgear",
 			"RHSHeadgear",
+			"GREFHeadgear",
 			"TRYKHeadgear",
 			"Uniforms",
 			"APEXUniforms",
 			"HAPUNIFORMS",
 			"RHSUniforms",
+			"GREFUniforms",
 			"TRYKUniforms",
 			"Vests",
 			"APEXVests",
 			"HAPVESTS",
 			"RHSVests",
+			"GREFVests",
 			"TRYKVests",
 			"Backpacks",
 			"APEXBackpacks",
@@ -206,6 +209,8 @@
 			"MASArmed",
 			"A3Armed",
 			"RHSVehicles",
+			"GREFArmed",
+			"GREFUnarmed",
 			"CTrucks",
 			"Trucks",
 			"A3Trucks",
@@ -231,6 +236,7 @@
 			"CUPChoppers",
 			"MASChoppers",
 			"RHSChoppers",
+			"GREFChoppers",
 			"A3unarmedChoppers",
 			"A3armedChoppers",
 			"Planes",
@@ -239,6 +245,7 @@
 			"HVPPlanes",
 			"MASPlanes",
 			"RHSPlanes",
+			"GREFPlanes",
 			//"CUAVs",
 			//"A3UAVs",
 			"Pods"		
@@ -370,5 +377,3 @@
 			"Community10"
 		};
 	};
-	
-};
