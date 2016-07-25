@@ -5,6 +5,9 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v5.3 ***
+Updated missing APEX vehicles - thanks to [RG] Salutesh 
+
 *** Update v5.2 ***
 ****** Added RHS GREF thanks to pomp4h ******
 
@@ -208,6 +211,7 @@ class CfgTraders
 			"ExplosiveWeapons",
 			"Explosives",
 			"A3Launchers",
+			"ApexLaunchers",
 			"CUPLaunchers",
 			"MASLaunchers",
 			"R3FLaunchers",
@@ -217,6 +221,7 @@ class CfgTraders
 			"R3FLauncherAmmo",
 			"RHSLauncherAmmo",
 			"A3LauncherAmmo",	
+			"APEXLauncherAmmo",
 			"CUPExplosive",
 			"MASExplosive",
 			"RHSMines"
@@ -305,11 +310,13 @@ class CfgTraders
 			"Bikes",
 			"Cars",
 			"A3Cars",
+			"ApexCars",
 			"HAPCARS",
 			"HVPCars",
 			"JonzieCars",
 			"MASCars",
 			"CUPUnarmed",
+			"ApexTrucks",
 			"HAPTRUCKS",
 			"MASTrucks",
 			"CUPArmed",
@@ -325,7 +332,8 @@ class CfgTraders
 			//"MASTanks"
 			//"A3Tanks"	
 			//"UGV"	
-			//"A3UGVs"				
+			//"A3UGVs"	
+			//"ApexUAVs"
 		};
 	};
 
@@ -338,7 +346,8 @@ class CfgTraders
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-			"Choppers", 
+			"Choppers",
+			"ApexChoppers",
 			"CChoppers",			
 			"CUPChoppers",
 			"MASChoppers",
@@ -348,6 +357,7 @@ class CfgTraders
 			"A3armedChoppers",
 			"Planes",
 			"A3Planes",
+			"ApexPlanes",
 			"CPlanes",
 			"HVPPlanes",
 			"MASPlanes",
@@ -370,6 +380,7 @@ class CfgTraders
 		{
 			"Boats",
 			"A3Boats",
+			"ApexBoats"
 		};
 	};
 

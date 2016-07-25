@@ -95,6 +95,7 @@
 			"ExplosiveWeapons",
 			"Explosives",
 			"A3Launchers",
+			"ApexLaunchers",
 			"CUPLaunchers",
 			"MASLaunchers",
 			"R3FLaunchers",
@@ -103,7 +104,8 @@
 			"MASLauncherAmmo",
 			"R3FLauncherAmmo",
 			"RHSLauncherAmmo",
-			"A3LauncherAmmo",	
+			"A3LauncherAmmo",
+			"APEXLauncherAmmo",
 			"CUPExplosive",
 			"MASExplosive",
 			"RHSMines"
@@ -192,11 +194,13 @@
 			"Bikes",
 			"Cars",
 			"A3Cars",
+			"ApexCars",
 			"HAPCARS",
 			"HVPCars",
 			"JonzieCars",
 			"MASCars",
 			"CUPUnarmed",
+			"ApexTrucks",
 			"HAPTRUCKS",
 			"MASTrucks",
 			"CUPArmed",
@@ -212,7 +216,8 @@
 			//"MASTanks"
 			//"A3Tanks"	
 			//"UGV"	
-			//"A3UGVs"				
+			//"A3UGVs"	
+			//"ApexUAVs"
 		};
 	};
 
@@ -225,7 +230,8 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-			"Choppers", 
+			"Choppers",
+			"ApexChoppers",
 			"CChoppers",			
 			"CUPChoppers",
 			"MASChoppers",
@@ -235,6 +241,7 @@
 			"A3armedChoppers",
 			"Planes",
 			"A3Planes",
+			"ApexPlanes",
 			"CPlanes",
 			"HVPPlanes",
 			"MASPlanes",
@@ -257,6 +264,7 @@
 		{
 			"Boats",
 			"A3Boats",
+			"ApexBoats"
 		};
 	};
 

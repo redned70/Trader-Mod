@@ -31,6 +31,7 @@ APEXMuzzleAttachments
 UAVs
 CUAVs
 A3UAVs
+APEXUAVs
 
 ----------- ugvs ----------
 CUGVs
@@ -75,7 +76,8 @@ A3Launchers
 CUPLaunchers
 MASLaunchers
 R3FLaunchers
-RHSLaunchers		
+RHSLaunchers
+APEXLaunchers		
 
 ----------- launcher ammo ----------			
 A3LauncherAmmo
@@ -83,6 +85,7 @@ CUPLauncherAmmo
 MASLauncherAmmo	
 R3FLauncherAmmo		
 RHSLauncherAmmo
+APEXLauncherAmmo
 			
 ----------- pistols ----------
 Pistols
@@ -200,6 +203,7 @@ HVPCars
 MASCars
 A3Cars
 JonzieCars
+APEXCars
 
 ----------- trucks ----------
 Trucks
@@ -213,6 +217,7 @@ RHSVehicles
 GREFArmed
 GREFUnarmed
 A3Trucks
+APEXTrucks
 
 ----------- tanks ----------
 MASTanks
@@ -227,10 +232,12 @@ RHSChoppers
 GREFChoppers
 A3unarmedChoppers
 A3armedChoppers
+APEXChoppers
 
 ----------- boats ----------
 Boats
 A3Boats
+APEXBoats
 
 ----------- planes ----------
 Planes
@@ -241,6 +248,7 @@ GREFPlanes
 MASPlanes
 MASPlanes
 A3Planes
+APEXPlanes
 
 ----------- taru pods ----------
 PODS

@@ -1,4 +1,4 @@
-# Trader-Mod v5.2
+# Trader-Mod v5.3
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -7,6 +7,8 @@ I have only compiled what i found, attempted to simplify class names and created
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
 This file does not include how to install mods or add to loot tables as that is already well documented.<br>
 
+<b>v5.3 Update</b><br>
+Added missing APEX vehicles<br>
 
 <b>v5.2 Update</b><br>
 Added RHS GREF mod<br>
