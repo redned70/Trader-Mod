@@ -11,6 +11,7 @@ CUPPointerAttachments
 R3FPointerAttachments
 MASPointerAttachments
 RHSPointerAttachments
+NIAAttachments
 
 ----------- bipods ----------
 BipodAttachments
@@ -23,6 +24,7 @@ MuzzleAttachments
 HLCMuzzleAttachments
 CUPMuzzleAttachments
 MASMuzzleAttachments
+NIAMuzzleAttachments
 R3FMuzzleAttachments
 RHSMuzzleAttachments
 APEXMuzzleAttachments
@@ -48,6 +50,7 @@ MASOpticAttachments
 R3FOpticAttachments
 RHSOpticAttachments
 APEXOpticAttachments
+NIAOpticAttachments
 
 ----------- ammo ----------
 Ammunition
@@ -58,6 +61,7 @@ R3FAmmunition
 RHSAmmunition
 GREFAmmunition
 APEXAmmunition
+NIAAmmunition
 
 ----------- flares ----------
 Flares
@@ -114,6 +118,7 @@ MASLightMachineGuns
 R3FLightMachineGuns
 RHSLightMachineGuns
 APEXLightMachineGuns
+NIALightMachineGuns
 
 ----------- assault rifles ----------
 AssaultRifles
@@ -124,6 +129,7 @@ R3FAssaultRifles
 RHSAssaultRifles
 APEXAssaultRifles
 GREFWeapons
+NIAAssaultRifles
 
 ----------- sniper rifles ----------
 SniperRifles
@@ -134,6 +140,7 @@ CUPSniperRifles
 MASSniperRifles
 RHSSniperRifles
 APEXSniperRifles
+NIASniperRifles
 
 ----------- uniforms ----------
 Uniforms

@@ -1,4 +1,4 @@
-# Trader-Mod v5.3
+# Trader-Mod v5.4
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -6,6 +6,9 @@ It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources
 I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.<br>
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
 This file does not include how to install mods or add to loot tables as that is already well documented.<br>
+
+<b>v5.4 Update</b><br>
+Added NIArms mod - Thanks to Tobias Solem for the help<br>
 
 <b>v5.3 Update</b><br>
 Added missing APEX vehicles<br>
