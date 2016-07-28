@@ -173,6 +173,7 @@ APEXHeadgear
 Hardware
 ----------- building supplies ----------
 CBuilding
+ExtendedBaseMod
 
 ----------- food ----------
 Food

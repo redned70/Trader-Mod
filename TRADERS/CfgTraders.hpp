@@ -21,6 +21,7 @@
 			"HLCMuzzleAttachments",
 			"CUPMuzzleAttachments",
 			"MASMuzzleAttachments",
+			"NIAMuzzleAttachments",
 			"R3FMuzzleAttachments",
 			"RHSMuzzleAttachments",
 			"OpticAttachments",
@@ -28,14 +29,17 @@
 			"HLCOpticAttachments",
 			"CUPOpticAttachments",
 			"MASOpticAttachments",
+			"NIAOpticAttachments",
 			"R3FOpticAttachments",
 			"RHSOpticAttachments",
+			"NIAAttachments",
 			"Ammunition",
 			"APEXAmmunition",
 			"GREFAmmunition",
 			"HLCAmmunition",
 			"CUPAmmunition",
 			"MASAmmunition",
+			"NIAAmmunition",
 			"R3FAmmunition",
 			"RHSAmmunition",
 			"Pistols",
@@ -55,6 +59,7 @@
 			"HLCLightMachineGuns",
 			"CUPLightMachineGuns",
 			"MASLightMachineGuns",
+			"NIALightMachineGuns",
 			"R3FLightMachineGuns",
 			"RHSLightMachineGuns",
 			"AssaultRifles",
@@ -63,6 +68,7 @@
 			"HLCAssaultRifles",
 			"CUPAssaultRifles",
 			"MASAssaultRifles",
+			"NIAAssaultRifles",
 			"R3FAssaultRifles",
 			"RHSAssaultRifles",
 			"GREFWeapons",
@@ -73,6 +79,7 @@
 			"HWPweapons",
 			"CUPSniperRifles",
 			"MASSniperRifles",
+			"NIASniperRifles",
 			"R3FSniperRifles",
 			"RHSSniperRifles"
 		};
@@ -178,6 +185,7 @@
 		{
 			"Hardware",
 			//"R3FTools",
+			"ExtendedBaseMod",
 			"CBuilding"
 		};
 	};

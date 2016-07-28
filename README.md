@@ -7,6 +7,9 @@ I have only compiled what i found, attempted to simplify class names and created
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
 This file does not include how to install mods or add to loot tables as that is already well documented.<br>
 
+<b>v5.5 Update</b><br>
+Removed ExtendedBaseMod from custom to its own mod folder for ease of update (used default files inside mod including names).<br>
+
 <b>v5.4 Update</b><br>
 Added NIArms mod - Thanks to Tobias Solem for the help<br>
 

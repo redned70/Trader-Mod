@@ -1,6 +1,0 @@
-	///////////////////////////////////////////////////////////////////////////////
-	// cfgTraders [CiC]red_ned http://cic-gaming.co.uk
-	// Comment out or delete what you dont have installed and replace in config and repack mission pbo
-	// Leaving out classes from these traders allows things to be sold to trader but not bought.
-	///////////////////////////////////////////////////////////////////////////////
-
