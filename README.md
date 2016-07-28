@@ -1,4 +1,4 @@
-# Trader-Mod v5.4
+# Trader-Mod v5.5
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
