@@ -1,4 +1,4 @@
-# Trader-Mod v5.5
+# Trader-Mod v5.5b
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -6,6 +6,9 @@ It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources
 I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.<br>
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
 This file does not include how to install mods or add to loot tables as that is already well documented.<br>
+
+<b>v5.5b Update</b><br>
+Fixed duplicated optics and missing rifle in NIA mod plus typo in install instructions - thanks C][G GhostTown™.<br>
 
 <b>v5.5 Update</b><br>
 Removed ExtendedBaseMod from custom to its own mod folder for ease of update (used default files inside mod including names).<br>
