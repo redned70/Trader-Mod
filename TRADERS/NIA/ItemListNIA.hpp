@@ -11,10 +11,6 @@
 	class hlc_muzzle_300blk_KAC						{ quality = 2; price = 70; };
 	class hlc_muzzle_snds_AUG						{ quality = 2; price = 70; };
 	class hlc_muzzle_snds_a6AUG						{ quality = 2; price = 70; };
-	class hlc_optic_PVS4FAL							{ quality = 2; price = 70; };
-	class hlc_optic_suit							{ quality = 2; price = 70; };
-	class HLC_Optic_ZFSG1							{ quality = 2; price = 70; };
-	class hlc_optic_accupoint_g3					{ quality = 2; price = 70; };
 	class hlc_muzzle_snds_M14						{ quality = 2; price = 70; };
 	class hlc_muzzle_Agendasix						{ quality = 2; price = 70; };
 	class hlc_muzzle_Tundra							{ quality = 2; price = 70; };
@@ -351,3 +347,4 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_rifle_M1903A1_unertl            { quality = 2; price = 1000; };
 	class hlc_rifle_M1903A1                   { quality = 2; price = 1000; };
+	class hlc_rifle_M1903A1OMR				  { quality = 2; price = 1000; }; 
