@@ -139,7 +139,7 @@ class CfgTraders
 			"R3FPointerAttachments",
 			"RHSPointerAttachments",
 			"BipodAttachments",
-			"APEXBipodAttachments",
+			//"APEXBipodAttachments",		//not used
 			"R3FBipodAttachments",
 			"RHSBipodAttachments",
 			"MuzzleAttachments",
@@ -280,7 +280,7 @@ class CfgTraders
 			"MASBackpacks",
 			"TRYKBackpacks",
 			"Tools",
-			"APEXTools",
+			//"APEXTools",		//not used
 			"MASTools",
 			"FirstAid"
 		};

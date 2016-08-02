@@ -17,7 +17,7 @@ NIAAttachments
 BipodAttachments
 R3FBipodAttachments
 RHSBipodAttachments
-APEXBipodAttachments
+// APEXBipodAttachments		//not used
 
 ----------- silencers ----------
 MuzzleAttachments
@@ -185,7 +185,7 @@ Drinks
 Tools
 MASTools
 R3FTools	<<probably best not use.
-APEXTools
+//APEXTools		//not used
 
 ----------- first aid ----------
 FirstAid

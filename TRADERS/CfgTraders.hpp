@@ -13,7 +13,7 @@
 			"R3FPointerAttachments",
 			"RHSPointerAttachments",
 			"BipodAttachments",
-			"APEXBipodAttachments",
+			//"APEXBipodAttachments",		//not used
 			"R3FBipodAttachments",
 			"RHSBipodAttachments",
 			"MuzzleAttachments",
@@ -154,7 +154,7 @@
 			"MASBackpacks",
 			"TRYKBackpacks",
 			"Tools",
-			"APEXTools",
+			//"APEXTools",		//not used
 			"MASTools",
 			"FirstAid"
 		};
