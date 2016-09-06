@@ -127,7 +127,7 @@
 	class CUP_arifle_Sa58RIS1_Aco_Laser						{ quality = 1; price = 200; };
 	class CUP_arifle_Sa58RIS2_Arco_Laser					{ quality = 1; price = 200; };
 	class CUP_arifle_Sa58RIS1_camo_Aco_Laser				{ quality = 1; price = 200; };
-	class CUP_arifle_Sa58RIS2_camo_Arco_Lase				{ quality = 1; price = 200; };
+	class CUP_arifle_Sa58RIS2_camo_Arco_Laser				{ quality = 1; price = 200; };
 	class CUP_arifle_Mk16_CQC_FG							{ quality = 1; price = 200; };
 	class CUP_arifle_Mk16_CQC_SFG							{ quality = 1; price = 200; };
 	class CUP_arifle_Mk16_CQC_EGLM							{ quality = 1; price = 200; };
