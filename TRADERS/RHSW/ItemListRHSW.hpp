@@ -1,99 +1,98 @@
 	///////////////////////////////////////////////////////////////////////////////
-	// RHS Weapons [CiC]red_ned http://cic-gaming.co.uk
-	// Thanks to XxFri3ndlyxX for update of items
+	// RHS Weapons
 	///////////////////////////////////////////////////////////////////////////////
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Uniforms
-	///////////////////////////////////////////////////////////////////////////////	
-	class rhs_uniform_cu_ocp						{ quality = 3; price = 50; };
-	class rhs_uniform_cu_ucp						{ quality = 3; price = 50; };
-	class rhs_uniform_cu_ocp_101st                  { quality = 3; price = 50; };
-	class rhs_uniform_df15                          { quality = 3; price = 50; };
-	class rhs_uniform_emr_patchless					{ quality = 2; price = 50; };
-	class rhs_uniform_flora_patchless				{ quality = 2; price = 50; };
-	class rhs_uniform_flora_patchless_alt			{ quality = 2; price = 50; };
-	class rhs_uniform_m88_patchless					{ quality = 2; price = 50; };
-	class rhs_uniform_mflora_patchless				{ quality = 2; price = 50; };
-	class rhs_uniform_vdv_mflora                    { quality = 2; price = 55; };
-	class rhs_uniform_FROG01_m81					{ quality = 3; price = 65; };
-	class rhs_uniform_FROG01_d						{ quality = 3; price = 65; };
-	class rhs_uniform_FROG01_wd						{ quality = 3; price = 65; };
-	class rhs_uniform_vdv_emr_des					{ quality = 3; price = 65; };
-	class rhs_uniform_msv_emr						{ quality = 3; price = 65; };
-	class rhs_uniform_flora							{ quality = 3; price = 65; };
-	class rhs_uniform_vdv_flora						{ quality = 3; price = 65; };
-	class rhs_uniform_gorka_r_g						{ quality = 3; price = 65; };
-	class rhs_uniform_gorka_r_y						{ quality = 3; price = 65; };
-	class rhs_chdkz_uniform_5						{ quality = 3; price = 65; };
-	class rhs_chdkz_uniform_4						{ quality = 3; price = 65; };
-	class rhs_chdkz_uniform_3						{ quality = 3; price = 65; };
-	class rhs_chdkz_uniform_2						{ quality = 3; price = 65; };
-	class rhs_chdkz_uniform_1						{ quality = 3; price = 65; };
-	class rhs_uniform_mvd_izlom						{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ocp_10th					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ocp_1stcav					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ocp_82nd					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ucp_101st					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ucp_10th					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ucp_1stcav					{ quality = 3; price = 65; };
-	class rhs_uniform_cu_ucp_82nd					{ quality = 3; price = 65; };
+	///////////////////////////////////////////////////////////////////////////////
+	class rhs_uniform_cu_ocp						{ quality = 3; price = 90; };
+	class rhs_uniform_cu_ucp						{ quality = 3; price = 90; };
+	class rhs_uniform_cu_ocp_101st                  { quality = 3; price = 90; };
+	class rhs_uniform_df15                          { quality = 3; price = 90; };
+	class rhs_uniform_emr_patchless					{ quality = 2; price = 90; };
+	class rhs_uniform_flora_patchless				{ quality = 2; price = 90; };
+	class rhs_uniform_flora_patchless_alt			{ quality = 2; price = 90; };
+	class rhs_uniform_m88_patchless					{ quality = 2; price = 90; };
+	class rhs_uniform_mflora_patchless				{ quality = 2; price = 90; };
+	class rhs_uniform_vdv_mflora                    { quality = 2; price = 95; };
+	class rhs_uniform_FROG01_m81					{ quality = 3; price = 95; };
+	class rhs_uniform_FROG01_d						{ quality = 3; price = 95; };
+	class rhs_uniform_FROG01_wd						{ quality = 3; price = 95; };
+	class rhs_uniform_vdv_emr_des					{ quality = 3; price = 95; };
+	class rhs_uniform_msv_emr						{ quality = 3; price = 95; };
+	class rhs_uniform_flora							{ quality = 3; price = 95; };
+	class rhs_uniform_vdv_flora						{ quality = 3; price = 95; };
+	class rhs_uniform_gorka_r_g						{ quality = 3; price = 95; };
+	class rhs_uniform_gorka_r_y						{ quality = 3; price = 95; };
+	class rhs_chdkz_uniform_5						{ quality = 3; price = 95; };
+	class rhs_chdkz_uniform_4						{ quality = 3; price = 95; };
+	class rhs_chdkz_uniform_3						{ quality = 3; price = 95; };
+	class rhs_chdkz_uniform_2						{ quality = 3; price = 95; };
+	class rhs_chdkz_uniform_1						{ quality = 3; price = 95; };
+	class rhs_uniform_mvd_izlom						{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ocp_10th					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ocp_1stcav					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ocp_82nd					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ucp_101st					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ucp_10th					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ucp_1stcav					{ quality = 3; price = 95; };
+	class rhs_uniform_cu_ucp_82nd					{ quality = 3; price = 95; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Vests
-	///////////////////////////////////////////////////////////////////////////////	
-	class rhs_6sh92								    { quality = 2; price = 50; };
-	class rhs_6sh92_radio							{ quality = 2; price = 50; };
-	class rhs_6sh92_vog								{ quality = 2; price = 50; };
-	class rhs_6sh92_vog_headset						{ quality = 2; price = 50; };
-	class rhs_6sh92_headset							{ quality = 2; price = 50; };
-	class rhs_6sh92_digi							{ quality = 2; price = 50; };
-	class rhs_6sh92_digi_radio					    { quality = 2; price = 50; };
-	class rhs_6sh92_digi_vog						{ quality = 2; price = 50; };
-	class rhs_6sh92_digi_vog_headset				{ quality = 2; price = 50; };
-	class rhs_6sh92_digi_headset					{ quality = 2; price = 50; };
-	class rhs_6b23								    { quality = 2; price = 50; };
-	class rhs_6b23_crew							    { quality = 2; price = 50; };
-	class rhs_6b23_crewofficer						{ quality = 2; price = 50; };
-	class rhs_6b23_engineer					        { quality = 2; price = 50; };
-	class rhs_6b23_medic							{ quality = 2; price = 50; };
-	class rhs_6b23_rifleman							{ quality = 2; price = 50; };
-	class rhs_6b23_sniper							{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92							{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92_radio						{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92_vog						{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92_vog_headset				{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92_headset					{ quality = 2; price = 50; };
-	class rhs_6b23_6sh92_headset_mapcase			{ quality = 2; price = 50; };
-	class rhs_6b23_digi								{ quality = 2; price = 50; };
-	class rhs_6b23_digi_crew						{ quality = 2; price = 50; };
-	class rhs_6b23_digi_crewofficer					{ quality = 2; price = 50; };
-	class rhs_6b23_digi_engineer					{ quality = 2; price = 50; };
-	class rhs_6b23_digi_medic					    { quality = 2; price = 50; };
-	class rhs_6b23_digi_rifleman					{ quality = 2; price = 50; };
-	class rhs_6b23_digi_sniper						{ quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92						{ quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92_radio					{ quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92_vog				    { quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92_vog_headset			{ quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92_headset				{ quality = 2; price = 50; };
-	class rhs_6b23_digi_6sh92_headset_mapcase		{ quality = 2; price = 50; };
-	class rhs_6b23_ML							    { quality = 2; price = 50; };
-	class rhs_6b23_ML_crew							{ quality = 2; price = 50; };
-	class rhs_6b23_ML_crewofficer					{ quality = 2; price = 50; };
-	class rhs_6b23_ML_engineer						{ quality = 2; price = 50; };
-	class rhs_6b23_ML_medic							{ quality = 2; price = 50; };
-	class rhs_6b23_ML_rifleman					    { quality = 2; price = 50; };
-	class rhs_6b23_ML_sniper						{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92							{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92_radio					{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92_vog						{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92_vog_headset				{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92_headset					{ quality = 2; price = 50; };
-	class rhs_6b23_ML_6sh92_headset_mapcase			{ quality = 2; price = 50; };
-	class rhs_6sh46								    { quality = 2; price = 50; };
-	class rhs_vest_commander						{ quality = 2; price = 50; };
-	class rhs_vydra_3m								{ quality = 2; price = 50; };
+	///////////////////////////////////////////////////////////////////////////////
+	class rhs_6sh92								    { quality = 2; price = 90; };
+	class rhs_6sh92_radio							{ quality = 2; price = 90; };
+	class rhs_6sh92_vog								{ quality = 2; price = 90; };
+	class rhs_6sh92_vog_headset						{ quality = 2; price = 90; };
+	class rhs_6sh92_headset							{ quality = 2; price = 90; };
+	class rhs_6sh92_digi							{ quality = 2; price = 90; };
+	class rhs_6sh92_digi_radio					    { quality = 2; price = 90; };
+	class rhs_6sh92_digi_vog						{ quality = 2; price = 90; };
+	class rhs_6sh92_digi_vog_headset				{ quality = 2; price = 90; };
+	class rhs_6sh92_digi_headset					{ quality = 2; price = 90; };
+	class rhs_6b23								    { quality = 2; price = 90; };
+	class rhs_6b23_crew							    { quality = 2; price = 90; };
+	class rhs_6b23_crewofficer						{ quality = 2; price = 90; };
+	class rhs_6b23_engineer					        { quality = 2; price = 90; };
+	class rhs_6b23_medic							{ quality = 2; price = 90; };
+	class rhs_6b23_rifleman							{ quality = 2; price = 90; };
+	class rhs_6b23_sniper							{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92							{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92_radio						{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92_vog						{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92_vog_headset				{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92_headset					{ quality = 2; price = 90; };
+	class rhs_6b23_6sh92_headset_mapcase			{ quality = 2; price = 90; };
+	class rhs_6b23_digi								{ quality = 2; price = 90; };
+	class rhs_6b23_digi_crew						{ quality = 2; price = 90; };
+	class rhs_6b23_digi_crewofficer					{ quality = 2; price = 90; };
+	class rhs_6b23_digi_engineer					{ quality = 2; price = 90; };
+	class rhs_6b23_digi_medic					    { quality = 2; price = 90; };
+	class rhs_6b23_digi_rifleman					{ quality = 2; price = 90; };
+	class rhs_6b23_digi_sniper						{ quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92						{ quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92_radio					{ quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92_vog				    { quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92_vog_headset			{ quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92_headset				{ quality = 2; price = 90; };
+	class rhs_6b23_digi_6sh92_headset_mapcase		{ quality = 2; price = 90; };
+	class rhs_6b23_ML							    { quality = 2; price = 90; };
+	class rhs_6b23_ML_crew							{ quality = 2; price = 90; };
+	class rhs_6b23_ML_crewofficer					{ quality = 2; price = 90; };
+	class rhs_6b23_ML_engineer						{ quality = 2; price = 90; };
+	class rhs_6b23_ML_medic							{ quality = 2; price = 90; };
+	class rhs_6b23_ML_rifleman					    { quality = 2; price = 90; };
+	class rhs_6b23_ML_sniper						{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92							{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92_radio					{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92_vog						{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92_vog_headset				{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92_headset					{ quality = 2; price = 90; };
+	class rhs_6b23_ML_6sh92_headset_mapcase			{ quality = 2; price = 90; };
+	class rhs_6sh46								    { quality = 2; price = 90; };
+	class rhs_vest_commander						{ quality = 2; price = 90; };
+	class rhs_vydra_3m								{ quality = 2; price = 90; };
 	class rhsusf_iotv_ucp							{ quality = 2; price = 450; };
 	class rhsusf_iotv_ucp_grenadier					{ quality = 2; price = 450; };
 	class rhsusf_iotv_ucp_medic						{ quality = 2; price = 450; };
@@ -110,22 +109,30 @@
 	class rhsusf_iotv_ocp_SAW						{ quality = 2; price = 450; };
 	class rhsusf_iotv_ocp_squadleader				{ quality = 2; price = 450; };
 	class rhsusf_iotv_ocp_teamleader				{ quality = 2; price = 450; };
-	class rhsusf_spc					            { quality = 2; price = 450; };
+	class rhsusf_spc					            { quality = 2; price = 90; };
+	class rhsusf_spc_teamleader					    { quality = 2; price = 450; };
+	class rhsusf_spc_squadleader					{ quality = 2; price = 450; };
+	class rhsusf_spc_mg     					    { quality = 2; price = 450; };
+	class rhsusf_spc_marksman				        { quality = 2; price = 450; };
+	class rhsusf_spc_light						    { quality = 2; price = 450; };
+	class rhsusf_spc_corpsmen					    { quality = 2; price = 450; };
+	class rhsusf_spc_iar						    { quality = 2; price = 450; };
+	class rhsusf_spc_rifleman					    { quality = 2; price = 450; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Backpacks - these classes as they may not work in Exile as designed
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class B_rhsusf_B_BACKPACK						{ quality = 1; price = 50; };
 	class rhsusf_assault_eagleaiii_coy				{ quality = 1; price = 50; };
 	class rhsusf_assault_eagleaiii_ocp				{ quality = 1; price = 50; };
 	class rhsusf_assault_eagleaiii_ucp				{ quality = 1; price = 50; };
 	class rhsusf_falconii							{ quality = 1; price = 50; };
 	class rhs_assault_umbts							{ quality = 1; price = 50; };
-	class rhs_assault_umbts_engineer_empty			{ quality = 1; price = 50; };	
-	
+	class rhs_assault_umbts_engineer_empty			{ quality = 1; price = 50; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Helmets
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class rhs_6b27m_digi							{ quality = 1; price = 40; };
 	class rhs_6b27m_digi_ess						{ quality = 1; price = 40; };
 	class rhs_6b27m_digi_bala						{ quality = 1; price = 60; };
@@ -252,11 +259,21 @@
 	class rhsusf_mich_helmet_marpatwd_alt					{ quality = 1; price = 120; };
 	class rhsusf_mich_helmet_marpatwd_alt_headset			{ quality = 1; price = 120; };
 	class rhsusf_mich_helmet_marpatwd_headset				{ quality = 1; price = 120; };
-	class rhsusf_mich_helmet_marpatwd_norotos				{ quality = 1; price = 90; };
-	class rhsusf_mich_helmet_marpatwd_norotos_arc			{ quality = 1; price = 90; };
+	class rhsusf_mich_helmet_marpatwd_norotos				{ quality = 1; price = 120; };
+	class rhsusf_mich_helmet_marpatwd_norotos_arc			{ quality = 1; price = 120; };
 	class rhsusf_mich_helmet_marpatwd_norotos_arc_headset	{ quality = 1; price = 120; };
 	class rhsusf_mich_helmet_marpatwd_norotos_headset		{ quality = 1; price = 120; };
-
+	class rhsusf_opscore_fg_pelt_nsw						{ quality = 1; price = 120; };
+	class rhsusf_opscore_aor1_pelt_nsw						{ quality = 1; price = 120; };
+	class rhsusf_opscore_mc_pelt_nsw						{ quality = 1; price = 120; };
+	class rhsusf_opscore_ut_pelt_nsw						{ quality = 1; price = 120; };
+	class rhs_altyn_novisor_ess								{ quality = 1; price = 120; };
+	class rhs_altyn_visordown               				{ quality = 1; price = 120; };
+	class rhs_altyn_bala                    				{ quality = 1; price = 120; };
+	class rhs_altyn                         				{ quality = 1; price = 120; };
+	class rhs_beanie_green                  				{ quality = 1; price = 120; };
+	class rhs_fieldcap_digi                 				{ quality = 1; price = 120; };
+	class rhs_fieldcap_m	                 				{ quality = 1; price = 120; };
 	///////////////////////////////////////////////////////////////////////////////
 	// Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -267,14 +284,20 @@
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Bipod
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class rhsusf_acc_harris_bipod					{ quality = 3; price = 80; };
 	class rhs_bipod									{ quality = 3; price = 80; };
-	
+	class rhsusf_acc_grip2_tan						{ quality = 3; price = 100; };
+	class rhsusf_acc_grip2							{ quality = 3; price = 100; };
+	class rhs_acc_harris_swivel						{ quality = 3; price = 100; };		
+	class rhs_acc_grip_ffg2     					{ quality = 3; price = 100; };   			
+	class rhs_acc_grip_rk2							{ quality = 3; price = 100; };	
+	class rhs_acc_grip_rk6							{ quality = 3; price = 100; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	//US	
+	//US
 	class rhsusf_acc_SF3P556						{ quality = 2; price = 140; };
 	class rhsusf_acc_SFMB556						{ quality = 2; price = 140; };
 	class rhsusf_acc_nt4_black						{ quality = 2; price = 180; };
@@ -293,8 +316,8 @@
 	class rhs_acc_dtk4short							{ quality = 2; price = 180; };
 	class rhs_acc_tgpa								{ quality = 2; price = 180; };
 	class rhs_acc_dtk1l								{ quality = 1; price = 140; };
-	class rhs_acc_pbs1								{ quality = 2; price = 190; };	
-	
+	class rhs_acc_pbs1								{ quality = 2; price = 190; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -322,7 +345,21 @@
 	class rhs_acc_pgo7v								{ quality = 2; price = 300; };
 	class rhs_acc_pkas								{ quality = 1; price = 50; };
 	class rhs_acc_pso1m2							{ quality = 2; price = 300; };
-	
+	class rhsusf_acc_anpas13gv1      				{ quality = 2; price = 1200; };
+	class rhs_acc_dh520x56           				{ quality = 2; price = 500; };
+	class rhsusf_acc_M8541           				{ quality = 2; price = 500; };
+	class rhsusf_acc_M8541_low	        			{ quality = 2; price = 500; };
+	class rhsusf_acc_M8541_low_d	    			{ quality = 2; price = 500; };
+	class rhsusf_acc_M8541_low_wd	    			{ quality = 2; price = 500; };
+	class rhsusf_acc_premier_low     				{ quality = 2; price = 500; };
+	class rhsusf_acc_premier_anpvs27 				{ quality = 2; price = 900; };
+	class rhsusf_acc_premier						{ quality = 2; price = 500; };
+	class rhsusf_acc_ACOG_MDO        				{ quality = 2; price = 300; };
+	class rhsusf_acc_eotech_xps3     				{ quality = 2; price = 500; };
+	class rhsusf_acc_SpecterDR_A					{ quality = 1; price = 300; };
+	class rhsusf_acc_SpecterDR_D    				{ quality = 1; price = 300; };
+	class rhsusf_acc_SpecterDR_OD   				{ quality = 1; price = 300; };
+	class rhsusf_acc_SpecterDR      				{ quality = 1; price = 300; };
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -349,7 +386,7 @@
 	class rhsusf_8Rnd_00Buck						{ quality = 1; price = 40; };
 	class rhsusf_8Rnd_Slug							{ quality = 1; price = 50; };
 	class rhsusf_20Rnd_762x51_m993_Mag				{ quality = 1; price = 45; };
-	class rhsusf_5Rnd_300winmag_xm2010				{ quality = 1; price = 55; };								
+	class rhsusf_5Rnd_300winmag_xm2010				{ quality = 1; price = 55; };
 	//Russian
 	class rhs_30Rnd_762x39mm						{ quality = 1; price = 20; };
 	class rhs_30Rnd_762x39mm_tracer					{ quality = 1; price = 20; };
@@ -365,15 +402,24 @@
 	class rhs_45Rnd_545X39_AK_Green					{ quality = 1; price = 40; };
 	class rhs_100Rnd_762x54mmR						{ quality = 2; price = 95; };
 	class rhs_100Rnd_762x54mmR_green				{ quality = 2; price = 95; };
-	class rhs_10Rnd_762x54mmR_7N1					{ quality = 2; price = 50; };	
-	
+	class rhs_10Rnd_762x54mmR_7N1					{ quality = 2; price = 50; };
+	class rhs_5Rnd_338lapua_t5000					{ quality = 2; price = 50; };
+	class rhsusf_5Rnd_762x51_m118_special_Mag   	{ quality = 2; price = 40; };  
+	class rhsusf_5Rnd_762x51_m993_Mag           	{ quality = 2; price = 40; };
+	class rhsusf_5Rnd_762x51_m62_Mag            	{ quality = 2; price = 40; };
+	class rhsusf_10Rnd_762x51_m62_Mag				{ quality = 2; price = 80; };
+	class rhsusf_10Rnd_762x51_m993_Mag          	{ quality = 2; price = 80; };
+	class rhsusf_10Rnd_762x51_m118_special_Mag  	{ quality = 2; price = 80; };
+	class rhsusf_mag_10Rnd_STD_50BMG_M33			{ quality = 2; price = 80; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Pistols
 	///////////////////////////////////////////////////////////////////////////////
 	class rhs_weap_pya								{ quality = 1; price = 100; };
 	class rhs_weap_makarov_pmm						{ quality = 1; price = 100; };
 	class rhsusf_weap_m1911a1						{ quality = 1; price = 100; };
-	
+	class rhsusf_weap_glock17g4	    				{ quality = 1; price = 100; };
+	class rhsusf_weap_m9							{ quality = 1; price = 100; };
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -389,11 +435,11 @@
 	class rhs_weap_m240G							{ quality = 2; price = 1500; };
 	//Russian
 	class rhs_weap_pkm								{ quality = 2; price = 1500; };
-	class rhs_weap_pkp								{ quality = 2; price = 1500; };	
-	
+	class rhs_weap_pkp								{ quality = 2; price = 1500; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	//US
 	class rhs_weap_m16a4							{ quality = 1; price = 350; };
 	class rhs_weap_m16a4_carryhandle				{ quality = 1; price = 350; };
@@ -403,6 +449,10 @@
 	class rhs_weap_m16a4_carryhandle_pmag			{ quality = 2; price = 400; };
 	class rhs_weap_m16a4_grip						{ quality = 1; price = 350; };
 	class rhs_weap_m4								{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_d_mstock					{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_m203s_d     				{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_d           				{ quality = 1; price = 350; };
+	class rhs_weap_m4_carryhandle_mstock			{ quality = 1; price = 350; };
 	class rhs_weap_m4_grip2							{ quality = 2; price = 400; };
 	class rhs_weap_m4_carryhandle					{ quality = 1; price = 350; };
 	class rhs_weap_m4_carryhandle_pmag				{ quality = 1; price = 350; };
@@ -422,7 +472,7 @@
 	class rhs_weap_m4a1_blockII_KAC					{ quality = 3; price = 500; };
 	class rhs_weap_m4a1_blockII_grip2				{ quality = 3; price = 500; };
 	class rhs_weap_m4a1_blockII_grip2_KAC			{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_M203				{ quality = 3; price = 500; };			
+	class rhs_weap_m4a1_blockII_M203				{ quality = 3; price = 500; };
 	class rhs_weap_mk18								{ quality = 3; price = 500; };
 	class rhs_weap_mk18_KAC							{ quality = 3; price = 500; };
 	class rhs_weap_mk18_grip2						{ quality = 3; price = 500; };
@@ -451,11 +501,22 @@
 	class rhs_weap_akm								{ quality = 1; price = 250; };
 	class rhs_weap_akm_gp25							{ quality = 1; price = 250; };
 	class rhs_weap_akms								{ quality = 1; price = 250; };
-	class rhs_weap_akms_gp25						{ quality = 1; price = 200; };	
-	
+	class rhs_weap_akms_gp25						{ quality = 1; price = 200; };
+	class rhs_weap_ak104_zenitco01       			{ quality = 1; price = 250; };     
+	class rhs_weap_ak104_zenitco01_b33				{ quality = 1; price = 250; };
+	class rhs_weap_ak105_zenitco01					{ quality = 1; price = 250; };
+	class rhs_weap_ak105_zenitco01_b33				{ quality = 1; price = 250; };
+	class rhs_weap_ak74m_zenitco01					{ quality = 1; price = 250; };
+	class rhs_weap_ak74m_zenitco01_b33				{ quality = 1; price = 250; };
+	class rhs_weap_ak74mr             				{ quality = 1; price = 250; };         
+	class rhs_weap_ak74mr_gp25        				{ quality = 1; price = 250; };
+	class rhs_weap_aks74              				{ quality = 1; price = 250; };
+	class rhs_weap_aks74_gp25         				{ quality = 1; price = 250; };
+	class rhs_weap_aks74n             				{ quality = 1; price = 250; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Sniper Rifles
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	//US
 	class rhs_weap_sr25								{ quality = 1; price = 1000; };
 	class rhs_weap_sr25_ec							{ quality = 1; price = 1000; };
@@ -464,6 +525,9 @@
 	class rhs_weap_XM2010_wd						{ quality = 3; price = 1250; };
 	class rhs_weap_XM2010_d							{ quality = 3; price = 1250; };
 	class rhs_weap_XM2010_sa						{ quality = 3; price = 1250; };
+	class rhs_weap_m40a5      						{ quality = 2; price = 1000; };                 
+	class rhs_weap_m40a5_d    						{ quality = 2; price = 1000; };
+	class rhs_weap_m40a5_wd   						{ quality = 2; price = 1000; };
 	//Russian
 	class rhs_weap_svd								{ quality = 2; price = 1000; };
 	class rhs_weap_svdp_wd							{ quality = 2; price = 1000; };
@@ -471,6 +535,16 @@
 	class rhs_weap_svdp_npz							{ quality = 2; price = 1000; };
 	class rhs_weap_svds								{ quality = 2; price = 1000; };
 	class rhs_weap_svds_npz							{ quality = 2; price = 1000; };
+	class rhs_weap_t5000   							{ quality = 2; price = 1000; };
+	class rhs_weap_m24sws            				{ quality = 2; price = 1000; };            
+	class rhs_weap_m24sws_blk        				{ quality = 2; price = 1000; };
+	class rhs_weap_m24sws_ghillie    				{ quality = 2; price = 1000; };
+	class rhs_weap_M107			   		   			{ quality = 2; price = 1000; };
+	class rhs_weap_M107_d          					{ quality = 2; price = 1000; };
+	class rhs_weap_M107_w          					{ quality = 2; price = 1000; };
+	
+	
+	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher
@@ -479,8 +553,11 @@
 	class rhs_weap_rpg26  							{ quality = 3; price = 7500; };
 	class rhs_weap_rpg7  							{ quality = 3; price = 7500; };
 	class rhs_weap_rshg2  							{ quality = 3; price = 7500; };
-
-	///////////////////////////////////////////////////////////////////////////////
+	class rhs_weap_fgm148       					{ quality = 3; price = 7500; };
+	class rhs_fgm148_magazine_AT					{ quality = 3; price = 7500; };
+	class rhs_weap_fim92							{ quality = 3; price = 7500; };
+	class rhs_fim92_mag	        					{ quality = 3; price = 7500; };
+     ///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo
 	///////////////////////////////////////////////////////////////////////////////
 	class rhs_rpg26_mag								{ quality = 1; price = 3000; };
@@ -492,10 +569,10 @@
 	class rhs_rpg7_OG7V_mag							{ quality = 1; price = 3000; };
 	class rhs_mag_9k32_rocket						{ quality = 1; price = 3000; };
 	class rhs_mag_9k38_rocket						{ quality = 1; price = 3000; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Mines
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class rhs_mine_pmn2_mag 						{ quality = 4; price = 1500; };
 	class rhs_mine_tm62m_mag 						{ quality = 4; price = 1500; };
 	class rhsusf_m112_mag 							{ quality = 4; price = 2000; };

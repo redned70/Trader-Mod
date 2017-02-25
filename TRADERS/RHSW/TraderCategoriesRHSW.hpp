@@ -2,7 +2,7 @@
 	{
 		name = "RHS Uniforms";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhs_uniform_cu_ocp",
 			"rhs_uniform_cu_ucp",
@@ -44,7 +44,7 @@
 	{
 		name = "RHS Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhs_6sh92",
 	 "rhs_6sh92_radio",
@@ -113,11 +113,19 @@
 	 "rhsusf_iotv_ocp_SAW",
 	 "rhsusf_iotv_ocp_squadleader",
 	 "rhsusf_iotv_ocp_teamleader",
-	 "rhsusf_spc"
+	 "rhsusf_spc",
+	 "rhsusf_spc_teamleader",
+	 "rhsusf_spc_squadleader",
+	 "rhsusf_spc_mg",
+	 "rhsusf_spc_marksman",
+	 "rhsusf_spc_light",
+	 "rhsusf_spc_corpsmen",
+	 "rhsusf_spc_iar",
+	 "rhsusf_spc_rifleman"
 		};
 	};
 
-	class RHSHeadgear 
+	class RHSHeadgear
 	{
 		name = "RHS Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -252,15 +260,29 @@
 			"rhsusf_mich_helmet_marpatwd_norotos",
 			"rhsusf_mich_helmet_marpatwd_norotos_arc",
 			"rhsusf_mich_helmet_marpatwd_norotos_arc_headset",
-			"rhsusf_mich_helmet_marpatwd_norotos_headset"
+			"rhsusf_mich_helmet_marpatwd_norotos_headset",
+			"rhsusf_opscore_fg_pelt_nsw",
+			"rhsusf_opscore_aor1_pelt_nsw",
+			"rhsusf_opscore_mc_pelt_nsw",
+			"rhsusf_opscore_ut_pelt_nsw",
+			"rhs_altyn_novisor_ess",
+			"rhs_altyn_visordown",
+			"rhs_altyn_bala",
+			"rhs_altyn",
+			"rhs_beanie_green",
+			"rhs_fieldcap_digi",
+			"rhs_fieldcap_m"
+			
+			
+			
 		};
 	};
 
-	class RHSPointerAttachments 
+	class RHSPointerAttachments
 	{
 		name = "RHS Pointer Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsusf_acc_anpeq15side",
 			"rhsusf_acc_anpeq15",
@@ -269,22 +291,28 @@
 		};
 	};
 
-	class RHSBipodAttachments 
+	class RHSBipodAttachments
 	{
 		name = "RHS Bipod Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
-		items[] = 
+		items[] =
 		{
+			"rhsusf_acc_grip2_tan",
+			"rhsusf_acc_grip2",
 			"rhsusf_acc_harris_bipod",
-			"rhs_bipod"
+			"rhs_bipod",   			
+			"rhs_acc_harris_swivel",			
+			"rhs_acc_grip_ffg2",          			
+			"rhs_acc_grip_rk2",			
+			"rhs_acc_grip_rk6"			
 		};
 	};
 
-	class RHSMuzzleAttachments 
+	class RHSMuzzleAttachments
 	{
 		name = "RHS Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsusf_acc_rotex5_grey",
 			"rhsusf_acc_rotex5_tan",
@@ -307,11 +335,11 @@
 		};
 	};
 
-	class RHSOpticAttachments 
+	class RHSOpticAttachments
 	{
 		name = "RHS Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsusf_acc_eotech_552",
 			"rhsusf_acc_LEUPOLDMK4",
@@ -326,17 +354,34 @@
 			"rhsusf_acc_ACOG3_USMC",
 			"rhsusf_acc_LEUPOLDMK4_2",
 			"rhsusf_acc_EOTECH",
-			"rhs_acc_1p29",
-			"rhs_acc_1p78",
-			"rhs_acc_pkas",
-			"rhs_acc_1p63",
-			"rhs_acc_ekp1",
-			"rhs_acc_pso1m2",
-			"rhs_acc_pgo7v",
-			"rhs_acc_1pn93_1"
+			"rhs_acc_1pn93_2",   
+			"rhs_acc_1p29",		
+			"rhs_acc_1p63",		
+			"rhs_acc_1p78",		
+			"rhs_acc_1pn93_1",	
+			"rhs_acc_ekp1",		
+			"rhs_acc_pgo7v",		
+			"rhs_acc_pkas",		
+			"rhs_acc_pso1m2	",
+			"rhsusf_acc_anpas13gv1",      
+			"rhs_acc_dh520x56",           			
+			"rhsusf_acc_M8541",           			
+			"rhsusf_acc_M8541_low",			
+			"rhsusf_acc_M8541_low_d",			
+			"rhsusf_acc_M8541_low_wd",			
+			"rhsusf_acc_premier_low",     			
+			"rhsusf_acc_premier_anpvs27", 			
+			"rhsusf_acc_premier",			
+			"rhsusf_acc_ACOG_MDO",        			
+			"rhsusf_acc_eotech_xps3",
+			"rhsusf_acc_SpecterDR_A",
+			"rhsusf_acc_SpecterDR_D",
+			"rhsusf_acc_SpecterDR_OD",
+			"rhsusf_acc_SpecterDR"			
+			
 		};
 	};
-	
+
 	class RHSPistols
 	{
 		name = "RHS Pistols";
@@ -346,9 +391,12 @@
 			"rhs_weap_pya",
 			"rhs_weap_makarov_pmm",
 			"rhsusf_weap_m1911a1",
+			"rhsusf_weap_glock17g4",		
+			"rhsusf_weap_m9"		
+			
 		};
 	};
-	
+
 	class RHSLightMachineGuns
 	{
 		name = "RHS Light Machine Guns";
@@ -368,7 +416,7 @@
 			"rhs_weap_pkp"
 		};
 	};
-	
+
 	class RHSAssaultRifles
 	{
 		name = "RHS Assault Rifles";
@@ -389,6 +437,10 @@
 			"rhs_weap_m4_grip",
 			"rhs_weap_m4_m203",
 			"rhs_weap_m4_m320",
+			"rhs_weap_m4a1_d_mstock",
+			"rhs_weap_m4a1_m203s_d",
+			"rhs_weap_m4a1_d",
+			"rhs_weap_m4_carryhandle_mstock",
 			"rhs_weap_m4a1_carryhandle",
 			"rhs_weap_m4a1_carryhandle_grip2",
 			"rhs_weap_m4a1_carryhandle_pmag",
@@ -430,10 +482,21 @@
 			"rhs_weap_akm",
 			"rhs_weap_akm_gp25",
 			"rhs_weap_akms",
-			"rhs_weap_akms_gp25"
+			"rhs_weap_akms_gp25",
+			"rhs_weap_ak104_zenitco01",            
+			"rhs_weap_ak104_zenitco01_b33",
+			"rhs_weap_ak105_zenitco01",
+			"rhs_weap_ak105_zenitco01_b33",
+			"rhs_weap_ak74m_zenitco01",
+			"rhs_weap_ak74m_zenitco01_b33",
+			"rhs_weap_ak74mr",                     
+			"rhs_weap_ak74mr_gp25",
+			"rhs_weap_aks74",
+			"rhs_weap_aks74_gp25",
+			"rhs_weap_aks74n"			
 		};
 	};
-	
+
 	class RHSSniperRifles
 	{
 		name = "RHS Sniper Rifles";
@@ -452,10 +515,24 @@
 			"rhs_weap_svdp_wd_npz",
 			"rhs_weap_svdp_npz",
 			"rhs_weap_svds",
-			"rhs_weap_svds_npz"
+			"rhs_weap_svds_npz",
+			"rhs_weap_t5000",
+			"rhs_weap_m24sws",                   
+			"rhs_weap_m24sws_blk",
+			"rhs_weap_m24sws_ghillie",
+			"rhs_weap_m40a5",                     
+			"rhs_weap_m40a5_d",
+			"rhs_weap_m40a5_wd",
+			"rhs_weap_M107",
+			"rhs_weap_M107_d",
+			"rhs_weap_M107_w"
+	
+			
+			
+			
 		};
 	};
-	
+
 	class RHSAmmunition
 	{
 		name = "RHS Ammo";
@@ -499,7 +576,16 @@
 			"rhs_45Rnd_545X39_AK_Green",
 			"rhs_100Rnd_762x54mmR",
 			"rhs_100Rnd_762x54mmR_green",
-			"rhs_10Rnd_762x54mmR_7N1"
+			"rhs_10Rnd_762x54mmR_7N1",
+			"rhs_5Rnd_338lapua_t5000",
+			"rhsusf_5Rnd_762x51_m118_special_Mag",
+			"rhsusf_5Rnd_762x51_m993_Mag",
+			"rhsusf_5Rnd_762x51_m62_Mag",
+			"rhsusf_10Rnd_762x51_m62_Mag",
+			"rhsusf_10Rnd_762x51_m993_Mag",
+			"rhsusf_10Rnd_762x51_m118_special_Mag",			
+			"rhsusf_mag_10Rnd_STD_50BMG_M33"
+			
 		};
 	};
 
@@ -507,20 +593,24 @@
 	{
 		name = "RHS Launchers";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\cargothrow_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhs_weap_rpg26",
 			"rhs_weap_rpg7",
-			"rhs_weap_rshg2"
-		};
-	};	
-	
-	class RHSLauncherAmmo 
+			"rhs_weap_rshg2",
+			"rhs_weap_fgm148",        			
+			"rhs_fgm148_magazine_AT",
+			"rhs_weap_fim92",
+			"rhs_fim92_mag"			
+        };
+	};
+
+	class RHSLauncherAmmo
 	{
 		name = "RHS Launcher Ammo";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
 			"rhs_rpg26_mag",
 			"rhs_rshg2_mag",
 			"rhs_rpg18_mag",
@@ -531,8 +621,8 @@
 			"rhs_mag_9k32_rocket",
 			"rhs_mag_9k38_rocket"
 		};
-	};		
-	
+	};
+
 	class RHSMines
 	{
 		name = "RHS Mines";

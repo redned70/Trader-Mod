@@ -1,83 +1,84 @@
 	///////////////////////////////////////////////////////////////////////////////
-	// MAS Weapons  [CiC]red_ned http://cic-gaming.co.uk
+	// MAS Weapons 
 	///////////////////////////////////////////////////////////////////////////////
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Shemags
 	///////////////////////////////////////////////////////////////////////////////
-	class G_mas_wpn_gog								{ quality = 1; price = 10; };
-	class G_mas_wpn_gog_d							{ quality = 1; price = 10; };
-	class G_mas_wpn_gog_m							{ quality = 1; price = 10; };
-	class G_mas_wpn_gog_md							{ quality = 1; price = 10; };
-	class G_mas_wpn_gog_g							{ quality = 1; price = 10; };
-	class G_mas_wpn_gog_gd							{ quality = 1; price = 10; };
-	class G_mas_wpn_mask							{ quality = 1; price = 10; };
-	class G_mas_wpn_mask_b							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_f							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_t							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_b							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_c							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_g							{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog_f						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog_t						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog_b						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog_c						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_gog_g						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask_t						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask_f						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask_b						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask_c						{ quality = 1; price = 10; };
-	class G_mas_wpn_wrap_mask_g						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala							{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_b							{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_t							{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_gog						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_gog_b						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_gog_t						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_mask						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_mask_b						{ quality = 1; price = 10; };
-	class G_mas_wpn_bala_mask_t						{ quality = 1; price = 10; };
-	class G_mas_wpn_shemag							{ quality = 1; price = 10; };
-	class G_mas_wpn_shemag_r						{ quality = 1; price = 10; };
-	class G_mas_wpn_shemag_w						{ quality = 1; price = 10; };
-	class G_mas_wpn_shemag_gog						{ quality = 1; price = 10; };
-	class G_mas_wpn_shemag_mask						{ quality = 1; price = 10; };
-	class G_mas_wpn_gasmask							{ quality = 1; price = 10; };
+	class G_mas_wpn_gog								{ quality = 1; price = 50; };
+	class G_mas_wpn_gog_d							{ quality = 1; price = 50; };
+	class G_mas_wpn_gog_m							{ quality = 1; price = 50; };
+	class G_mas_wpn_gog_md							{ quality = 1; price = 50; };
+	class G_mas_wpn_gog_g							{ quality = 1; price = 50; };
+	class G_mas_wpn_gog_gd							{ quality = 1; price = 50; };
+	class G_mas_wpn_mask							{ quality = 1; price = 50; };
+	class G_mas_wpn_mask_b							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_f							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_t							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_b							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_c							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_g							{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog_f						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog_t						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog_b						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog_c						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_gog_g						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask_t						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask_f						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask_b						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask_c						{ quality = 1; price = 50; };
+	class G_mas_wpn_wrap_mask_g						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala							{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_b							{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_t							{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_gog						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_gog_b						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_gog_t						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_mask						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_mask_b						{ quality = 1; price = 50; };
+	class G_mas_wpn_bala_mask_t						{ quality = 1; price = 50; };
+	class G_mas_wpn_shemag							{ quality = 1; price = 50; };
+	class G_mas_wpn_shemag_r						{ quality = 1; price = 50; };
+	class G_mas_wpn_shemag_w						{ quality = 1; price = 50; };
+	class G_mas_wpn_shemag_gog						{ quality = 1; price = 50; };
+	class G_mas_wpn_shemag_mask						{ quality = 1; price = 50; };
+	class G_mas_wpn_gasmask							{ quality = 1; price = 50; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Pointer Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class acc_mas_flash_gun 						{ quality = 1; price = 40; };
-	class acc_mas_pointer_gun_IR 					{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR 						{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR_b 						{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR_top 					{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR_top_b 					{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR2 						{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR2_top 					{ quality = 1; price = 50; };
-	class acc_mas_pointer_IR2c 						{ quality = 1; price = 50; };
+	class acc_mas_flash_gun 						{ quality = 1; price = 100; };
+	class acc_mas_pointer_gun_IR 					{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR 						{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR_b 						{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR_top 					{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR_top_b 					{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR2 						{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR2_top 					{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR2c 						{ quality = 1; price = 100; };
+	class acc_mas_pointer_IR2c_top					{ quality = 1; price = 100; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class muzzle_mas_snds_L 						{ quality = 1; price = 40; };
-	class muzzle_mas_snds_LM 						{ quality = 1; price = 40; };
-	class muzzle_mas_snds_C 						{ quality = 2; price = 50; };
-	class muzzle_mas_snds_MP5SD6 					{ quality = 2; price = 50; };
-	class muzzle_mas_snds_M 						{ quality = 2; price = 50; };
-	class muzzle_mas_snds_Mc 						{ quality = 2; price = 50; };
-	class muzzle_mas_snds_MP7 						{ quality = 2; price = 50; };
-	class muzzle_mas_snds_AK 						{ quality = 2; price = 50; };
-	class muzzle_mas_snds_SM 						{ quality = 2; price = 100; };
-	class muzzle_mas_snds_SMc 						{ quality = 2; price = 100; };
-	class muzzle_mas_snds_SH 						{ quality = 2; price = 100; };
-	class muzzle_mas_snds_SHc 						{ quality = 2; price = 100; };
-	class muzzle_mas_snds_SV 						{ quality = 2; price = 200; };
-	class muzzle_mas_snds_SVc 						{ quality = 2; price = 200; };
-	class muzzle_mas_snds_SVD 						{ quality = 2; price = 100; };
+	class muzzle_mas_snds_L 						{ quality = 1; price = 120; };
+	class muzzle_mas_snds_LM 						{ quality = 1; price = 120; };
+	class muzzle_mas_snds_C 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_MP5SD6 					{ quality = 2; price = 120; };
+	class muzzle_mas_snds_M 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_Mc 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_MP7 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_AK 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SM 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SMc 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SH 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SHc 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SV 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SVc 						{ quality = 2; price = 120; };
+	class muzzle_mas_snds_SVD 						{ quality = 2; price = 120; };
 	class muzzle_mas_snds_KSVK 						{ quality = 2; price = 200; };	
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -85,40 +86,40 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class optic_mas_DMS								{ quality = 1; price = 150; };
 	class optic_mas_DMS_c							{ quality = 1; price = 150; };
-	class optic_mas_Holosight_blk					{ quality = 1; price = 50; };
-	class optic_mas_Holosight_camo					{ quality = 1; price = 50; };
-	class optic_mas_Arco_blk						{ quality = 1; price = 100; };
-	class optic_mas_Arco_camo						{ quality = 1; price = 100; };
-	class optic_mas_Hamr_camo						{ quality = 1; price = 100; };
-	class optic_mas_Aco_camo						{ quality = 1; price = 50; };
-	class optic_mas_ACO_grn_camo					{ quality = 1; price = 50; };
+	class optic_mas_Holosight_blk					{ quality = 1; price = 150; };
+	class optic_mas_Holosight_camo					{ quality = 1; price = 150; };
+	class optic_mas_Arco_blk						{ quality = 1; price = 150; };
+	class optic_mas_Arco_camo						{ quality = 1; price = 150; };
+	class optic_mas_Hamr_camo						{ quality = 1; price = 150; };
+	class optic_mas_Aco_camo						{ quality = 1; price = 150; };
+	class optic_mas_ACO_grn_camo					{ quality = 1; price = 150; };
 	class optic_mas_MRCO_camo						{ quality = 1; price = 100; };
-	class optic_mas_zeiss							{ quality = 2; price = 300; };
-	class optic_mas_zeiss_c							{ quality = 2; price = 300; };
-	class optic_mas_zeiss_eo						{ quality = 2; price = 400; };
-	class optic_mas_zeiss_eo_c						{ quality = 2; price = 400; };
-	class optic_mas_acog							{ quality = 2; price = 200; };
-	class optic_mas_acog_c							{ quality = 2; price = 200; };
-	class optic_mas_acog_eo							{ quality = 2; price = 200; };
-	class optic_mas_acog_eo_c						{ quality = 2; price = 200; };
-	class optic_mas_acog_rd							{ quality = 2; price = 200; };
-	class optic_mas_acog_rd_c						{ quality = 2; price = 200; };
+	class optic_mas_zeiss							{ quality = 3; price = 300; };
+	class optic_mas_zeiss_c							{ quality = 3; price = 300; };
+	class optic_mas_zeiss_eo						{ quality = 3; price = 400; };
+	class optic_mas_zeiss_eo_c						{ quality = 3; price = 400; };
+	class optic_mas_acog							{ quality = 3; price = 200; };
+	class optic_mas_acog_c							{ quality = 3; price = 200; };
+	class optic_mas_acog_eo							{ quality = 3; price = 200; };
+	class optic_mas_acog_eo_c						{ quality = 3; price = 200; };
+	class optic_mas_acog_rd							{ quality = 3; price = 200; };
+	class optic_mas_acog_rd_c						{ quality = 3; price = 200; };
 	class optic_mas_handle							{ quality = 2; price = 100; };
 	class optic_mas_aim								{ quality = 2; price = 150; };
 	class optic_mas_aim_c							{ quality = 2; price = 150; };
-	class optic_mas_PSO								{ quality = 2; price = 300; };
-	class optic_mas_PSO_c							{ quality = 2; price = 300; };
-	class optic_mas_PSO_eo							{ quality = 2; price = 300; };
-	class optic_mas_PSO_eo_c						{ quality = 2; price = 300; };
+	class optic_mas_PSO								{ quality = 3; price = 300; };
+	class optic_mas_PSO_c							{ quality = 3; price = 300; };
+	class optic_mas_PSO_eo							{ quality = 3; price = 300; };
+	class optic_mas_PSO_eo_c						{ quality = 3; price = 300; };
 	class optic_mas_PSO_nv							{ quality = 2; price = 500; };
 	class optic_mas_PSO_nv_c						{ quality = 2; price = 500; };
 	class optic_mas_PSO_nv_eo						{ quality = 2; price = 500; };
 	class optic_mas_PSO_nv_eo_c						{ quality = 2; price = 500; };
-	class optic_mas_PSO_day							{ quality = 2; price = 300; };
+	class optic_mas_PSO_day							{ quality = 3; price = 300; };
 	class optic_mas_PSO_nv_day						{ quality = 2; price = 500; };
-	class optic_mas_term							{ quality = 2; price = 600; };
-	class optic_mas_MRD								{ quality = 1; price = 50; };
-	class optic_mas_LRPS							{ quality = 2; price = 300; };
+	class optic_mas_term							{ quality = 3; price = 600; };
+	class optic_mas_MRD								{ quality = 1; price = 100; };
+	class optic_mas_LRPS							{ quality = 3; price = 300; };
 	class optic_mas_kobra							{ quality = 2; price = 250; };
 	class optic_mas_kobra_c							{ quality = 2; price = 250; };
 	class optic_mas_nspu							{ quality = 2; price = 250; };
@@ -131,7 +132,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class NVGoggles_mas_h							{ quality = 2; price = 250; };
 	class Rangefinder_mas_h							{ quality = 2; price = 250; };
-	class Laserdesignator_mas_h						{ quality = 2; price = 950; };	
+	class Laserdesignator_mas_h						{ quality = 3; price = 950; };	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Backpacks
@@ -148,20 +149,20 @@
 	class B_mas_m_Bergen_rpg						{ quality = 2; price = 200; };
 	class B_mas_m_Bergen_rpg_b						{ quality = 2; price = 200; };
 	class B_mas_m_Bergen_al							{ quality = 2; price = 200; };
-	class B_mas_AssaultPack_mul						{ quality = 1; price = 90; };
-	class B_mas_Kitbag_mul							{ quality = 2; price = 200; };
+	class B_mas_AssaultPack_mul						{ quality = 1; price = 150; };
+	class B_mas_Kitbag_mul							{ quality = 3; price = 200; };
 	class B_mas_Bergen_mul							{ quality = 2; price = 200; };
-	class B_mas_AssaultPack_des						{ quality = 1; price = 90; };
-	class B_mas_Kitbag_des							{ quality = 2; price = 200; };
+	class B_mas_AssaultPack_des						{ quality = 1; price = 150; };
+	class B_mas_Kitbag_des							{ quality = 3; price = 200; };
 	class B_mas_Bergen_des							{ quality = 2; price = 200; };
-	class B_mas_AssaultPack_black					{ quality = 1; price = 90; };
-	class B_mas_Kitbag_black						{ quality = 2; price = 200; };
+	class B_mas_AssaultPack_black					{ quality = 1; price = 150; };
+	class B_mas_Kitbag_black						{ quality = 3; price = 200; };
 	class B_mas_Bergen_black						{ quality = 2; price = 200; };
-	class B_mas_AssaultPack_wint					{ quality = 1; price = 90; };
-	class B_mas_Kitbag_wint							{ quality = 2; price = 200; };
+	class B_mas_AssaultPack_wint					{ quality = 1; price = 150; };
+	class B_mas_Kitbag_wint							{ quality = 3; price = 200; };
 	class B_mas_Bergen_wint							{ quality = 2; price = 200; };
-	class B_mas_AssaultPack_rng						{ quality = 1; price = 90; };
-	class B_mas_Kitbag_rng							{ quality = 2; price = 200; };
+	class B_mas_AssaultPack_rng						{ quality = 1; price = 150; };
+	class B_mas_Kitbag_rng							{ quality = 3; price = 200; };
 	class B_mas_Bergen_rng							{ quality = 2; price = 200; };
 	class O_mas_Bergen_flo							{ quality = 2; price = 200; };
 	class O_mas_Bergen_blk							{ quality = 2; price = 200; };
@@ -171,46 +172,44 @@
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
 	class 30Rnd_mas_556x45_Stanag					{ quality = 1; price = 20; };
-	class 30Rnd_mas_556x45_T_Stanag					{ quality = 1; price = 20; };
-	class 30Rnd_mas_556x45sd_Stanag					{ quality = 1; price = 20; };
+	class 30Rnd_mas_556x45_T_Stanag					{ quality = 2; price = 20; };
+	class 30Rnd_mas_556x45sd_Stanag					{ quality = 2; price = 20; };
 	class 200Rnd_mas_556x45_Stanag					{ quality = 1; price = 30; };
-	class 200Rnd_mas_556x45_T_Stanag				{ quality = 1; price = 30; };
+	class 200Rnd_mas_556x45_T_Stanag				{ quality = 2; price = 30; };
 	class 100Rnd_mas_762x51_Stanag					{ quality = 1; price = 30; };
-	class 100Rnd_mas_762x51_T_Stanag				{ quality = 1; price = 40; };
+	class 100Rnd_mas_762x51_T_Stanag				{ quality = 2; price = 40; };
 	class 100Rnd_mas_762x54_mag						{ quality = 1; price = 30; };
-	class 100Rnd_mas_762x54_T_mag					{ quality = 1; price = 40; };
+	class 100Rnd_mas_762x54_T_mag					{ quality = 2; price = 40; };
 	class 100Rnd_mas_762x39_mag						{ quality = 1; price = 30; };
-	class 100Rnd_mas_762x39_T_mag					{ quality = 1; price = 40; };
+	class 100Rnd_mas_762x39_T_mag					{ quality = 2; price = 40; };
 	class 30Rnd_mas_545x39_mag						{ quality = 1; price = 20; };
-	class 30Rnd_mas_545x39_T_mag					{ quality = 1; price = 20; };
+	class 30Rnd_mas_545x39_T_mag					{ quality = 2; price = 20; };
 	class 100Rnd_mas_545x39_mag						{ quality = 1; price = 25; };
-	class 100Rnd_mas_545x39_T_mag					{ quality = 1; price = 25; };
+	class 100Rnd_mas_545x39_T_mag					{ quality = 2; price = 25; };
 	class 20Rnd_mas_762x51_Stanag					{ quality = 1; price = 20; };
-	class 20Rnd_mas_762x51_T_Stanag					{ quality = 1; price = 20; };
-	class 20Rnd_mas_762x51sd_Stanag 				{ quality = 1; price = 20; };
+	class 20Rnd_mas_762x51_T_Stanag					{ quality = 2; price = 20; };
+	class 20Rnd_mas_762x51sd_Stanag 				{ quality = 2; price = 20; };
 	class 5Rnd_mas_762x51_Stanag					{ quality = 1; price = 20; };
-	class 5Rnd_mas_762x51_T_Stanag					{ quality = 1; price = 20; };
+	class 5Rnd_mas_762x51_T_Stanag					{ quality = 2; price = 20; };
 	class 10Rnd_mas_338_Stanag						{ quality = 1; price = 30; };
-	class 10Rnd_mas_338_T_Stanag					{ quality = 1; price = 30; };
+	class 10Rnd_mas_338_T_Stanag					{ quality = 2; price = 30; };
 	class 30Rnd_mas_762x39_mag						{ quality = 1; price = 20; };
-	class 30Rnd_mas_762x39_T_mag					{ quality = 1; price = 20; };
+	class 30Rnd_mas_762x39_T_mag					{ quality = 2; price = 20; };
 	class 10Rnd_mas_762x54_mag						{ quality = 1; price = 25; };
-	class 10Rnd_mas_762x54_T_mag					{ quality = 1; price = 25; };
+	class 10Rnd_mas_762x54_T_mag					{ quality = 2; price = 25; };
 	class 5Rnd_mas_127x99_Stanag					{ quality = 1; price = 50; };
-	class 5Rnd_mas_127x99_T_Stanag					{ quality = 1; price = 50; };
-    class 5Rnd_mas_127x99_dem_Stanag                { quality = 3; price = 70; }; //Too op
+	class 5Rnd_mas_127x99_T_Stanag					{ quality = 2; price = 50; };
 	class 5Rnd_mas_127x108_mag						{ quality = 1; price = 40; };
-	class 5Rnd_mas_127x108_T_mag					{ quality = 1; price = 40; };
-    class 5Rnd_mas_127x108_dem_mag                  { quality = 3; price = 70; }; //Too op 
+	class 5Rnd_mas_127x108_T_mag					{ quality = 2; price = 40; };
 	class 30Rnd_mas_9x21_Stanag						{ quality = 1; price = 10; };
 	class 30Rnd_mas_9x21d_Stanag					{ quality = 1; price = 10; };
-	class 12Rnd_mas_45acp_Mag						{ quality = 1; price = 7; };
-	class 10Rnd_mas_45acp_Mag						{ quality = 1; price = 7; };
-	class 8Rnd_mas_45acp_Mag						{ quality = 1; price = 6; };
-	class 15Rnd_mas_9x21_Mag						{ quality = 1; price = 9; };
-	class 17Rnd_mas_9x21_Mag						{ quality = 1; price = 9; };
-	class 13Rnd_mas_9x21_Mag						{ quality = 1; price = 9; };
-	class 8Rnd_mas_9x18_mag							{ quality = 1; price = 7; };
+	class 12Rnd_mas_45acp_Mag						{ quality = 1; price = 15; };
+	class 10Rnd_mas_45acp_Mag						{ quality = 1; price = 15; };
+	class 8Rnd_mas_45acp_Mag						{ quality = 1; price = 15; };
+	class 15Rnd_mas_9x21_Mag						{ quality = 1; price = 15; };
+	class 17Rnd_mas_9x21_Mag						{ quality = 1; price = 15; };
+	class 13Rnd_mas_9x21_Mag						{ quality = 1; price = 15; };
+	class 8Rnd_mas_9x18_mag							{ quality = 1; price = 15; };
 	class 7Rnd_mas_12Gauge_Slug						{ quality = 1; price = 10; };
 	class 7Rnd_mas_12Gauge_Pellets					{ quality = 1; price = 10; };
 	class 10Rnd_mas_12Gauge_Slug					{ quality = 1; price = 10; };
@@ -222,27 +221,29 @@
 	class 20Rnd_mas_12Gauge_Slug					{ quality = 1; price = 20; };
 	class 20Rnd_mas_12Gauge_Pellets					{ quality = 1; price = 20; };
 	class 150Rnd_mas_556x45_Stanag					{ quality = 1; price = 30; };
-	class 150Rnd_mas_556x45_T_Stanag				{ quality = 1; price = 30; };
-	class 30Rnd_mas_9x39_mag						{ quality = 1; price = 40; };
-	class 20Rnd_mas_9x39_mag						{ quality = 1; price = 30; };	
-	
+	class 150Rnd_mas_556x45_T_Stanag				{ quality = 2; price = 30; };
+	class 30Rnd_mas_9x39_mag						{ quality = 2; price = 40; };
+	class 20Rnd_mas_9x39_mag						{ quality = 2; price = 30; };	
+	class 5Rnd_mas_127x99_dem_Stanag				{ quality = 2; price = 90; };	
+	class 5Rnd_mas_127x108_dem_mag  				{ quality = 2; price = 90; };	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Pistols
 	///////////////////////////////////////////////////////////////////////////////
-	class hgun_mas_mp7p_F 							{ quality = 1; price = 300; };
-	class hgun_mas_uzi_F 							{ quality = 1; price = 300; };
-	class hgun_mas_sa61_F 							{ quality = 1; price = 300; };
-	class hgun_mas_m9_F 							{ quality = 1; price = 50; };
-	class hgun_mas_bhp_F 							{ quality = 1; price = 50; };
-	class hgun_mas_glock_F 							{ quality = 1; price = 50; };
-	class hgun_mas_p226_F 							{ quality = 1; price = 50; };
-	class hgun_mas_acp_F 							{ quality = 1; price = 80; };
-	class hgun_mas_usp_F 							{ quality = 1; price = 80; };
-	class hgun_mas_usp_l_F 							{ quality = 1; price = 80; };
-	class hgun_mas_glocksf_F 						{ quality = 1; price = 80; };
-	class hgun_mas_grach_F 							{ quality = 1; price = 65; };
-	class hgun_mas_mak_F 							{ quality = 1; price = 60; };
-	class hgun_mas_mak_F_sd 						{ quality = 1; price = 60; };	
+	class hgun_mas_mp7p_F 							{ quality = 2; price = 300; };
+	class hgun_mas_uzi_F 							{ quality = 2; price = 300; };
+	class hgun_mas_sa61_F 							{ quality = 2; price = 300; };
+	class hgun_mas_m9_F 							{ quality = 1; price = 250; };
+	class hgun_mas_bhp_F 							{ quality = 1; price = 250; };
+	class hgun_mas_glock_F 							{ quality = 2; price = 250; };
+	class hgun_mas_p226_F 							{ quality = 2; price = 250; };
+	class hgun_mas_acp_F 							{ quality = 2; price = 250; };
+	class hgun_mas_usp_F 							{ quality = 2; price = 250; };
+	class hgun_mas_usp_l_F 							{ quality = 2; price = 250; };
+	class hgun_mas_glocksf_F 						{ quality = 2; price = 250; };
+	class hgun_mas_grach_F 							{ quality = 1; price = 250; };
+	class hgun_mas_mak_F 							{ quality = 1; price = 250; };
+	class hgun_mas_mak_F_sd 						{ quality = 1; price = 250; };	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
@@ -250,16 +251,16 @@
 	class arifle_mas_mp40 							{ quality = 1; price = 250; };
 	class arifle_mas_mp40_o 						{ quality = 1; price = 250; };
 	class arifle_mas_sten 							{ quality = 1; price = 250; };
-	class arifle_mas_m1014 							{ quality = 1; price = 300; };
-	class arifle_mas_aa12 							{ quality = 1; price = 400; };
-	class arifle_mas_m79 							{ quality = 1; price = 400; };
-	class arifle_mas_mp5 							{ quality = 1; price = 400; };
-	class arifle_mas_mp5_v 							{ quality = 1; price = 400; };
-	class arifle_mas_mp5_d 							{ quality = 1; price = 500; };
-	class arifle_mas_mp5sd_ds 						{ quality = 1; price = 600; };
-	class hgun_mas_mp7_F 							{ quality = 1; price = 300; };
+	class arifle_mas_m1014 							{ quality = 2; price = 300; };
+	class arifle_mas_aa12 							{ quality = 2; price = 400; };
+	class arifle_mas_m79 							{ quality = 2; price = 400; };
+	class arifle_mas_mp5 							{ quality = 2; price = 400; };
+	class arifle_mas_mp5_v 							{ quality = 2; price = 400; };
+	class arifle_mas_mp5_d 							{ quality = 2; price = 500; };
+	class arifle_mas_mp5sd_ds 						{ quality = 2; price = 600; };
+	class hgun_mas_mp7_F 							{ quality = 2; price = 300; };
 	class arifle_mas_bizon 							{ quality = 1; price = 450; };
-	class arifle_mas_saiga 							{ quality = 1; price = 300; };	
+	class arifle_mas_saiga 							{ quality = 2; price = 300; };	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
@@ -418,18 +419,18 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Launchers
 	///////////////////////////////////////////////////////////////////////////////
-	class mas_launch_maaws_F 						{ quality = 3; price = 7500; }; 
-	class mas_launch_smaw_F 						{ quality = 3; price = 7500; }; 
-	class mas_launch_NLAW_F 						{ quality = 3; price = 7500; };
-	class mas_launch_LAW_F 							{ quality = 3; price = 7500; };
-	class mas_launch_M136_F 						{ quality = 3; price = 7500; };
-	class mas_launch_TitanS_F 						{ quality = 3; price = 7500; };
-	class mas_launch_RPG7_F 						{ quality = 3; price = 7500; };
-	class mas_launch_RPG18_F 						{ quality = 3; price = 7500; };
-	class mas_launch_Metis_F 						{ quality = 3; price = 7500; };
-	class mas_launch_pzf60_F 						{ quality = 3; price = 7500; };
-	class mas_launch_Stinger_F 						{ quality = 3; price = 7500; };
-	class mas_launch_Strela_F 						{ quality = 3; price = 7500; };
+	class mas_launch_maaws_F 						{ quality = 1; price = 7500; }; 
+	class mas_launch_smaw_F 						{ quality = 1; price = 7500; }; 
+	class mas_launch_NLAW_F 						{ quality = 1; price = 7500; };
+	class mas_launch_LAW_F 							{ quality = 1; price = 7500; };
+	class mas_launch_M136_F 						{ quality = 1; price = 7500; };
+	class mas_launch_TitanS_F 						{ quality = 1; price = 7500; };
+	class mas_launch_RPG7_F 						{ quality = 1; price = 7500; };
+	class mas_launch_RPG18_F 						{ quality = 1; price = 7500; };
+	class mas_launch_Metis_F 						{ quality = 1; price = 7500; };
+	class mas_launch_pzf60_F 						{ quality = 1; price = 7500; };
+	class mas_launch_Stinger_F 						{ quality = 1; price = 7500; };
+	class mas_launch_Strela_F 						{ quality = 1; price = 7500; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo

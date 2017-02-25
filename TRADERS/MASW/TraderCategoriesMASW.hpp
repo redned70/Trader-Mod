@@ -229,10 +229,8 @@
 			"10Rnd_mas_762x54_T_mag",
 			"5Rnd_mas_127x99_Stanag",
 			"5Rnd_mas_127x99_T_Stanag",
-            //"5Rnd_mas_127x99_dem_Stanag",  //Too op
 			"5Rnd_mas_127x108_mag",
 			"5Rnd_mas_127x108_T_mag",
-            //"5Rnd_mas_127x108_dem_mag",    //Too op
 			"30Rnd_mas_9x21_Stanag",
 			"30Rnd_mas_9x21d_Stanag",
 			"12Rnd_mas_45acp_Mag",
@@ -255,7 +253,9 @@
 			"150Rnd_mas_556x45_Stanag",
 			"150Rnd_mas_556x45_T_Stanag",
 			"30Rnd_mas_9x39_mag",
-			"20Rnd_mas_9x39_mag"
+			"20Rnd_mas_9x39_mag",
+			"5Rnd_mas_127x99_dem_Stanag",
+			"5Rnd_mas_127x108_dem_mag"
 		};
 	};
 

@@ -1,27 +1,30 @@
-	class NIAMuzzleAttachments 
+	class NIAMuzzleAttachments
 	{
 		name = "NIA Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
+			"hlc_muzzle_snds_fal",
 			"hlc_muzzle_545SUP_AK",
 			"hlc_muzzle_762SUP_AK",
-			"hlc_muzzle_556NATO_KAC",
+			"hlc_muzzle_Agendasix",
+			"hlc_muzzle_Tundra",
+			"hlc_muzzle_Agendasix10mm",
 			"hlc_muzzle_300blk_KAC",
+			"hlc_muzzle_556NATO_KAC",
 			"hlc_muzzle_snds_AUG",
 			"hlc_muzzle_snds_a6AUG",
 			"hlc_muzzle_snds_M14",
-			"hlc_muzzle_Agendasix",
-			"hlc_muzzle_Tundra",
-			"hlc_muzzle_Agendasix10mm"
+			"hlc_muzzle_snds_g3",
+			"hlc_muzzle_snds_HK33"
 		};
 	};
 
-	class NIAAttachments 
+	class NIAAttachments
 	{
 		name = "NIA Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"hlc_acc_Surefiregrip",
 			"hlc_barrel_standard",
@@ -29,22 +32,20 @@
 			"hlc_barrel_hbar",
 			"hlc_barrel_9mm"
 		};
-	};	
-	
-	class NIAOpticAttachments 
+	};
+
+	class NIAOpticAttachments
 	{
 		name = "NIA Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HLC_Optic_PSO1",
 			"HLC_Optic_1p29",
 			"hlc_optic_kobra",
 			"hlc_optic_goshawk",
-			"hlc_optic_PVS4FAL",
 			"hlc_optic_suit",
-			"HLC_Optic_ZFSG1",
-			"hlc_optic_accupoint_g3",
+			"hlc_optic_PVS4FAL",
 			"HLC_Optic_G36dualoptic35x",
 			"HLC_Optic_G36dualoptic35x2d",
 			"HLC_Optic_G36Export35x",
@@ -53,13 +54,17 @@
 			"HLC_Optic_G36Dualoptic15x2d",
 			"HLC_Optic_G36Export15x",
 			"HLC_Optic_G36Export15x2d",
-			"hlc_optic_artel_m14",
-			"hlc_optic_LRT_m14",
 			"hlc_optic_Kern",
-			"hlc_optic_Kern2d"
+			"hlc_optic_Kern2d",
+			"hlc_optic_artel_m14",
+			"hlc_optic_PVS4M14",
+			"hlc_optic_LRT_m14",
+			"HLC_Optic_ZFSG1",
+			"hlc_optic_accupoint_g3",
+			"hlc_optic_PVS4G3"
 		};
 	};
-	
+
 	class NIALightMachineGuns
 	{
 		name = "NIA Light Machine Guns";
@@ -73,16 +78,44 @@
 			"hlc_lmg_M249E2",
 			"hlc_lmg_m249para",
 			"hlc_lmg_M249E2",
+			"hlc_lmg_M60E4",
+			"hlc_lmg_m60",
+			"hlc_lmg_mk48",
 			"hlc_m249_pip1",
 			"hlc_m249_pip2",
 			"hlc_m249_pip3",
 			"hlc_m249_pip4",
 			"hlc_rifle_rpk",
 			"hlc_rifle_rpk12",
-			"hlc_rifle_rpk74n"
+			"hlc_rifle_rpk74n",
+			"hlc_lmg_MG42",
+			"hlc_lmg_mg42kws_b",
+			"hlc_lmg_mg42kws_g",
+			"hlc_lmg_MG42KWS_t",
+			"hlc_lmg_MG3KWS_b",
+			"hlc_lmg_MG3KWS_g"
 		};
 	};
-	
+
+	class NIASubMachineGuns
+	{
+		name = "NIA Sub Machine Guns";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[]=
+		{
+			"hlc_smg_mp5k_PDW",
+			"hlc_smg_mp5k",
+			"hlc_smg_mp5a2",
+			"hlc_smg_MP5N",
+			"hlc_smg_9mmar",
+			"hlc_smg_mp5a4",
+			"hlc_smg_mp510",
+			"hlc_smg_mp5sd5",
+			"hlc_smg_mp5a3",
+			"hlc_smg_mp5sd6"
+		};
+	};
+
 	class NIAAssaultRifles
 	{
 		name = "NIA Assault Rifles";
@@ -162,7 +195,6 @@
 			"hlc_rifle_SLR",
 			"hlc_rifle_STG58F",
 			"hlc_rifle_FAL5061",
-			"hlc_rifle_FAL5061Rail",
 			"hlc_rifle_FAL5000",
 			"hlc_rifle_FAL5000Rail",
 			"hlc_rifle_c1A1",
@@ -208,10 +240,14 @@
 			"hlc_rifle_stgw57_RIS",
 			"hlc_rifle_stgw57_commando",
 			"hlc_rifle_sig5104",
-			"hlc_rifle_amt"
+			"hlc_rifle_amt",
+			"hlc_rifle_bcmblackjack",
+			"hlc_rifle_FAL5000_RH",
+			"hlc_rifle_FAL5061Rail",
+			"hlc_rifle_honeybadger"
 		};
 	};
-	
+
 	class NIASniperRifles
 	{
 		name = "NIA Sniper Rifles";
@@ -235,7 +271,20 @@
 			"hlc_rifle_awMagnum_OD_ghillie"
 		};
 	};
-	
+
+
+
+class NIAMiniGun
+	{
+		name = "NIA Minigun";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[]=
+		{
+			"HLC_wp_M134Painless"
+		};
+	};
+
+
 	class NIAAmmunition
 	{
 		name = "NIA Ammo";
@@ -307,7 +356,34 @@
 			"hlc_20Rnd_762x51_bball_amt",
 			"hlc_20Rnd_762x51_T_amt",
 			"hlc_24Rnd_75x55_T_stgw",
-			"hlc_5rnd_3006_1903"
-			//"HLC_AK_ammobox"
+			"hlc_5rnd_3006_1903",
+			"hlc_500rnd_762x51_Belt",
+			"hlc_20Rnd_762x51_mk316_fal",
+			"hlc_20Rnd_762x51_barrier_fal",
+			"hlc_30rnd_556x45_SOST_HK33",
+			"hlc_30rnd_556x45_tdim_HK33",
+			"hlc_30rnd_556x45_mdim_HK33",
+			"hlc_30rnd_556x45_EPR_HK33",
+			"hlc_20Rnd_762x51_mk316_M14",
+			"hlc_50Rnd_792x57_B_MG42",
+			"hlc_50Rnd_792x57_M_MG42",
+			"hlc_50Rnd_792x57_T_MG42",
+			"hlc_100Rnd_792x57_B_MG42",
+			"hlc_100Rnd_792x57_M_MG42",
+			"hlc_100Rnd_792x57_T_MG42",
+			"hlc_200Rnd_792x57_B_MG42",
+			"hlc_200Rnd_792x57_M_MG42",
+			"hlc_200Rnd_792x57_T_MG42",
+			"hlc_50Rnd_792x57_AP_MG42",
+			"hlc_200Rnd_792x57_AP_MG42",
+			"hlc_250Rnd_762x51_T_MG3",
+			"hlc_250Rnd_762x51_Barrier_MG3",
+			"hlc_250Rnd_762x51_M_MG3",
+			"hlc_250Rnd_762x51_B_MG3",
+			"hlc_50Rnd_762x51_T_MG3",
+			"hlc_50Rnd_762x51_Barrier_MG3",
+			"hlc_20rnd_762x51_Mk316_G3",
+			"hlc_20rnd_762x51_barrier_G3"
+
 		};
 	};
