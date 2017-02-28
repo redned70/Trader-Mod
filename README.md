@@ -7,8 +7,11 @@ I have only compiled what i found, attempted to simplify class names and created
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
 This file does not include how to install mods or add to loot tables as that is already well documented.<br>
 
+<b>v5.5e Update</b><br>
+Added SMA mod files by jmayr2000.<br>
+
 <b>v5.5d Update</b><br>
-Updated classes in multiple mods - thanks SE7EN.<br>
+Updated classes in multiple mods - thanks SE7EN/Razor77.<br>
 
 <b>v5.5c Update</b><br>
 Fixed blank classes in Apex - thanks C][G GhostTown™.<br>

@@ -224,7 +224,7 @@
 			"RHSVehicles",
 			"GREFArmed",
 			"GREFUnarmed",
-			"CTrucks",
+			//"CTrucks", 	not used any more
 			"Trucks",
 			"A3Trucks",
 			"CUGVs"
