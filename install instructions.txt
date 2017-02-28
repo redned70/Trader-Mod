@@ -59,6 +59,7 @@ class CfgExileArsenal
 	#include "TRADERS\CUPW\ItemListCUPW.hpp"
 	#include "TRADERS\CUPV\ItemListCUPV.hpp"
 	#include "TRADERS\EBM\prices.hpp"
+	#include "TRADERS\FMP\ItemListFMP.hpp"
 	#include "TRADERS\HAP\ItemListHAP.hpp"
 	#include "TRADERS\HLC\ItemListHLC.hpp"
 	#include "TRADERS\HVP\ItemListHVP.hpp"
@@ -89,6 +90,7 @@ class CfgTraderCategories
 	#include "TRADERS\CUPW\TraderCategoriesCUPW.hpp"
 	#include "TRADERS\CUPV\TraderCategoriesCUPV.hpp"
 	#include "TRADERS\EBM\traders.hpp"
+	#include "TRADERS\FMP\TraderCategoriesFMP.hpp"	
 	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
 	#include "TRADERS\HLC\TraderCategoriesHLC.hpp"
 	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"
@@ -346,7 +348,9 @@ class CfgTraders
 			"CTrucks",
 			"Trucks",
 			"A3Trucks",
-			"CUGVs"
+			"CUGVs",
+			"FMPCars",
+			"FMPTrucks"
 			//"MASTanks"
 			//"A3Tanks"	
 			//"UGV"	

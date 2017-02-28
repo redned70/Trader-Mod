@@ -212,6 +212,7 @@ MASCars
 A3Cars
 JonzieCars
 APEXCars
+FMPCars
 
 ----------- trucks ----------
 Trucks
@@ -226,7 +227,7 @@ GREFArmed
 GREFUnarmed
 A3Trucks
 APEXTrucks
-
+FMPTrucks
 ----------- tanks ----------
 MASTanks
 A3Tanks

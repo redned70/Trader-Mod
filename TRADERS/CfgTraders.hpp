@@ -210,6 +210,8 @@
 			"Cars",
 			"A3Cars",
 			"ApexCars",
+			"FMPCars",
+			"FMPTrucks",
 			"HAPCARS",
 			"HVPCars",
 			"JonzieCars",
