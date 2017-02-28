@@ -81,7 +81,14 @@
 			"MASSniperRifles",
 			"NIASniperRifles",
 			"R3FSniperRifles",
-			"RHSSniperRifles"
+			"RHSSniperRifles",
+			"SMAPointerAttachments",
+			"SMABipodAttachments",
+			"SMAMuzzleAttachments",
+			"SMAOpticAttachments",
+			"SMAAmmunition",
+			"SMALightMachineGuns",
+			"SMAAssaultRifles"
 		};
 	};
 
