@@ -117,8 +117,8 @@ class BAFVMagazines
 		"UK3CB_BAF_12Rnd_Hellfire_L", 
 		"UK3CB_BAF_12Rnd_Hellfire_N",
 		"UK3CB_BAF_16Rnd_Hellfire_K", 
-		"UK3CB_BAF_16Rnd_Hellfire_L"", 
-		"UK3CB_BAF_16Rnd_Hellfire_N"",
+		"UK3CB_BAF_16Rnd_Hellfire_L", 
+		"UK3CB_BAF_16Rnd_Hellfire_N",
 
 		"UK3CB_BAF_IRJammer_Magazine",
 

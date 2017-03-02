@@ -1,0 +1,8 @@
+BAFAccessories
+BAFWeaponHolsters
+BAFMagazines
+BAFAmmunition
+BAFWeapons
+BAFLaunchers
+BAFStaticWeapons
+BAFDeployedStaticWeapons
