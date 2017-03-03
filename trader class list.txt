@@ -261,3 +261,10 @@ APEXPlanes
 
 ----------- taru pods ----------
 PODS
+
+----------- RHS:SAF ----------
+Equipment Trader - SAFUniforms, SAFVests, SAFHeadgear, SAFBackpacks 
+Armory Trader - SAFWeapons, SAFAmmunition, SAFAttachments 
+SpecOps Trader - SAFMines 
+Air Trader - SAFChoppers 
+Vehicle Trader - SAFUnarmed, SAFArmed

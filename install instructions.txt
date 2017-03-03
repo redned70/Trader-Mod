@@ -5,6 +5,11 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+
+*** Update v5.6 ***
+Added a few new mods qubmitted by members of the community - thanks to everyone for files.
+Fixed a few typos
+
 *** Update v5.5 ***
 Removed ExtendedBaseMod from custom to its own mod folder.
 
@@ -70,6 +75,7 @@ class CfgExileArsenal
 	#include "TRADERS\NIA\ItemListNIA.hpp"
 	#include "TRADERS\R3FW\ItemListR3FW.hpp"
 	#include "TRADERS\RHSGREF\ItemListGREF.hpp"
+	#include "TRADERS\RHSSAF\ItemListRHSSAF.hpp"
 	#include "TRADERS\RHSV\ItemListRHSV.hpp"
 	#include "TRADERS\RHSW\ItemListRHSW.hpp"
 	#include "TRADERS\TRYK\ItemListTRYK.hpp"
@@ -101,6 +107,7 @@ class CfgTraderCategories
 	#include "TRADERS\NIA\TraderCategoriesNIA.hpp"
 	#include "TRADERS\R3FW\TraderCategoriesR3FW.hpp"
 	#include "TRADERS\RHSGREF\TraderCategoriesGREF.hpp"
+	#include "TRADERS\RHSSAF\TraderCategoriesRHSSAF.hpp"
 	#include "TRADERS\RHSV\TraderCategoriesRHSV.hpp"
 	#include "TRADERS\RHSW\TraderCategoriesRHSW.hpp"
 	#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
@@ -209,7 +216,10 @@ class CfgTraders
 			"MASSniperRifles",
 			"NIASniperRifles",
 			"R3FSniperRifles",
-			"RHSSniperRifles"
+			"RHSSniperRifles",
+			"SAFWeapons", 
+			"SAFAmmunition", 
+			"SAFAttachments"
 		};
 	};
 
@@ -243,7 +253,8 @@ class CfgTraders
 			"APEXLauncherAmmo",
 			"CUPExplosive",
 			"MASExplosive",
-			"RHSMines"
+			"RHSMines",
+			"SAFMines"
 		};
 	};
 
@@ -284,7 +295,11 @@ class CfgTraders
 			"Tools",
 			//"APEXTools",		//not used
 			"MASTools",
-			"FirstAid"
+			"FirstAid",
+			"SAFUniforms",
+			"SAFVests",
+			"SAFHeadgear",
+			"SAFBackpacks"
 		};
 	};
 
@@ -342,6 +357,8 @@ class CfgTraders
 			"CUPArmed",
 			"MASArmed",
 			"A3Armed",
+			"SAFUnarmed", 
+			"SAFArmed",
 			"RHSVehicles",
 			"GREFArmed",
 			"GREFUnarmed",
@@ -383,6 +400,7 @@ class CfgTraders
 			"CPlanes",
 			"HVPPlanes",
 			"MASPlanes",
+			"SAFChoppers",
 			"RHSPlanes",
 			"GREFPlanes",
 			//"CUAVs",

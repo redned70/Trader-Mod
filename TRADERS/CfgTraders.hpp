@@ -82,13 +82,9 @@
 			"NIASniperRifles",
 			"R3FSniperRifles",
 			"RHSSniperRifles",
-			"SMAPointerAttachments",
-			"SMABipodAttachments",
-			"SMAMuzzleAttachments",
-			"SMAOpticAttachments",
-			"SMAAmmunition",
-			"SMALightMachineGuns",
-			"SMAAssaultRifles"
+			"SAFWeapons", 
+			"SAFAmmunition", 
+			"SAFAttachments"
 		};
 	};
 
@@ -122,7 +118,8 @@
 			"APEXLauncherAmmo",
 			"CUPExplosive",
 			"MASExplosive",
-			"RHSMines"
+			"RHSMines",
+			"SAFMines"
 		};
 	};
 
@@ -163,7 +160,11 @@
 			"Tools",
 			//"APEXTools",		//not used
 			"MASTools",
-			"FirstAid"
+			"FirstAid",
+			"SAFUniforms",
+			"SAFVests",
+			"SAFHeadgear",
+			"SAFBackpacks"
 		};
 	};
 
@@ -210,8 +211,6 @@
 			"Cars",
 			"A3Cars",
 			"ApexCars",
-			"FMPCars",
-			"FMPTrucks",
 			"HAPCARS",
 			"HVPCars",
 			"JonzieCars",
@@ -223,13 +222,17 @@
 			"CUPArmed",
 			"MASArmed",
 			"A3Armed",
+			"SAFUnarmed", 
+			"SAFArmed",
 			"RHSVehicles",
 			"GREFArmed",
 			"GREFUnarmed",
-			//"CTrucks", 	not used any more
+			"CTrucks",
 			"Trucks",
 			"A3Trucks",
-			"CUGVs"
+			"CUGVs",
+			"FMPCars",
+			"FMPTrucks"
 			//"MASTanks"
 			//"A3Tanks"	
 			//"UGV"	
@@ -262,6 +265,7 @@
 			"CPlanes",
 			"HVPPlanes",
 			"MASPlanes",
+			"SAFChoppers",
 			"RHSPlanes",
 			"GREFPlanes",
 			//"CUAVs",
