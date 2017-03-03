@@ -36,7 +36,13 @@
 			"rhs_uniform_cu_ucp_101st",
 			"rhs_uniform_cu_ucp_10th",
 			"rhs_uniform_cu_ucp_1stcav",
-			"rhs_uniform_cu_ucp_82nd"
+			"rhs_uniform_cu_ucp_82nd",
+			// Added by ElShotte - 5 Items
+			"rhs_uniform_g3_m81",
+			"rhs_uniform_g3_blk",
+			"rhs_uniform_g3_mc",
+			"rhs_uniform_g3_rgr",
+			"rhs_uniform_g3_tan"
 		};
 	};
 
@@ -47,81 +53,86 @@
 		items[] =
 		{
 			"rhs_6sh92",
-	 "rhs_6sh92_radio",
-	 "rhs_6sh92_vog",
-	 "rhs_6sh92_vog_headset",
-	 "rhs_6sh92_headset",
-	 "rhs_6sh92_digi",
-	 "rhs_6sh92_digi_radio",
-	 "rhs_6sh92_digi_vog",
-	 "rhs_6sh92_digi_vog_headset",
-	 "rhs_6sh92_digi_headset",
-	 "rhs_6b23",
-	 "rhs_6b23_crew",
-	 "rhs_6b23_crewofficer",
-	 "rhs_6b23_engineer",
-	 "rhs_6b23_medic",
-	 "rhs_6b23_rifleman",
-	 "rhs_6b23_sniper",
-	 "rhs_6b23_6sh92",
-	 "rhs_6b23_6sh92_radio",
-	 "rhs_6b23_6sh92_vog",
-	 "rhs_6b23_6sh92_vog_headset",
-	 "rhs_6b23_6sh92_headset",
-	 "rhs_6b23_6sh92_headset_mapcase",
-	 "rhs_6b23_digi",
-	 "rhs_6b23_digi_crew",
-	 "rhs_6b23_digi_crewofficer",
-	 "rhs_6b23_digi_engineer",
-	 "rhs_6b23_digi_medic",
-	 "rhs_6b23_digi_rifleman",
-	 "rhs_6b23_digi_sniper",
-	 "rhs_6b23_digi_6sh92",
-	 "rhs_6b23_digi_6sh92_radio",
-	 "rhs_6b23_digi_6sh92_vog",
-	 "rhs_6b23_digi_6sh92_vog_headset",
-	 "rhs_6b23_digi_6sh92_headset",
-	 "rhs_6b23_digi_6sh92_headset_mapcase",
-	 "rhs_6b23_ML",
-	 "rhs_6b23_ML_crew",
-	 "rhs_6b23_ML_crewofficer",
-	 "rhs_6b23_ML_engineer",
-	 "rhs_6b23_ML_medic",
-	 "rhs_6b23_ML_rifleman",
-	 "rhs_6b23_ML_sniper",
-	 "rhs_6b23_ML_6sh92",
-	 "rhs_6b23_ML_6sh92_radio",
-	 "rhs_6b23_ML_6sh92_vog",
-	 "rhs_6b23_ML_6sh92_vog_headset",
-	 "rhs_6b23_ML_6sh92_headset",
-	 "rhs_6b23_ML_6sh92_headset_mapcase",
-	 "rhs_vest_commander",
-	 "rhs_vydra_3m",
-	 "rhsusf_iotv_ucp",
-	 "rhsusf_iotv_ucp_grenadier",
-	 "rhsusf_iotv_ucp_medic",
-	 "rhsusf_iotv_ucp_repair",
-	 "rhsusf_iotv_ucp_rifleman",
-	 "rhsusf_iotv_ucp_SAW",
-	 "rhsusf_iotv_ucp_squadleader",
-	 "rhsusf_iotv_ucp_teamleader",
-	 "rhsusf_iotv_ocp",
-	 "rhsusf_iotv_ocp_grenadier",
-	 "rhsusf_iotv_ocp_medic",
-	 "rhsusf_iotv_ocp_repair",
-	 "rhsusf_iotv_ocp_rifleman",
-	 "rhsusf_iotv_ocp_SAW",
-	 "rhsusf_iotv_ocp_squadleader",
-	 "rhsusf_iotv_ocp_teamleader",
-	 "rhsusf_spc",
-	 "rhsusf_spc_teamleader",
-	 "rhsusf_spc_squadleader",
-	 "rhsusf_spc_mg",
-	 "rhsusf_spc_marksman",
-	 "rhsusf_spc_light",
-	 "rhsusf_spc_corpsmen",
-	 "rhsusf_spc_iar",
-	 "rhsusf_spc_rifleman"
+			"rhs_6sh92_radio",
+			"rhs_6sh92_vog",
+			"rhs_6sh92_vog_headset",
+			"rhs_6sh92_headset",
+			"rhs_6sh92_digi",
+			"rhs_6sh92_digi_radio",
+			"rhs_6sh92_digi_vog",
+			"rhs_6sh92_digi_vog_headset",
+			"rhs_6sh92_digi_headset",
+			"rhs_6b23",
+			"rhs_6b23_crew",
+			"rhs_6b23_crewofficer",
+			"rhs_6b23_engineer",
+			"rhs_6b23_medic",
+			"rhs_6b23_rifleman",
+			"rhs_6b23_sniper",
+			"rhs_6b23_6sh92",
+			"rhs_6b23_6sh92_radio",
+			"rhs_6b23_6sh92_vog",
+			"rhs_6b23_6sh92_vog_headset",
+			"rhs_6b23_6sh92_headset",
+			"rhs_6b23_6sh92_headset_mapcase",
+			"rhs_6b23_digi",
+			"rhs_6b23_digi_crew",
+			"rhs_6b23_digi_crewofficer",
+			"rhs_6b23_digi_engineer",
+			"rhs_6b23_digi_medic",
+			"rhs_6b23_digi_rifleman",
+			"rhs_6b23_digi_sniper",
+			"rhs_6b23_digi_6sh92",
+			"rhs_6b23_digi_6sh92_radio",
+			"rhs_6b23_digi_6sh92_vog",
+			"rhs_6b23_digi_6sh92_vog_headset",
+			"rhs_6b23_digi_6sh92_headset",
+			"rhs_6b23_digi_6sh92_headset_mapcase",
+			"rhs_6b23_ML",
+			"rhs_6b23_ML_crew",
+			"rhs_6b23_ML_crewofficer",
+			"rhs_6b23_ML_engineer",
+			"rhs_6b23_ML_medic",
+			"rhs_6b23_ML_rifleman",
+			"rhs_6b23_ML_sniper",
+			"rhs_6b23_ML_6sh92",
+			"rhs_6b23_ML_6sh92_radio",
+			"rhs_6b23_ML_6sh92_vog",
+			"rhs_6b23_ML_6sh92_vog_headset",
+			"rhs_6b23_ML_6sh92_headset",
+			"rhs_6b23_ML_6sh92_headset_mapcase",
+			"rhs_vest_commander",
+			"rhs_vydra_3m",
+			"rhsusf_iotv_ucp",
+			"rhsusf_iotv_ucp_grenadier",
+			"rhsusf_iotv_ucp_medic",
+			"rhsusf_iotv_ucp_repair",
+			"rhsusf_iotv_ucp_rifleman",
+			"rhsusf_iotv_ucp_SAW",
+			"rhsusf_iotv_ucp_squadleader",
+			"rhsusf_iotv_ucp_teamleader",
+			"rhsusf_iotv_ocp",
+			"rhsusf_iotv_ocp_grenadier",
+			"rhsusf_iotv_ocp_medic",
+			"rhsusf_iotv_ocp_repair",
+			"rhsusf_iotv_ocp_rifleman",
+			"rhsusf_iotv_ocp_SAW",
+			"rhsusf_iotv_ocp_squadleader",
+			"rhsusf_iotv_ocp_teamleader",
+			"rhsusf_spc",
+			// Added by ElShotte - 12 Items
+			"rhsusf_spc_corpsman",
+			"rhsusf_spc_patchless",
+			"rhsusf_spc_squadleader",
+			"rhsusf_spc_teamleader",
+			"rhsusf_spc_light",
+			"rhsusf_spc_rifleman",
+			"rhsusf_spc_iar",
+			"rhsusf_spcs_ocp_rifleman",
+			"rhsusf_spcs_ocp",
+			"rhsusf_spcs_ucp_rifleman",
+			"rhsusf_spcs_ucp",
+			"rhs_6b43"
 		};
 	};
 
@@ -261,20 +272,90 @@
 			"rhsusf_mich_helmet_marpatwd_norotos_arc",
 			"rhsusf_mich_helmet_marpatwd_norotos_arc_headset",
 			"rhsusf_mich_helmet_marpatwd_norotos_headset",
-			"rhsusf_opscore_fg_pelt_nsw",
-			"rhsusf_opscore_aor1_pelt_nsw",
-			"rhsusf_opscore_mc_pelt_nsw",
-			"rhsusf_opscore_ut_pelt_nsw",
+			// Added by ElShotte - 41 Items
+			"rhs_altyn_novisor",
+			"rhs_altyn_novisor_bala",
 			"rhs_altyn_novisor_ess",
+			"rhs_altyn_novisor_ess_bala",
 			"rhs_altyn_visordown",
-			"rhs_altyn_bala",
 			"rhs_altyn",
-			"rhs_beanie_green",
-			"rhs_fieldcap_digi",
-			"rhs_fieldcap_m"
-			
-			
-			
+			"rhs_altyn_bala",
+			"rhsusf_opscore_bk_pelt",
+			"rhsusf_opscore_bk",
+			"rhsusf_opscore_coy_cover",
+			"rhsusf_opscore_coy_cover_pelt",
+			"rhsusf_opscore_fg",
+			"rhsusf_opscore_fg_pelt",
+			"rhsusf_opscore_fg_pelt_cam",
+			"rhsusf_opscore_fg_pelt_nsw",
+			"rhsusf_opscore_mc",
+			"rhsusf_opscore_mc_pelt",
+			"rhsusf_opscore_mc_pelt_nsw",
+			"rhsusf_opscore_mc_cover",
+			"rhsusf_opscore_mc_cover_pelt",
+			"rhsusf_opscore_mc_cover_pelt_nsw",
+			"rhsusf_opscore_mc_cover_pelt_cam",
+			"rhsusf_opscore_paint",
+			"rhsusf_opscore_paint_pelt",
+			"rhsusf_opscore_paint_pelt_nsw",
+			"rhsusf_opscore_paint_pelt_nsw_cam",
+			"rhsusf_opscore_rg_cover",
+			"rhsusf_opscore_rg_cover_pelt",
+			"rhsusf_opscore_ut",
+			"rhsusf_opscore_ut_pelt",
+			"rhsusf_opscore_ut_pelt_cam",
+			"rhsusf_opscore_ut_pelt_nsw",
+			"rhsusf_opscore_ut_pelt_nsw_cam",
+			"rhsusf_opscore_mar_ut_pelt",
+			"rhsusf_opscore_mar_ut",
+			"rhsusf_opscore_mar_fg_pelt",
+			"rhsusf_opscore_mar_fg",
+			"rhsusf_protech_helmet",
+			"rhsusf_protech_helmet_ess",
+			"rhsusf_protech_helmet_rhino",
+			"rhsusf_protech_helmet_rhino_ess"
+		};
+	};
+
+	// Added by ElShotte - 11 Items
+	class RHSBackpacks
+	{
+		name = "RHS Backpacks";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
+		items[] =
+		{
+			"rhsusf_assault_eagleaiii_coy",
+			"rhsusf_assault_eagleaiii_ocp",
+			"rhsusf_assault_eagleaiii_ucp",
+			"rhsusf_falconii_coy",
+			"rhsusf_falconii_mc",
+			"rhsusf_falconii",
+			"rhs_assault_umbts",
+			"rhs_assault_umbts_engineer_empty",
+			"rhs_medic_bag",
+			"rhs_sidor",
+			"rhs_rpg_empty"
+		};
+	};
+
+	// Added by ElShotte - 11 Items
+	class RHSAccessories
+	{
+		name = "RHS Accessories";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[] =
+		{
+			"rhs_ess_black",
+			"rhs_googles_black",
+			"rhs_googles_clear",
+			"rhs_googles_yellow",
+			"rhs_googles_orange",
+			"rhs_scarf",
+			"rhs_balaclava",
+			"rhs_balaclava1_olive",
+			"rhsusf_ANPVS_15",
+			"rhsusf_ANPVS_14",
+			"rhs_1PN138"
 		};
 	};
 
@@ -287,7 +368,19 @@
 			"rhsusf_acc_anpeq15side",
 			"rhsusf_acc_anpeq15",
 			"rhsusf_acc_anpeq15A",
-			"rhsusf_acc_anpeq15_light"
+			"rhsusf_acc_anpeq15_light",
+			// Added by ElShotte - 11 Items
+			"rhsusf_acc_M952V",
+			"rhs_acc_perst3",
+			"rhs_acc_perst3_top",
+			"rhs_acc_perst3_2dp_h",
+			"rhs_acc_perst3_2dp_light_h",
+			"rhs_acc_2dpZenit",
+			"rhs_acc_2dpZenit_ris",
+			"rhs_acc_perst1ik",
+			"rhs_acc_perst1ik_ris",
+			"rhsusf_acc_anpeq15_bk",
+			"rhsusf_acc_anpeq15_bk_light"
 		};
 	};
 
@@ -297,14 +390,28 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
 		items[] =
 		{
-			"rhsusf_acc_grip2_tan",
-			"rhsusf_acc_grip2",
 			"rhsusf_acc_harris_bipod",
-			"rhs_bipod",   			
-			"rhs_acc_harris_swivel",			
-			"rhs_acc_grip_ffg2",          			
-			"rhs_acc_grip_rk2",			
-			"rhs_acc_grip_rk6"			
+			"rhs_bipod",
+			// Added by ElShotte -1 Item
+			"rhs_acc_harris_swivel"
+		};
+	};
+
+	// Added by ElShotte - 8 Items
+	class RHSForegripAttachments
+	{
+		name = "RHS Foregrip Attachments";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
+		items[] =
+		{
+			"rhsusf_acc_grip1",
+			"rhsusf_acc_grip2",
+			"rhsusf_acc_grip2_tan",
+			"rhsusf_acc_grip3",
+			"rhsusf_acc_grip3_tan",
+			"rhs_acc_grip_rk2",
+			"rhs_acc_grip_rk6",
+			"rhs_acc_grip_ffg2"
 		};
 	};
 
@@ -331,7 +438,14 @@
 			"rhs_acc_dtk1",
 			"rhs_acc_dtk",
 			"rhs_acc_dtk1l",
-			"rhs_acc_ak5"
+			"rhs_acc_ak5",
+			// Added by ElShotte - 6 Items
+			"rhsusf_acc_omega9k",
+			"rhs_acc_uuk",
+			"rhsusf_acc_rotex_mp7",
+			"rhsusf_acc_rotex_mp7_desert",
+			"rhsusf_acc_rotex_mp7_winter",
+			"rhsusf_acc_rotex_mp7_aor1"
 		};
 	};
 
@@ -354,31 +468,35 @@
 			"rhsusf_acc_ACOG3_USMC",
 			"rhsusf_acc_LEUPOLDMK4_2",
 			"rhsusf_acc_EOTECH",
-			"rhs_acc_1pn93_2",   
-			"rhs_acc_1p29",		
-			"rhs_acc_1p63",		
-			"rhs_acc_1p78",		
-			"rhs_acc_1pn93_1",	
-			"rhs_acc_ekp1",		
-			"rhs_acc_pgo7v",		
-			"rhs_acc_pkas",		
-			"rhs_acc_pso1m2	",
-			"rhsusf_acc_anpas13gv1",      
-			"rhs_acc_dh520x56",           			
-			"rhsusf_acc_M8541",           			
-			"rhsusf_acc_M8541_low",			
-			"rhsusf_acc_M8541_low_d",			
-			"rhsusf_acc_M8541_low_wd",			
-			"rhsusf_acc_premier_low",     			
-			"rhsusf_acc_premier_anpvs27", 			
-			"rhsusf_acc_premier",			
-			"rhsusf_acc_ACOG_MDO",        			
-			"rhsusf_acc_eotech_xps3",
-			"rhsusf_acc_SpecterDR_A",
-			"rhsusf_acc_SpecterDR_D",
+			"rhs_acc_1p29",
+			"rhs_acc_1p78",
+			"rhs_acc_pkas",
+			"rhs_acc_1p63",
+			"rhs_acc_ekp1",
+			"rhs_acc_pso1m2",
+			"rhs_acc_pgo7v",
+			"rhs_acc_1pn93_1",
+			// Added by ElShotte - 19 Items
+			"rhsusf_acc_ACOG_MDO",
+			"rhsusf_acc_ACOG_RMR",
+			"rhsusf_acc_ACOG_d",
+			"rhsusf_acc_ACOG_wd",
+			"rhsusf_acc_anpas13gv1",
+			"rhsusf_acc_premier_anpvs27",
+			"rhsusf_acc_premier_low",
+			"rhsusf_acc_premier",
+			"rhsusf_acc_SpecterDR",
 			"rhsusf_acc_SpecterDR_OD",
-			"rhsusf_acc_SpecterDR"			
-			
+			"rhsusf_acc_SpecterDR_D",
+			"rhsusf_acc_SpecterDR_A_3d",
+			"rhsusf_acc_M8541",
+			"rhsusf_acc_M8541_low",
+			"rhsusf_acc_M8541_low_d",
+			"rhsusf_acc_M8541_low_wd",
+			"rhs_acc_rakursPM",
+			"rhs_acc_dh520x56",
+			// SMAW Launcher Optic
+			"rhs_weap_optic_smaw"
 		};
 	};
 
@@ -389,11 +507,12 @@
 		items[]=
 		{
 			"rhs_weap_pya",
-			"rhs_weap_makarov_pmm",
-			"rhsusf_weap_m1911a1",
-			"rhsusf_weap_glock17g4",		
-			"rhsusf_weap_m9"		
-			
+			"rhs_weap_makarov_pm",
+			// Added by ElShotte - 4 Items
+			"rhs_weap_pp2000_folded",
+			"rhsusf_weap_glock17g4",
+			"rhsusf_weap_m9",
+			"rhsusf_weap_m1911a1"
 		};
 	};
 
@@ -413,7 +532,23 @@
 			"rhs_weap_m240B_CAP",
 			"rhs_weap_m240G",
 			"rhs_weap_pkm",
-			"rhs_weap_pkp"
+			"rhs_weap_pkp",
+			// Added by ElShotte - 1 Item
+			"rhs_weap_m27iar"
+		};
+	};
+
+	// Added by ElShotte - 4 Items
+	class RHSSubMachineGuns
+	{
+		name = "RHS Sub Machine Guns";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[] =
+		{
+			"rhsusf_weap_MP7A2",
+			"rhsusf_weap_MP7A2_desert",
+			"rhsusf_weap_MP7A2_aor1",
+			"rhsusf_weap_MP7A2_winter"
 		};
 	};
 
@@ -437,10 +572,6 @@
 			"rhs_weap_m4_grip",
 			"rhs_weap_m4_m203",
 			"rhs_weap_m4_m320",
-			"rhs_weap_m4a1_d_mstock",
-			"rhs_weap_m4a1_m203s_d",
-			"rhs_weap_m4a1_d",
-			"rhs_weap_m4_carryhandle_mstock",
 			"rhs_weap_m4a1_carryhandle",
 			"rhs_weap_m4a1_carryhandle_grip2",
 			"rhs_weap_m4a1_carryhandle_pmag",
@@ -483,17 +614,44 @@
 			"rhs_weap_akm_gp25",
 			"rhs_weap_akms",
 			"rhs_weap_akms_gp25",
-			"rhs_weap_ak104_zenitco01",            
+			// Added by ElShotte - 37 Items
+			"rhs_weap_ak74mr_gp25",
+			"rhs_weap_ak74mr",
+			"rhs_weap_ak74m_zenitco01_b33",
+			"rhs_weap_ak74m_zenitco01",
+			"rhs_weap_aks74",
+			"rhs_weap_aks74_gp25",
+			"rhs_weap_aks74n",
+			"rhs_weap_aks74n_gp25",
+			"rhs_weap_ak103_zenitco01",
+			"rhs_weap_ak103_zenitco01_b33",
+			"rhs_weap_ak104_zenitco01",
 			"rhs_weap_ak104_zenitco01_b33",
 			"rhs_weap_ak105_zenitco01",
 			"rhs_weap_ak105_zenitco01_b33",
-			"rhs_weap_ak74m_zenitco01",
 			"rhs_weap_ak74m_zenitco01_b33",
-			"rhs_weap_ak74mr",                     
-			"rhs_weap_ak74mr_gp25",
-			"rhs_weap_aks74",
-			"rhs_weap_aks74_gp25",
-			"rhs_weap_aks74n"			
+			"rhs_weap_ak74m_zenitco01",
+			"rhs_weap_m4a1_blockII_wd",
+			"rhs_weap_m4a1_blockII_M203_wd",
+			"rhs_weap_m4a1_blockII_KAC_wd",
+			"rhs_weap_m4a1_blockII_d",
+			"rhs_weap_m4a1_blockII_M203_d",
+			"rhs_weap_m4a1_blockII_KAC_d",
+			"rhs_weap_m4a1_blockII_bk",
+			"rhs_weap_m4a1_blockII_M203_bk",
+			"rhs_weap_m4a1_blockII_KAC_bk",
+			"rhs_weap_mk18",
+			"rhs_weap_mk18_bk",
+			"rhs_weap_mk18_KAC_bk",
+			"rhs_weap_mk18_d",
+			"rhs_weap_mk18_KAC_d",
+			"rhs_weap_mk18_wd",
+			"rhs_weap_mk18_KAC_wd",
+			"rhs_weap_hk416d10",
+			"rhs_weap_hk416d10_m320",
+			"rhs_weap_hk416d10_LMT",
+			"rhs_weap_hk416d145",
+			"rhs_weap_hk416d145_m320"
 		};
 	};
 
@@ -516,20 +674,21 @@
 			"rhs_weap_svdp_npz",
 			"rhs_weap_svds",
 			"rhs_weap_svds_npz",
-			"rhs_weap_t5000",
-			"rhs_weap_m24sws",                   
-			"rhs_weap_m24sws_blk",
-			"rhs_weap_m24sws_ghillie",
-			"rhs_weap_m40a5",                     
-			"rhs_weap_m40a5_d",
-			"rhs_weap_m40a5_wd",
+			// Addd by ElShotte - 14 Items
 			"rhs_weap_M107",
 			"rhs_weap_M107_d",
-			"rhs_weap_M107_w"
-	
-			
-			
-			
+			"rhs_weap_M107_w",
+			"rhs_weap_t5000",
+			"rhs_weap_m24sws",
+			"rhs_weap_m24sws_blk",
+			"rhs_weap_m24sws_ghillie",
+			"rhs_weap_m40a5",
+			"rhs_weap_m40a5_d",
+			"rhs_weap_m40a5_w",
+			"rhs_weap_sr25_d",
+			"rhs_weap_sr25_wd",
+			"rhs_weap_sr25_ec_d",
+			"rhs_weap_sr25_ec_wd"
 		};
 	};
 
@@ -577,15 +736,47 @@
 			"rhs_100Rnd_762x54mmR",
 			"rhs_100Rnd_762x54mmR_green",
 			"rhs_10Rnd_762x54mmR_7N1",
+
+			// Added by ElShotte - 26 Items
+			//M-107 and M82A1
+			"rhsusf_mag_10Rnd_STD_50BMG_M33",
+			//"rhsusf_mag_10Rnd_STD_50BMG_mk211", <- Exploding 50 Cal rounds (WAY too powerful)
+
+			//HK MP7A2
+			"rhsusf_mag_40Rnd_46x30_AP",
+			"rhsusf_mag_40Rnd_46x30_FMJ",
+			"rhsusf_mag_40Rnd_46x30_JHP",
+
+			// Orsis T-5000
 			"rhs_5Rnd_338lapua_t5000",
+
+			// M590
+			"rhsusf_5Rnd_00Buck",
+			"rhsusf_5Rnd_FRAG",
+			"rhsusf_5Rnd_HE",
+			"rhsusf_5Rnd_Slug",
+			"rhsusf_8Rnd_doomsday_Buck",
+
+			// M24 SWS
 			"rhsusf_5Rnd_762x51_m118_special_Mag",
 			"rhsusf_5Rnd_762x51_m993_Mag",
 			"rhsusf_5Rnd_762x51_m62_Mag",
+
+			// M40A5
 			"rhsusf_10Rnd_762x51_m62_Mag",
 			"rhsusf_10Rnd_762x51_m993_Mag",
-			"rhsusf_10Rnd_762x51_m118_special_Mag",			
-			"rhsusf_mag_10Rnd_STD_50BMG_M33"
-			
+			"rhsusf_10Rnd_762x51_m118_special_Mag",
+
+			// Pistols
+			"rhsusf_mag_15Rnd_9x19_FMJ",
+			"rhsusf_mag_15Rnd_9x19_JHP",
+			"rhsusf_mag_17Rnd_9x19_JHP",
+			"rhsusf_mag_17Rnd_9x19_FMJ",
+			"rhs_mag_9x18_8_57N181S",
+			"rhs_mag_9x19mm_7n31_44",
+			"rhs_mag_9x19mm_7n21_44",
+			"rhs_mag_9x19mm_7n31_20",
+			"rhs_mag_9x19mm_7n21_20"
 		};
 	};
 
@@ -598,11 +789,17 @@
 			"rhs_weap_rpg26",
 			"rhs_weap_rpg7",
 			"rhs_weap_rshg2",
-			"rhs_weap_fgm148",        			
-			"rhs_fgm148_magazine_AT",
+			// Added by ElShotte - 9 Items
+			"rhs_weap_igla",
+			"rhs_weap_fgm148",
 			"rhs_weap_fim92",
-			"rhs_fim92_mag"			
-        };
+			"rhs_weap_M136",
+			"rhs_weap_M136_hedp",
+			"rhs_weap_M136_hp",
+			"rhs_weap_m72a7",
+			"rhs_weap_smaw",
+			"rhs_weap_smaw_green"
+		};
 	};
 
 	class RHSLauncherAmmo
@@ -619,13 +816,25 @@
 			"rhs_rpg7_TBG7V_mag",
 			"rhs_rpg7_OG7V_mag",
 			"rhs_mag_9k32_rocket",
-			"rhs_mag_9k38_rocket"
+			"rhs_mag_9k38_rocket",
+			// Added by ElShotte - 11 Items
+			"rhs_rpg7_type69_airburst_mag",
+			"rhs_mag_9k38_rocket",
+			"rhs_fgm148_magazine_AT",
+			"rhs_fim92_mag",
+			"rhs_m136_mag",
+			"rhs_m136_hedp_mag",
+			"rhs_M136_hp_mag",
+			"rhs_m72a7_mag",
+			"rhs_mag_smaw_HEAA",
+			"rhs_mag_smaw_HEDP",
+			"rhs_mag_smaw_SR"
 		};
 	};
 
-	class RHSMines
+	class RHSExplosives
 	{
-		name = "RHS Mines";
+		name = "RHS Explosives";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\cargothrow_ca.paa";
 		items[]=
 		{
@@ -633,6 +842,68 @@
 			"rhs_mine_tm62m_mag",
 			"rhsusf_m112_mag",
 			"rhsusf_m112x4_mag",
-			"rhs_mine_m19_mag"
+			// Added by ElShotte - 26 Items
+			"rhs_mine_m19_mag",
+			"rhsusf_mine_m14_mag",
+			"rhs_mag_f1",
+			"rhs_mag_fakel",
+			"rhs_mag_fakels",
+			"rhs_mag_m18_green",
+			"rhs_mag_m18_purple",
+			"rhs_mag_m18_red",
+			"rhs_mag_m18_yellow",
+			"rhs_mag_m67",
+			"rhs_mag_m7a3_cs",
+			"rhs_mag_mk84",
+			"rhs_mag_mk3a2",
+			"rhs_mag_nspd",
+			"rhs_mag_nspn_green",
+			"rhs_mag_nspn_red",
+			"rhs_mag_nspn_yellow",
+			"rhs_mag_plamyam",
+			"rhs_mag_rdg2_black",
+			"rhs_mag_rdg2_white",
+			"rhs_mag_rgd5",
+			"rhs_mag_rgn",
+			"rhs_mag_rgo",
+			"rhs_mag_zarya2",
+			"rhs_mag_an_m8hc",
+			"rhs_mag_an_m14_th3"
+			//"rhsgref_mag_rkg3em" //RHS:GREF AT Grenade - Added here for keeping things tidy - UNCOMMENT ONLY IF YOU ARE RUNNING RHS:GREF TOO!
+		};
+	};
+
+	// Added by ElShotte - 25 Items
+	class RHSUGLAmmo
+	{
+		name = "RHS UGL Ammunition";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
+		items[] =
+		{
+			"rhs_mag_M433_HEDP",
+			"rhs_mag_M397_HET",
+			"rhs_mag_m4009",
+			"rhs_mag_m576",
+			"rhs_mag_M585_white",
+			"rhs_mag_m661_green",
+			"rhs_mag_m662_red",
+			"rhs_mag_m713_Red",
+			"rhs_mag_m714_White",
+			"rhs_mag_m715_Green",
+			"rhs_mag_m716_yellow",
+			"rhs_VOG25",
+			"rhs_VOG25p",
+			"rhs_vg40tb",
+			"rhs_vg40sz",
+			"rhs_vg40op_white",
+			"rhs_vg40op_green",
+			"rhs_vg40op_red",
+			"rhs_GRD40_white",
+			"rhs_GRD40_green",
+			"rhs_GRD40_red",
+			"rhs_VG40MD_White",
+			"rhs_VG40MD_Green",
+			"rhs_VG40MD_Red",
+			"rhs_GDM40"
 		};
 	};

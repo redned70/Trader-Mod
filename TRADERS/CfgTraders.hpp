@@ -16,6 +16,7 @@
 			//"APEXBipodAttachments",		//not used
 			"R3FBipodAttachments",
 			"RHSBipodAttachments",
+			"RHSForegripAttachments",
 			"MuzzleAttachments",
 			"APEXMuzzleAttachments",
 			"HLCMuzzleAttachments",
@@ -54,6 +55,7 @@
 			"CUPSubMachineGuns",
 			"MASSubMachineGuns",
 			"R3FSubMachineGuns",
+			"RHSSubMachineGuns",
 			"LightMachineGuns",
 			"APEXLightMachineGuns",
 			"HLCLightMachineGuns",
@@ -118,7 +120,8 @@
 			"APEXLauncherAmmo",
 			"CUPExplosive",
 			"MASExplosive",
-			"RHSMines",
+			"RHSExplosives",
+			"RHSUGLAmmo",
 			"SAFMines"
 		};
 	};
@@ -145,6 +148,7 @@
 			"RHSUniforms",
 			"GREFUniforms",
 			"TRYKUniforms",
+			"RHSAccessories",
 			"Vests",
 			"APEXVests",
 			"HAPVESTS",
@@ -157,6 +161,7 @@
 			"HAPBACKPACKS",
 			"MASBackpacks",
 			"TRYKBackpacks",
+			"RHSBackpacks",
 			"Tools",
 			//"APEXTools",		//not used
 			"MASTools",

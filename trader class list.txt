@@ -51,6 +51,7 @@ R3FOpticAttachments
 RHSOpticAttachments
 APEXOpticAttachments
 NIAOpticAttachments
+RHSForegripAttachments // "RHS Foregrip Attachments" - NEW CATEGORY, be sure to add under ARMORY - 8 New Items 
 
 ----------- ammo ----------
 Ammunition
@@ -62,6 +63,7 @@ RHSAmmunition
 GREFAmmunition
 APEXAmmunition
 NIAAmmunition
+RHSUGLAmmo // "RHS UGL Ammunition" - NEW CATEGORY, be sure to add under SPEC OPS - 25 New Items 
 
 ----------- flares ----------
 Flares
@@ -73,7 +75,7 @@ Smokes
 Explosives
 CUPExplosive
 MASExplosive
-RHSMines
+RHSExplosives // "RHS Explosives" - MODIFIED CATEGORY, this replaces RHSMines under SPEC OPS - 26 New Items 
 
 ----------- launchers ----------
 A3Launchers
@@ -108,6 +110,7 @@ CUPSubMachineGuns
 R3FSubMachineGuns
 MASSubMachineGuns
 APEXSubMachineGuns
+RHSSubMachineGuns // "RHS Sub Machine Guns" - NEW CATEGORY, be sure to add under ARMORY - 4 New Items 
 
 ----------- light machineguns ----------
 LightMachineGuns
@@ -172,7 +175,7 @@ APEXHeadgear
 ----------- hardware ----------
 Hardware
 ----------- building supplies ----------
-CBuilding
+//CBuilding - no longer used
 ExtendedBaseMod
 
 ----------- food ----------
@@ -200,6 +203,9 @@ HAPBACKPACKS
 MASBackpacks
 TRYKBackpacks
 APEXBackpacks
+RHSBackpacks // "RHS Backpacks" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
+RHSAccessories // "RHS Accessories" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
+
 
 ----------- bikes ----------
 Bikes
@@ -216,7 +222,7 @@ FMPCars
 
 ----------- trucks ----------
 Trucks
-CTrucks
+// CTrucks - no longer used
 CUPUnarmed
 CUPArmed
 HAPTRUCKS
@@ -234,7 +240,7 @@ A3Tanks
 
 ----------- helicopters ----------
 Choppers
-CChoppers
+//CChoppers - no longer used
 CUPChoppers
 MASChoppers
 RHSChoppers
