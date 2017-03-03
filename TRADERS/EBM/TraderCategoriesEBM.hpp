@@ -1,7 +1,7 @@
 /*Turn APEX Buildings on by removing the "//" at the beginning of the line.
 But be careful! People who don't have the APEX DLC can not see the Buildings! They can walk through them!!!!*/
 
-//#define USE_APEX_Buildings 1
+//#define USE_APEX_Buildings 1  //Don't remove this - Apex Buildings are fucked up :/
 
 class ExtendedBaseMod
 	{
@@ -151,7 +151,7 @@ class ExtendedBaseMod
 		///////////////////////// V0.2.5
 		"Land_Atm_02_F_Kit",
 		///////////////////////// V0.2.6
-		#ifdef USE_APEX_Buildings
+		/*#ifdef USE_APEX_Buildings  //Don't remove this - Apex Buildings are fucked up :/
 		"Land_PillboxBunker_01_big_F_Kit",
 		"Land_BagBunker_01_small_green_F_Kit",
 		"Land_PillboxBunker_01_rectangle_F_Kit",
@@ -161,9 +161,35 @@ class ExtendedBaseMod
 		"Land_Airport_01_controlTower_F_Kit",
 		"Land_HBarrier_01_line_3_green_F_Kit",
 		"Land_HBarrier_01_line_5_green_F_Kit",
-		"Land_HBarrier_01_big_tower_green_F_Kit",
+		"Land_HBarrier_01_tower_green_F_Kit", //name changed
 		"Land_trench_01_forest_F_Kit",
 		"Land_trench_01_grass_F_Kit",
-		#endif
+		"Land_GarageShelter_01_F_Kit", //V0.2.7
+		"Land_HBarrier_01_big_tower_green_F_Kit",//V0.2.8
+		"Land_Bagbunker_01_large_green_F_Kit",//V0.2.8
+		"Land_Bagfence_01_short_green_F_Kit",//V0.2.8
+		"Land_Bagfence_01_long_green_F_Kit",//V0.2.8
+		"Land_PetroglyphWall_02_F_Kit",//V0.2.8
+		"Land_PetroglyphWall_01_F_Kit",//V0.2.8
+		"Land_IRMaskingCover_02_F_Kit",//V0.2.8
+		"Land_IRMaskingCover_01_F_Kit",//V0.2.8
+		"Land_Breakwater_02_F_Kit",//V0.2.8
+		"Land_Breakwater_01_F_Kit",//V0.2.8
+		"Land_BasaltWall_01_gate_F_Kit",//V0.2.8
+		"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
+		"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
+		"Land_Ammobox_rounds_F_Kit",//V0.2.8
+		"Land_Airport_01_hangar_F_Kit",//V0.2.8
+		#endif*/  //Don't remove this - Apex Buildings are fucked up :/
+		///////////////////////// V0.2.7
+		"Land_i_House_Small_03_V1_F_Kit",//Bungalow
+		"Land_i_House_Big_01_V2_F_Kit",
+		"Land_PlasticCase_01_medium_F_Kit",
+		"Land_Research_HQ_F_Kit",
+		"Land_Research_house_V1_F_Kit",
+		///////////////////////// V0.2.8 - Some Apex buildings
+		"Land_Suitcase_F_Kit",
+		"B_Slingload_01_fuel_F_Kit",
+		"B_Slingload_01_Ammo_F_Kit",
 		};
 	};
