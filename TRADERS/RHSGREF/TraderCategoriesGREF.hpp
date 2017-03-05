@@ -86,7 +86,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
 		items[] = 
 		{
-	"rhsgref_5Rnd_792x57_kar98k",
+			"rhsgref_5Rnd_792x57_kar98k",
  			"rhsgref_30rnd_556x45_m21",
  			"rhsgref_5Rnd_762x54_m38",
  			"rhsgref_10Rnd_792x57_m76"

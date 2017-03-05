@@ -146,10 +146,10 @@
 			"rhs_weap_m21s_pr",
 			"rhs_weap_m21s_fold",
 			"rhs_weap_m82a1",
-			"rhs_weap_minimi_para_railed";
-			"rhs_weap_g36c";
-			"rhs_weap_g36kv";
-			"rhs_weap_g36kv_ag36";
+			"rhs_weap_minimi_para_railed",
+			"rhs_weap_g36c",
+			"rhs_weap_g36kv",
+			"rhs_weap_g36kv_ag36",
 			"rhs_weap_m84"
 		};
 	};
