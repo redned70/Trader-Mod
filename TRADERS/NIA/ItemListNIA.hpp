@@ -31,28 +31,28 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class HLC_Optic_PSO1                    { quality = 1; price = 200; };
+	class HLC_Optic_PSO1					{ quality = 1; price = 200; };
 	class HLC_Optic_1p29                    { quality = 1; price = 200; };
-	class hlc_optic_kobra                    { quality = 1; price = 200; };
-	class hlc_optic_goshawk                    { quality = 1; price = 200; };
-	class hlc_optic_suit                    { quality = 1; price = 200; };
-	class hlc_optic_PVS4FAL                    { quality = 1; price = 200; };
-	class HLC_Optic_G36dualoptic35x                    { quality = 1; price = 200; };
-	class HLC_Optic_G36dualoptic35x2d                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Export35x                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Export35x2d                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Dualoptic15x                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Dualoptic15x2d                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Export15x                    { quality = 1; price = 200; };
-	class HLC_Optic_G36Export15x2d                    { quality = 1; price = 200; };
+	class hlc_optic_kobra					{ quality = 1; price = 200; };
+	class hlc_optic_goshawk					{ quality = 1; price = 200; };
+	class hlc_optic_suit					{ quality = 1; price = 200; };
+	class hlc_optic_PVS4FAL					{ quality = 1; price = 200; };
+	class HLC_Optic_G36dualoptic35x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36dualoptic35x2d		{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export35x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export35x2d			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Dualoptic15x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Dualoptic15x2d		{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export15x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export15x2d			{ quality = 1; price = 200; };
 	class hlc_optic_Kern                    { quality = 1; price = 200; };
-	class hlc_optic_Kern2d                    { quality = 1; price = 200; };
-	class hlc_optic_artel_m14                    { quality = 1; price = 200; };
-	class hlc_optic_PVS4M14                    { quality = 1; price = 200; };
-	class hlc_optic_LRT_m14                    { quality = 1; price = 200; };
-	class HLC_Optic_ZFSG1                    { quality = 1; price = 200; };
-	class hlc_optic_accupoint_g3                    { quality = 1; price = 200; };
-	class hlc_optic_PVS4G3                    { quality = 1; price = 200; };
+	class hlc_optic_Kern2d					{ quality = 1; price = 200; };
+	class hlc_optic_artel_m14				{ quality = 1; price = 200; };
+	class hlc_optic_PVS4M14					{ quality = 1; price = 200; };
+	class hlc_optic_LRT_m14					{ quality = 1; price = 200; };
+	class HLC_Optic_ZFSG1					{ quality = 1; price = 200; };
+	class hlc_optic_accupoint_g3			{ quality = 1; price = 200; };
+	class hlc_optic_PVS4G3					{ quality = 1; price = 200; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
@@ -400,5 +400,3 @@
 	class hlc_lmg_MG42KWS_t			 		 { quality = 2; price = 1000; };
 	class hlc_lmg_MG3KWS_b			 		 { quality = 2; price = 1000; };
 	class hlc_lmg_MG3KWS_g			 		 { quality = 2; price = 1000; };
-
-	///////////////////
