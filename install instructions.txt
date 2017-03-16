@@ -54,7 +54,7 @@ NOTE RHS IS BOTH RUS AND USA.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-2.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgExileArsenal" DOWN TO LINE ABOVE "class CfgExileCustomCode" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
+2.	IN CONFIG.CPP IN MISSION PBO: REPLACE FROM "class CfgExileArsenal" DOWN TO LINE ABOVE "class CfgExileCustomCode" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
 	
 class CfgExileArsenal
 {
@@ -86,7 +86,7 @@ class CfgExileArsenal
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-3.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgTraderCategories" DOWN TO LINE ABOVE "class CfgTraders" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
+3.	IN CONFIG.CPP IN MISSION PBO: REPLACE FROM "class CfgTraderCategories" DOWN TO LINE ABOVE "class CfgTraders" with (CHOSING WHICH MODS YOU ARE USING AND DELETE OTHER LINES)
 
 class CfgTraderCategories
 {
@@ -118,7 +118,7 @@ class CfgTraderCategories
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-4.	IN CONFIG.CPP IN MISSION SQF: REPLACE FROM "class CfgTraders" DOWN TO LINE "class CfgTrading" with
+4.	IN CONFIG.CPP IN MISSION PBO: REPLACE FROM "class CfgTraders" DOWN TO LINE "class CfgTrading" with
 
 class CfgTraders
 {
