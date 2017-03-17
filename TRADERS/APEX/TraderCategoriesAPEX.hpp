@@ -248,9 +248,9 @@ class ApexAssaultRifles
 		"arifle_SPAR_01_GL_blk_F",
 		"arifle_SPAR_01_GL_khk_F",
 		"arifle_SPAR_01_GL_snd_F",
-		"arifle_SPAR_02_blk_F",
-		"arifle_SPAR_02_khk_F",
-		"arifle_SPAR_02_snd_F",
+		//"arifle_SPAR_02_blk_F",		//Exile dupe warning
+		//"arifle_SPAR_02_khk_F",		//Exile dupe warning
+		//"arifle_SPAR_02_snd_F",		//Exile dupe warning
 		"arifle_SPAR_03_blk_F",
 		"arifle_SPAR_03_khk_F",
 		"arifle_SPAR_03_snd_F"
