@@ -175,7 +175,7 @@ APEXHeadgear
 ----------- hardware ----------
 Hardware
 ----------- building supplies ----------
-//CBuilding - no longer used
+CBuilding - exile wood and concrete building materials
 ExtendedBaseMod
 
 ----------- food ----------
