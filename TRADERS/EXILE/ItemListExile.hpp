@@ -426,9 +426,8 @@ class Exile_Item_InstaDoc                       { quality = 2; price = 1250; };
 class Exile_Item_Vishpirin						{ quality = 1; price = 300; };
 class Exile_Item_Bandage	                    { quality = 1; price = 100; };
 class Exile_Item_Heatpack	                    { quality = 1; price = 50; };
-class Exile_Item_Defibrillator				    { quality = 1; price = 4000; sellPrice = 1000;  };
-class rzinfection_antivirus_pills				{ quality = 1; price = 150; };
-class rzinfection_antivirus_injector			{ quality = 1; price = 400; };
+class Exile_Item_Defibrillator				    { quality = 1; price = 4000; sellPrice = 1000; };
+
 
 ///////////////////////////////////////////////////////////////////////////////
 // Tools

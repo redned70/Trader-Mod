@@ -479,8 +479,6 @@ class FirstAid
 		"Exile_Item_Bandage",
 		"Exile_Item_Vishpirin",
 		"Exile_Item_Heatpack"
-		//"rzinfection_antivirus_pills",
-    //"rzinfection_antivirus_injector",
         //"Exile_Item_Defibrillator"
 	};
 };
