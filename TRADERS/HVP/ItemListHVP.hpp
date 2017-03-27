@@ -86,6 +86,7 @@
 	class Mrshounka_corbillard_c_rose				{ quality = 1; price = 16000; }; 
 	class Mrshounka_corbillard_c_rouge				{ quality = 1; price = 16000; }; 
 	class Mrshounka_corbillard_c_violet				{ quality = 1; price = 16000; }; 
+	class Mrshounka_corbillard_c					{ quality = 1; price = 16000; }; 
 	/////////////////////////////////////////////////////////////////////////////// 
 	// superbees 
 	/////////////////////////////////////////////////////////////////////////////// 
@@ -163,7 +164,8 @@
 	class shounka_f430_spider_noir					{ quality = 1; price = 35000; }; 
 	class shounka_f430_spider_rose					{ quality = 1; price = 35000; }; 
 	class shounka_f430_spider_rouge					{ quality = 1; price = 35000; }; 
-	class shounka_f430_spider_violet				{ quality = 1; price = 35000; }; 
+	class shounka_f430_spider_violet				{ quality = 1; price = 35000; };
+	class shounka_f430_spider_orange				{ quality = 1; price = 35000; }; 
 	/////////////////////////////////////////////////////////////////////////////// 
 	// Lykan 
 	/////////////////////////////////////////////////////////////////////////////// 
