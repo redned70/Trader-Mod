@@ -19,7 +19,7 @@
 			"RHSForegripAttachments",
 			"MuzzleAttachments",
 			"APEXMuzzleAttachments",
-			"HLCMuzzleAttachments",
+			//"HLCMuzzleAttachments",		//should use NIArms
 			"CUPMuzzleAttachments",
 			"MASMuzzleAttachments",
 			"NIAMuzzleAttachments",
@@ -27,7 +27,7 @@
 			"RHSMuzzleAttachments",
 			"OpticAttachments",
 			"APEXOpticAttachments",
-			"HLCOpticAttachments",
+			//"HLCOpticAttachments",		//should use NIArms
 			"CUPOpticAttachments",
 			"MASOpticAttachments",
 			"NIAOpticAttachments",
@@ -37,7 +37,7 @@
 			"Ammunition",
 			"APEXAmmunition",
 			"GREFAmmunition",
-			"HLCAmmunition",
+			//"HLCAmmunition",		//should use NIArms
 			"CUPAmmunition",
 			"MASAmmunition",
 			"NIAAmmunition",
@@ -58,7 +58,7 @@
 			"RHSSubMachineGuns",
 			"LightMachineGuns",
 			"APEXLightMachineGuns",
-			"HLCLightMachineGuns",
+			//"HLCLightMachineGuns",		//should use NIArms
 			"CUPLightMachineGuns",
 			"MASLightMachineGuns",
 			"NIALightMachineGuns",
@@ -67,7 +67,7 @@
 			"AssaultRifles",
 			"APEXAssaultRifles",
 			"HAPASSAULTRIFLES",
-			"HLCAssaultRifles",
+			//"HLCAssaultRifles",		//should use NIArms
 			"CUPAssaultRifles",
 			"MASAssaultRifles",
 			"NIAAssaultRifles",
@@ -77,7 +77,7 @@
 			"SniperRifles",
 			"APEXSniperRifles",
 			"HAPSNIPERRIFLES",
-			"HLCSniperRifles",
+			//"HLCSniperRifles",		//should use NIArms
 			"HWPweapons",
 			"CUPSniperRifles",
 			"MASSniperRifles",

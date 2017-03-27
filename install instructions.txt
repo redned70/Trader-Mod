@@ -66,7 +66,7 @@ class CfgExileArsenal
 	#include "TRADERS\EBM\ItemListEBM.hpp"
 	#include "TRADERS\FMP\ItemListFMP.hpp"
 	#include "TRADERS\HAP\ItemListHAP.hpp"
-	#include "TRADERS\HLC\ItemListHLC.hpp"
+	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\ItemListHVP.hpp"
 	#include "TRADERS\HWP\ItemListHWP.hpp"
 	#include "TRADERS\Jonzie\ItemListJonzie.hpp"
@@ -98,7 +98,7 @@ class CfgTraderCategories
 	#include "TRADERS\EBM\TraderCategoriesEBM.hpp"
 	#include "TRADERS\FMP\TraderCategoriesFMP.hpp"	
 	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
-	#include "TRADERS\HLC\TraderCategoriesHLC.hpp"
+	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"
 	#include "TRADERS\HWP\TraderCategoriesHWP.hpp"
 	#include "TRADERS\Jonzie\TraderCategoriesJonzie.hpp"
