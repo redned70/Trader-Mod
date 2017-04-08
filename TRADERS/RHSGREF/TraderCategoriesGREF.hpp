@@ -123,10 +123,35 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
- 			"rhsgref_BRDM2",
- 			"rhsgref_BRDM2_ATGM",
- 			"rhsgref_BRDM2UM",
- 			"rhsgref_un_m1117"
+ 			"rhsgref_un_m1117",
+			"rhsgref_BRDM2",
+			"rhsgref_BRDM2UM",
+			"rhsgref_BRDM2UM_b",
+			"rhsgref_BRDM2UM_ins",
+			"rhsgref_BRDM2UM_ins_g",
+			"rhsgref_BRDM2UM_msv",
+			"rhsgref_BRDM2UM_vdv",
+			"rhsgref_BRDM2UM_vmf",
+			"rhsgref_BRDM2_ATGM",
+			"rhsgref_BRDM2_ATGM_b",
+			"rhsgref_BRDM2_ATGM_ins",
+			"rhsgref_BRDM2_ATGM_ins_g",
+			"rhsgref_BRDM2_ATGM_msv",
+			"rhsgref_BRDM2_ATGM_vdv",
+			"rhsgref_BRDM2_ATGM_vmf",
+			"rhsgref_BRDM2_HQ",
+			"rhsgref_BRDM2_HQ_b",
+			"rhsgref_BRDM2_HQ_ins",
+			"rhsgref_BRDM2_HQ_ins_g",
+			"rhsgref_BRDM2_HQ_msv",
+			"rhsgref_BRDM2_HQ_vdv",
+			"rhsgref_BRDM2_HQ_vmf",
+			"rhsgref_BRDM2_b",
+			"rhsgref_BRDM2_ins",
+			"rhsgref_BRDM2_ins_g",
+			"rhsgref_BRDM2_msv",
+			"rhsgref_BRDM2_vdv",
+			"rhsgref_BRDM2_vmf"
 		};
 	};
 
@@ -148,7 +173,9 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
 		{			
- 			"rhsgref_mi24g_CAS"
+				"rhsgref_mi24g_CAS",
+				"rhsgref_mi24g_FAB",
+				"rhsgref_mi24g_UPK23"
 		};
 	};
 	

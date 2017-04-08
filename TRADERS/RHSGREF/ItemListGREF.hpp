@@ -101,10 +101,35 @@
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF vehicle Armored
 	///////////////////////////////////////////////////////////////////////////////
-	class rhsgref_BRDM2									{ quality = 4; price = 99000; };
- 	class rhsgref_BRDM2_ATGM							{ quality = 4; price = 99000; }; 
- 	class rhsgref_BRDM2UM								{ quality = 4; price = 99000; }; 
  	class rhsgref_un_m1117								{ quality = 4; price = 99000; }; 
+ 	class rhsgref_BRDM2									{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_b								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_ins							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_ins_g							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_msv							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_vdv							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2UM_vmf							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_b							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_ins						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_ins_g						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_msv						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_vdv						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ATGM_vmf						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_b							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_ins							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_ins_g						{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_msv							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_vdv							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_HQ_vmf							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_b								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ins								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_ins_g							{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_msv								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_vdv								{ quality = 4; price = 99000; };
+ 	class rhsgref_BRDM2_vmf								{ quality = 4; price = 99000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF vehicle wheel
@@ -117,6 +142,8 @@
 	//  RHS GREF helicopters
 	/////////////////////////////////////////////////////////////////////////////// 
 	class rhsgref_mi24g_CAS								{ quality = 3; price = 99000; };
+	class rhsgref_mi24g_FAB								{ quality = 3; price = 99000; };
+	class rhsgref_mi24g_UPK23							{ quality = 3; price = 99000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF planes
