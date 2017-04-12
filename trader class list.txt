@@ -153,6 +153,7 @@ GREFUniforms
 TRYKUniforms
 Diving
 APEXUniforms
+CUPUniforms
 
 ----------- vests ----------
 Vests
@@ -161,6 +162,7 @@ RHSVests
 GREFVests
 TRYKVests
 APEXVests
+CUPVests
 
 ----------- headgear ----------
 Headgear
@@ -171,6 +173,7 @@ RHSHeadgear
 GREFHeadgear
 TRYKHeadgear
 APEXHeadgear
+CUPHeadgear
 
 ----------- hardware ----------
 Hardware
@@ -205,7 +208,7 @@ TRYKBackpacks
 APEXBackpacks
 RHSBackpacks // "RHS Backpacks" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
 RHSAccessories // "RHS Accessories" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
-
+CUPBackpacks
 
 ----------- bikes ----------
 Bikes
