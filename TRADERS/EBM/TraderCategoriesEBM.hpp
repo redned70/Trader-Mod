@@ -1,7 +1,7 @@
 /*Turn APEX Buildings on by removing the "//" at the beginning of the line.
 But be careful! People who don't have the APEX DLC can not see the Buildings! They can walk through them!!!!*/
 
-//#define USE_APEX_Buildings 1  //Don't remove this - Apex Buildings are fucked up :/
+//#define USE_APEX_Buildings 1
 
 class ExtendedBaseMod
 	{
@@ -13,9 +13,9 @@ class ExtendedBaseMod
 		"Land_HBarrier_3_F_Kit",
 		"Land_HBarrier_5_F_Kit",
 		"Land_BagBunker_Tower_F_Kit",
-		"CamoNet_OPFOR_open_F_Kit",
-		"CamoNet_INDP_open_F_Kit",
-		"CamoNet_BLUFOR_open_F_Kit",
+		//"CamoNet_OPFOR_open_F_Kit",Removed
+		//"CamoNet_INDP_open_F_Kit",Removed
+		//"CamoNet_BLUFOR_open_F_Kit",Removed
 		///////////////////////// V0.0.2
 		"Land_CncBarrier_F_Kit",
 		"Land_Stone_4m_F_Kit",
@@ -96,7 +96,7 @@ class ExtendedBaseMod
 		"Land_Cargo_addon02_V2_F_Kit", //Slumplane
 		"Land_TableDesk_F_Kit",
 		"Land_ToiletBox_F_Kit",
-		"Land_Pier_Box_F_Kit",
+		//"Land_Pier_Box_F_Kit",//  Removed!
 		///////////////////////// V0.1.8
 		"Land_ChairWood_F_Kit",
 		"BlockConcrete_F_Kit",
@@ -125,7 +125,7 @@ class ExtendedBaseMod
 		///////////////////////// V0.2.1 Hotfix
 		///////////////////////// V0.2.2
 		"Exile_Plant_GreenBush_Kit",
-		"Land_nav_pier_m_F_Kit",
+		//"Land_nav_pier_m_F_Kit",// Removed
 		"Land_SharpStone_01_F_Kit",
 		"Land_SharpStone_02_F_Kit",
 		"Land_Sleeping_bag_F_Kit",
@@ -149,38 +149,38 @@ class ExtendedBaseMod
 		"Land_Metal_rack_F_Kit",
 		"Land_Sink_F_Kit",
 		///////////////////////// V0.2.5
-		"Land_Atm_02_F_Kit",
+		//"Land_Atm_02_F_Kit",
 		///////////////////////// V0.2.6
-		/*#ifdef USE_APEX_Buildings  //Don't remove this - Apex Buildings are fucked up :/
-		"Land_PillboxBunker_01_big_F_Kit",
+		#ifdef USE_APEX_Buildings
+		//"Land_PillboxBunker_01_big_F_Kit",
 		"Land_BagBunker_01_small_green_F_Kit",
-		"Land_PillboxBunker_01_rectangle_F_Kit",
-		"Land_PillboxBunker_01_hex_F_Kit",
-		"Land_PillboxWall_01_3m_F_Kit",
-		"Land_PillboxWall_01_6m_F_Kit",
-		"Land_Airport_01_controlTower_F_Kit",
+		//"Land_PillboxBunker_01_rectangle_F_Kit",
+		//"Land_PillboxBunker_01_hex_F_Kit",
+		//"Land_PillboxWall_01_3m_F_Kit",
+		//"Land_PillboxWall_01_6m_F_Kit",
+		//"Land_Airport_01_controlTower_F_Kit",
 		"Land_HBarrier_01_line_3_green_F_Kit",
 		"Land_HBarrier_01_line_5_green_F_Kit",
 		"Land_HBarrier_01_tower_green_F_Kit", //name changed
-		"Land_trench_01_forest_F_Kit",
-		"Land_trench_01_grass_F_Kit",
-		"Land_GarageShelter_01_F_Kit", //V0.2.7
+		//"Land_trench_01_forest_F_Kit",
+		//"Land_trench_01_grass_F_Kit",
+		//"Land_GarageShelter_01_F_Kit", //V0.2.7
 		"Land_HBarrier_01_big_tower_green_F_Kit",//V0.2.8
 		"Land_Bagbunker_01_large_green_F_Kit",//V0.2.8
 		"Land_Bagfence_01_short_green_F_Kit",//V0.2.8
 		"Land_Bagfence_01_long_green_F_Kit",//V0.2.8
-		"Land_PetroglyphWall_02_F_Kit",//V0.2.8
-		"Land_PetroglyphWall_01_F_Kit",//V0.2.8
+		//"Land_PetroglyphWall_02_F_Kit",//V0.2.8
+		//"Land_PetroglyphWall_01_F_Kit",//V0.2.8
 		"Land_IRMaskingCover_02_F_Kit",//V0.2.8
 		"Land_IRMaskingCover_01_F_Kit",//V0.2.8
-		"Land_Breakwater_02_F_Kit",//V0.2.8
-		"Land_Breakwater_01_F_Kit",//V0.2.8
-		"Land_BasaltWall_01_gate_F_Kit",//V0.2.8
-		"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
-		"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
+		//"Land_Breakwater_02_F_Kit",//V0.2.8
+		//"Land_Breakwater_01_F_Kit",//V0.2.8
+		//"Land_BasaltWall_01_gate_F_Kit",//V0.2.8
+		//"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
+		//"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
 		"Land_Ammobox_rounds_F_Kit",//V0.2.8
 		"Land_Airport_01_hangar_F_Kit",//V0.2.8
-		#endif*/  //Don't remove this - Apex Buildings are fucked up :/
+		#endif
 		///////////////////////// V0.2.7
 		"Land_i_House_Small_03_V1_F_Kit",//Bungalow
 		"Land_i_House_Big_01_V2_F_Kit",
@@ -191,5 +191,109 @@ class ExtendedBaseMod
 		"Land_Suitcase_F_Kit",
 		"B_Slingload_01_fuel_F_Kit",
 		"B_Slingload_01_Ammo_F_Kit",
+		///////////////////////// V0.3.1 
+		"Land_FlatTV_01_F_Kit", //Thank you Kurewe for providing me those codes from here :) 
+		"Land_ChairPlastic_F_Kit",
+		"Land_GamingSet_01_console_F_Kit",
+		"Land_GamingSet_01_controller_F_Kit",
+		"Land_GymBench_01_F_Kit",
+		"Land_GymRack_03_F_Kit",
+		"Land_OfficeCabinet_01_F_Kit",
+		"Land_OfficeChair_01_F_Kit",
+		"Land_PCSet_01_case_F_Kit",
+		"Land_PCSet_01_keyboard_F_Kit",
+		"Land_PCSet_01_mouse_F_Kit",
+		"Land_PCSet_01_screen_F_Kit",
+		"Land_Printer_01_F_Kit",
+		"Land_RattanChair_01_F_Kit",
+		"Land_RattanTable_01_F_Kit",
+		"Land_Sleeping_bag_blue_F_Kit",
+		"Land_Sleeping_bag_brown_F_Kit",
+		"Land_Trophy_01_bronze_F_Kit",
+		"Land_Trophy_01_gold_F_Kit",
+		"Land_Trophy_01_silver_F_Kit",
+		"Land_Sun_chair_green_F_Kit",
+		"Land_Sunshade_01_F_Kit",
+		"Land_Sunshade_02_F_Kit",
+		"Land_Sunshade_03_F_Kit",
+		"Land_Sunshade_F_Kit",
+		"Land_TablePlastic_01_F_Kit",
+		"Land_WoodenTable_large_F_Kit",
+		"Land_WoodenTable_small_F_Kit",
+		"OfficeTable_01_new_F_Kit",
+		"Land_DieselGroundPowerUnit_01_F_Kit",
+		"Land_EngineCrane_01_F_Kit",
+		"Land_PalletTrolley_01_yellow_F_Kit",
+		"Land_PressureWasher_01_F_Kit",
+		"Land_WeldingTrolley_01_F_Kit",
+		"Land_Workbench_01_F_Kit",
+		"ArrowDesk_L_F_Kit",
+		"ArrowDesk_R_F_Kit",
+		"PlasticBarrier_02_grey_F_Kit",
+		"PlasticBarrier_02_yellow_F_Kit",
+		"PlasticBarrier_03_blue_F_Kit",
+		"PlasticBarrier_03_orange_F_Kit",
+		"RoadBarrier_F_Kit",
+		"RoadBarrier_small_F_Kit",
+		"RoadCone_F_Kit",
+		"RoadCone_L_F_Kit",
+		"TapeSign_F_Kit",
+		"Land_Target_Dueling_01_F_Kit",
+		"TargetP_Inf_F_Kit",
+		"Fridge_01_closed_F_Kit",
+		"Land_MetalCase_01_large_F_Kit",
+		"Land_Microwave_01_F_Kit",
+		"Land_ShelvesWooden_F_Kit",
+		"Land_ShelvesWooden_blue_F_Kit",
+		"Land_ShelvesWooden_khaki_F_Kit",
+		"Land_ToolTrolley_01_F_Kit",
+		"Land_ToolTrolley_02_F_Kit",
+		"Land_Sign_Mines_F_Kit",
+		"Land_PortableHelipadLight_01_F_Kit",
+		"PortableHelipadLight_01_blue_F_Kit",
+		"PortableHelipadLight_01_green_F_Kit",
+		"PortableHelipadLight_01_red_F_Kit",
+		"PortableHelipadLight_01_white_F_Kit",
+		"PortableHelipadLight_01_yellow_F_Kit", //Thank you Kurewe for providing me those codes until here :) 
+		"Land_GamingSet_01_powerSupply_F_Kit",
+		"Land_GamingSet_01_camera_F_Kit",
+		"WaterPump_01_forest_F_Kit",
+		"WaterPump_01_sand_F_Kit",
+		"Land_TripodScreen_01_large_F_Kit",
+		"Land_TripodScreen_01_dual_v2_F_Kit",
+		"Land_TripodScreen_01_dual_v1_F_Kit",
+		"TargetP_Inf_Acc2_F_Kit",
+		"TargetBootcampHuman_F_Kit",
+		"Target_F_Kit",
+		"Land_SatelliteAntenna_01_F_Kit",
+		"Land_Projector_01_F_Kit",
+		"Land_PortableGenerator_01_F_Kit",
+		"Land_Obstacle_Ramp_F_Kit",
+		"MetalBarrel_burning_F_Kit",
+		///////////////////////// V0.3.2
+		"EBM_Brickwall_window_Kit",
+		"EBM_Brickwall_stairs_Kit",
+		"EBM_Brickwall_floorport_door_Kit",
+		"EBM_Brickwall_floorport_Kit",
+		"EBM_Brickwall_floor_Kit",
+		"EBM_Brickwall_door_Kit",
+		"EBM_Brickwall_hole_Kit",
+		"EBM_Helipad_Kit",
+		"EBM_Airhook_Kit",
+		"EBM_Parksign_Kit",
+		"EBM_Brickwall_Kit",
+		///////////////////////// V0.3.3
+		/*"EBM_Metalwall_window_Kit",
+		"EBM_Metalwall_stairs_Kit",
+		"EBM_Metalwall_floorport_door_Kit",
+		"EBM_Metalwall_floorport_Kit",
+		"EBM_Metalwall_floor_Kit",
+		"EBM_Metalwall_door_Kit",
+		"EBM_Metalwall_hole_Kit",
+		"EBM_Metalwall_half_Kit",
+		"EBM_Metalwall_Kit",*/ //not recommended to turn them on, but if you want to, remove the /* */
+		"EBM_Medikit_Kit",
+		"EBM_pollard_Kit",
+		"EBM_ATM_Kit"
 		};
 	};
