@@ -152,34 +152,36 @@ class ExtendedBaseMod
 		//"Land_Atm_02_F_Kit",
 		///////////////////////// V0.2.6
 		#ifdef USE_APEX_Buildings
-		//"Land_PillboxBunker_01_big_F_Kit",
+		"Land_Airport_01_hangar_F_Kit",//V0.2.8
+		"Land_Ammobox_rounds_F_Kit",//V0.2.8
 		"Land_BagBunker_01_small_green_F_Kit",
-		//"Land_PillboxBunker_01_rectangle_F_Kit",
-		//"Land_PillboxBunker_01_hex_F_Kit",
-		//"Land_PillboxWall_01_3m_F_Kit",
-		//"Land_PillboxWall_01_6m_F_Kit",
-		//"Land_Airport_01_controlTower_F_Kit",
+		"Land_Bagbunker_01_large_green_F_Kit",//V0.2.8
+		"Land_Bagfence_01_long_green_F_Kit",//V0.2.8
+		"Land_Bagfence_01_short_green_F_Kit",//V0.2.8
+		"Land_HBarrier_01_big_tower_green_F_Kit",//V0.2.8
 		"Land_HBarrier_01_line_3_green_F_Kit",
 		"Land_HBarrier_01_line_5_green_F_Kit",
 		"Land_HBarrier_01_tower_green_F_Kit", //name changed
-		//"Land_trench_01_forest_F_Kit",
-		//"Land_trench_01_grass_F_Kit",
-		//"Land_GarageShelter_01_F_Kit", //V0.2.7
-		"Land_HBarrier_01_big_tower_green_F_Kit",//V0.2.8
-		"Land_Bagbunker_01_large_green_F_Kit",//V0.2.8
-		"Land_Bagfence_01_short_green_F_Kit",//V0.2.8
-		"Land_Bagfence_01_long_green_F_Kit",//V0.2.8
-		//"Land_PetroglyphWall_02_F_Kit",//V0.2.8
-		//"Land_PetroglyphWall_01_F_Kit",//V0.2.8
-		"Land_IRMaskingCover_02_F_Kit",//V0.2.8
 		"Land_IRMaskingCover_01_F_Kit",//V0.2.8
-		//"Land_Breakwater_02_F_Kit",//V0.2.8
-		//"Land_Breakwater_01_F_Kit",//V0.2.8
-		//"Land_BasaltWall_01_gate_F_Kit",//V0.2.8
-		//"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
-		//"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
-		"Land_Ammobox_rounds_F_Kit",//V0.2.8
-		"Land_Airport_01_hangar_F_Kit",//V0.2.8
+		"Land_IRMaskingCover_02_F_Kit",//V0.2.8
+		/* 
+		"Land_Airport_01_controlTower_F_Kit",
+		"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
+		"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
+		"Land_BasaltWall_01_gate_F_Kit",//V0.2.8
+		"Land_Breakwater_01_F_Kit",//V0.2.8
+		"Land_Breakwater_02_F_Kit",//V0.2.8
+		"Land_GarageShelter_01_F_Kit", //V0.2.7
+		"Land_PetroglyphWall_01_F_Kit",//V0.2.8
+		"Land_PetroglyphWall_02_F_Kit",//V0.2.8
+		"Land_PillboxBunker_01_big_F_Kit",
+		"Land_PillboxBunker_01_hex_F_Kit",
+		"Land_PillboxBunker_01_rectangle_F_Kit",
+		"Land_PillboxWall_01_3m_F_Kit",
+		"Land_PillboxWall_01_6m_F_Kit",
+		"Land_trench_01_forest_F_Kit",
+		"Land_trench_01_grass_F_Kit", 
+		*/
 		#endif
 		///////////////////////// V0.2.7
 		"Land_i_House_Small_03_V1_F_Kit",//Bungalow
@@ -192,7 +194,7 @@ class ExtendedBaseMod
 		"B_Slingload_01_fuel_F_Kit",
 		"B_Slingload_01_Ammo_F_Kit",
 		///////////////////////// V0.3.1 
-		"Land_FlatTV_01_F_Kit", //Thank you Kurewe for providing me those codes from here :) 
+		"Land_FlatTV_01_F_Kit",
 		"Land_ChairPlastic_F_Kit",
 		"Land_GamingSet_01_console_F_Kit",
 		"Land_GamingSet_01_controller_F_Kit",
@@ -254,7 +256,7 @@ class ExtendedBaseMod
 		"PortableHelipadLight_01_green_F_Kit",
 		"PortableHelipadLight_01_red_F_Kit",
 		"PortableHelipadLight_01_white_F_Kit",
-		"PortableHelipadLight_01_yellow_F_Kit", //Thank you Kurewe for providing me those codes until here :) 
+		"PortableHelipadLight_01_yellow_F_Kit",
 		"Land_GamingSet_01_powerSupply_F_Kit",
 		"Land_GamingSet_01_camera_F_Kit",
 		"WaterPump_01_forest_F_Kit",
@@ -291,7 +293,7 @@ class ExtendedBaseMod
 		"EBM_Metalwall_door_Kit",
 		"EBM_Metalwall_hole_Kit",
 		"EBM_Metalwall_half_Kit",
-		"EBM_Metalwall_Kit",*/ //not recommended to turn them on, but if you want to, remove the /* */
+		"EBM_Metalwall_Kit",*/
 		"EBM_Medikit_Kit",
 		"EBM_pollard_Kit",
 		"EBM_ATM_Kit"

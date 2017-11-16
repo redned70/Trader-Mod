@@ -20,7 +20,6 @@
 	class rhsgref_uniform_woodland						{ quality = 2; price = 150; };
 	class rhsgref_uniform_woodland_olive				{ quality = 2; price = 150; };
 	
-	
 	///////////////////////////////////////////////////////////////////////////////
 	//RHS GREF Vests
 	///////////////////////////////////////////////////////////////////////////////
@@ -80,28 +79,26 @@
 	class rhs_weap_m21s									{ quality = 2; price = 1500; };
 	class rhs_weap_m21s_fold							{ quality = 3; price = 1500; }; 
 	class rhs_weap_m21s_pr								{ quality = 2; price = 1500; };
+	class rhs_weap_m38									{ quality = 2; price = 1500; };
 	class rhs_weap_m70ab2								{ quality = 2; price = 1500; }; 
 	class rhs_weap_m70ab2_fold							{ quality = 3; price = 1500; }; 
 	class rhs_weap_m70b1								{ quality = 2; price = 1500; };
 	class rhs_weap_m76									{ quality = 2; price = 1500; };
 	class rhs_weap_m92									{ quality = 2; price = 1500; };
 	class rhs_weap_m92_fold								{ quality = 3; price = 1500; };   
-	class rhs_weap_m38									{ quality = 2; price = 1500; };
 	   
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF Ammunition
 	///////////////////////////////////////////////////////////////////////////////
-   	class rhsgref_5Rnd_792x57_kar98k					{ quality = 1; price = 75; };    
-   	class rhsgref_30rnd_556x45_m21						{ quality = 1; price = 75; };   
+	//class rhs_30Rnd_762x39mm							{ quality = 1; price = 75; };  // OLD AMMUNITION FROM RHS CAREFUL FOR DUPLICATES 
    	class rhsgref_10Rnd_792x57_m76						{ quality = 1; price = 75; };
+   	class rhsgref_30rnd_556x45_m21						{ quality = 1; price = 75; };   
    	class rhsgref_5Rnd_762x54_m38						{ quality = 1; price = 75; };
-	//class rhs_30Rnd_762x39mm							{ quality = 1; price = 75; };  // OLD AMMUNITION FROM RHS CAREFUL FOR DUPLICATES IF YOU HAD THESE ADDONS BEFORE
-    
+   	class rhsgref_5Rnd_792x57_kar98k					{ quality = 1; price = 75; };    
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF vehicle Armored
 	///////////////////////////////////////////////////////////////////////////////
- 	class rhsgref_un_m1117								{ quality = 4; price = 99000; }; 
  	class rhsgref_BRDM2									{ quality = 4; price = 99000; };
  	class rhsgref_BRDM2UM								{ quality = 4; price = 99000; };
  	class rhsgref_BRDM2UM_b								{ quality = 4; price = 99000; };
@@ -130,6 +127,7 @@
  	class rhsgref_BRDM2_msv								{ quality = 4; price = 99000; };
  	class rhsgref_BRDM2_vdv								{ quality = 4; price = 99000; };
  	class rhsgref_BRDM2_vmf								{ quality = 4; price = 99000; };
+ 	class rhsgref_un_m1117								{ quality = 4; price = 99000; }; 
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//  RHS GREF vehicle wheel
@@ -149,8 +147,8 @@
 	//  RHS GREF planes
 	/////////////////////////////////////////////////////////////////////////////// 
 	class RHS_AN2										{ quality = 1; price = 15000; };
+ 	class rhs_l159_CDF									{ quality = 3; price = 299999; };
  	class rhs_l159_CDF_CAP								{ quality = 3; price = 299999; };  
  	class rhs_l159_CDF_CAS								{ quality = 3; price = 299999; }; 
  	class rhs_l159_CDF_plamen							{ quality = 3; price = 299999; };
- 	class rhs_l159_CDF									{ quality = 3; price = 299999; };
  	class rhs_l39_cdf									{ quality = 3; price = 299999; };

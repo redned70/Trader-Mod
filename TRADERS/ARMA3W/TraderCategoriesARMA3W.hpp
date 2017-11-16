@@ -14,15 +14,15 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\cargothrow_ca.paa";
 		items[] = 
 		{
-			"launch_NLAW_F",
-			"launch_RPG32_F",
 			"launch_B_Titan_F",
-			"launch_I_Titan_F",
-			"launch_O_Titan_F",
-			"launch_Titan_F",
 			"launch_B_Titan_short_F",
-			"launch_I_Titan_short_F", 
-			"launch_O_Titan_short_F", 
+			"launch_I_Titan_F",
+			"launch_I_Titan_short_F",
+			"launch_NLAW_F",
+			"launch_O_Titan_F",
+			"launch_O_Titan_short_F",
+			"launch_RPG32_F",
+			"launch_Titan_F",
 			"launch_Titan_short_F"
 		};
 	};	
@@ -33,12 +33,12 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{	
-			"Titan_AA",	
-			"Titan_AT",
+			"NLAW_F",
+			"Titan_AA",
 			"Titan_AP",
-            "RPG32_HE_F",
-            "RPG32_F",			
-			"NLAW_F"			
+			"Titan_AT",
+            "RPG32_F",
+            "RPG32_HE_F"
 		};
 	};				
 			

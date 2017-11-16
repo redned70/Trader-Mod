@@ -183,6 +183,7 @@ ExtendedBaseMod
 
 ----------- food ----------
 Food
+NonVeganFood
 
 ----------- drinks ----------
 Drinks
@@ -222,6 +223,7 @@ A3Cars
 JonzieCars
 APEXCars
 FMPCars
+FOXCars
 
 ----------- trucks ----------
 Trucks
@@ -237,6 +239,8 @@ GREFUnarmed
 A3Trucks
 APEXTrucks
 FMPTrucks
+FOXTrucks
+
 ----------- tanks ----------
 MASTanks
 A3Tanks

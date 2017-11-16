@@ -5,48 +5,19 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v6.0 ***
+Added Fox vehicles - thanks to Bob_the_K for the list
+Updated CUP Weapons including removing dupe items - thanks to Bob_the_K for the list.
+Updated trader files to be sorted by name.
+Updated Exile files to latest.
 
-*** Update v5.6 ***
-Added a few new mods qubmitted by members of the community - thanks to everyone for files.
-Fixed a few typos
-
-*** Update v5.5 ***
-Removed ExtendedBaseMod from custom to its own mod folder.
-
-*** Update v5.4 ***
-Added NIArms mod - Thanks to Tobias Solem for the help
-
-*** Update v5.3 ***
-Updated missing APEX vehicles - thanks to [RG] Salutesh 
-
-*** Update v5.2 ***
-****** Added RHS GREF thanks to pomp4h ******
-
-*** 1.0.0 Update***
-New Exile trader: Diving 
-A3 Headgear is no longer required as it has now been put into the Exile default trader
-Apex addons done as separate file and load
-CfgTraders also now in separate file
-
->> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese 
->> commented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken
-
-***0.9.4 Update***
-Since update i have tried to match prices for active items (not CUPV or CUPW or TRYK as i dont use them). 
-******************
 NOTE RHS IS BOTH RUS AND USA.
 
-****** Added Jonzie thanks to XxFri3ndlyxX ******
-****** Added HAP thanks to XxFri3ndlyxX ******
-****** Thanks to XxFri3ndlyxX for fix to RHSW ******
-****** Fixed duplicate B_OutdoorPack_Base listing ******
-****** Fixed duplicate B_Kitbag_rgr listing ******
-
-***0.9.8 Update***
-****** Adjusted Exile items to match new item list ******
-****** Adjusted every "quality =" for a basic balance of purchasing (see mission config for "class requiredRespect") ******
-****** Added external load for "CfgTraders" to complete fully external loading of trader ******
-****** Exile now has new class "Shotguns" so be aware! ****** 
+****** Thanks to all the following for help ******
+****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******
+****** Tobias Solem, pomp4h, Bob_the_K		******
+****** Razor77, jmayr2000, C][G GhostTown™	******
+****** ElShotte, Killerpoodezz				******
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -66,6 +37,7 @@ class CfgExileArsenal
 	#include "TRADERS\CUPV\ItemListCUPV.hpp"
 	#include "TRADERS\EBM\ItemListEBM.hpp"
 	#include "TRADERS\FMP\ItemListFMP.hpp"
+	#include "TRADERS\FOX\ItemListFOX.hpp"
 	#include "TRADERS\HAP\ItemListHAP.hpp"
 	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\ItemListHVP.hpp"
@@ -99,6 +71,7 @@ class CfgTraderCategories
 	#include "TRADERS\CUPV\TraderCategoriesCUPV.hpp"
 	#include "TRADERS\EBM\TraderCategoriesEBM.hpp"
 	#include "TRADERS\FMP\TraderCategoriesFMP.hpp"	
+	#include "TRADERS\FOX\TraderCategoriesFOX.hpp"	
 	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
 	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"

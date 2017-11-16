@@ -107,13 +107,13 @@
  			"rhs_weap_m21s",
  			"rhs_weap_m21s_fold",
  			"rhs_weap_m21s_pr",
+ 			"rhs_weap_m38",
  			"rhs_weap_m70ab2",
  			"rhs_weap_m70ab2_fold",
  			"rhs_weap_m70b1",
  			"rhs_weap_m76",
  			"rhs_weap_m92",
- 			"rhs_weap_m92_fold",
- 			"rhs_weap_m38"
+ 			"rhs_weap_m92_fold"
 		};
 	};
 
@@ -123,7 +123,6 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
- 			"rhsgref_un_m1117",
 			"rhsgref_BRDM2",
 			"rhsgref_BRDM2UM",
 			"rhsgref_BRDM2UM_b",
@@ -151,7 +150,8 @@
 			"rhsgref_BRDM2_ins_g",
 			"rhsgref_BRDM2_msv",
 			"rhsgref_BRDM2_vdv",
-			"rhsgref_BRDM2_vmf"
+			"rhsgref_BRDM2_vmf",
+ 			"rhsgref_un_m1117"
 		};
 	};
 
@@ -186,10 +186,10 @@
 		items[] = 
 		{
  			"RHS_AN2",
+ 			"rhs_l159_CDF",
  			"rhs_l159_CDF_CAP",
  			"rhs_l159_CDF_CAS",
  			"rhs_l159_CDF_plamen",
- 			"rhs_l159_CDF",
  			"rhs_l39_cdf"
 		};
 	};	

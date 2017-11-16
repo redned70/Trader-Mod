@@ -1,59 +1,31 @@
-# Trader-Mod v5.8
+# Trader-Mod v6.0
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
 It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources including documentation on exilemod and in game from various places.<br>
 I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.<br>
 If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).<br>
-This file does not include how to install mods or add to loot tables as that is already well documented.<br>
+This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
-<b>v5.8 Update</b><br>
-EBM install instructions fix, thanks to Killerpoodezz for spotting.<br>
+<b>This is a major update so please report bugs on exilemod.com</b><br><br>
 
-<b>v5.7 Update</b><br>
-Updated RHS Weapons mod files by ElShotte.<br>
+<b>v6.0 Update</b><br>
+Added Fox vehicles - thanks to Bob_the_K for the list.<br>
+Updated CUP Weapons including removing dupe items - thanks to Bob_the_K for the list.<br>
+Updated trader files to be sorted by name.<br>
+Updated Exile files to latest.<br> 
 
-<b>v5.6 Update</b><br>
-Added RHSSAF mod files by ElShotte.<br>
-Fixed a few minor issues<br>
-
-<b>v5.5e Update</b><br>
-Added SMA mod files by jmayr2000.<br>
-
-<b>v5.5d Update</b><br>
-Updated classes in multiple mods - thanks SE7EN/Razor77.<br>
-
-<b>v5.5c Update</b><br>
-Fixed blank classes in Apex - thanks C][G GhostTown™.<br>
-
-<b>v5.5b Update</b><br>
-Fixed duplicated optics and missing rifle in NIA mod plus typo in install instructions - thanks C][G GhostTown™.<br>
-
-<b>v5.5 Update</b><br>
-Removed ExtendedBaseMod from custom to its own mod folder for ease of update (used default files inside mod including names).<br>
-
-<b>v5.4 Update</b><br>
-Added NIArms mod - Thanks to Tobias Solem for the help<br>
-
-<b>v5.3 Update</b><br>
-Added missing APEX vehicles<br>
-
-<b>v5.2 Update</b><br>
-Added RHS GREF mod<br>
-
-<b>1.0.0 Update</b><br>
-New Exile trader: Diving <br>
-A3 Headgear is no longer required as it has now been put into the Exile default trader<br>
-Apex addons done as separate file and load<br>
-CfgTraders also now in separate file<br>
-
->> added missing 2 Exile items: Exile_Item_Heatpack, Exile_Item_MacasCheese <br>
->> comented out CUPW CUP_arifle_Sa58RIS2_des as it seems to be broken<br>
-
+<br>
 NOTE RHS IS BOTH RUS AND USA.<br>
-
-****** Added Jonzie thanks to XxFri3ndlyxX ******<br>
-****** Added HAP thanks to XxFri3ndlyxX ******<br>
-****** Thanks to XxFri3ndlyxX for fix to RHSW ******<br>
-****** Fixed duplicate B_OutdoorPack_Base listing ******<br>
-****** Fixed duplicate B_Kitbag_rgr listing ******<br>
+<br><br>
+<b>***************************************************</b><br>
+<b>****** Thanks to all the following for help 	******</b><br>
+<b>****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******</b><br>
+<b>****** Tobias Solem, pomp4h, Bob_the_K		******</b><br>
+<b>****** Razor77, jmayr2000, C][G GhostTown™	******</b><br>
+<b>****** ElShotte, Killerpoodezz				******</b><br>
+<b>***************************************************</b><br>
+<br><br>
+<b>Big thanks to Exile Mod <a href="http://www.exilemod.com">http://www.exilemod.com</a></b><br>
+<br>
+<b>Orignal thread and support at <a href="http://www.exilemod.com/topic/8586-updated-easy-trader-set-up">http://www.exilemod.com/topic/8586-updated-easy-trader-set-up</a></b><br>

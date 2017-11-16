@@ -38,6 +38,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
+	//class	hlc_50rnd_762x51_M_M14					{ quality = 1; price = 30; };
 	class	29rnd_300BLK_STANAG						{ quality = 1; price = 30; };
 	class	29rnd_300BLK_STANAG_S					{ quality = 1; price = 30; };
 	class	29rnd_300BLK_STANAG_T					{ quality = 1; price = 30; };
@@ -86,7 +87,6 @@
 	class	hlc_45Rnd_762x39_t_rpk					{ quality = 1; price = 30; };
 	class	hlc_50rnd_762x51_M_FAL					{ quality = 1; price = 30; };
 	class	hlc_50rnd_762x51_M_G3					{ quality = 1; price = 30; };
-	//class	hlc_50rnd_762x51_M_M14					{ quality = 1; price = 30; };
 	class	hlc_75Rnd_762x39_m_rpk					{ quality = 1; price = 30; };
 	class	hlc_GRD_White							{ quality = 1; price = 30; };
 	class	hlc_GRD_blue							{ quality = 1; price = 30; };
@@ -100,82 +100,82 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
-	class 	hlc_smg_mp5k	 						{ quality = 1; price = 200; };
-	class	hlc_smg_mp5k_PDW						{ quality = 1; price = 250; };
+	class	hlc_rifle_auga2para						{ quality = 1; price = 250; };
+	class	hlc_rifle_augpara						{ quality = 1; price = 250; };
+	class	hlc_smg_9mmar							{ quality = 1; price = 250; };
+	class	hlc_smg_mp510							{ quality = 1; price = 250; };
 	class	hlc_smg_mp5a2							{ quality = 1; price = 250; };
 	class	hlc_smg_mp5a3							{ quality = 1; price = 250; };
 	class	hlc_smg_mp5a4							{ quality = 1; price = 250; };
+	class	hlc_smg_mp5k_PDW						{ quality = 1; price = 250; };
 	class	hlc_smg_mp5n							{ quality = 1; price = 250; };
-	class	hlc_smg_mp510							{ quality = 1; price = 250; };
 	class	hlc_smg_mp5sd5							{ quality = 1; price = 250; };
 	class	hlc_smg_mp5sd6							{ quality = 1; price = 250; };
-	class	hlc_smg_9mmar							{ quality = 1; price = 250; };
-	class	hlc_rifle_augpara						{ quality = 1; price = 250; };
-	class	hlc_rifle_auga2para						{ quality = 1; price = 250; };
+	class 	hlc_smg_mp5k	 						{ quality = 1; price = 200; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
 	///////////////////////////////////////////////////////////////////////////////	
-	class	hlc_rifle_RPK12							{ quality = 3; price = 800; };
 	class	hlc_rifle_rpk							{ quality = 3; price = 800; };
+	class	hlc_rifle_RPK12							{ quality = 3; price = 800; };
 	class	hlc_lmg_m60								{ quality = 3; price = 800; };
 	class	hlc_lmg_M60E4							{ quality = 3; price = 800; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
 	///////////////////////////////////////////////////////////////////////////////
+	class	HLC_Rifle_g3ka4_GL						{ quality = 3; price = 650; };
+	class	hlc_rifle_Bushmaster300					{ quality = 3; price = 650; };
+	class	hlc_rifle_CQBR					  		{ quality = 3; price = 800; };
+	class	hlc_rifle_Colt727						{ quality = 3; price = 650; };
+	class	hlc_rifle_Colt727_GL					{ quality = 3; price = 650; };
+	class	hlc_rifle_FAL5061						{ quality = 3; price = 650; };
+	class	hlc_rifle_LAR							{ quality = 3; price = 650; };
+	class	hlc_rifle_M4				        	{ quality = 3; price = 800; };
+	class	hlc_rifle_RU556							{ quality = 3; price = 650; };
+	class	hlc_rifle_RU5562						{ quality = 3; price = 650; };
+	class	hlc_rifle_SAMR							{ quality = 3; price = 650; };
+	class	hlc_rifle_SLR							{ quality = 3; price = 650; };
+	class	hlc_rifle_SLRchopmod					{ quality = 3; price = 650; };
+	class	hlc_rifle_STG58F						{ quality = 3; price = 650; };
+	class	hlc_rifle_aek971						{ quality = 3; price = 650; };
 	class	hlc_rifle_ak12							{ quality = 2; price = 350; };
 	class	hlc_rifle_ak47							{ quality = 3; price = 650; };
-	class	hlc_rifle_aek971						{ quality = 3; price = 650; };
-	class	hlc_rifle_aks74							{ quality = 3; price = 650; };
-	class	hlc_rifle_aks74_GL						{ quality = 3; price = 650; };
-	class	hlc_rifle_aks74u						{ quality = 3; price = 650; };
 	class	hlc_rifle_ak74							{ quality = 3; price = 650; };
 	class	hlc_rifle_akm							{ quality = 3; price = 650; };
 	class	hlc_rifle_akmgl							{ quality = 3; price = 650; };
-	class	hlc_rifle_l1a1slr						{ quality = 3; price = 650; };
-	class	hlc_rifle_SLR							{ quality = 3; price = 650; };
-	class	hlc_rifle_STG58F						{ quality = 3; price = 650; };
-	class	hlc_rifle_FAL5061						{ quality = 3; price = 650; };
-	class	hlc_rifle_c1A1							{ quality = 3; price = 650; };
-	class	hlc_rifle_LAR							{ quality = 3; price = 650; };
-	class	hlc_rifle_SLRchopmod					{ quality = 3; price = 650; };
-	class	hlc_rifle_falosw						{ quality = 3; price = 650; };
-	class	hlc_rifle_osw_GL						{ quality = 3; price = 650; };
-	class	hlc_rifle_g3sg1							{ quality = 3; price = 650; };
-	class	hlc_rifle_g3a3							{ quality = 3; price = 650; };
-	class	hlc_rifle_g3ka4							{ quality = 3; price = 650; };
-	class	HLC_Rifle_g3ka4_GL						{ quality = 3; price = 650; };
-	class	hlc_rifle_hk51							{ quality = 3; price = 650; };
-	class	hlc_rifle_hk53							{ quality = 3; price = 650; };
-	class	hlc_rifle_RU556							{ quality = 3; price = 650; };
-	class	hlc_rifle_RU5562						{ quality = 3; price = 650; };
-	class	hlc_rifle_Colt727						{ quality = 3; price = 650; };
-	class	hlc_rifle_Colt727_GL					{ quality = 3; price = 650; };
-	class	hlc_rifle_bcmjack						{ quality = 3; price = 650; };
-	class	hlc_rifle_Bushmaster300					{ quality = 3; price = 650; };
-	class	hlc_rifle_vendimus						{ quality = 3; price = 650; };
-	class	hlc_rifle_SAMR							{ quality = 3; price = 650; };
-	class	hlc_rifle_samr2							{ quality = 3; price = 650; };
-	class	hlc_rifle_honeybadger					{ quality = 3; price = 650; };
+	class	hlc_rifle_aks74							{ quality = 3; price = 650; };
+	class	hlc_rifle_aks74_GL						{ quality = 3; price = 650; };
+	class	hlc_rifle_aks74u						{ quality = 3; price = 650; };
 	class	hlc_rifle_aug							{ quality = 3; price = 650; };
 	class	hlc_rifle_auga1carb						{ quality = 3; price = 650; };
-	class	hlc_rifle_aughbar						{ quality = 3; price = 650; };
 	class	hlc_rifle_auga2							{ quality = 3; price = 650; };
 	class	hlc_rifle_auga2carb						{ quality = 3; price = 650; };
 	class	hlc_rifle_auga2lsw						{ quality = 3; price = 650; };
+	class	hlc_rifle_auga3							{ quality = 3; price = 650; };
+	class	hlc_rifle_auga3_GL  					{ quality = 3; price = 650; };
+	class	hlc_rifle_aughbar						{ quality = 3; price = 650; };
 	class	hlc_rifle_augsr							{ quality = 3; price = 650; };
 	class	hlc_rifle_augsrcarb						{ quality = 3; price = 650; };
 	class	hlc_rifle_augsrhbar						{ quality = 3; price = 650; };
-	class	hlc_rifle_auga3							{ quality = 3; price = 650; };
-	class	hlc_rifle_auga3_GL  					{ quality = 3; price = 650; };
-	class	hlc_rifle_CQBR					  		{ quality = 3; price = 800; };
+	class	hlc_rifle_bcmjack						{ quality = 3; price = 650; };
+	class	hlc_rifle_c1A1							{ quality = 3; price = 650; };
+	class	hlc_rifle_falosw						{ quality = 3; price = 650; };
+	class	hlc_rifle_g3a3							{ quality = 3; price = 650; };
+	class	hlc_rifle_g3ka4							{ quality = 3; price = 650; };
+	class	hlc_rifle_g3sg1							{ quality = 3; price = 650; };
+	class	hlc_rifle_hk51							{ quality = 3; price = 650; };
+	class	hlc_rifle_hk53							{ quality = 3; price = 650; };
+	class	hlc_rifle_honeybadger					{ quality = 3; price = 650; };
+	class	hlc_rifle_l1a1slr						{ quality = 3; price = 650; };
 	class	hlc_rifle_m4m203				 		{ quality = 3; price = 800; };
-	class	hlc_rifle_M4				        	{ quality = 3; price = 800; };
+	class	hlc_rifle_osw_GL						{ quality = 3; price = 650; };
+	class	hlc_rifle_samr2							{ quality = 3; price = 650; };
+	class	hlc_rifle_vendimus						{ quality = 3; price = 650; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Sniper Rifles
 	///////////////////////////////////////////////////////////////////////////////	
 	class	hlc_rifle_M21							{ quality = 3; price = 850; };
-	class	hlc_rifle_psg1							{ quality = 3; price = 850; };	
 	class	hlc_rifle_awmagnum_BL					{ quality = 3; price = 900; };
+	class	hlc_rifle_psg1							{ quality = 3; price = 850; };	

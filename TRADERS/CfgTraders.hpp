@@ -187,7 +187,8 @@
 		categories[] = 
 		{
 			"Food",
-			"Drinks"
+			"Drinks",
+			"NonVeganFood"
 		};
 	};
 
@@ -241,7 +242,9 @@
 			"A3Trucks",
 			"CUGVs",
 			"FMPCars",
-			"FMPTrucks"
+			"FMPTrucks",
+			"FOXCars",
+			"FOXTrucks"
 			//"MASTanks"
 			//"A3Tanks"	
 			//"UGV"	

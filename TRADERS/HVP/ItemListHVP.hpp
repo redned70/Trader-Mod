@@ -9,8 +9,8 @@
 	class Mrshounka_yamaha_p_j						{ quality = 1; price = 4000; }; 
 	class Mrshounka_yamaha_p_noir					{ quality = 1; price = 4000; }; 
 	class Mrshounka_yamaha_p_o						{ quality = 1; price = 4000; }; 
-	class Mrshounka_yamaha_p_rose					{ quality = 1; price = 4000; }; 
 	class Mrshounka_yamaha_p_r						{ quality = 1; price = 4000; }; 
+	class Mrshounka_yamaha_p_rose					{ quality = 1; price = 4000; }; 
 	class Mrshounka_yamaha_p_v						{ quality = 1; price = 4000; }; 
 	/////////////////////////////////////////////////////////////////////////////// 
 	// pugeot 

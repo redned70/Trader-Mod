@@ -5,58 +5,60 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_muzzle_snds_fal						{ quality = 2; price = 100; };
+	class hlc_muzzle_300blk_KAC						{ quality = 2; price = 100; };
 	class hlc_muzzle_545SUP_AK						{ quality = 2; price = 100; };
+	class hlc_muzzle_556NATO_KAC					{ quality = 2; price = 100; };
 	class hlc_muzzle_762SUP_AK						{ quality = 2; price = 100; };
 	class hlc_muzzle_Agendasix						{ quality = 2; price = 100; };
-	class hlc_muzzle_Tundra							{ quality = 2; price = 100; };
 	class hlc_muzzle_Agendasix10mm					{ quality = 2; price = 100; };
-	class hlc_muzzle_300blk_KAC						{ quality = 2; price = 100; };
-	class hlc_muzzle_556NATO_KAC					{ quality = 2; price = 100; };
+	class hlc_muzzle_Tundra							{ quality = 2; price = 100; };
 	class hlc_muzzle_snds_AUG						{ quality = 2; price = 100; };
-	class hlc_muzzle_snds_a6AUG						{ quality = 2; price = 100; };
-	class hlc_muzzle_snds_M14						{ quality = 2; price = 100; };
-	class hlc_muzzle_snds_g3						{ quality = 2; price = 100; };
 	class hlc_muzzle_snds_HK33						{ quality = 2; price = 100; };
+	class hlc_muzzle_snds_M14						{ quality = 2; price = 100; };
+	class hlc_muzzle_snds_a6AUG						{ quality = 2; price = 100; };
+	class hlc_muzzle_snds_fal						{ quality = 2; price = 100; };
+	class hlc_muzzle_snds_g3						{ quality = 2; price = 100; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Grips & Barrels
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_acc_Surefiregrip						{ quality = 2; price = 100; };
-	class hlc_barrel_standard						{ quality = 2; price = 100; };
+	class hlc_barrel_9mm							{ quality = 2; price = 100; };
 	class hlc_barrel_carbine						{ quality = 2; price = 100; };
 	class hlc_barrel_hbar							{ quality = 2; price = 100; };
-	class hlc_barrel_9mm							{ quality = 2; price = 100; };
+	class hlc_barrel_standard						{ quality = 2; price = 100; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class HLC_Optic_PSO1					{ quality = 1; price = 200; };
 	class HLC_Optic_1p29                    { quality = 1; price = 200; };
-	class hlc_optic_kobra					{ quality = 1; price = 200; };
-	class hlc_optic_goshawk					{ quality = 1; price = 200; };
-	class hlc_optic_suit					{ quality = 1; price = 200; };
-	class hlc_optic_PVS4FAL					{ quality = 1; price = 200; };
-	class HLC_Optic_G36dualoptic35x			{ quality = 1; price = 200; };
-	class HLC_Optic_G36dualoptic35x2d		{ quality = 1; price = 200; };
-	class HLC_Optic_G36Export35x			{ quality = 1; price = 200; };
-	class HLC_Optic_G36Export35x2d			{ quality = 1; price = 200; };
 	class HLC_Optic_G36Dualoptic15x			{ quality = 1; price = 200; };
 	class HLC_Optic_G36Dualoptic15x2d		{ quality = 1; price = 200; };
 	class HLC_Optic_G36Export15x			{ quality = 1; price = 200; };
 	class HLC_Optic_G36Export15x2d			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export35x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36Export35x2d			{ quality = 1; price = 200; };
+	class HLC_Optic_G36dualoptic35x			{ quality = 1; price = 200; };
+	class HLC_Optic_G36dualoptic35x2d		{ quality = 1; price = 200; };
+	class HLC_Optic_PSO1					{ quality = 1; price = 200; };
+	class HLC_Optic_ZFSG1					{ quality = 1; price = 200; };
 	class hlc_optic_Kern                    { quality = 1; price = 200; };
 	class hlc_optic_Kern2d					{ quality = 1; price = 200; };
-	class hlc_optic_artel_m14				{ quality = 1; price = 200; };
-	class hlc_optic_PVS4M14					{ quality = 1; price = 200; };
 	class hlc_optic_LRT_m14					{ quality = 1; price = 200; };
-	class HLC_Optic_ZFSG1					{ quality = 1; price = 200; };
-	class hlc_optic_accupoint_g3			{ quality = 1; price = 200; };
+	class hlc_optic_PVS4FAL					{ quality = 1; price = 200; };
 	class hlc_optic_PVS4G3					{ quality = 1; price = 200; };
+	class hlc_optic_PVS4M14					{ quality = 1; price = 200; };
+	class hlc_optic_accupoint_g3			{ quality = 1; price = 200; };
+	class hlc_optic_artel_m14				{ quality = 1; price = 200; };
+	class hlc_optic_goshawk					{ quality = 1; price = 200; };
+	class hlc_optic_kobra					{ quality = 1; price = 200; };
+	class hlc_optic_suit					{ quality = 1; price = 200; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition - 70 new items & removed 12 broken
 	///////////////////////////////////////////////////////////////////////////////
+	//class hlc_50Rnd_44mag_FUN             		{ quality = 1; price = 50; };	//FUN?? disabled as i think this could be OP
+	//class hlc_50rnd_762x51_M_M14	                { quality = 1; price = 60; };		//didnt show in ammo dump file
 	class 29rnd_300BLK_STANAG                       { quality = 1; price = 30; };
 	class 29rnd_300BLK_STANAG_S                     { quality = 1; price = 30; };
 	class 29rnd_300BLK_STANAG_T                     { quality = 1; price = 30; };
@@ -175,7 +177,6 @@
 	class hlc_500rnd_762x51_Belt	                { quality = 1; price = 1000; };
 	class hlc_500rnd_762x51_Cinematic               { quality = 6; price = 1000; };
 	class hlc_50Rnd_44mag_B_deagle             		{ quality = 1; price = 50; };
-	//class hlc_50Rnd_44mag_FUN             			{ quality = 1; price = 50; };	//FUN?? disabled as i think this could be OP
 	class hlc_50Rnd_45ACP_B_1921             		{ quality = 1; price = 50; };
 	class hlc_50Rnd_45ACP_T_1921             		{ quality = 1; price = 50; };
 	class hlc_50Rnd_57x28_FMJ_P90             		{ quality = 1; price = 50; };
@@ -199,7 +200,6 @@
 	class hlc_5Rnd_12G_Slug_Trench                  { quality = 1; price = 30; }
 	class hlc_5Rnd_792_AP_Kar98                   	{ quality = 1; price = 30; }
 	class hlc_5Rnd_792_T_Kar98	                    { quality = 1; price = 30; }
-	//class hlc_50rnd_762x51_M_M14	                { quality = 1; price = 60; };		//didnt show in ammo dump file
 	class hlc_5rnd_3006_1903	                    { quality = 1; price = 30; };
 	class hlc_5rnd_300WM_AP_AWM                     { quality = 1; price = 30; };
 	class hlc_5rnd_300WM_BTSP_AWM                   { quality = 1; price = 30; };
@@ -226,181 +226,181 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Smoke & HE
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_VOG25_AK								{ quality = 1; price = 30; };
 	class hlc_GRD_White                            	{ quality = 1; price = 30; };
-	class hlc_GRD_red                              	{ quality = 1; price = 30; };
-	class hlc_GRD_green                            	{ quality = 1; price = 30; };
 	class hlc_GRD_blue                             	{ quality = 1; price = 30; };
+	class hlc_GRD_green                            	{ quality = 1; price = 30; };
 	class hlc_GRD_orange                           	{ quality = 1; price = 30; };
 	class hlc_GRD_purple                           	{ quality = 1; price = 30; };
+	class hlc_GRD_red                              	{ quality = 1; price = 30; };
 	class hlc_GRD_yellow                           	{ quality = 1; price = 30; };	
+	class hlc_VOG25_AK								{ quality = 1; price = 30; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//	NIArsenal AK Rifles
 	///////////////////////////////////////////////////////////////////////////////
+	//class hlc_rifle_aek971						{ quality = 2; price = 1000; }; //- ZID AEK971S, Worn (Textuere variant) Duplicate name**
+	class hlc_rifle_RK62                            { quality = 2; price = 1000; };
+	class hlc_rifle_aek971                          { quality = 2; price = 1000; };
+	class hlc_rifle_aek971_mtk                      { quality = 2; price = 1000; };
+	class hlc_rifle_ak12                            { quality = 2; price = 1000; };
+	class hlc_rifle_ak12gl                          { quality = 2; price = 1000; };
+	class hlc_rifle_ak47                            { quality = 2; price = 1000; };
 	class hlc_rifle_ak74							{ quality = 2; price = 1000; };
 	class hlc_rifle_ak74_MTK                        { quality = 2; price = 1000; };
 	class hlc_rifle_ak74_dirty                      { quality = 2; price = 1000; };
 	class hlc_rifle_ak74_dirty2                     { quality = 2; price = 1000; };
+	class hlc_rifle_ak74m                           { quality = 2; price = 1000; };
+	class hlc_rifle_ak74m_MTK	                    { quality = 2; price = 1000; };
+	class hlc_rifle_ak74m_gl                        { quality = 2; price = 1000; };
+	class hlc_rifle_akm                             { quality = 2; price = 1000; };
+	class hlc_rifle_akm_MTK                         { quality = 2; price = 1000; };
+	class hlc_rifle_akmgl                           { quality = 2; price = 1000; };
 	class hlc_rifle_aks74                           { quality = 2; price = 1000; };
+	class hlc_rifle_aks74_GL                        { quality = 2; price = 1000; };
 	class hlc_rifle_aks74_MTK                       { quality = 2; price = 1000; };
 	class hlc_rifle_aks74u                          { quality = 2; price = 1000; };
 	class hlc_rifle_aks74u_MTK                      { quality = 2; price = 1000; };
-	class hlc_rifle_ak47                            { quality = 2; price = 1000; };
-	class hlc_rifle_akm                             { quality = 2; price = 1000; };
-	class hlc_rifle_akm_MTK                         { quality = 2; price = 1000; };
-	class hlc_rifle_rpk                             { quality = 2; price = 1000; };
-	class hlc_rifle_ak12                            { quality = 2; price = 1000; };
 	class hlc_rifle_aku12                           { quality = 2; price = 1000; };
+	class hlc_rifle_rpk                             { quality = 2; price = 1000; };
 	class hlc_rifle_rpk12                           { quality = 2; price = 1000; };
 	class hlc_rifle_rpk74n                          { quality = 2; price = 1000; };
-	class hlc_rifle_ak12gl                          { quality = 2; price = 1000; };
-	class hlc_rifle_akmgl                           { quality = 2; price = 1000; };
-	class hlc_rifle_aks74_GL                        { quality = 2; price = 1000; };
 	class hlc_rifle_saiga12k                        { quality = 2; price = 1000; };
-	class hlc_rifle_aek971                          { quality = 2; price = 1000; };
-	//class hlc_rifle_aek971						{ quality = 2; price = 1000; }; //- ZID AEK971S, Worn (Textuere variant) Duplicate name**
-	class hlc_rifle_aek971_mtk                      { quality = 2; price = 1000; };
-	class hlc_rifle_RK62                            { quality = 2; price = 1000; };
 	class hlc_rifle_slr107u                         { quality = 2; price = 1000; };
 	class hlc_rifle_slr107u_MTK                     { quality = 2; price = 1000; };
-	class hlc_rifle_ak74m                           { quality = 2; price = 1000; };
-	class hlc_rifle_ak74m_gl                        { quality = 2; price = 1000; };
-	class hlc_rifle_ak74m_MTK	                    { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArsenal AR15 Rifles
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_rifle_RU556                          { quality = 2; price = 1000; };
-	class hlc_rifle_RU5562                         { quality = 2; price = 1000; };
+	class hlc_rifle_Bushmaster300                  { quality = 2; price = 1000; };
 	class hlc_rifle_Colt727                        { quality = 2; price = 1000; };
 	class hlc_rifle_Colt727_GL                     { quality = 2; price = 1000; };
-	class hlc_rifle_bcmjack                        { quality = 2; price = 1000; };
-	class hlc_rifle_Bushmaster300                  { quality = 2; price = 1000; };
-	class hlc_rifle_vendimus                       { quality = 2; price = 1000; };
+	class hlc_rifle_RU556                          { quality = 2; price = 1000; };
+	class hlc_rifle_RU5562                         { quality = 2; price = 1000; };
 	class hlc_rifle_SAMR                           { quality = 2; price = 1000; };
-	class hlc_rifle_honeybase                      { quality = 2; price = 1000; };
+	class hlc_rifle_bcmjack                        { quality = 2; price = 1000; };
 	class hlc_rifle_honeybadger                    { quality = 2; price = 1000; };
+	class hlc_rifle_honeybase                      { quality = 2; price = 1000; };
+	class hlc_rifle_vendimus                       { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//NIArsenal AUG Rifles
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_rifle_aug                           { quality = 2; price = 1000; };
-	class hlc_rifle_auga1_t                       { quality = 2; price = 1000; };
 	class hlc_rifle_auga1_B                       { quality = 2; price = 1000; };
+	class hlc_rifle_auga1_t                       { quality = 2; price = 1000; };
 	class hlc_rifle_auga1carb                     { quality = 2; price = 1000; };
-	class hlc_rifle_auga1carb_t                   { quality = 2; price = 1000; };
 	class hlc_rifle_auga1carb_b                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga1carb_t                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga2                         { quality = 2; price = 1000; };
+	class hlc_rifle_auga2_b                       { quality = 2; price = 1000; };
+	class hlc_rifle_auga2_t                       { quality = 2; price = 1000; };
+	class hlc_rifle_auga2carb                     { quality = 2; price = 1000; };
+	class hlc_rifle_auga2carb_b                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga2carb_t                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga2lsw                      { quality = 2; price = 1000; };
+	class hlc_rifle_auga2lsw_b                    { quality = 2; price = 1000; };
+	class hlc_rifle_auga2lsw_t                    { quality = 2; price = 1000; };
+	class hlc_rifle_auga2para                     { quality = 2; price = 1000; };
+	class hlc_rifle_auga2para_b                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga2para_t                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga3                         { quality = 2; price = 1000; };
+	class hlc_rifle_auga3_GL                      { quality = 2; price = 1000; };
+	class hlc_rifle_auga3_GL_B                    { quality = 2; price = 1000; };
+	class hlc_rifle_auga3_GL_BL                   { quality = 2; price = 1000; };
+	class hlc_rifle_auga3_b                       { quality = 2; price = 1000; };
+	class hlc_rifle_auga3_bl                      { quality = 2; price = 1000; };
 	class hlc_rifle_aughbar                       { quality = 2; price = 1000; };
 	class hlc_rifle_aughbar_b                     { quality = 2; price = 1000; };
 	class hlc_rifle_aughbar_t                     { quality = 2; price = 1000; };
 	class hlc_rifle_augpara                       { quality = 2; price = 1000; };
 	class hlc_rifle_augpara_b                     { quality = 2; price = 1000; };
 	class hlc_rifle_augpara_t                     { quality = 2; price = 1000; };
-	class hlc_rifle_auga2                         { quality = 2; price = 1000; };
-	class hlc_rifle_auga2_b                       { quality = 2; price = 1000; };
-	class hlc_rifle_auga2_t                       { quality = 2; price = 1000; };
-	class hlc_rifle_auga2carb                     { quality = 2; price = 1000; };
-	class hlc_rifle_auga2carb_t                   { quality = 2; price = 1000; };
-	class hlc_rifle_auga2carb_b                   { quality = 2; price = 1000; };
-	class hlc_rifle_auga2lsw                      { quality = 2; price = 1000; };
-	class hlc_rifle_auga2lsw_t                    { quality = 2; price = 1000; };
-	class hlc_rifle_auga2lsw_b                    { quality = 2; price = 1000; };
-	class hlc_rifle_auga2para                     { quality = 2; price = 1000; };
-	class hlc_rifle_auga2para_b                   { quality = 2; price = 1000; };
-	class hlc_rifle_auga2para_t                   { quality = 2; price = 1000; };
 	class hlc_rifle_augsr                         { quality = 2; price = 1000; };
 	class hlc_rifle_augsr_b                       { quality = 2; price = 1000; };
 	class hlc_rifle_augsr_t                       { quality = 2; price = 1000; };
 	class hlc_rifle_augsrcarb                     { quality = 2; price = 1000; };
-	class hlc_rifle_augsrcarb_t                   { quality = 2; price = 1000; };
 	class hlc_rifle_augsrcarb_b                   { quality = 2; price = 1000; };
+	class hlc_rifle_augsrcarb_t                   { quality = 2; price = 1000; };
 	class hlc_rifle_augsrhbar                     { quality = 2; price = 1000; };
 	class hlc_rifle_augsrhbar_b                   { quality = 2; price = 1000; };
 	class hlc_rifle_augsrhbar_t                   { quality = 2; price = 1000; };
-	class hlc_rifle_auga3                         { quality = 2; price = 1000; };
-	class hlc_rifle_auga3_bl                      { quality = 2; price = 1000; };
-	class hlc_rifle_auga3_b                       { quality = 2; price = 1000; };
-	class hlc_rifle_auga3_GL                      { quality = 2; price = 1000; };
-	class hlc_rifle_auga3_GL_BL                   { quality = 2; price = 1000; };
-	class hlc_rifle_auga3_GL_B                    { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArms Arctic Warfare Magnum/Arctic Warfare Covert-Magnum
 	///////////////////////////////////////////////////////////////////////////////
+	class hlc_rifle_awMagnum_BL_ghillie           { quality = 2; price = 1000; };
+	class hlc_rifle_awMagnum_FDE_ghillie          { quality = 2; price = 1000; };
+	class hlc_rifle_awMagnum_OD_ghillie	          { quality = 2; price = 1000; };
 	class hlc_rifle_awcovert                      { quality = 2; price = 1000; };
 	class hlc_rifle_awcovert_BL                   { quality = 2; price = 1000; };
 	class hlc_rifle_awcovert_FDE                  { quality = 2; price = 1000; };
 	class hlc_rifle_awmagnum                      { quality = 2; price = 1000; };
 	class hlc_rifle_awmagnum_BL                   { quality = 2; price = 1000; };
 	class hlc_rifle_awmagnum_FDE                  { quality = 2; price = 1000; };
-	class hlc_rifle_awMagnum_FDE_ghillie          { quality = 2; price = 1000; };
-	class hlc_rifle_awMagnum_BL_ghillie           { quality = 2; price = 1000; };
-	class hlc_rifle_awMagnum_OD_ghillie	          { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArsenal FAL Rifles
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_rifle_l1a1slr                       { quality = 2; price = 950; };
-	class hlc_rifle_SLR                           { quality = 2; price = 950; };
-	class hlc_rifle_STG58F                        { quality = 2; price = 950; };
-	class hlc_rifle_FAL5061                       { quality = 2; price = 950; };
-	class hlc_rifle_FAL5061Rail                   { quality = 2; price = 950; };
 	class hlc_rifle_FAL5000                       { quality = 2; price = 950; };
 	class hlc_rifle_FAL5000Rail                   { quality = 2; price = 950; };
-	class hlc_rifle_c1A1                          { quality = 2; price = 950; };
+	class hlc_rifle_FAL5061                       { quality = 2; price = 950; };
+	class hlc_rifle_FAL5061Rail                   { quality = 2; price = 950; };
 	class hlc_rifle_LAR                           { quality = 2; price = 950; };
+	class hlc_rifle_SLR                           { quality = 2; price = 950; };
 	class hlc_rifle_SLRchopmod                    { quality = 2; price = 950; };
+	class hlc_rifle_STG58F                        { quality = 2; price = 950; };
+	class hlc_rifle_c1A1                          { quality = 2; price = 950; };
 	class hlc_rifle_falosw                        { quality = 2; price = 950; };
+	class hlc_rifle_l1a1slr                       { quality = 2; price = 950; };
 	class hlc_rifle_osw_GL	                      { quality = 2; price = 950; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArms G3 Rifles
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_rifle_g3sg1                        { quality = 2; price = 950; };
-	class hlc_rifle_psg1                         { quality = 2; price = 950; };
+	class HLC_Rifle_g3ka4_GL                     { quality = 2; price = 950; };
+	class hlc_rifle_PSG1A1_RIS                   { quality = 2; price = 950; };
 	class hlc_rifle_g3a3                         { quality = 2; price = 950; };
 	class hlc_rifle_g3a3ris                      { quality = 2; price = 950; };
+	class hlc_rifle_g3a3v	                     { quality = 2; price = 950; };
 	class hlc_rifle_g3ka4                        { quality = 2; price = 950; };
-	class HLC_Rifle_g3ka4_GL                     { quality = 2; price = 950; };
+	class hlc_rifle_g3sg1                        { quality = 2; price = 950; };
+	class hlc_rifle_hk33a2                       { quality = 2; price = 950; };
+	class hlc_rifle_hk33a2RIS                    { quality = 2; price = 950; };
 	class hlc_rifle_hk51                         { quality = 2; price = 950; };
 	class hlc_rifle_hk53                         { quality = 2; price = 950; };
 	class hlc_rifle_hk53RAS                      { quality = 2; price = 950; };
-	class hlc_rifle_hk33a2                       { quality = 2; price = 950; };
-	class hlc_rifle_hk33a2RIS                    { quality = 2; price = 950; };
+	class hlc_rifle_psg1                         { quality = 2; price = 950; };
 	class hlc_rifle_psg1A1                       { quality = 2; price = 950; };
-	class hlc_rifle_PSG1A1_RIS                   { quality = 2; price = 950; };
-	class hlc_rifle_g3a3v	                     { quality = 2; price = 950; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// NIArms G36 Rifles
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_rifle_G36A1                        { quality = 2; price = 950; };
 	class hlc_rifle_G36A1AG36                    { quality = 2; price = 950; };
-	class hlc_rifle_G36KA1                       { quality = 2; price = 950; };
 	class hlc_rifle_G36C                         { quality = 2; price = 950; };
+	class hlc_rifle_G36CMLIC                     { quality = 2; price = 950; };
+	class hlc_rifle_G36CTAC                      { quality = 2; price = 950; };
+	class hlc_rifle_G36CV                        { quality = 2; price = 950; };
 	class hlc_rifle_G36E1                        { quality = 2; price = 950; };
 	class hlc_rifle_G36E1AG36                    { quality = 2; price = 950; };
+	class hlc_rifle_G36KA1                       { quality = 2; price = 950; };
 	class hlc_rifle_G36KE1                       { quality = 2; price = 950; };
-	class hlc_rifle_G36V                         { quality = 2; price = 950; };
-	class hlc_rifle_G36KV                        { quality = 2; price = 950; };
-	class hlc_rifle_G36CV                        { quality = 2; price = 950; };
-	class hlc_rifle_G36VAG36                     { quality = 2; price = 950; };
-	class hlc_rifle_G36TAC                       { quality = 2; price = 950; };
-	class hlc_rifle_G36KTAC                      { quality = 2; price = 950; };
-	class hlc_rifle_G36CTAC                      { quality = 2; price = 950; };
-	class hlc_rifle_G36MLIC                      { quality = 2; price = 950; };
 	class hlc_rifle_G36KMLIC                     { quality = 2; price = 950; };
-	class hlc_rifle_G36CMLIC                     { quality = 2; price = 950; };
+	class hlc_rifle_G36KTAC                      { quality = 2; price = 950; };
+	class hlc_rifle_G36KV                        { quality = 2; price = 950; };
 	class hlc_rifle_G36MLIAG36                   { quality = 2; price = 950; };
+	class hlc_rifle_G36MLIC                      { quality = 2; price = 950; };
+	class hlc_rifle_G36TAC                       { quality = 2; price = 950; };
+	class hlc_rifle_G36V                         { quality = 2; price = 950; };
+	class hlc_rifle_G36VAG36                     { quality = 2; price = 950; };
 	class hlc_rifle_MG36	                     { quality = 2; price = 950; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// NIArms M14 Rifles
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_rifle_M14                         { quality = 2; price = 1000; };
-	class hlc_rifle_M21                         { quality = 2; price = 1000; };
 	class hlc_rifle_M14DMR                      { quality = 2; price = 1000; };
+	class hlc_rifle_M21                         { quality = 2; price = 1000; };
 	class hlc_rifle_m14sopmod	                { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -412,57 +412,52 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// NIArms MP5 SMGs
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_smg_mp5k_PDW                     { quality = 2; price = 900; };
-	class hlc_smg_mp5k                         { quality = 2; price = 900; };
+	class hlc_smg_9mmar                        { quality = 2; price = 900; };
+	class hlc_smg_mp510                        { quality = 2; price = 900; };
 	class hlc_smg_mp5a2                        { quality = 2; price = 900; };
 	class hlc_smg_mp5a3                        { quality = 2; price = 900; };
 	class hlc_smg_mp5a4                        { quality = 2; price = 900; };
+	class hlc_smg_mp5k                         { quality = 2; price = 900; };
+	class hlc_smg_mp5k_PDW                     { quality = 2; price = 900; };
 	class hlc_smg_mp5n                         { quality = 2; price = 900; };
-	class hlc_smg_mp510                        { quality = 2; price = 900; };
 	class hlc_smg_mp5sd5                       { quality = 2; price = 900; };
 	class hlc_smg_mp5sd6                       { quality = 2; price = 900; };
-	class hlc_smg_9mmar                        { quality = 2; price = 900; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArms SAWs
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_lmg_minimipara                   { quality = 2; price = 1000; };
+	class hlc_lmg_M249E2                       { quality = 2; price = 1000; };
+	class hlc_lmg_m249para                     { quality = 2; price = 1000; };
 	class hlc_lmg_minimi                       { quality = 2; price = 1000; };
 	class hlc_lmg_minimi_railed                { quality = 2; price = 1000; };
-	class hlc_lmg_m249para                     { quality = 2; price = 1000; };
-	class hlc_lmg_M249E2                       { quality = 2; price = 1000; };
+	class hlc_lmg_minimipara                   { quality = 2; price = 1000; };
+	class hlc_lmg_mk48                         { quality = 2; price = 1000; };
 	class hlc_m249_pip1                        { quality = 2; price = 1000; };
 	class hlc_m249_pip2                        { quality = 2; price = 1000; };
 	class hlc_m249_pip3                        { quality = 2; price = 1000; };
 	class hlc_m249_pip4                        { quality = 2; price = 1000; };
-	class hlc_lmg_mk48                         { quality = 2; price = 1000; };
-
-
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArms SG510 Rifles
 	///////////////////////////////////////////////////////////////////////////////
 	class hlc_rifle_STGW57                    { quality = 2; price = 1000; };
+	class hlc_rifle_amt                       { quality = 2; price = 1000; };
+	class hlc_rifle_sig5104                   { quality = 2; price = 1000; };
 	class hlc_rifle_stgw57_RIS                { quality = 2; price = 1000; };
 	class hlc_rifle_stgw57_commando           { quality = 2; price = 1000; };
-	class hlc_rifle_sig5104                   { quality = 2; price = 1000; };
-	class hlc_rifle_amt                       { quality = 2; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//  NIArms M1903 Springfield Rifles
 	///////////////////////////////////////////////////////////////////////////////
-	class hlc_rifle_M1903A1_unertl            { quality = 2; price = 1000; };
-	class hlc_rifle_M1903A1                   { quality = 2; price = 1000; };
-	class hlc_rifle_M1903A1OMR				  { quality = 2; price = 1000; };
-
-	class hlc_rifle_bcmblackjack			 { quality = 2; price = 900; };
-	class hlc_rifle_FAL5000_RH			 	 { quality = 2; price = 900; };
-
-	class hlc_rifle_g3a3vris			 	 { quality = 2; price = 900; };
-
-	class hlc_lmg_MG42			  			 { quality = 2; price = 1000; };
-	class hlc_lmg_mg42kws_b			  		 { quality = 2; price = 1000; };
-	class hlc_lmg_mg42kws_g			  		 { quality = 2; price = 1000; };
-	class hlc_lmg_MG42KWS_t			 		 { quality = 2; price = 1000; };
 	class hlc_lmg_MG3KWS_b			 		 { quality = 2; price = 1000; };
 	class hlc_lmg_MG3KWS_g			 		 { quality = 2; price = 1000; };
+	class hlc_lmg_MG42			  			 { quality = 2; price = 1000; };
+	class hlc_lmg_MG42KWS_t			 		 { quality = 2; price = 1000; };
+	class hlc_lmg_mg42kws_b			  		 { quality = 2; price = 1000; };
+	class hlc_lmg_mg42kws_g			  		 { quality = 2; price = 1000; };
+	class hlc_rifle_FAL5000_RH			 	 { quality = 2; price = 900; };
+	class hlc_rifle_M1903A1                   { quality = 2; price = 1000; };
+	class hlc_rifle_M1903A1OMR				  { quality = 2; price = 1000; };
+	class hlc_rifle_M1903A1_unertl            { quality = 2; price = 1000; };
+	class hlc_rifle_bcmblackjack			 { quality = 2; price = 900; };
+	class hlc_rifle_g3a3vris			 	 { quality = 2; price = 900; };
