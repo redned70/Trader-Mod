@@ -1,9 +1,9 @@
-class FFAAHeadgear
- {
+	class FFAAHeadgear
+	{
      name = "FFAA Headgear";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_ar_gorra_marinero",
 			"ffaa_brilat_bonia",
 			"ffaa_brilat_casco_b",
@@ -29,14 +29,14 @@ class FFAAHeadgear
 			"ffaa_moe_casco_02_3_b",
 			"ffaa_moe_casco_02_3_bk",
 			"ffaa_moe_casco_02_3_d"
-     };
- };
- class FFAAbackpack
- {
+		};
+	};
+	class FFAAbackpack
+	{
      name = "FFAA backpack";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_brilat_mochila_arida",
 			"ffaa_brilat_mochila_asalto_arida",
 			"ffaa_brilat_mochila_asalto_boscoso",
@@ -46,14 +46,14 @@ class FFAAHeadgear
 			"ffaa_brilat_mochila_medica",
 			"ffaa_brilat_mochila_viaje_arida",
 			"ffaa_brilat_mochila_viaje_boscoso"
-     };
- };
- class FFAAUniform
- {
+		};
+	};
+	class FFAAUniform
+	{
      name = "FFAA Uniform";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_ar_uniforme_marinero_item",
 			"ffaa_brilat_CombatUniform_item_b",
 			"ffaa_brilat_CombatUniform_item_d",
@@ -64,14 +64,14 @@ class FFAAHeadgear
 			"ffaa_pilot_harri_uniforme_item",
 			"ffaa_pilot_her_uniforme_item_b",
 			"ffaa_pilot_her_uniforme_item_d"
-     };
- };
- class FFAAVest
- {
+		};
+	};
+	class FFAAVest
+	{
      name = "FFAA Vest";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_brilat_chaleco_01_bs",
 			"ffaa_brilat_chaleco_02_bs",
 			"ffaa_brilat_chaleco_02_ds",
@@ -85,53 +85,53 @@ class FFAAHeadgear
 			"ffaa_brilat_chaleco_06_ds",
 			"ffaa_et_moe_peco_01_mtp",
 			"ffaa_et_moe_peco_02_mtp"
-     };
- };
- class FFAAfaceware
- {
+		};
+	};
+	class FFAAfaceware
+	{
      name = "FFAA faceware";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"AN/PVS-7",
 			"NVG",
 			"ffaa_Glasses",
 			"ffaa_briliat_item_nbq"
-     };
- };
- class FFAAMuzzleAttachments
- {
+		};
+	};
+	class FFAAMuzzleAttachments
+	{
      name = "FFAA Suppressor Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_snds_GT_556"
-     };
- };
- class FFAAPointerAttachments
- {
+		};
+	};
+	class FFAAPointerAttachments
+	{
      name = "Pointer Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_acc_puntero_ir"
-     };
- };
- class FFAABipodAttachments
- {
+		};
+	};
+	classclass FFAABipodAttachments
+	{
      name = "Bipod Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_bipod_G36"
-     };
- };
- class FFAAAmunition
- {
+		};
+	};
+	class FFAAAmunition
+	{
      name = "FFAA Ammunition";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     { 
+		{ 
 			"ffaa_127x99_ap",
 			"ffaa_127x99_he",
 			"ffaa_507x28_p90",
@@ -149,15 +149,15 @@ class FFAAHeadgear
 			"ffaa_9x19_pistola",
 			"ffaa_9x19_ump",
 			"ffaa_mag_c90"
-     };
- }; 
+		};
+	}; 
 
-class FFAAOpticAttachments
- {
+	class FFAAOpticAttachments
+	{
      name = "FFAA Scopes";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_optic_3x12x50",
 			"ffaa_optic_5x25x56",
 			"ffaa_optic_Elcan",
@@ -172,26 +172,26 @@ class FFAAOpticAttachments
 			"ffaa_optic_mg4_g36",
 			"ffaa_optic_susat",
 			"ffaa_optic_vosel"
-     };
- }; 
+		};
+	}; 
 
-class FFAAPistols
- {
+	class FFAAPistols
+	{
      name = "FFAA Pistols";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\handgun_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_armas_fnp9",
 			"ffaa_armas_p226",
 			"ffaa_armas_usp"
-     };
- };
- class FFAARifles
- {
+		};
+	};
+	class FFAARifles
+	{
      name = "FFAA Rifles";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_armas_ameli",
 			"ffaa_armas_cetme_c",
 			"ffaa_armas_cetme_e",
@@ -211,31 +211,132 @@ class FFAAPistols
 			"ffaa_armas_mg4",
 			"ffaa_armas_sdass",
 			"ffaa_armas_sdassc"
-     };
- }; 
+		};
+	}; 
 
-class FFAASmg
- {
+	class FFAASmg
+	{
      name = "FFAA Sniper Rifles";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_armas_hkmp510a3",
 			"ffaa_armas_hkmp5a5",
 			"ffaa_armas_hkmp5pdw",
 			"ffaa_armas_p90",
 			"ffaa_armas_ump"
-     };
- }; 
+		};
+	}; 
 
-class FFAASniperRifles
- {
+	class FFAASniperRifles
+	{
      name = "FFAA Sniper Rifles";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-     {
+		{
 			"ffaa_armas_aw",
 			"ffaa_armas_aw50",
 			"ffaa_armas_m95"
-     };
- }; 
+		};
+	}; 
+ 
+	class FFAAChoppers
+	{
+         name = "FFAA Helicopters";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_famet_ch47_des_mg",
+			"ffaa_famet_ch47_mg",
+			"ffaa_famet_cougar",
+			"ffaa_famet_cougar_olive",
+			"ffaa_famet_tigre_aa",
+			"ffaa_famet_tigre_at",
+			"ffaa_famet_tigre_cas"
+		};
+	}; 
+
+   	class FFAABoats
+	{
+         name = "FFAA Boats";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_ar_lcm",
+			"ffaa_ar_supercat",
+			"ffaa_ar_zodiac_hurricane",
+			"ffaa_ar_zodiac_hurricane_long"
+		};
+	}; 
+
+   	class FFAAPlanes
+	{
+         name = "FFAA Planes";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_ea_hercules_camo",
+			"ffaa_ea_hercules"
+		};
+	}; 
+
+   	class FFAAJets
+	{
+         name = "FFAA Jets";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_ar_harrier_cap",
+			"ffaa_ar_harrier_cas",
+			"ffaa_ar_harrier_gbu",
+			"ffaa_ar_harrier_mr"
+		};
+	}; 
+
+   	class FFAAArmed
+	{
+         name = "FFAA Armed";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_et_leopardo",
+			"ffaa_et_pizarro_mauser",
+			"ffaa_et_rg31_samson",
+			"ffaa_et_toa_ambulancia",
+			"ffaa_et_toa_m2",
+			"ffaa_et_toa_mando",
+			"ffaa_et_toa_spike",
+			"ffaa_et_toa_zapador",
+			"ffaa_et_vamtac_cardom",
+			"ffaa_et_vamtac_crows",
+			"ffaa_et_vamtac_lag40",
+			"ffaa_et_vamtac_m2",
+			"ffaa_et_vamtac_mistral",
+			"ffaa_et_vamtac_tow",
+			"ffaa_et_vamtac_ume"
+		};
+	};
+     
+    class FFAAUnarmed
+	{
+         name = "FFAA Unarmed";
+         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+         items[] =
+		{
+			"ffaa_et_anibal",
+			"ffaa_et_m250_carga_blin",
+			"ffaa_et_m250_carga_lona_blin",
+			"ffaa_et_m250_combustible_blin",
+			"ffaa_et_m250_municion_blin",
+			"ffaa_et_m250_municion_blin",
+			"ffaa_et_m250_recuperacion_blin",
+			"ffaa_et_m250_repara_municion_blin",
+			"ffaa_et_pegaso_carga",
+			"ffaa_et_pegaso_carga_lona",
+			"ffaa_et_pegaso_combustible",
+			"ffaa_et_pegaso_municion",
+			"ffaa_et_pegaso_repara_municion",
+			"ffaa_et_vamtac_trans",
+			"ffaa_et_vamtac_trans_blind"
+		};
+	};
