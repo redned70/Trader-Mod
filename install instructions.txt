@@ -5,6 +5,9 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v6.1 ***
+Added FFAA - thanks to CHAINSAW SQUIRREL
+
 *** Update v6.0 ***
 Added Fox vehicles - thanks to Bob_the_K for the list
 Updated CUP Weapons including removing dupe items - thanks to Bob_the_K for the list.
@@ -17,7 +20,7 @@ NOTE RHS IS BOTH RUS AND USA.
 ****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******
 ****** Tobias Solem, pomp4h, Bob_the_K		******
 ****** Razor77, jmayr2000, C][G GhostTown™	******
-****** ElShotte, Killerpoodezz				******
+****** ElShotte, Killerpoodezz,CHAINSAW SQUIRREL	******
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -33,28 +36,29 @@ class CfgExileArsenal
 	#include "TRADERS\ARMA3V\ItemListARMA3V.hpp"
 	#include "TRADERS\ARMA3W\ItemListARMA3W.hpp"
 	#include "TRADERS\CUNITS\ItemListCUNITS.hpp"
-	#include "TRADERS\CUPW\ItemListCUPW.hpp"
 	#include "TRADERS\CUPV\ItemListCUPV.hpp"
+	#include "TRADERS\CUPW\ItemListCUPW.hpp"
+	#include "TRADERS\CUSTOM\ItemListCUSTOM.hpp"
 	#include "TRADERS\EBM\ItemListEBM.hpp"
+	#include "TRADERS\Exile\ItemListExile.hpp"
+	#include "TRADERS\FFAA\ItemListFFAA.hpp"
 	#include "TRADERS\FMP\ItemListFMP.hpp"
 	#include "TRADERS\FOX\ItemListFOX.hpp"
 	#include "TRADERS\HAP\ItemListHAP.hpp"
-	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\ItemListHVP.hpp"
 	#include "TRADERS\HWP\ItemListHWP.hpp"
 	#include "TRADERS\Jonzie\ItemListJonzie.hpp"
 	#include "TRADERS\MASV\ItemListMASV.hpp"
 	#include "TRADERS\MASW\ItemListMASW.hpp"
 	#include "TRADERS\NIA\ItemListNIA.hpp"
+	#include "TRADERS\PODS\ItemListPODS.hpp"
 	#include "TRADERS\R3FW\ItemListR3FW.hpp"
 	#include "TRADERS\RHSGREF\ItemListGREF.hpp"
 	#include "TRADERS\RHSSAF\ItemListRHSSAF.hpp"
 	#include "TRADERS\RHSV\ItemListRHSV.hpp"
 	#include "TRADERS\RHSW\ItemListRHSW.hpp"
 	#include "TRADERS\TRYK\ItemListTRYK.hpp"
-	#include "TRADERS\PODS\ItemListPODS.hpp"
-	#include "TRADERS\CUSTOM\ItemListCUSTOM.hpp"
-	#include "TRADERS\Exile\ItemListExile.hpp"
+	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
 };
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -67,28 +71,29 @@ class CfgTraderCategories
 	#include "TRADERS\ARMA3V\TraderCategoriesARMA3V.hpp"
 	#include "TRADERS\ARMA3W\TraderCategoriesARMA3W.hpp"
 	#include "TRADERS\CUNITS\TraderCategoriesCUNITS.hpp"
-	#include "TRADERS\CUPW\TraderCategoriesCUPW.hpp"
 	#include "TRADERS\CUPV\TraderCategoriesCUPV.hpp"
+	#include "TRADERS\CUPW\TraderCategoriesCUPW.hpp"
+	#include "TRADERS\CUSTOM\TraderCategoriesCUSTOM.hpp"
 	#include "TRADERS\EBM\TraderCategoriesEBM.hpp"
+	#include "TRADERS\Exile\TraderCategoriesExile.hpp"
+	#include "TRADERS\FFAA\TraderCategoriesFFAA.hpp"
 	#include "TRADERS\FMP\TraderCategoriesFMP.hpp"	
 	#include "TRADERS\FOX\TraderCategoriesFOX.hpp"	
 	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
-	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms
 	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"
 	#include "TRADERS\HWP\TraderCategoriesHWP.hpp"
 	#include "TRADERS\Jonzie\TraderCategoriesJonzie.hpp"
 	#include "TRADERS\MASV\TraderCategoriesMASV.hpp"
 	#include "TRADERS\MASW\TraderCategoriesMASW.hpp"
 	#include "TRADERS\NIA\TraderCategoriesNIA.hpp"
+	#include "TRADERS\PODS\TraderCategoriesPODS.hpp"	
 	#include "TRADERS\R3FW\TraderCategoriesR3FW.hpp"
 	#include "TRADERS\RHSGREF\TraderCategoriesGREF.hpp"
 	#include "TRADERS\RHSSAF\TraderCategoriesRHSSAF.hpp"
 	#include "TRADERS\RHSV\TraderCategoriesRHSV.hpp"
 	#include "TRADERS\RHSW\TraderCategoriesRHSW.hpp"
 	#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
-	#include "TRADERS\PODS\TraderCategoriesPODS.hpp"	
-	#include "TRADERS\CUSTOM\TraderCategoriesCUSTOM.hpp"
-	#include "TRADERS\Exile\TraderCategoriesExile.hpp"
+	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms
 };
 
 ---------------------------------------------------------------------------------------------------------------------------

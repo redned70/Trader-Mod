@@ -6,63 +6,68 @@
 Community
 
 ----------- Pointer attachments ----------
-PointerAttachments
 CUPPointerAttachments
-R3FPointerAttachments
+FFAAPointerAttachments
 MASPointerAttachments
-RHSPointerAttachments
 NIAAttachments
+PointerAttachments
+R3FPointerAttachments
+RHSPointerAttachments
 
 ----------- bipods ----------
 BipodAttachments
+FFAABipodAttachments
 R3FBipodAttachments
 RHSBipodAttachments
 // APEXBipodAttachments		//not used
 
 ----------- silencers ----------
-MuzzleAttachments
-HLCMuzzleAttachments
+APEXMuzzleAttachments
 CUPMuzzleAttachments
+FFAAMuzzleAttachments
+HLCMuzzleAttachments
 MASMuzzleAttachments
+MuzzleAttachments
 NIAMuzzleAttachments
 R3FMuzzleAttachments
 RHSMuzzleAttachments
-APEXMuzzleAttachments
 
 ----------- uavs ----------
-UAVs
-CUAVs
 A3UAVs
 APEXUAVs
+CUAVs
+UAVs
 
 ----------- ugvs ----------
-CUGVs
 A3UGVs
+CUGVs
 
 ----------- staticMGs ----------
 StaticMGs
 
 ----------- scopes ----------
-OpticAttachments
-HLCOpticAttachments
-CUPOpticAttachments
-MASOpticAttachments
-R3FOpticAttachments
-RHSOpticAttachments
 APEXOpticAttachments
+CUPOpticAttachments
+FFAAOpticAttachments
+HLCOpticAttachments
+MASOpticAttachments
 NIAOpticAttachments
+OpticAttachments
+R3FOpticAttachments
 RHSForegripAttachments // "RHS Foregrip Attachments" - NEW CATEGORY, be sure to add under ARMORY - 8 New Items 
+RHSOpticAttachments
 
 ----------- ammo ----------
+APEXAmmunition
 Ammunition
-HLCAmmunition
 CUPAmmunition
+FFAAAmunition
+GREFAmmunition
+HLCAmmunition
 MASAmmunition
+NIAAmmunition
 R3FAmmunition
 RHSAmmunition
-GREFAmmunition
-APEXAmmunition
-NIAAmmunition
 RHSUGLAmmo // "RHS UGL Ammunition" - NEW CATEGORY, be sure to add under SPEC OPS - 25 New Items 
 
 ----------- flares ----------
@@ -72,108 +77,116 @@ Flares
 Smokes
 
 ----------- explosives ----------
-Explosives
 CUPExplosive
+Explosives
 MASExplosive
 RHSExplosives // "RHS Explosives" - MODIFIED CATEGORY, this replaces RHSMines under SPEC OPS - 26 New Items 
 
 ----------- launchers ----------
 A3Launchers
+APEXLaunchers		
 CUPLaunchers
 MASLaunchers
 R3FLaunchers
 RHSLaunchers
-APEXLaunchers		
 
 ----------- launcher ammo ----------			
 A3LauncherAmmo
+APEXLauncherAmmo
 CUPLauncherAmmo
 MASLauncherAmmo	
 R3FLauncherAmmo		
 RHSLauncherAmmo
-APEXLauncherAmmo
 			
 ----------- pistols ----------
-Pistols
+APEXPistols
 CUPPistols
+FFAAPistols
 MASPistols
+Pistols
 R3FPistols
 RHSPistols
-APEXPistols
 
 ----------- Shotguns ----------
 Shotguns
 
 ----------- sub machineguns ----------
-SubMachineGuns
-CUPSubMachineGuns
-R3FSubMachineGuns
-MASSubMachineGuns
 APEXSubMachineGuns
+CUPSubMachineGuns
+FFAASmg
+MASSubMachineGuns
+R3FSubMachineGuns
 RHSSubMachineGuns // "RHS Sub Machine Guns" - NEW CATEGORY, be sure to add under ARMORY - 4 New Items 
+SubMachineGuns
 
 ----------- light machineguns ----------
-LightMachineGuns
+APEXLightMachineGuns
+CUPLightMachineGuns
 HAPASSAULTRIFLES
 HLCLightMachineGuns
-CUPLightMachineGuns
+LightMachineGuns
 MASLightMachineGuns
+NIALightMachineGuns
 R3FLightMachineGuns
 RHSLightMachineGuns
-APEXLightMachineGuns
-NIALightMachineGuns
 
 ----------- assault rifles ----------
+APEXAssaultRifles
 AssaultRifles
-HLCAssaultRifles
 CUPAssaultRifles
+FFAARifles
+GREFWeapons
+HLCAssaultRifles
 MASAssaultRifles
+NIAAssaultRifles
 R3FAssaultRifles
 RHSAssaultRifles
-APEXAssaultRifles
-GREFWeapons
-NIAAssaultRifles
 
 ----------- sniper rifles ----------
-SniperRifles
+APEXSniperRifles
+CUPSniperRifles
+FFAASniperRifles
 HAPSNIPERRIFLES
 HLCSniperRifles
 HWPweapons
-CUPSniperRifles
 MASSniperRifles
-RHSSniperRifles
-APEXSniperRifles
 NIASniperRifles
+RHSSniperRifles
+SniperRifles
 
 ----------- uniforms ----------
-Uniforms
-HAPUNIFORMS
-RHSUniforms
-GREFUniforms
-TRYKUniforms
-Diving
 APEXUniforms
 CUPUniforms
+Diving
+FFAAUniform
+GREFUniforms
+HAPUNIFORMS
+RHSUniforms
+TRYKUniforms
+Uniforms
 
 ----------- vests ----------
-Vests
-HAPVESTS
-RHSVests
-GREFVests
-TRYKVests
 APEXVests
 CUPVests
+FFAAVest
+GREFVests
+HAPVESTS
+RHSVests
+TRYKVests
+Vests
 
 ----------- headgear ----------
-Headgear
 A3Headgear
-HAPHEADGEAR
-MASHeadgear
-RHSHeadgear
-GREFHeadgear
-TRYKHeadgear
 APEXHeadgear
 CUPHeadgear
+FFAAHeadgear
+FFAAfaceware
+GREFHeadgear
+HAPHEADGEAR
+Headgear
+MASHeadgear
+RHSHeadgear
+TRYKHeadgear
 
 ----------- hardware ----------
 Hardware
@@ -201,83 +214,84 @@ FirstAid
 Navigation
 
 ----------- backpacks ----------
-Backpacks
 A3Backpacks
+APEXBackpacks
+Backpacks
+CUPBackpacks
+FFAAbackpack
 HAPBACKPACKS
 MASBackpacks
-TRYKBackpacks
-APEXBackpacks
-RHSBackpacks // "RHS Backpacks" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
 RHSAccessories // "RHS Accessories" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
-CUPBackpacks
+RHSBackpacks // "RHS Backpacks" - NEW CATEGORY, be sure to add under EQUIPMENT - 11 New Items 
+TRYKBackpacks
 
 ----------- bikes ----------
 Bikes
 
 ----------- cars ----------
-Cars
-HAPCARS
-HVPCars
-MASCars
 A3Cars
-JonzieCars
 APEXCars
+Cars
 FMPCars
 FOXCars
+HAPCARS
+HVPCars
+JonzieCars
+MASCars
 
 ----------- trucks ----------
-Trucks
 // CTrucks - no longer used
-CUPUnarmed
-CUPArmed
-HAPTRUCKS
-MASTrucks
-MASArmed
-RHSVehicles
-GREFArmed
-GREFUnarmed
 A3Trucks
 APEXTrucks
+CUPArmed
+CUPUnarmed
 FMPTrucks
 FOXTrucks
+GREFArmed
+GREFUnarmed
+HAPTRUCKS
+MASArmed
+MASTrucks
+RHSVehicles
+Trucks
 
 ----------- tanks ----------
-MASTanks
 A3Tanks
+MASTanks
 
 ----------- helicopters ----------
-Choppers
 //CChoppers - no longer used
+A3armedChoppers
+A3unarmedChoppers
+APEXChoppers
 CUPChoppers
+Choppers
+GREFChoppers
 MASChoppers
 RHSChoppers
-GREFChoppers
-A3unarmedChoppers
-A3armedChoppers
-APEXChoppers
 
 ----------- boats ----------
-Boats
 A3Boats
 APEXBoats
+Boats
 
 ----------- planes ----------
-Planes
-CPlanes
-HVPPlanes
-RHSPlanes
-GREFPlanes
-MASPlanes
-MASPlanes
 A3Planes
 APEXPlanes
+CPlanes
+GREFPlanes
+HVPPlanes
+MASPlanes
+MASPlanes
+Planes
+RHSPlanes
 
 ----------- taru pods ----------
 PODS
 
 ----------- RHS:SAF ----------
-Equipment Trader - SAFUniforms, SAFVests, SAFHeadgear, SAFBackpacks 
-Armory Trader - SAFWeapons, SAFAmmunition, SAFAttachments 
-SpecOps Trader - SAFMines 
 Air Trader - SAFChoppers 
+Armory Trader - SAFWeapons, SAFAmmunition, SAFAttachments 
+Equipment Trader - SAFUniforms, SAFVests, SAFHeadgear, SAFBackpacks 
+SpecOps Trader - SAFMines 
 Vehicle Trader - SAFUnarmed, SAFArmed

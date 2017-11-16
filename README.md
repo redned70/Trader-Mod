@@ -1,4 +1,4 @@
-# Trader-Mod v6.0
+# Trader-Mod v6.1
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -8,6 +8,9 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
+
+<b>v6.1 Update</b><br>
+Added FFAA - thanks to CHAINSAW SQUIRREL<br>
 
 <b>v6.0 Update</b><br>
 Added Fox vehicles - thanks to Bob_the_K for the list.<br>
@@ -23,7 +26,7 @@ NOTE RHS IS BOTH RUS AND USA.<br>
 <b>****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******</b><br>
 <b>****** Tobias Solem, pomp4h, Bob_the_K		******</b><br>
 <b>****** Razor77, jmayr2000, C][G GhostTown™	******</b><br>
-<b>****** ElShotte, Killerpoodezz				******</b><br>
+<b>****** ElShotte, Killerpoodezz, CHAINSAW SQUIRREL	******</b><br>
 <b>***************************************************</b><br>
 <br><br>
 <b>Big thanks to Exile Mod <a href="http://www.exilemod.com">http://www.exilemod.com</a></b><br>
