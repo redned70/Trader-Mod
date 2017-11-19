@@ -46,6 +46,7 @@
 			"Fox_Pickup6S",
 			"Fox_LandCruiserFox",
 			"Fox_LandCruiser3",
-			"Fox_LandCruiser2"
+			"Fox_LandCruiser2",
+			"Fox_Truck"
 		};
 	};

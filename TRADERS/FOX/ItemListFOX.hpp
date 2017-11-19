@@ -39,6 +39,7 @@
 	class Fox_LandCruiser3			{ quality = 3; price = 25; };
 	class Fox_LandCruiser2			{ quality = 3; price = 26; };
 	class Fox_Tahoe_Apocalypse		{ quality = 3; price = 27; };
+	class Fox_Truck					{ quality = 3; price = 40000; };
 	class Fox_Pickup_Apocalypse		{ quality = 3; price = 28; };
 	class Fox_Pickup				{ quality = 3; price = 29; };
 	class Fox_Pickup_Tow			{ quality = 3; price = 30; };
