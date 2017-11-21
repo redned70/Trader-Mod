@@ -379,7 +379,8 @@
 	class rhsusf_acc_harris_swivel							{ quality = 3; price = 80; };
 	class rhs_acc_harris_swivel								{ quality = 3; price = 80; };
 	class rhs_bipod											{ quality = 3; price = 80; };
-
+	class rhsusf_acc_harris_bipod							{ quality = 3; price = 80; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Weapon Attachments - Muzzle
 	///////////////////////////////////////////////////////////////////////////////
@@ -416,52 +417,49 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	//US
-	class rhsusf_acc_eotech_552								{ quality = 2; price = 75; };
-	class rhsusf_acc_compm4									{ quality = 2; price = 50; };
-	class rhsusf_acc_ACOG2_USMC								{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG3_USMC								{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG_USMC								{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG									{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG_pip								{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG2									{ quality = 2; price = 300; };
-	class rhsusf_acc_ACOG3									{ quality = 2; price = 300; };
-	class rhsusf_acc_ELCAN									{ quality = 2; price = 500; };
-	class rhsusf_acc_ELCAN_pip								{ quality = 2; price = 500; };
-	class rhsusf_acc_LEUPOLDMK4 							{ quality = 2; price = 850; };
-	class rhsusf_acc_LEUPOLDMK4_2 							{ quality = 2; price = 850; };
-	//Russian
-	class rhs_acc_1pn93_2                           		{ quality = 1; price = 50; };
 	class rhs_acc_1p29										{ quality = 2; price = 300; };
 	class rhs_acc_1p63										{ quality = 2; price = 75; };
 	class rhs_acc_1p78										{ quality = 1; price = 250; };
 	class rhs_acc_1pn93_1									{ quality = 1; price = 300; };
+	class rhs_acc_1pn93_2                           		{ quality = 1; price = 50; };
+	class rhs_acc_dh520x56									{ quality = 3; price = 400; };
 	class rhs_acc_ekp1										{ quality = 1; price = 50; };
 	class rhs_acc_pgo7v										{ quality = 2; price = 300; };
 	class rhs_acc_pkas										{ quality = 1; price = 50; };
 	class rhs_acc_pso1m2									{ quality = 2; price = 300; };
-
-	// Added by ElShotte
+	class rhs_acc_rakursPM 									{ quality = 3; price = 250; };
+	class rhs_weap_optic_smaw 								{ quality = 3; price = 300; };
+	class rhsusf_acc_ACOG									{ quality = 2; price = 300; };
+	class rhsusf_acc_ACOG2									{ quality = 2; price = 300; };
+	class rhsusf_acc_ACOG2_USMC								{ quality = 2; price = 300; };
+	class rhsusf_acc_ACOG3									{ quality = 2; price = 300; };
+	class rhsusf_acc_ACOG3_USMC								{ quality = 2; price = 300; };
 	class rhsusf_acc_ACOG_MDO								{ quality = 4; price = 400; };
 	class rhsusf_acc_ACOG_RMR								{ quality = 4; price = 300; };
+	class rhsusf_acc_ACOG_USMC								{ quality = 2; price = 300; };
 	class rhsusf_acc_ACOG_d 								{ quality = 3; price = 250; };
+	class rhsusf_acc_ACOG_pip								{ quality = 2; price = 300; };
 	class rhsusf_acc_ACOG_wd 								{ quality = 3; price = 250; };
-	class rhsusf_acc_anpas13gv1								{ quality = 5; price = 2000; };
+	class rhsusf_acc_ELCAN									{ quality = 2; price = 500; };
+	class rhsusf_acc_ELCAN_pip								{ quality = 2; price = 500; };
+	class rhsusf_acc_EOTECH 								{ quality = 2; price = 850; };
+	class rhsusf_acc_LEUPOLDMK4 							{ quality = 2; price = 850; };
+	class rhsusf_acc_LEUPOLDMK4_2 							{ quality = 2; price = 850; };
 	class rhsusf_acc_M8541 									{ quality = 4; price = 500; };
 	class rhsusf_acc_M8541_low 								{ quality = 4; price = 500; };
 	class rhsusf_acc_M8541_low_d 							{ quality = 4; price = 500; };
 	class rhsusf_acc_M8541_low_wd 							{ quality = 4; price = 500; };
-	class rhsusf_acc_premier_low 							{ quality = 5; price = 600; };
-	class rhsusf_acc_premier_anpvs27 						{ quality = 5; price = 2500; };
-	class rhsusf_acc_premier 								{ quality = 5; price = 600; };
 	class rhsusf_acc_SpecterDR 								{ quality = 3; price = 200; };
-	class rhsusf_acc_SpecterDR_OD 							{ quality = 3; price = 200; };
-	class rhsusf_acc_SpecterDR_D 							{ quality = 3; price = 200; };
 	class rhsusf_acc_SpecterDR_A_3d 						{ quality = 3; price = 200; };
-	class rhs_acc_rakursPM 									{ quality = 3; price = 250; };
-	class rhs_acc_dh520x56									{ quality = 3; price = 400; };
-	class rhs_weap_optic_smaw 								{ quality = 3; price = 300; };
-
+	class rhsusf_acc_SpecterDR_D 							{ quality = 3; price = 200; };
+	class rhsusf_acc_SpecterDR_OD 							{ quality = 3; price = 200; };
+	class rhsusf_acc_anpas13gv1								{ quality = 5; price = 2000; };
+	class rhsusf_acc_compm4									{ quality = 2; price = 50; };
+	class rhsusf_acc_eotech_552								{ quality = 2; price = 75; };
+	class rhsusf_acc_premier 								{ quality = 5; price = 600; };
+	class rhsusf_acc_premier_anpvs27 						{ quality = 5; price = 2500; };
+	class rhsusf_acc_premier_low 							{ quality = 5; price = 600; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -574,100 +572,100 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
 	///////////////////////////////////////////////////////////////////////////////
-	//US
-	class rhs_weap_m16a4							{ quality = 1; price = 350; };
-	class rhs_weap_m16a4_carryhandle				{ quality = 1; price = 350; };
-	class rhs_weap_m16a4_carryhandle_grip			{ quality = 2; price = 400; };
-	class rhs_weap_m16a4_carryhandle_grip_pmag		{ quality = 2; price = 400; };
-	class rhs_weap_m16a4_carryhandle_M203			{ quality = 2; price = 400; };
-	class rhs_weap_m16a4_carryhandle_pmag			{ quality = 2; price = 400; };
-	class rhs_weap_m16a4_grip						{ quality = 1; price = 350; };
-	class rhs_weap_m4								{ quality = 1; price = 350; };
-	class rhs_weap_m4_grip2							{ quality = 2; price = 400; };
-	class rhs_weap_m4_carryhandle					{ quality = 1; price = 350; };
-	class rhs_weap_m4_carryhandle_pmag				{ quality = 1; price = 350; };
-	class rhs_weap_m4_grip							{ quality = 2; price = 400; };
-	class rhs_weap_m4_m203							{ quality = 3; price = 450; };
-	class rhs_weap_m4_m320							{ quality = 3; price = 450; };
-	class rhs_weap_m4a1_carryhandle					{ quality = 1; price = 350; };
-	class rhs_weap_m4a1_carryhandle_grip2			{ quality = 2; price = 400; };
-	class rhs_weap_m4a1_carryhandle_pmag			{ quality = 1; price = 350; };
-	class rhs_weap_m4a1_carryhandle_m203			{ quality = 3; price = 450; };
-	class rhs_weap_m4a1								{ quality = 1; price = 350; };
-	class rhs_weap_m4a1_grip2						{ quality = 2; price = 400; };
-	class rhs_weap_m4a1_grip						{ quality = 2; price = 400; };
-	class rhs_weap_m4a1_m203						{ quality = 3; price = 450; };
-	class rhs_weap_m4a1_m320						{ quality = 3; price = 450; };
-	class rhs_weap_m4a1_blockII						{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_KAC					{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_grip2				{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_grip2_KAC			{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_M203				{ quality = 3; price = 500; };
-	class rhs_weap_mk18								{ quality = 3; price = 500; };
-	class rhs_weap_mk18_KAC							{ quality = 3; price = 500; };
-	class rhs_weap_mk18_grip2						{ quality = 3; price = 500; };
-	class rhs_weap_mk18_grip2_KAC					{ quality = 3; price = 500; };
-	class rhs_weap_mk18_m320						{ quality = 3; price = 500; };
-	//Russian
+	/*	// Exile Dupe issue items un comment at your own risk
 	class rhs_weap_ak103							{ quality = 1; price = 450; };
-	class rhs_weap_ak103_npz						{ quality = 1; price = 450; };
 	class rhs_weap_ak103_1							{ quality = 1; price = 450; };
+	class rhs_weap_ak103_npz						{ quality = 1; price = 450; };
 	class rhs_weap_ak74m							{ quality = 1; price = 450; };
 	class rhs_weap_ak74m_2mag						{ quality = 1; price = 450; };
 	class rhs_weap_ak74m_2mag_camo					{ quality = 2; price = 400; };
 	class rhs_weap_ak74m_2mag_npz					{ quality = 1; price = 400; };
 	class rhs_weap_ak74m_camo						{ quality = 2; price = 400; };
-	class rhs_weap_ak74m_desert						{ quality = 2; price = 400; };
-	class rhs_weap_ak74m_desert_npz					{ quality = 2; price = 450; };
-	class rhs_weap_ak74m_desert_folded				{ quality = 1; price = 450; };
-	class rhs_weap_ak74m_plummag_folded				{ quality = 1; price = 450; };
-	class rhs_weap_ak74m_folded						{ quality = 1; price = 450; };
 	class rhs_weap_ak74m_camo_folded				{ quality = 1; price = 450; };
+	class rhs_weap_ak74m_desert						{ quality = 2; price = 400; };
+	class rhs_weap_ak74m_desert_folded				{ quality = 1; price = 450; };
+	class rhs_weap_ak74m_desert_npz					{ quality = 2; price = 450; };
+	class rhs_weap_ak74m_folded						{ quality = 1; price = 450; };
 	class rhs_weap_ak74m_gp25						{ quality = 2; price = 600; };
 	class rhs_weap_ak74m_gp25_npz					{ quality = 2; price = 600; };
 	class rhs_weap_ak74m_npz						{ quality = 1; price = 400; };
 	class rhs_weap_ak74m_plummag					{ quality = 2; price = 450; };
+	class rhs_weap_ak74m_plummag_folded				{ quality = 1; price = 450; };
 	class rhs_weap_ak74m_plummag_npz				{ quality = 2; price = 400; };
+	class rhs_weap_ak74mr 							{ quality = 3; price = 550; };
+	class rhs_weap_ak74mr_gp25						{ quality = 3; price = 700; };
 	class rhs_weap_akm								{ quality = 1; price = 450; };
 	class rhs_weap_akm_gp25							{ quality = 1; price = 650; };
 	class rhs_weap_akms								{ quality = 1; price = 450; };
 	class rhs_weap_akms_gp25						{ quality = 1; price = 600; };
-	// Added by ElShotte
-	class rhs_weap_ak74mr_gp25						{ quality = 3; price = 700; };
-	class rhs_weap_ak74mr 							{ quality = 3; price = 550; };
 	class rhs_weap_aks74 							{ quality = 1; price = 400; };
-	class rhs_weap_aks74_gp25 						{ quality = 1; price = 550; };
-	class rhs_weap_aks74n							{ quality = 1; price = 500; };
-	class rhs_weap_aks74n_gp25						{ quality = 1; price = 600; };
+	class rhs_weap_m16a4_carryhandle_grip			{ quality = 2; price = 400; };
+	class rhs_weap_m16a4_carryhandle_grip_pmag		{ quality = 2; price = 400; };
+	class rhs_weap_m16a4_grip						{ quality = 1; price = 350; };
+	class rhs_weap_m4								{ quality = 1; price = 350; };
+	class rhs_weap_m4_grip2							{ quality = 2; price = 400; };
+	class rhs_weap_m4a1_blockII_grip2				{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_grip2_KAC			{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_carryhandle_grip2			{ quality = 2; price = 400; };
+	class rhs_weap_m4a1_grip						{ quality = 2; price = 400; };
+	class rhs_weap_m4a1_grip2						{ quality = 2; price = 400; };
+	class rhs_weap_mk18_grip2						{ quality = 3; price = 500; };
+	class rhs_weap_mk18_grip2_KAC					{ quality = 3; price = 500; };
 	class rhs_weap_ak103_zenitco01					{ quality = 3; price = 500; };
 	class rhs_weap_ak103_zenitco01_b33				{ quality = 4; price = 600; };
 	class rhs_weap_ak104_zenitco01					{ quality = 3; price = 500; };
 	class rhs_weap_ak104_zenitco01_b33				{ quality = 4; price = 600; };
 	class rhs_weap_ak105_zenitco01					{ quality = 3; price = 500; };
 	class rhs_weap_ak105_zenitco01_b33				{ quality = 4; price = 600; };
-	class rhs_weap_ak74m_zenitco01_b33				{ quality = 4; price = 500; };
 	class rhs_weap_ak74m_zenitco01					{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_wd 					{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_M203_wd 			{ quality = 4; price = 650; };
-	class rhs_weap_m4a1_blockII_KAC_wd 				{ quality = 3; price = 550; };
-	class rhs_weap_m4a1_blockII_d 					{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_M203_d 				{ quality = 4; price = 650; };
-	class rhs_weap_m4a1_blockII_KAC_d 				{ quality = 3; price = 550; };
-	class rhs_weap_m4a1_blockII_bk 					{ quality = 3; price = 500; };
-	class rhs_weap_m4a1_blockII_M203_bk 			{ quality = 4; price = 650; };
-	class rhs_weap_m4a1_blockII_KAC_bk 				{ quality = 3; price = 550; };
-	class rhs_weap_mk18_bk 							{ quality = 3; price = 500; };
-	class rhs_weap_mk18_KAC_bk 						{ quality = 3; price = 550; };
-	class rhs_weap_mk18_d 							{ quality = 3; price = 500; };
-	class rhs_weap_mk18_KAC_d 						{ quality = 3; price = 550; };
-	class rhs_weap_mk18_wd 							{ quality = 3; price = 500; };
-	class rhs_weap_mk18_KAC_wd 						{ quality = 3; price = 550; };
-	class rhs_weap_m27iar 							{ quality = 3; price = 600; };
+	class rhs_weap_ak74m_zenitco01_b33				{ quality = 4; price = 500; };
+	class rhs_weap_aks74_gp25 						{ quality = 1; price = 550; };
+	class rhs_weap_aks74n							{ quality = 1; price = 500; };
+	class rhs_weap_aks74n_gp25						{ quality = 1; price = 600; };
+	class rhs_weap_m4_grip							{ quality = 2; price = 400; };
+	*/
 	class rhs_weap_hk416d10 						{ quality = 3; price = 550; };
-	class rhs_weap_hk416d10_m320 					{ quality = 4; price = 650; };
 	class rhs_weap_hk416d10_LMT 					{ quality = 3; price = 550; };
+	class rhs_weap_hk416d10_m320 					{ quality = 4; price = 650; };
 	class rhs_weap_hk416d145 						{ quality = 3; price = 550; };
 	class rhs_weap_hk416d145_m320 					{ quality = 4; price = 650; };
+	class rhs_weap_m16a4							{ quality = 1; price = 350; };
+	class rhs_weap_m16a4_carryhandle				{ quality = 1; price = 350; };
+	class rhs_weap_m16a4_carryhandle_M203			{ quality = 2; price = 400; };
+	class rhs_weap_m16a4_carryhandle_pmag			{ quality = 2; price = 400; };
+	class rhs_weap_m27iar 							{ quality = 3; price = 600; };
+	class rhs_weap_m4_carryhandle					{ quality = 1; price = 350; };
+	class rhs_weap_m4_carryhandle_pmag				{ quality = 1; price = 350; };
+	class rhs_weap_m4_m203							{ quality = 3; price = 450; };
+	class rhs_weap_m4_m320							{ quality = 3; price = 450; };
+	class rhs_weap_m4a1								{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_blockII						{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_KAC					{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_KAC_bk 				{ quality = 3; price = 550; };
+	class rhs_weap_m4a1_blockII_KAC_d 				{ quality = 3; price = 550; };
+	class rhs_weap_m4a1_blockII_KAC_wd 				{ quality = 3; price = 550; };
+	class rhs_weap_m4a1_blockII_M203				{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_M203_bk 			{ quality = 4; price = 650; };
+	class rhs_weap_m4a1_blockII_M203_d 				{ quality = 4; price = 650; };
+	class rhs_weap_m4a1_blockII_M203_wd 			{ quality = 4; price = 650; };
+	class rhs_weap_m4a1_blockII_bk 					{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_d 					{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_blockII_wd 					{ quality = 3; price = 500; };
+	class rhs_weap_m4a1_carryhandle					{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_carryhandle_m203			{ quality = 3; price = 450; };
+	class rhs_weap_m4a1_carryhandle_pmag			{ quality = 1; price = 350; };
+	class rhs_weap_m4a1_m203						{ quality = 3; price = 450; };
+	class rhs_weap_m4a1_m320						{ quality = 3; price = 450; };
+	class rhs_weap_mk18								{ quality = 3; price = 500; };
+	class rhs_weap_mk18_KAC							{ quality = 3; price = 500; };
+	class rhs_weap_mk18_KAC_bk 						{ quality = 3; price = 550; };
+	class rhs_weap_mk18_KAC_d 						{ quality = 3; price = 550; };
+	class rhs_weap_mk18_KAC_wd 						{ quality = 3; price = 550; };
+	class rhs_weap_mk18_bk 							{ quality = 3; price = 500; };
+	class rhs_weap_mk18_d 							{ quality = 3; price = 500; };
+	class rhs_weap_mk18_m320						{ quality = 3; price = 500; };
+	class rhs_weap_mk18_wd 							{ quality = 3; price = 500; };
+
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
