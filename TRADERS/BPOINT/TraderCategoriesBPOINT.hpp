@@ -207,6 +207,7 @@
 			"BP_762x54_7N1_10rnd",
 			"BP_762x54_SVD",
 			"BP_7Rnd_408Chey_Mag",
+			"BP_7Rnd_45acp",
 			"BP_8Rnd_3006M_Mag",
 			"BP_8Rnd_3006_Mag",
 			"BP_8Rnd_Buckshot", 
