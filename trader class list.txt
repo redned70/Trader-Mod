@@ -6,6 +6,7 @@
 Community
 
 ----------- Pointer attachments ----------
+BPPointerAttachments
 CUPPointerAttachments
 FFAAPointerAttachments
 MASPointerAttachments
@@ -23,6 +24,7 @@ RHSBipodAttachments
 
 ----------- silencers ----------
 APEXMuzzleAttachments
+BPMuzzleAttachments
 CUPMuzzleAttachments
 FFAAMuzzleAttachments
 HLCMuzzleAttachments
@@ -47,6 +49,7 @@ StaticMGs
 
 ----------- scopes ----------
 APEXOpticAttachments
+BPOpticAttachments
 CUPOpticAttachments
 FFAAOpticAttachments
 HLCOpticAttachments
@@ -60,6 +63,7 @@ RHSOpticAttachments
 ----------- ammo ----------
 APEXAmmunition
 Ammunition
+BPAmmunition
 CUPAmmunition
 FFAAAmunition
 GREFAmmunition
@@ -100,6 +104,7 @@ RHSLauncherAmmo
 			
 ----------- pistols ----------
 APEXPistols
+BPPistols
 CUPPistols
 FFAAPistols
 MASPistols
@@ -112,6 +117,7 @@ Shotguns
 
 ----------- sub machineguns ----------
 APEXSubMachineGuns
+BPSubMachineGuns
 CUPSubMachineGuns
 FFAASmg
 MASSubMachineGuns
@@ -121,6 +127,7 @@ SubMachineGuns
 
 ----------- light machineguns ----------
 APEXLightMachineGuns
+BPLightMachineGuns
 CUPLightMachineGuns
 HAPASSAULTRIFLES
 HLCLightMachineGuns
@@ -133,6 +140,7 @@ RHSLightMachineGuns
 ----------- assault rifles ----------
 APEXAssaultRifles
 AssaultRifles
+BPAssaultRifles
 CUPAssaultRifles
 FFAARifles
 GREFWeapons
@@ -144,6 +152,7 @@ RHSAssaultRifles
 
 ----------- sniper rifles ----------
 APEXSniperRifles
+BPSniperRifles
 CUPSniperRifles
 FFAASniperRifles
 HAPSNIPERRIFLES

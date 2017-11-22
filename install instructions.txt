@@ -5,6 +5,9 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v6.2 ***
+Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL
+
 *** Update v6.1 ***
 Added FFAA - thanks to CHAINSAW SQUIRREL
 
@@ -35,6 +38,7 @@ class CfgExileArsenal
 	#include "TRADERS\APEX\ItemListAPEX.hpp"
 	#include "TRADERS\ARMA3V\ItemListARMA3V.hpp"
 	#include "TRADERS\ARMA3W\ItemListARMA3W.hpp"
+	#include "TRADERS\BPOINT\ItemListBPOINT.hpp"	
 	#include "TRADERS\CUNITS\ItemListCUNITS.hpp"
 	#include "TRADERS\CUPV\ItemListCUPV.hpp"
 	#include "TRADERS\CUPW\ItemListCUPW.hpp"
@@ -70,6 +74,7 @@ class CfgTraderCategories
 	#include "TRADERS\APEX\TraderCategoriesAPEX.hpp"
 	#include "TRADERS\ARMA3V\TraderCategoriesARMA3V.hpp"
 	#include "TRADERS\ARMA3W\TraderCategoriesARMA3W.hpp"
+	#include "TRADERS\BPOINT\TraderCategoriesBPOINT.hpp"
 	#include "TRADERS\CUNITS\TraderCategoriesCUNITS.hpp"
 	#include "TRADERS\CUPV\TraderCategoriesCUPV.hpp"
 	#include "TRADERS\CUPW\TraderCategoriesCUPW.hpp"

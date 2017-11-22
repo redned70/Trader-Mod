@@ -8,6 +8,7 @@
 		categories[] = 
 		{
 			"PointerAttachments",
+			"BPPointerAttachments",
 			"CUPPointerAttachments",
 			"MASPointerAttachments",
 			"R3FPointerAttachments",
@@ -21,6 +22,7 @@
 			"RHSForegripAttachments",
 			"MuzzleAttachments",
 			"APEXMuzzleAttachments",
+			"BPMuzzleAttachments",
 			//"HLCMuzzleAttachments",		//should use NIArms
 			"CUPMuzzleAttachments",
 			"MASMuzzleAttachments",
@@ -30,6 +32,7 @@
 			"FFAAMuzzleAttachments",
 			"OpticAttachments",
 			"APEXOpticAttachments",
+			"BPOpticAttachments",
 			//"HLCOpticAttachments",		//should use NIArms
 			"CUPOpticAttachments",
 			"FFAAMuzzleAttachments",
@@ -40,6 +43,7 @@
 			"NIAAttachments",
 			"Ammunition",
 			"APEXAmmunition",
+			"BPAmmunition",
 			"GREFAmmunition",
 			//"HLCAmmunition",		//should use NIArms
 			"CUPAmmunition",
@@ -50,6 +54,7 @@
 			"RHSAmmunition",
 			"Pistols",
 			"APEXPistols",
+			"BPPistols",
 			"CUPPistols",
 			"FFAAPistols",
 			"MASPistols",
@@ -58,6 +63,7 @@
 			"Shotguns",
 			"SubMachineGuns",
 			"APEXSubMachineGuns",
+			"BPSubMachineGuns",
 			"CUPSubMachineGuns",
 			"FFAASmg",
 			"MASSubMachineGuns",
@@ -65,6 +71,7 @@
 			"RHSSubMachineGuns",
 			"LightMachineGuns",
 			"APEXLightMachineGuns",
+			"BPLightMachineGuns",
 			//"HLCLightMachineGuns",		//should use NIArms
 			"CUPLightMachineGuns",
 			"MASLightMachineGuns",
@@ -73,6 +80,7 @@
 			"RHSLightMachineGuns",
 			"AssaultRifles",
 			"APEXAssaultRifles",
+			"BPAssaultRifles",
 			"HAPASSAULTRIFLES",
 			//"HLCAssaultRifles",		//should use NIArms
 			"CUPAssaultRifles",
@@ -84,6 +92,7 @@
 			"GREFWeapons",
 			"SniperRifles",
 			"APEXSniperRifles",
+			"BPSniperRifles", 
 			"FFAASniperRifles",
 			"HAPSNIPERRIFLES",
 			//"HLCSniperRifles",		//should use NIArms
@@ -96,6 +105,7 @@
 			"SAFWeapons", 
 			"SAFAmmunition", 
 			"SAFAttachments"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -132,6 +142,7 @@
 			"RHSExplosives",
 			"RHSUGLAmmo",
 			"SAFMines"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -188,6 +199,7 @@
 			"SAFVests",
 			"SAFHeadgear",
 			"SAFBackpacks"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -203,6 +215,7 @@
 			"Food",
 			"Drinks",
 			"NonVeganFood"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -219,6 +232,7 @@
 			//"R3FTools",
 			"ExtendedBaseMod",
 			"CBuilding"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -264,6 +278,7 @@
 			//"UGV"	
 			//"A3UGVs"	
 			//"ApexUAVs"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -297,6 +312,7 @@
 			//"CUAVs",
 			//"A3UAVs",
 			"Pods"		
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
@@ -312,6 +328,7 @@
 			"Boats",
 			"A3Boats",
 			"ApexBoats"
+			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};
 
