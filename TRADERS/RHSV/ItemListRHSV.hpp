@@ -42,44 +42,133 @@
 	// HMVE
 	//////////////////////////////////////////////////////////////////////////////
 	class rhsusf_m1025_d							{ quality = 1; price = 16000; };
+	class rhsusf_m1025_d_Mk19						{ quality = 1; price = 16000; };
+	class rhsusf_m1025_d_m2							{ quality = 1; price = 45000; };
+	class rhsusf_m1025_d_s							{ quality = 1; price = 16000; };
+	class rhsusf_m1025_d_s_Mk19						{ quality = 1; price = 16000; };
+	class rhsusf_m1025_d_s_m2						{ quality = 1; price = 45000; };
 	class rhsusf_m1025_w							{ quality = 1; price = 16000; };
 	class rhsusf_m1025_w_m2							{ quality = 1; price = 20000; };
+	class rhsusf_m1025_w_mk19						{ quality = 1; price = 20000; };
+	class rhsusf_m1025_w_s							{ quality = 1; price = 20000; };
+	class rhsusf_m1025_w_s_Mk19						{ quality = 1; price = 20000; };	
 	class rhsusf_m1025_w_s_m2             		  	{ quality = 1; price = 45000; };
+	class rhsusf_m998_d_2dr							{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_2dr_fulltop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_2dr_halftop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_4dr							{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_4dr_fulltop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_4dr_halftop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_d_s_2dr						{ quality = 1; price = 20000; };
 	class rhsusf_m998_d_s_2dr_fulltop				{ quality = 1; price = 19000; };
 	class rhsusf_m998_d_s_2dr_halftop				{ quality = 1; price = 19000; };
+	class rhsusf_m998_d_s_4dr						{ quality = 1; price = 20000; };
 	class rhsusf_m998_d_s_4dr_fulltop				{ quality = 1; price = 19000; };
 	class rhsusf_m998_d_s_4dr_halftop				{ quality = 1; price = 19000; };
 	class rhsusf_m998_w_2dr							{ quality = 1; price = 15000; };
+	class rhsusf_m998_w_2dr_fulltop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_w_2dr_halftop					{ quality = 1; price = 20000; };
 	class rhsusf_m998_w_4dr							{ quality = 1; price = 15000; };
+	class rhsusf_m998_w_4dr_fulltop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_w_4dr_halftop					{ quality = 1; price = 20000; };
+	class rhsusf_m998_w_s_2dr						{ quality = 1; price = 20000; };
 	class rhsusf_m998_w_s_2dr_fulltop				{ quality = 1; price = 19000; };
 	class rhsusf_m998_w_s_2dr_halftop				{ quality = 1; price = 19000; };
+	class rhsusf_m998_w_s_4dr						{ quality = 1; price = 20000; };
 	class rhsusf_m998_w_s_4dr_fulltop				{ quality = 1; price = 19000; };
 	class rhsusf_m998_w_s_4dr_halftop				{ quality = 1; price = 19000; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// M1078A1P2
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M1078A1P2_B_d_flatbed_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_B_d_fmtv_usarmy			{ quality = 1; price = 19000; };
-	class rhsusf_M1078A1P2_B_d_open_fmtv_usarmy		{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_B_wd_flatbed_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_B_wd_fmtv_usarmy			{ quality = 1; price = 19000; };
-	class rhsusf_M1078A1P2_B_wd_open_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_d_flatbed_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_d_fmtv_usarmy			{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_d_open_fmtv_usarmy		{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_wd_flatbed_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_wd_fmtv_usarmy			{ quality = 1; price = 19500; };
-	class rhsusf_M1078A1P2_wd_open_fmtv_usarmy		{ quality = 1; price = 19500; };
-	class rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1083A1P2_B_M2_d_Medical_fmtv_usarmy	{ quality = 1; price = 19500; };
-	class rhsusf_M1083A1P2_B_M2_wd_fmtv_usarmy				{ quality = 1; price = 25000; };
-	class rhsusf_M977A4_REPAIR_BKIT_M2_usarmy_wd			{ quality = 1; price = 45000; };
+	class rhsusf_M1078A1P2_B_CP_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_D_CP_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_M2_D_flatbed_fmtv_usarmy		{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_D_fmtv_usarmy				{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_D_open_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_WD_flatbed_fmtv_usarmy		{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_WD_fmtv_usarmy				{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_WD_open_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_flatbed_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_fmtv_usarmy					{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_M2_open_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1P2_B_WD_CP_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_d_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_d_fmtv_usarmy					{ quality = 1; price = 19000; };
+	class rhsusf_M1078A1P2_B_d_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_wd_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_B_wd_fmtv_usarmy					{ quality = 1; price = 19000; };
+	class rhsusf_M1078A1P2_B_wd_open_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_d_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_d_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_d_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_flatbed_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_fmtv_usarmy						{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_open_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_wd_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_wd_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1P2_wd_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1078A1R_SOV_M2_D_fmtv_socom				{ quality = 3; price = 25000; };
+	class rhsusf_M1078A1R_SOV_M2_WD_fmtv_socom				{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_D_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_D_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_D_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_D_flatbed_fmtv_usarmy		{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_M2_D_fmtv_usarmy				{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_M2_D_open_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_M2_WD_flatbed_fmtv_usarmy		{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_M2_WD_open_fmtv_usarmy			{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_d_Medical_fmtv_usarmy		{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_open_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_wd_MHQ_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_wd_Medical_fmtv_usarmy		{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_M2_wd_fmtv_usarmy				{ quality = 3; price = 25000; };
+	class rhsusf_M1083A1P2_B_WD_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_WD_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_WD_open_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_B_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_D_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_D_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_D_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_WD_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_WD_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_WD_open_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_flatbed_fmtv_usarmy				{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_fmtv_usarmy						{ quality = 1; price = 19500; };
+	class rhsusf_M1083A1P2_open_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_B_D_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_B_M2_D_fmtv_usarmy				{ quality = 3; price = 35000; };
+	class rhsusf_M1084A1P2_B_M2_WD_fmtv_usarmy				{ quality = 3; price = 35000; };
+	class rhsusf_M1084A1P2_B_M2_fmtv_usarmy					{ quality = 3; price = 35000; };
+	class rhsusf_M1084A1P2_B_WD_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_B_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_D_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_WD_fmtv_usarmy					{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1P2_fmtv_usarmy						{ quality = 1; price = 19500; };
+	class rhsusf_M1084A1R_SOV_M2_D_fmtv_socom				{ quality = 3; price = 25000; };
+	class rhsusf_M1084A1R_SOV_M2_WD_fmtv_socom				{ quality = 3; price = 25000; };
+	class rhsusf_M1085A1P2_B_D_Medical_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1085A1P2_B_Medical_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M1085A1P2_B_WD_Medical_fmtv_usarmy			{ quality = 1; price = 19500; };
+	class rhsusf_M977A4_REPAIR_BKIT_M2_usarmy_wd			{ quality = 3; price = 45000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	//////////////////////////////////////////////////////////////////////////////
+	class rhs_uaz_ags_chdkz	 						{ quality = 1; price = 1700; };
+	class rhs_uaz_dshkm_chdkz	 					{ quality = 1; price = 1700; };
+	class rhs_uaz_open_chdkz	 					{ quality = 1; price = 1700; };
 	class rhs_uaz_open_vmf	 						{ quality = 1; price = 1700; };
+	class rhs_uaz_spg9_chdkz	 					{ quality = 1; price = 1700; };
 	class rhs_uaz_vmf 								{ quality = 1; price = 1700; };
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -109,14 +198,18 @@
 	class RHS_Ural_VMF_01							{ quality = 1; price = 30000; };
 	class RHS_Ural_VV_01							{ quality = 1; price = 30000; };
 	class rhs_typhoon_vdv							{ quality = 1; price = 50000; };
+	class rhs_ural_chdkz							{ quality = 1; price = 30000; };
+	class rhs_ural_open_chdkz						{ quality = 1; price = 30000; };
+	class rhs_ural_work_chdkz						{ quality = 1; price = 30000; };
+	class rhs_ural_work_open_chdkz					{ quality = 1; price = 30000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
-	//BMP
+	//	BMP
 	/////////////////////////////////////////////////////////////////////////////
-		class rhs_bmp3_late_msv							{ quality = 1; price = 600000; };
+	class rhs_bmp3_late_msv							{ quality = 1; price = 600000; };
 		
 	/////////////////////////////////////////////////////////////////////////////
-	// BTR some commented out due to animation/repair bugs
+	//	BTR
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_BTR70 								{ quality = 2; price = 125000; };
 	class RHS_BTR70_MSV 							{ quality = 1; price = 125000; };
@@ -131,20 +224,30 @@
 	class RHS_BTR80_VDV 							{ quality = 1; price = 125000; };
 	class RHS_BTR80_VMF 							{ quality = 1; price = 125000; };
 	class RHS_BTR80_VV 								{ quality = 1; price = 175000; };
+	class rhs_btr60_chdkz							{ quality = 1; price = 175000; };
 	class rhs_btr60_msv 							{ quality = 1; price = 125000; };
 	class rhs_btr60_vdv 							{ quality = 2; price = 125000; };
 	class rhs_btr60_vmf 							{ quality = 2; price = 125000; };
 	class rhs_btr60_vv 								{ quality = 1; price = 125000; };
-
+	class rhs_btr70_chdkz							{ quality = 1; price = 125000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
-	// TRACKED
+	//	TRACKED
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_M2A3   								{ quality = 1; price = 600000; };
 	class RHS_M2A3_BUSKI 							{ quality = 1; price = 650000; };
 	class rhs_t72ba_tv								{ quality = 1; price = 1000000; };
 	class rhs_t72bc_tv								{ quality = 1; price = 1000000; };
 	class rhsusf_m113_usarmy_M240   				{ quality = 1; price = 41000; };
+	class rhsusf_m113_usarmy_MK19   				{ quality = 1; price = 41000; };
+	class rhsusf_m113_usarmy_supply   				{ quality = 1; price = 41000; };
 	class rhsusf_m113_usarmy_unarmed 				{ quality = 1; price = 41000; sellPrice = 12000; };
+	class rhsusf_m113d_usarmy   					{ quality = 1; price = 41000; };
+	class rhsusf_m113d_usarmy_M240   				{ quality = 1; price = 41000; };
+	class rhsusf_m113d_usarmy_MK19   				{ quality = 1; price = 41000; };
+	class rhsusf_m113d_usarmy_medical   			{ quality = 1; price = 41000; };
+	class rhsusf_m113d_usarmy_supply   				{ quality = 1; price = 41000; };
+	class rhsusf_m113d_usarmy_unarmed	   			{ quality = 1; price = 41000; };
 	class rhsusf_m1a1aimwd_usarmy					{ quality = 1; price = 1000000; };
 	class rhsusf_m1a2sep1tuskiiwd_usarmy			{ quality = 1; price = 1000000; };
 	class rhsusf_rg33_d         				    { quality = 1; price = 60000; };
@@ -155,7 +258,7 @@
 	class rhsusf_rg33_usmc_d         				{ quality = 1; price = 60000; };
 	class rhsusf_rg33_usmc_wd         				{ quality = 1; price = 60000; };
 	class rhsusf_rg33_wd         				    { quality = 1; price = 60000; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// CH-47
 	//////////////////////////////////////////////////////////////////////////////
@@ -271,7 +374,8 @@
 	class RHS_AH64D_wd_AA					       	{ quality = 1; price = 250000; };
 	class RHS_AH64D_wd_CS					        { quality = 1; price = 250000; };
 	class RHS_AH64D_wd_GS					        { quality = 1; price = 250000; };
-
+	class RHS_MELB_AH6M					   		    { quality = 1; price = 250000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// UH1Y
 	//////////////////////////////////////////////////////////////////////////////
@@ -318,7 +422,11 @@
 	class RHS_TU95MS_vvs_old                   		{ quality = 1; price = 700000; };
 	class RHS_TU95MS_vvs_tambov               		{ quality = 1; price = 700000; };
 	////////////////////////////////////////////////////////////////////////////////////
-	class rhsusf_mrzr4_d_mud		     			{ quality = 1; price = 2500; };
+	class rhsusf_mrzr4_d_mud						{ quality = 1; price = 2500; };
+	class rhsusf_mrzr4_d							{ quality = 1; price = 2500; };
+	class rhsusf_mrzr4_w							{ quality = 1; price = 2500; };
+	class rhsusf_mrzr4_w_mud						{ quality = 1; price = 2500; };
+
 	////////////////////////////////////////////////////////////////////////////////////
 	class rhsusf_M1232_M2_usarmy_d        		    { quality = 1; price = 60000; };
 	class rhsusf_M1232_M2_usarmy_wd       		    { quality = 1; price = 60000; };
@@ -333,11 +441,30 @@
 	///////////////////////////////////////////////////////////////////////////////////
 	class rhsusf_M977A4_AMMO_BKIT_M2_usarmy_d       { quality = 1; price = 48000; };
 	class rhsusf_M977A4_AMMO_BKIT_M2_usarmy_wd      { quality = 1; price = 48000; };
+	class rhsusf_M977A4_AMMO_BKIT_usarmy_d			{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_AMMO_BKIT_usarmy_wd			{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_AMMO_usarmy_d				{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_AMMO_usarmy_wd              { quality = 1; price = 48000; };
 	class rhsusf_M977A4_BKIT_M2_usarmy_d            { quality = 1; price = 48000; };
 	class rhsusf_M977A4_BKIT_M2_usarmy_wd           { quality = 1; price = 48000; };
+	class rhsusf_M977A4_BKIT_usarmy_d				{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_BKIT_usarmy_wd              { quality = 1; price = 48000; };
+	class rhsusf_M977A4_REPAIR_BKIT_M2_usarmy_d		{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_REPAIR_BKIT_usarmy_d		{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_REPAIR_BKIT_usarmy_wd		{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_REPAIR_usarmy_d				{ quality = 1; price = 48000; };
+	class rhsusf_M977A4_REPAIR_usarmy_wd			{ quality = 1; price = 48000; };
 	class rhsusf_M977A4_usarmy_d                    { quality = 1; price = 48000; };
 	class rhsusf_M977A4_usarmy_wd                   { quality = 1; price = 48000; };
 	class rhsusf_M978A4_BKIT_usarmy_d               { quality = 1; price = 48000; };
 	class rhsusf_M978A4_BKIT_usarmy_wd              { quality = 1; price = 48000; };
+	class rhsusf_M978A4_usarmy_d					{ quality = 1; price = 48000; };
+	class rhsusf_M978A4_usarmy_wd					{ quality = 1; price = 48000; };
+	
 	//////////////////////////////////////////////////////////////////////////////////
 	class rhs_bmp3mera_msv			                { quality = 1; price = 600000; };
+	
+	//////////////////////////////////////////////////////////////////////////////////	
+	//	Boats	
+	//////////////////////////////////////////////////////////////////////////////////	
+	class rhsusf_mkvsoc	  		 				   { quality = 3; price = 100000; };

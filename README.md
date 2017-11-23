@@ -1,4 +1,4 @@
-# Trader-Mod v6.2
+# Trader-Mod v6.3
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -8,6 +8,11 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
+
+<b>v6.3 Update</b><br>
+Added 100+ vehicles into RHSV<br>
+Added some missing Arma3 vehicles<br>
+About 170 new items in total<br>
 
 <b>v6.2 Update</b><br>
 Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL<br>

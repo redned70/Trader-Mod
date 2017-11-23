@@ -13,6 +13,18 @@
 	class B_MRAP_01_gmg_F  								{ quality = 3; price = 60000; };
 	class B_MRAP_01_hmg_F  								{ quality = 3; price = 55000; };
 	class B_Quadbike_01_F 								{ quality = 1; price = 2500; };
+	class C_Offroad_01_F 								{ quality = 3; price = 25000; };
+	class C_Offroad_01_blue_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_01_bluecustom_F 					{ quality = 3; price = 25000; };
+	class C_Offroad_01_darkred_F 						{ quality = 3; price = 25000; };
+	class C_Offroad_01_red_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_01_repair_F 						{ quality = 3; price = 25000; };
+	class C_Offroad_01_sand_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_01_white_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_default_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_luxe_F 								{ quality = 3; price = 25000; };
+	class C_Offroad_stripped_F	 						{ quality = 3; price = 25000; };
+	class I_G_Offroad_01_repair_F 						{ quality = 3; price = 25000; };
 	class I_G_Quadbike_01_F 							{ quality = 1; price = 2500; };
 	class I_MRAP_03_F  									{ quality = 3; price = 50000; };
 	class I_MRAP_03_gmg_F 	 							{ quality = 3; price = 55000; };
@@ -39,6 +51,11 @@
 	class B_Truck_01_medical_F							{ quality = 1; price = 20000; };
 	class B_Truck_01_mover_F							{ quality = 1; price = 20000; };
 	class B_Truck_01_transport_F 	            		{ quality = 1; price = 20000; };
+	class C_IDAP_Offroad_01_F							{ quality = 1; price = 20000; };
+	class C_IDAP_Offroad_02_unarmed_F					{ quality = 1; price = 20000; };
+	class C_IDAP_Truck_02_F								{ quality = 1; price = 20000; };
+	class C_IDAP_Truck_02_transport_F					{ quality = 1; price = 20000; };
+	class C_IDAP_Truck_02_water_F						{ quality = 1; price = 20000; };
 	class I_G_Offroad_01_F 	                       	 	{ quality = 1; price = 20000; };
 	class I_G_Offroad_01_armed_F						{ quality = 1; price = 38000; };
 	class I_G_Van_01_fuel_F								{ quality = 1; price = 30000; };
@@ -66,7 +83,7 @@
 	class O_Truck_03_medical_F							{ quality = 1; price = 18000; };
 	class O_Truck_03_repair_F							{ quality = 1; price = 30000; };
 	class O_Truck_03_transport_F						{ quality = 1; price = 20000; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Tracked & Tanks & Arty
 	///////////////////////////////////////////////////////////////////////////////
@@ -136,7 +153,28 @@
 	class B_Heli_Light_01_stripped_F					{ quality = 1; price = 22000; };
 	class B_Heli_Transport_03_unarmed_F					{ quality = 1; price = 40000; };
 	class B_Heli_Transport_03_unarmed_green_F			{ quality = 1; price = 40000; };
+	class C_Heli_Light_01_civil_F						{ quality = 1; price = 22000; };
+	class C_Heli_light_01_blueLine_F                    { quality = 1; price = 22000; };
+	class C_Heli_light_01_blue_F                        { quality = 1; price = 22000; };
+	class C_Heli_light_01_digital_F                     { quality = 1; price = 22000; };
+	class C_Heli_light_01_elliptical_F                  { quality = 1; price = 22000; };
+	class C_Heli_light_01_furious_F                     { quality = 1; price = 22000; };
+	class C_Heli_light_01_graywatcher_F                 { quality = 1; price = 22000; };
+	class C_Heli_light_01_ion_F                         { quality = 1; price = 22000; };
+	class C_Heli_light_01_jeans_F                       { quality = 1; price = 22000; };
+	class C_Heli_light_01_light_F                       { quality = 1; price = 22000; };
+	class C_Heli_light_01_luxe_F                        { quality = 1; price = 22000; };
+	class C_Heli_light_01_red_F                         { quality = 1; price = 22000; };
+	class C_Heli_light_01_shadow_F                      { quality = 1; price = 22000; };
+	class C_Heli_light_01_sheriff_F                     { quality = 1; price = 22000; };
+	class C_Heli_light_01_speedy_F                      { quality = 1; price = 22000; };
+	class C_Heli_light_01_stripped_F                    { quality = 1; price = 22000; };
+	class C_Heli_light_01_sunset_F                      { quality = 1; price = 22000; };
+	class C_Heli_light_01_vrana_F                       { quality = 1; price = 22000; };
+	class C_Heli_light_01_wasp_F                        { quality = 1; price = 22000; };
+	class C_Heli_light_01_wave_F                        { quality = 1; price = 22000; };
 	class I_Heli_light_03_unarmed_F 					{ quality = 1; price = 22000; };
+	class O_Heli_Light_02_dynamicLoadout_F              { quality = 1; price = 22000; };
 	class O_Heli_Transport_04_F							{ quality = 1; price = 40000; };
 	class O_Heli_Transport_04_ammo_F					{ quality = 1; price = 60000; };
 	class O_Heli_Transport_04_ammo_black_F 				{ quality = 1; price = 58000; };
@@ -153,23 +191,27 @@
 	class O_Heli_Transport_04_medevac_black_F			{ quality = 1; price = 48000; };
 	class O_Heli_Transport_04_repair_F 					{ quality = 1; price = 53000; };
 	class O_Heli_Transport_04_repair_black_F 			{ quality = 1; price = 58000; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Armed Helicopters
 	///////////////////////////////////////////////////////////////////////////////
-	class B_Heli_Attack_01_F 							{ quality = 1; price = 160000; }
-	class B_Heli_Light_01_armed_F						{ quality = 1; price = 110000; }
-	class B_Heli_Transport_01_F 						{ quality = 1; price = 160000; }
-	class B_Heli_Transport_01_camo_F 					{ quality = 1; price = 160000; }
-	class B_Heli_Transport_03_F 						{ quality = 1; price = 160000; }
-	class B_Heli_Transport_03_black_F					{ quality = 1; price = 160000; }
-	class I_Heli_Transport_02_F 						{ quality = 1; price = 160000; }
-	class I_Heli_light_03_F 							{ quality = 1; price = 110000; }
-	class O_Heli_Attack_02_F 							{ quality = 1; price = 160000; }
-	class O_Heli_Attack_02_black_F						{ quality = 1; price = 160000; }
-	class O_Heli_Light_02_F 							{ quality = 1; price = 110000; }
-	class O_Heli_Light_02_unarmed_F 					{ quality = 1; price = 110000; }
-	class O_Heli_Light_02_v2_F							{ quality = 1; price = 110000; }
+	class B_Heli_Attack_01_F 							{ quality = 1; price = 160000; };
+	class B_Heli_Attack_01_dynamicLoadout_F				{ quality = 1; price = 160000; };	//new dynamic version
+	class B_Heli_Light_01_armed_F						{ quality = 1; price = 110000; };
+	class B_Heli_Light_01_dynamicLoadout_F				{ quality = 1; price = 110000; };	//new dynamic version
+	class B_Heli_Transport_01_F 						{ quality = 1; price = 160000; };
+	class B_Heli_Transport_01_camo_F 					{ quality = 1; price = 160000; };
+	class B_Heli_Transport_03_F 						{ quality = 1; price = 160000; };
+	class B_Heli_Transport_03_black_F					{ quality = 1; price = 160000; };
+	class I_Heli_Transport_02_F 						{ quality = 1; price = 160000; };
+	class I_Heli_light_03_F 							{ quality = 1; price = 110000; };
+	class O_Heli_Attack_02_F 							{ quality = 1; price = 160000; };
+	class O_Heli_Attack_02_black_F						{ quality = 1; price = 160000; };
+	class O_Heli_Attack_02_dynamicLoadout_F				{ quality = 1; price = 160000; };	//new dynamic version
+	class O_Heli_Attack_02_dynamicLoadout_black_F		{ quality = 1; price = 160000; };	//new dynamic version
+	class O_Heli_Light_02_F 							{ quality = 1; price = 110000; };
+	class O_Heli_Light_02_unarmed_F 					{ quality = 1; price = 110000; };
+	class O_Heli_Light_02_v2_F							{ quality = 1; price = 110000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Planes
@@ -178,3 +220,6 @@
 	class I_Plane_Fighter_03_AA_F	                	{ quality = 1; price = 550000; };
 	class I_Plane_Fighter_03_CAS_F	                	{ quality = 1; price = 550000; };
 	class O_Plane_CAS_02_F 	                			{ quality = 1; price = 550000; };
+	class GNT_C185										{ quality = 1; price = 10000; };
+	class GNT_C185F										{ quality = 1; price = 10000; };
+	class GNT_C185T										{ quality = 1; price = 30000; };

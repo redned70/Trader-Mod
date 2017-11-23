@@ -9,6 +9,17 @@
 			"B_G_Quadbike_01_F",
 			"B_MRAP_01_F",
 			"B_Quadbike_01_F",
+			"C_Offroad_01_F",
+			"C_Offroad_01_blue_F",
+			"C_Offroad_01_bluecustom_F",
+			"C_Offroad_01_darkred_F",
+			"C_Offroad_01_red_F",
+			"C_Offroad_01_repair_F",
+			"C_Offroad_01_sand_F",
+			"C_Offroad_01_white_F",
+			"C_Offroad_default_F",
+			"C_Offroad_luxe_F",
+			"C_Offroad_stripped_F",		
 			"I_G_Quadbike_01_F",
 			"I_MRAP_03_F",
 			"I_Quadbike_01_F",
@@ -33,8 +44,14 @@
 			"B_Truck_01_medical_F",
 			"B_Truck_01_mover_F",
 			"B_Truck_01_transport_F",
+			"C_IDAP_Offroad_01_F",
+			"C_IDAP_Offroad_02_unarmed_F",
+			"C_IDAP_Truck_02_F",
+			"C_IDAP_Truck_02_transport_F",
+			"C_IDAP_Truck_02_water_F",
 			"I_G_Offroad_01_F",
 			"I_G_Offroad_01_armed_F",
+			"I_G_Offroad_01_repair_F",
 			"I_G_Van_01_fuel_F",
 			"I_G_Van_01_transport_F",
 			"I_Truck_02_ammo_F",
@@ -130,7 +147,7 @@
 			"O_Boat_Transport_01_F",
 			"O_G_Boat_Transport_01_F",
 			"O_Lifeboat",
-			"O_SDV_01_F",
+			"O_SDV_01_F"
 			//"O_Boat_Armed_01_hmg_F"
 		};
 	};
@@ -141,15 +158,17 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\gps_ca.paa";
 		items[] =
 		{
-			//"B_UAV_01_F",
-			//"B_UAV_02_F",
-			//"B_UAV_02_CAS_F",
-			//"O_UAV_01_F",
-			//"O_UAV_02_F",
-			//"O_UAV_02_CAS_F",
+			/*
+			"B_UAV_01_F",
+			"B_UAV_02_F",
+			"B_UAV_02_CAS_F",
+			"O_UAV_01_F",
+			"O_UAV_02_F",
+			"O_UAV_02_CAS_F",
 			"I_UAV_01_F",
 			"I_UAV_02_F",
 			"I_UAV_02_CAS_F"
+			*/
 		};
 	};
 
@@ -180,7 +199,28 @@
 			"B_Heli_Light_01_stripped_F",
 			"B_Heli_Transport_03_unarmed_F",
 			"B_Heli_Transport_03_unarmed_green_F",
+			"C_Heli_Light_01_civil_F",
+			"C_Heli_light_01_blueLine_F",
+			"C_Heli_light_01_blue_F",
+			"C_Heli_light_01_digital_F",
+			"C_Heli_light_01_elliptical_F",
+			"C_Heli_light_01_furious_F",
+			"C_Heli_light_01_graywatcher_F",
+			"C_Heli_light_01_ion_F",
+			"C_Heli_light_01_jeans_F",
+			"C_Heli_light_01_light_F",
+			"C_Heli_light_01_luxe_F",
+			"C_Heli_light_01_red_F",
+			"C_Heli_light_01_shadow_F",
+			"C_Heli_light_01_sheriff_F",
+			"C_Heli_light_01_speedy_F",
+			"C_Heli_light_01_stripped_F",
+			"C_Heli_light_01_sunset_F",
+			"C_Heli_light_01_vrana_F",
+			"C_Heli_light_01_wasp_F",
+			"C_Heli_light_01_wave_F",
 			"I_Heli_light_03_unarmed_F",
+			"O_Heli_Light_02_dynamicLoadout_F",			
 			"O_Heli_Transport_04_F",
 			"O_Heli_Transport_04_ammo_F",
 			"O_Heli_Transport_04_ammo_black_F",
@@ -206,16 +246,20 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
-			"B_Heli_Attack_01_F",
-			"B_Heli_Light_01_armed_F",
+			//"B_Heli_Attack_01_F",							// disabled for newer version
+			"B_Heli_Attack_01_dynamicLoadout_F",
+			//"B_Heli_Light_01_armed_F",					// disabled for newer version
+			"B_Heli_Light_01_dynamicLoadout_F",
 			"B_Heli_Transport_01_F",
 			"B_Heli_Transport_01_camo_F",
 			"B_Heli_Transport_03_F",
 			"B_Heli_Transport_03_black_F",
 			"I_Heli_Transport_02_F",
 			"I_Heli_light_03_F",
-			"O_Heli_Attack_02_F",
-			"O_Heli_Attack_02_black_F",
+			//"O_Heli_Attack_02_F",							// disabled for newer version
+			//"O_Heli_Attack_02_black_F",					// disabled for newer version
+			"O_Heli_Attack_02_dynamicLoadout_F",
+			"O_Heli_Attack_02_dynamicLoadout_black_F",
 			"O_Heli_Light_02_F",
 			"O_Heli_Light_02_unarmed_F",
 			"O_Heli_Light_02_v2_F"
@@ -229,6 +273,9 @@
 		items[] =
 		{
 			"B_Plane_CAS_01_F",
+			"GNT_C185",
+			"GNT_C185F",
+			"GNT_C185T",
 			"I_Plane_Fighter_03_AA_F",
 			"I_Plane_Fighter_03_CAS_F",
 			"O_Plane_CAS_02_F"

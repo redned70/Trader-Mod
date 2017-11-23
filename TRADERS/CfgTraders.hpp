@@ -327,7 +327,8 @@
 		{
 			"Boats",
 			"A3Boats",
-			"ApexBoats"
+			"ApexBoats",
+			"RHSBoats"
 			// Whatever your last line is make sure it doesnt have a comma!
 		};
 	};

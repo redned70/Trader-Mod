@@ -5,6 +5,10 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v6.3 ***
+Added 100+ vehicles into RHSV
+Added some missing Arma3 vehicles
+
 *** Update v6.2 ***
 Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL
 

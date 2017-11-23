@@ -282,6 +282,7 @@ RHSChoppers
 ----------- boats ----------
 A3Boats
 APEXBoats
+RHSBoats
 Boats
 
 ----------- planes ----------

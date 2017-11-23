@@ -33,7 +33,6 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
-			"GNT_C185F",
-            "GNT_C185T"	
+			// moved to arma3
 		};
 	};
