@@ -129,7 +129,6 @@
 			"rhsusf_M1083A1P2_B_M2_WD_flatbed_fmtv_usarmy",
 			"rhsusf_M1083A1P2_B_M2_WD_open_fmtv_usarmy",
 			"rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy",
-			"rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy",
 			"rhsusf_M1083A1P2_B_M2_d_Medical_fmtv_usarmy",
 			"rhsusf_M1083A1P2_B_M2_flatbed_fmtv_usarmy",
 			"rhsusf_M1083A1P2_B_M2_fmtv_usarmy",
@@ -365,7 +364,6 @@
 			"rhs_mi28n_vvs",
 			"rhs_mi28n_vvsc",
 			"rhsusf_CH53E_USMC"
-			//"RHS_MELB_AH6M_L",
 			//"RHS_MELB_AH6M_L",
 		};
 	};

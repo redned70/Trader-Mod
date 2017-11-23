@@ -122,7 +122,6 @@
 	class rhsusf_M1083A1P2_B_M2_WD_flatbed_fmtv_usarmy		{ quality = 3; price = 25000; };
 	class rhsusf_M1083A1P2_B_M2_WD_open_fmtv_usarmy			{ quality = 3; price = 25000; };
 	class rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy			{ quality = 1; price = 19500; };
-	class rhsusf_M1083A1P2_B_M2_d_MHQ_fmtv_usarmy			{ quality = 1; price = 19500; };
 	class rhsusf_M1083A1P2_B_M2_d_Medical_fmtv_usarmy		{ quality = 1; price = 19500; };
 	class rhsusf_M1083A1P2_B_M2_flatbed_fmtv_usarmy			{ quality = 1; price = 19500; };
 	class rhsusf_M1083A1P2_B_M2_fmtv_usarmy					{ quality = 1; price = 19500; };
