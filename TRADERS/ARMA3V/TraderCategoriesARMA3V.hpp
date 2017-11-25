@@ -25,7 +25,10 @@
 			"I_Quadbike_01_F",
 			"O_G_Quadbike_01_F",
 			"O_MRAP_02_F",
-			"O_Quadbike_01_F"
+			"O_Quadbike_01_F",
+			"volha_Civ_01",
+			"volha_Civ_02",
+			"volha_Civ_03"
 		};
 	};
 	class A3Trucks
@@ -278,6 +281,7 @@
 			"GNT_C185T",
 			"I_Plane_Fighter_03_AA_F",
 			"I_Plane_Fighter_03_CAS_F",
+			"I_Plane_Fighter_03_dynamicLoadout_F",
 			"O_Plane_CAS_02_F"
 		};
 	};

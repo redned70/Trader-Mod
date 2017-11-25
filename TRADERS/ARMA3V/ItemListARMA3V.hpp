@@ -37,7 +37,10 @@
 	class O_Quadbike_01_F 								{ quality = 1; price = 2500; };
 	class O_T_MRAP_02_hmg_ghex_F						{ quality = 3; price = 55000; };
     class O_T_MRAP_02_gmg_ghex_F						{ quality = 3; price = 60000; };
-
+	class volha_Civ_01									{ quality = 2; price = 6000; };
+	class volha_Civ_02									{ quality = 2; price = 6000; };
+	class volha_Civ_03									{ quality = 2; price = 6000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Trucks
 	///////////////////////////////////////////////////////////////////////////////
@@ -219,6 +222,7 @@
 	class B_Plane_CAS_01_F 	                			{ quality = 1; price = 550000; };
 	class I_Plane_Fighter_03_AA_F	                	{ quality = 1; price = 550000; };
 	class I_Plane_Fighter_03_CAS_F	                	{ quality = 1; price = 550000; };
+	class I_Plane_Fighter_03_dynamicLoadout_F   	   	{ quality = 1; price = 550000; };
 	class O_Plane_CAS_02_F 	                			{ quality = 1; price = 550000; };
 	class GNT_C185										{ quality = 1; price = 10000; };
 	class GNT_C185F										{ quality = 1; price = 10000; };

@@ -4,16 +4,50 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// GAZ-233011
 	///////////////////////////////////////////////////////////////////////////////
+	class rhs_tigr_3camo_msv						{ quality = 3; price = 25000; sellPrice = 7000; };
 	class rhs_tigr_3camo_vdv						{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_3camo_vmf						{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_3camo_vv							{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_ffv_3camo_msv					{ quality = 3; price = 25000; sellPrice = 7000; };
 	class rhs_tigr_ffv_3camo_vdv					{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_ffv_3camo_vmf					{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_ffv_3camo_vv						{ quality = 3; price = 25000; sellPrice = 7000; };
+	class rhs_tigr_ffv_msv							{ quality = 3; price = 25000; };
 	class rhs_tigr_ffv_vdv							{ quality = 3; price = 25000; };
+	class rhs_tigr_ffv_vmf							{ quality = 3; price = 25000; };
+	class rhs_tigr_ffv_vv							{ quality = 3; price = 25000; };
+	class rhs_tigr_m_3camo_msv						{ quality = 3; price = 40000; };
+	class rhs_tigr_m_3camo_vdv						{ quality = 3; price = 40000; };
+	class rhs_tigr_m_3camo_vmf						{ quality = 3; price = 40000; };
+	class rhs_tigr_m_3camo_vv						{ quality = 3; price = 40000; };
+	class rhs_tigr_m_msv							{ quality = 3; price = 40000; };
+	class rhs_tigr_m_vdv							{ quality = 3; price = 40000; };
+	class rhs_tigr_m_vmf							{ quality = 3; price = 40000; };
+	class rhs_tigr_m_vv								{ quality = 3; price = 40000; };
+	class rhs_tigr_msv								{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_3camo_msv					{ quality = 3; price = 40000; };
 	class rhs_tigr_sts_3camo_vdv					{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_3camo_vmf					{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_3camo_vv						{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_msv							{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_vdv							{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_vmf							{ quality = 3; price = 40000; };
+	class rhs_tigr_sts_vv							{ quality = 3; price = 40000; };
 	class rhs_tigr_vdv								{ quality = 3; price = 25000; };
+	class rhs_tigr_vmf								{ quality = 3; price = 25000; };
+	class rhs_tigr_vv								{ quality = 3; price = 25000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// GAZ-66
 	//////////////////////////////////////////////////////////////////////////////
+	class rhs_gaz66_ammo_msv						{ quality = 1; price = 20000; };
+	class rhs_gaz66_ammo_vdv						{ quality = 1; price = 20000; };
 	class rhs_gaz66_ammo_vmf 						{ quality = 1; price = 30000; };
+	class rhs_gaz66_ammo_vv							{ quality = 1; price = 20000; };
+	class rhs_gaz66_ap2_msv							{ quality = 1; price = 20000; };
+	class rhs_gaz66_ap2_vdv							{ quality = 1; price = 20000; };
+	class rhs_gaz66_ap2_vmf							{ quality = 1; price = 20000; };
+	class rhs_gaz66_ap2_vv							{ quality = 1; price = 20000; };
 	class rhs_gaz66_flat_msv						{ quality = 1; price = 18250; };
 	class rhs_gaz66_flat_vdv 						{ quality = 1; price = 18250; };
 	class rhs_gaz66_flat_vmf						{ quality = 1; price = 18250; };
@@ -27,6 +61,7 @@
 	class rhs_gaz66_repair_vdv						{ quality = 1; price = 20000; };
 	class rhs_gaz66_repair_vmf						{ quality = 1; price = 20000; };
 	class rhs_gaz66_repair_vv						{ quality = 1; price = 20000; };
+	class rhs_gaz66_vdv								{ quality = 1; price = 20000; };
 	class rhs_gaz66_vmf 							{ quality = 1; price = 18250; };
 	class rhs_gaz66_vv 								{ quality = 1; price = 18250; };
 	class rhs_gaz66o_flat_msv						{ quality = 1; price = 18250; };
@@ -37,7 +72,7 @@
 	class rhs_gaz66o_vdv 							{ quality = 1; price = 18250; };
 	class rhs_gaz66o_vmf							{ quality = 1; price = 18250; };
 	class rhs_gaz66o_vv								{ quality = 1; price = 18250; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// HMVE
 	//////////////////////////////////////////////////////////////////////////////
@@ -201,6 +236,7 @@
 	class rhs_ural_open_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_open_chdkz					{ quality = 1; price = 30000; };
+	class rhs_truck									{ quality = 1; price = 30000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//	BMP
@@ -269,6 +305,7 @@
 	//CH-53
 	////////////////////////////////////////////////////////////////////////////////
 	class rhsusf_CH53E_USMC							{ quality = 1; price = 57500; };
+	class rhsusf_CH53E_USMC_D						{ quality = 1; price = 57500; };	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Ka-60
