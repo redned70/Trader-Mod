@@ -1,4 +1,4 @@
-# Trader-Mod v6.3
+# Trader-Mod v6.5
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -9,6 +9,14 @@ This file does not include how to install mods or add to loot tables as that is 
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
 
+<b>v6.5 Update</b><br>
+Added new class ApexVTOL<br>
+Added 100+ to ARMA3V<br>
+Added 100+ to RHSV<br>
+Fixed APEX<br>
+Cleaned up some code<br>
+
+<br><br>
 <b>v6.3 Update</b><br>
 Added 100+ vehicles into RHSV<br>
 Added some missing Arma3 vehicles<br>

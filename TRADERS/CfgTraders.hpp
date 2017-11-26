@@ -16,7 +16,7 @@
 			"FFAAPointerAttachments",
 			"BipodAttachments",
 			"FFAABipodAttachments",
-			//"APEXBipodAttachments",		//not used
+			"APEXBipodAttachments",		
 			"R3FBipodAttachments",
 			"RHSBipodAttachments",
 			"RHSForegripAttachments",
@@ -303,6 +303,7 @@
 			"Planes",
 			"A3Planes",
 			"ApexPlanes",
+			"ApexVTOL",
 			"CPlanes",
 			"HVPPlanes",
 			"MASPlanes",
