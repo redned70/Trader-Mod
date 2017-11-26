@@ -122,14 +122,14 @@
 			"rhs_tigr_vv",
 			"rhs_truck",
 			"rhs_typhoon_vdv",
-			"rhs_uaz_ags_chdkz",
-			"rhs_uaz_dshkm_chdkz",
+			//"rhs_uaz_ags_chdkz",						//Broken?
+			//"rhs_uaz_dshkm_chdkz",					//Broken?
 			"rhs_uaz_open_chdkz",
 			"rhs_uaz_open_vmf",
 			"rhs_uaz_spg9_chdkz",
-			"rhs_uaz_vmf",
+			//"rhs_uaz_vmf",							//Broken?
 			"RHS_UAZ_MSV_01",
-			"rhs_uaz_open_MSV_01",
+			//"rhs_uaz_open_MSV_01",					//Broken?
 			"rhs_uaz_open_vdv",
 			"rhs_uaz_open_vv",
 			"rhs_uaz_vdv",
@@ -312,19 +312,19 @@
 			"rhsusf_m998_w_s_2dr_halftop",
 			"rhsusf_m998_w_s_4dr",			
 			"rhsusf_m998_w_s_4dr_fulltop",
-			"rhsusf_m998_w_s_4dr_halftop",
+			//"rhsusf_m998_w_s_4dr_halftop",		//Broken?
 			"rhsusf_mrzr4_d",
 			"rhsusf_mrzr4_d_mud",
-			"rhsusf_mrzr4_w",
+			//"rhsusf_mrzr4_w",						//Broken?
 			"rhsusf_mrzr4_w_mud",
 			"rhsusf_rg33_d",
-			"rhsusf_rg33_m2_d",
-			"rhsusf_rg33_m2_usmc_d",
+			//"rhsusf_rg33_m2_d",					//Broken?
+			//"rhsusf_rg33_m2_usmc_d",				//Broken?
 			"rhsusf_rg33_m2_usmc_wd",
 			"rhsusf_rg33_m2_wd",
 			"rhsusf_rg33_usmc_d",
-			"rhsusf_rg33_usmc_wd",
-			"rhsusf_rg33_wd"
+			"rhsusf_rg33_usmc_wd"
+			//"rhsusf_rg33_wd"						//Broken?
 			//"rhs_btr60_msv",
 			//"rhs_btr60_vv",
 			//"rhs_t72ba_tv",
