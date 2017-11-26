@@ -47,6 +47,10 @@
 			"C_Offroad_default_F",
 			"C_Offroad_luxe_F",
 			"C_Offroad_stripped_F",		
+			"I_G_Offroad_01_F",
+			"C_IDAP_Offroad_01_F",
+			"C_IDAP_Offroad_02_unarmed_F",
+			"O_G_Offroad_01_F",
 			"C_Quadbike_01_F",
 			"C_Quadbike_01_black_F",
 			"C_Quadbike_01_blue_F",
@@ -79,8 +83,6 @@
 			"B_Truck_01_medical_F",
 			"B_Truck_01_mover_F",
 			"B_Truck_01_transport_F",
-			"C_IDAP_Offroad_01_F",
-			"C_IDAP_Offroad_02_unarmed_F",
 			"C_IDAP_Truck_02_F",
 			"C_IDAP_Truck_02_transport_F",
 			"C_IDAP_Truck_02_water_F",
@@ -99,8 +101,6 @@
 			"C_Van_01_transport_F",
 			"C_Van_01_transport_red_F",
 			"C_Van_01_transport_white_F",
-			"I_G_Offroad_01_F",
-			"I_G_Offroad_01_armed_F",
 			"I_G_Offroad_01_repair_F",
 			"I_G_Van_01_fuel_F",
 			"I_G_Van_01_transport_F",
@@ -136,6 +136,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
+			"I_G_Offroad_01_armed_F",	
 			"B_APC_Wheeled_01_cannon_F",
 			"B_G_Offroad_01_armed_F",
 			"B_MRAP_01_gmg_F",
