@@ -1,5 +1,6 @@
 	///////////////////////////////////////////////////////////////////////////////
-	//RHS VEHICLES 
+	// RHS VEHICLES 
+	// [CiC]red_ned along with loads of contributions
 	///////////////////////////////////////////////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////////
 	// GAZ-233011
@@ -198,16 +199,51 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	//////////////////////////////////////////////////////////////////////////////
-	class rhs_uaz_ags_chdkz	 						{ quality = 1; price = 1700; };
-	class rhs_uaz_dshkm_chdkz	 					{ quality = 1; price = 1700; };
-	class rhs_uaz_open_chdkz	 					{ quality = 1; price = 1700; };
-	class rhs_uaz_open_vmf	 						{ quality = 1; price = 1700; };
-	class rhs_uaz_spg9_chdkz	 					{ quality = 1; price = 1700; };
-	class rhs_uaz_vmf 								{ quality = 1; price = 1700; };
-
+	class RHS_UAZ_MSV_01									{ quality = 1; price = 1700; };
+	class rhs_uaz_ags_chdkz	 								{ quality = 1; price = 1700; };
+	class rhs_uaz_dshkm_chdkz	 							{ quality = 1; price = 1700; };
+	class rhs_uaz_open_MSV_01								{ quality = 1; price = 1700; };
+	class rhs_uaz_open_chdkz	 							{ quality = 1; price = 1700; };
+	class rhs_uaz_open_vdv									{ quality = 1; price = 1700; };
+	class rhs_uaz_open_vmf	 								{ quality = 1; price = 1700; };
+	class rhs_uaz_open_vv									{ quality = 1; price = 1700; };
+	class rhs_uaz_spg9_chdkz	 							{ quality = 1; price = 1700; };
+	class rhs_uaz_vdv										{ quality = 1; price = 1700; };
+	class rhs_uaz_vmf										{ quality = 1; price = 1700; };
+	class rhs_uaz_vv										{ quality = 1; price = 1700; };
+	
+	///////////////////////////////////////////////////////////////////////////////
+	// Kamaz
+	//////////////////////////////////////////////////////////////////////////////	
+	class rhs_kamaz5350										{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed								{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_cover						{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_cover_msv					{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_cover_vdv					{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_cover_vmf					{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_cover_vv					{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_msv							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_vdv							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_vmf							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_flatbed_vv							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_msv									{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_open								{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_open_msv							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_open_vdv							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_open_vmf							{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_open_vv								{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_vdv									{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_vmf									{ quality = 3; price = 25000; };
+	class rhs_kamaz5350_vv									{ quality = 3; price = 25000; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// URAL
 	//////////////////////////////////////////////////////////////////////////////
+	class RHS_Civ_Truck_02_covered_F				{ quality = 1; price = 30000; };
+	class RHS_Civ_Truck_02_transport_F				{ quality = 1; price = 30000; };
+	class RHS_Ural_Civ_01							{ quality = 1; price = 30000; };
+	class RHS_Ural_Civ_02							{ quality = 1; price = 30000; };
+	class RHS_Ural_Civ_03							{ quality = 1; price = 30000; };
 	class RHS_Ural_Flat_MSV_01 						{ quality = 1; price = 28000; };
 	class RHS_Ural_Flat_VDV_01 						{ quality = 1; price = 28000; };
 	class RHS_Ural_Flat_VMF_01 						{ quality = 1; price = 28000; };
@@ -228,15 +264,19 @@
 	class RHS_Ural_Open_VDV_01						{ quality = 1; price = 30000; sellPrice = 12000; };
 	class RHS_Ural_Open_VMF_01						{ quality = 1; price = 30000; };
 	class RHS_Ural_Open_VV_01						{ quality = 1; price = 30000; };
+	class RHS_Ural_Repair_MSV_01					{ quality = 1; price = 30000; };
+	class RHS_Ural_Repair_VDV_01					{ quality = 1; price = 30000; };
+	class RHS_Ural_Repair_VMF_01					{ quality = 1; price = 30000; };
+	class RHS_Ural_Repair_VV_01						{ quality = 1; price = 30000; };
 	class RHS_Ural_VDV_01							{ quality = 1; price = 30000; };
 	class RHS_Ural_VMF_01							{ quality = 1; price = 30000; };
 	class RHS_Ural_VV_01							{ quality = 1; price = 30000; };
+	class rhs_truck									{ quality = 1; price = 30000; };
 	class rhs_typhoon_vdv							{ quality = 1; price = 50000; };
 	class rhs_ural_chdkz							{ quality = 1; price = 30000; };
 	class rhs_ural_open_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_open_chdkz					{ quality = 1; price = 30000; };
-	class rhs_truck									{ quality = 1; price = 30000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//	BMP
@@ -299,7 +339,7 @@
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_CH_47F								{ quality = 1; price = 40000; };
 	class RHS_CH_47F_10					            { quality = 1; price = 40000; };
-	class RHS_CH_47F_light							 { quality = 1; price = 40000; };
+	class RHS_CH_47F_light							{ quality = 1; price = 40000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	//CH-53
@@ -360,6 +400,9 @@
 	class RHS_Mi8MTV3_FAB_vvs					    { quality = 1; price = 155000; };
 	class RHS_Mi8MTV3_FAB_vvsc					    { quality = 1; price = 155000; };
 	class RHS_Mi8MTV3_UPK23_vdv					    { quality = 1; price = 155000; };
+	class RHS_Mi8MTV3_heavy_vdv					    { quality = 1; price = 155000; };
+	class RHS_Mi8MTV3_heavy_vvs					    { quality = 1; price = 155000; };
+	class RHS_Mi8MTV3_heavy_vvsc				    { quality = 1; price = 155000; };
 	class RHS_Mi8MTV3_vdv					        { quality = 1; price = 155000; };
 	class RHS_Mi8amt_civilian					    { quality = 1; price = 48000; };
 	class RHS_Mi8mt_Cargo_vdv					    { quality = 1; price = 48000; };
@@ -370,8 +413,11 @@
 	class RHS_Mi8mt_vv					        	{ quality = 1; price = 48000; };
 	class RHS_Mi8mt_vvs					            { quality = 1; price = 48000; };
 	class RHS_Mi8mt_vvsc					        { quality = 1; price = 48000; };
+	class RHS_Mi8mtv3_Cargo_vdv					    { quality = 1; price = 155000; };
+	class RHS_Mi8mtv3_Cargo_vvs					    { quality = 1; price = 155000; };
+	class RHS_Mi8mtv3_Cargo_vvsc				    { quality = 1; price = 155000; };
     class RHS_MI8MTV3_vvsc					        { quality = 1; price = 155000; };
-
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Mi24
 	//////////////////////////////////////////////////////////////////////////////
@@ -397,6 +443,7 @@
 	class RHS_Mi24V_vvs					        	{ quality = 1; price = 81000; };
 	class RHS_Mi24V_vvsc					        { quality = 1; price = 81000; };
 	class RHS_Mi24Vt_vvs					        { quality = 1; price = 81000; };
+	class RHS_Mi24Vt_vvsc					        { quality = 1; price = 81000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// AH64 Apache
@@ -427,12 +474,35 @@
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_A10 									{ quality = 1; price = 550000; };
 	class RHS_C130J 								{ quality = 1; price = 60000; };
+	class RHS_Su25SM_CAS_vvs						{ quality = 1; price = 550000; };
+	class RHS_Su25SM_CAS_vvsc						{ quality = 1; price = 550000; };
+	class RHS_Su25SM_Cluster_vvs					{ quality = 1; price = 550000; };
+	class RHS_Su25SM_Cluster_vvsc					{ quality = 1; price = 550000; };
+	class RHS_Su25SM_KH29_vvs						{ quality = 1; price = 550000; };
+	class RHS_Su25SM_KH29_vvsc						{ quality = 1; price = 550000; };
 	class RHS_Su25SM_vvs							{ quality = 1; price = 550000; };
+	class RHS_Su25SM_vvsc							{ quality = 1; price = 550000; };
 	class RHS_T50_vvs_051							{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_052							{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_053							{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_054							{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_blueonblue					{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_generic						{ quality = 1; price = 550000; };
+	class RHS_T50_vvs_generic_ext					{ quality = 1; price = 550000; };
+	class RHS_TU95MS_vvs_chelyabinsk          		{ quality = 1; price = 700000; };
+	class RHS_TU95MS_vvs_dubna                		{ quality = 1; price = 700000; };
+	class RHS_TU95MS_vvs_irkutsk              		{ quality = 1; price = 700000; };
+	class RHS_TU95MS_vvs_old                   		{ quality = 1; price = 700000; };
+	class RHS_TU95MS_vvs_tambov               		{ quality = 1; price = 700000; };
+	class rhs_mig29s_vmf							{ quality = 1; price = 550000; };
+	class rhs_mig29s_vvs							{ quality = 1; price = 550000; };
+	class rhs_mig29s_vvsc							{ quality = 1; price = 550000; };
+	class rhs_pchela1t_vvs							{ quality = 1; price = 550000; };
+	class rhs_pchela1t_vvsc							{ quality = 1; price = 550000; };
 	class rhsusf_f22								{ quality = 1; price = 550000; };
 	
 	//////////////////////////////////////////////////////////////////////////////////
-	//Static MG
+	//Static MG - dont think these are rhs
 	//////////////////////////////////////////////////////////////////////////////////
 	class I_mas_DSHkM_Mini_TriPod					{ quality = 1; price = 12000; };
 	class I_mas_KORD_AAF							{ quality = 1; price = 15000; };
@@ -450,13 +520,6 @@
 	class rhs_mi28n_s13_vvsc                   		{ quality = 1; price = 150000; };
 	class rhs_mi28n_vvs                        		{ quality = 1; price = 150000; };
 	class rhs_mi28n_vvsc                       		{ quality = 1; price = 150000; };
-	///////////////////////////////////////////////////////////////////////////////////
-	///////////////////////////////////////////////////////////////////////////////////
-	class RHS_TU95MS_vvs_chelyabinsk          		{ quality = 1; price = 700000; };
-	class RHS_TU95MS_vvs_dubna                		{ quality = 1; price = 700000; };
-	class RHS_TU95MS_vvs_irkutsk              		{ quality = 1; price = 700000; };
-	class RHS_TU95MS_vvs_old                   		{ quality = 1; price = 700000; };
-	class RHS_TU95MS_vvs_tambov               		{ quality = 1; price = 700000; };
 	////////////////////////////////////////////////////////////////////////////////////
 	class rhsusf_mrzr4_d_mud						{ quality = 1; price = 2500; };
 	class rhsusf_mrzr4_d							{ quality = 1; price = 2500; };
