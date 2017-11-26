@@ -190,7 +190,7 @@
 	class CUP_O_Mi17_TK								{ quality = 1; price = 40000; };
 	class CUP_O_Mi8_medevac_CHDKZ					{ quality = 1; price = 30000; };
 	class CUP_O_Mi8_medevac_RU						{ quality = 1; price = 30000; };
-	class CUP_I_BTR40_TKG							{ quality = 1; price = 28500;sell price = 11500; };
+	class CUP_I_BTR40_TKG							{ quality = 1; price = 28500;sellprice = 11500; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//CUPPlanes
