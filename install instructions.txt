@@ -5,7 +5,11 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
-*** Update v6.3 ***
+*** Update v6.6 ***
+Added KA Mod - thanks to CHAINSAW SQUIRREL
+Text sorted some more files and checked optimisation of tabs not spaces
+
+*** Update v6.5 ***
 Added 100+ vehicles into RHSV
 Added some missing Arma3 vehicles
 
@@ -56,6 +60,7 @@ class CfgExileArsenal
 	#include "TRADERS\HVP\ItemListHVP.hpp"
 	#include "TRADERS\HWP\ItemListHWP.hpp"
 	#include "TRADERS\Jonzie\ItemListJonzie.hpp"
+	#include "TRADERS\KA\ItemListKA.hpp"	
 	#include "TRADERS\MASV\ItemListMASV.hpp"
 	#include "TRADERS\MASW\ItemListMASW.hpp"
 	#include "TRADERS\NIA\ItemListNIA.hpp"
@@ -92,6 +97,7 @@ class CfgTraderCategories
 	#include "TRADERS\HVP\TraderCategoriesHVP.hpp"
 	#include "TRADERS\HWP\TraderCategoriesHWP.hpp"
 	#include "TRADERS\Jonzie\TraderCategoriesJonzie.hpp"
+	#include "TRADERS\KA\TraderCategoriesKA.hpp"
 	#include "TRADERS\MASV\TraderCategoriesMASV.hpp"
 	#include "TRADERS\MASW\TraderCategoriesMASW.hpp"
 	#include "TRADERS\NIA\TraderCategoriesNIA.hpp"

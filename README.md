@@ -1,4 +1,4 @@
-# Trader-Mod v6.5
+# Trader-Mod v6.6
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -8,6 +8,10 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
+
+<b>v6.6 Update</b><br>
+Added KA Mod - thanks to CHAINSAW SQUIRREL<br>
+Text sorted some more files and checked optimisation of tabs not spaces<br>
 
 <b>v6.5 Update</b><br>
 Added new class ApexVTOL<br>

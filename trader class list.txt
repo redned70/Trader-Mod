@@ -10,6 +10,7 @@ Community
 BPPointerAttachments
 CUPPointerAttachments
 FFAAPointerAttachments
+KAAttachments
 MASPointerAttachments
 NIAAttachments
 PointerAttachments
@@ -29,6 +30,7 @@ BPMuzzleAttachments
 CUPMuzzleAttachments
 FFAAMuzzleAttachments
 HLCMuzzleAttachments
+KAMuzzleAttachments
 MASMuzzleAttachments
 MuzzleAttachments
 NIAMuzzleAttachments
@@ -54,6 +56,7 @@ BPOpticAttachments
 CUPOpticAttachments
 FFAAOpticAttachments
 HLCOpticAttachments
+KAOpticAttachments
 MASOpticAttachments
 NIAOpticAttachments
 OpticAttachments
@@ -69,6 +72,7 @@ CUPAmmunition
 FFAAAmunition
 GREFAmmunition
 HLCAmmunition
+KAAmmunition
 MASAmmunition
 NIAAmmunition
 R3FAmmunition
@@ -108,6 +112,7 @@ APEXPistols
 BPPistols
 CUPPistols
 FFAAPistols
+KAPistols
 MASPistols
 Pistols
 R3FPistols
@@ -146,6 +151,7 @@ CUPAssaultRifles
 FFAARifles
 GREFWeapons
 HLCAssaultRifles
+KARifles
 MASAssaultRifles
 NIAAssaultRifles
 R3FAssaultRifles
