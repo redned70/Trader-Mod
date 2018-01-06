@@ -6,6 +6,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Cars
 	///////////////////////////////////////////////////////////////////////////////
+	class B_GEN_Offroad_01_gen_F						{ quality = 3; price = 25000; };
 	class B_G_Offroad_01_F  							{ quality = 3; price = 15000; };
 	class B_G_Offroad_01_armed_F 						{ quality = 3; price = 25000; };
 	class B_G_Offroad_01_repair_F  						{ quality = 3; price = 35000; };
@@ -14,6 +15,9 @@
 	class B_MRAP_01_gmg_F  								{ quality = 3; price = 60000; };
 	class B_MRAP_01_hmg_F  								{ quality = 3; price = 55000; };
 	class B_Quadbike_01_F 								{ quality = 1; price = 2500; };
+	class B_T_MRAP_01_F  								{ quality = 3; price = 50000; };
+	class B_T_MRAP_01_gmg_F   							{ quality = 3; price = 60000; };
+	class B_T_MRAP_01_hmg_F  							{ quality = 3; price = 55000; };
 	class C_Hatchback_01_F								{ quality = 3; price = 12000; };
 	class C_Hatchback_01_beigecustom_F					{ quality = 3; price = 12000; };
 	class C_Hatchback_01_black_F						{ quality = 3; price = 12000; };
@@ -49,6 +53,12 @@
 	class C_Offroad_01_repair_F 						{ quality = 3; price = 25000; };
 	class C_Offroad_01_sand_F 							{ quality = 3; price = 25000; };
 	class C_Offroad_01_white_F 							{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_black_F					{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_blue_F					{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_green_F					{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_orange_F					{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_red_F					{ quality = 3; price = 25000; };
+	class C_Offroad_02_unarmed_white_F					{ quality = 3; price = 25000; };
 	class C_Offroad_default_F 							{ quality = 3; price = 25000; };
 	class C_Offroad_luxe_F 								{ quality = 3; price = 25000; };
 	class C_Offroad_stripped_F	 						{ quality = 3; price = 25000; };
@@ -57,6 +67,10 @@
 	class C_Quadbike_01_blue_F 							{ quality = 1; price = 2500; };
 	class C_Quadbike_01_red_F 							{ quality = 1; price = 2500; };
 	class C_Quadbike_01_white_F 						{ quality = 1; price = 2500; };
+	class C_SUV_01_F									{ quality = 3; price = 20000; };
+	class I_C_Offroad_02_unarmed_F						{ quality = 3; price = 25000; };
+	class I_C_Offroad_02_unarmed_brown_F				{ quality = 3; price = 25000; };
+	class I_C_Offroad_02_unarmed_olive_F				{ quality = 3; price = 25000; };
 	class I_G_Offroad_01_repair_F 						{ quality = 3; price = 25000; };
 	class I_G_Quadbike_01_F 							{ quality = 1; price = 2500; };
 	class I_MRAP_03_F  									{ quality = 3; price = 50000; };
@@ -68,11 +82,13 @@
 	class O_MRAP_02_gmg_F   							{ quality = 3; price = 60000; };
 	class O_MRAP_02_hmg_F  								{ quality = 3; price = 55000; };
 	class O_Quadbike_01_F 								{ quality = 1; price = 2500; };
+	class O_T_MRAP_02_ghex_F  							{ quality = 3; price = 55000; };
 	class O_T_MRAP_02_hmg_ghex_F						{ quality = 3; price = 55000; };
 	class volha_Civ_01									{ quality = 2; price = 6000; };
 	class volha_Civ_02									{ quality = 2; price = 6000; };
 	class volha_Civ_03									{ quality = 2; price = 6000; };
     class O_T_MRAP_02_gmg_ghex_F						{ quality = 3; price = 60000; };
+	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Trucks

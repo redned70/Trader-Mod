@@ -262,6 +262,49 @@
 	class C_Offroad_02_unarmed_F 					{ quality = 3; price = 25000; };
 	class O_T_LSV_02_armed_F 						{ quality = 3; price = 25000; };
 	class O_T_LSV_02_unarmed_F 						{ quality = 3; price = 25000; };
+	
+	///////////////////////////////////////////////////////////////////////////////	
+	// Prowler
+	///////////////////////////////////////////////////////////////////////////////	
+	class B_LSV_01_armed_F						{ quality = 5; price = 50000; };		// (Armed)
+	class B_LSV_01_armed_black_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_LSV_01_armed_olive_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_LSV_01_armed_sand_F					{ quality = 5; price = 50000; };		// (Armed)
+	class B_T_LSV_01_armed_CTRG_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_T_LSV_01_armed_black_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_T_LSV_01_armed_olive_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_T_LSV_01_armed_sand_F				{ quality = 5; price = 50000; };		// (Armed)
+	class B_CTRG_LSV_01_light_F 				{ quality = 3; price = 30000; };		// (Light)
+	class B_LSV_01_unarmed_F					{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_LSV_01_unarmed_black_F				{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_LSV_01_unarmed_olive_F				{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_LSV_01_unarmed_sand_F				{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_T_LSV_01_unarmed_CTRG_F				{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_T_LSV_01_unarmed_black_F			{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_T_LSV_01_unarmed_olive_F			{ quality = 3; price = 30000; };		// (Unarmed)
+	class B_T_LSV_01_unarmed_sand_F				{ quality = 3; price = 30000; };		// (Unarmed)	
+	
+	///////////////////////////////////////////////////////////////////////////////		
+	// Qilin
+	///////////////////////////////////////////////////////////////////////////////		
+	class O_LSV_02_armed_F						{ quality = 5; price = 50000; };		// (Armed)
+	class O_LSV_02_armed_arid_F					{ quality = 5; price = 50000; };		// (Armed)
+	class O_LSV_02_armed_black_F    			{ quality = 5; price = 50000; };		// (Armed)
+	class O_LSV_02_armed_ghex_F     			{ quality = 5; price = 50000; };		// (Armed)
+	class O_LSV_02_armed_viper_F    			{ quality = 5; price = 50000; };		// (Armed)
+	class O_T_LSV_02_armed_arid_F   			{ quality = 5; price = 50000; };		// (Armed)
+	class O_T_LSV_02_armed_black_F  			{ quality = 5; price = 50000; };		// (Armed)
+	class O_T_LSV_02_armed_ghex_F   			{ quality = 5; price = 50000; };		// (Armed)
+	class O_T_LSV_02_armed_viper_F  			{ quality = 5; price = 50000; };		// (Armed)
+	class O_LSV_02_unarmed_F        			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_LSV_02_unarmed_arid_F   			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_LSV_02_unarmed_black_F  			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_LSV_02_unarmed_ghex_F   			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_LSV_02_unarmed_viper_F  			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_T_LSV_02_unarmed_arid_F 			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_T_LSV_02_unarmed_black_F			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_T_LSV_02_unarmed_ghex_F 			{ quality = 3; price = 30000; };		// (Unarmed)
+	class O_T_LSV_02_unarmed_viper_F			{ quality = 3; price = 30000; };		// (Unarmed)
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Boats

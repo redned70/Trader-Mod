@@ -331,6 +331,14 @@
 			//"rhs_t72bc_tv",
 			//"rhsusf_m1a1aimwd_usarmy",
 			//"rhsusf_m1a2sep1tuskiiwd_usarmy"
+			//"RHS_BM21_MSV_01",					//Horribly OP
+			//"RHS_BM21_VDV_01",					//Horribly OP
+			//"RHS_BM21_VMF_01",					//Horribly OP
+			//"RHS_BM21_VV_01",						//Horribly OP
+			//"RHS_Ural_Zu23_MSV_01",				//Horribly OP
+			//"RHS_Ural_Zu23_VDV_01",				//Horribly OP
+			//"RHS_Ural_Zu23_VMF_01",				//Horribly OP
+			//"RHS_Ural_Zu23_VV_01",				//Horribly OP
 		};
 	};
 
@@ -434,6 +442,12 @@
 			"rhs_Mi8mt_cargo_vvs",
 			"rhs_UH1Y_unarmed",
 			"rhs_UH60M_MEV2_d",
+			"RHS_UH60M2",
+			"RHS_UH60M2_d",
+			"RHS_UH60M_ESSS",
+			"RHS_UH60M_ESSS2",
+			"RHS_UH60M_ESSS_d",
+			"RHS_UH60M_ESSS2_d",
 			"rhs_ka60_c",
 			"rhs_ka60_grey",
 			"rhs_mi28n_s13_vvs",

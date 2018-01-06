@@ -277,6 +277,19 @@
 	class rhs_ural_open_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_chdkz						{ quality = 1; price = 30000; };
 	class rhs_ural_work_open_chdkz					{ quality = 1; price = 30000; };
+	// horribly OP
+	// class RHS_Ural_Zu23_MSV_016					{ quality = 6; price = 999999; };
+	// class RHS_Ural_Zu23_VDV_01					{ quality = 6; price = 999999; };
+	// class RHS_Ural_Zu23_VMF_01					{ quality = 6; price = 999999; };
+	// class RHS_Ural_Zu23_VV_01					{ quality = 6; price = 999999; };
+
+	/////////////////////////////////////////////////////////////////////////////	
+	// BM21 horribly OP
+	/////////////////////////////////////////////////////////////////////////////	
+	// class RHS_BM21_MSV_01						{ quality = 6; price = 999999; };
+	// class RHS_BM21_VDV_01						{ quality = 6; price = 999999; };
+	// class RHS_BM21_VMF_01						{ quality = 6; price = 999999; };
+	// class RHS_BM21_VV_01							{ quality = 6; price = 999999; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//	BMP
@@ -375,6 +388,12 @@
 	// UH-60M
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_UH60M              				    { quality = 1; price = 60000; };
+	class RHS_UH60M2 								{ quality = 1; price = 40000; };
+	class RHS_UH60M2_d 								{ quality = 1; price = 40000; };
+	class RHS_UH60M_ESSS 							{ quality = 1; price = 40000; };
+	class RHS_UH60M_ESSS2 							{ quality = 1; price = 40000; };
+	class RHS_UH60M_ESSS2_d 						{ quality = 1; price = 40000; };
+	class RHS_UH60M_ESSS_d 							{ quality = 1; price = 40000; };
 	class RHS_UH60M_MEV         				    { quality = 1; price = 40000; };
 	class RHS_UH60M_MEV2					        { quality = 1; price = 40000; };
 	class RHS_UH60M_MEV_d         				    { quality = 1; price = 40000; };
