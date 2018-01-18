@@ -46,6 +46,7 @@
 			"FFAARifles",
 			"FFAASmg",
 			"FFAASniperRifles",
+			"FHQACCESSORIES",
 			"GREFAmmunition",
 			"GREFWeapons",
 			"HAPASSAULTRIFLES",

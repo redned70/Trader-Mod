@@ -55,6 +55,7 @@ APEXOpticAttachments
 BPOpticAttachments
 CUPOpticAttachments
 FFAAOpticAttachments
+FHQACCESSORIES
 HLCOpticAttachments
 KAOpticAttachments
 MASOpticAttachments

@@ -1,9 +1,12 @@
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.
-It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources including documentation on exilemod and in game from various places.
-I have only compiled what i found, attempted to simplify class names and created files for what i couldn't find and is given back to the community as thanks.
-If you use then you should consider sharing any further development, bug fixes or expansions (as i have probably missed objects out or spelled things incorrectly).
+It is compiled by [CiC]red_ned of http://cic-gaming.co.uk from different sources including documentation on Exilemod and in game from various places.
+I have only compiled what I found, attempted to simplify class names and created files for what I couldn't find and is given back to the community as thanks.
+If you use then you should consider sharing any further development, bug fixes or expansions (as I have probably missed objects out or spelled things incorrectly).
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
+
+*** Update v6.8 ***
+Added FHQ mod - thanks to Poptart4050 for files
 
 *** Update v6.6 ***
 Added KA Mod - thanks to CHAINSAW SQUIRREL
@@ -30,7 +33,7 @@ NOTE RHS IS BOTH RUS AND USA.
 ****** Thanks to all the following for help ******
 ****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******
 ****** Tobias Solem, pomp4h, Bob_the_K		******
-****** Razor77, jmayr2000, C][G GhostTown™	******
+****** Razor77, jmayr2000, C][G GhostTown™, Poptart4050	******
 ****** ElShotte, Killerpoodezz,CHAINSAW SQUIRREL	******
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -54,6 +57,7 @@ class CfgExileArsenal
 	#include "TRADERS\EBM\ItemListEBM.hpp"
 	#include "TRADERS\Exile\ItemListExile.hpp"
 	#include "TRADERS\FFAA\ItemListFFAA.hpp"
+	#include "TRADERS\FHQ\ItemListFHQ.hpp"
 	#include "TRADERS\FMP\ItemListFMP.hpp"
 	#include "TRADERS\FOX\ItemListFOX.hpp"
 	#include "TRADERS\HAP\ItemListHAP.hpp"
@@ -91,6 +95,7 @@ class CfgTraderCategories
 	#include "TRADERS\EBM\TraderCategoriesEBM.hpp"
 	#include "TRADERS\Exile\TraderCategoriesExile.hpp"
 	#include "TRADERS\FFAA\TraderCategoriesFFAA.hpp"
+	#include "TRADERS\FHQ\TraderCategoriesFHQ.hpp"
 	#include "TRADERS\FMP\TraderCategoriesFMP.hpp"	
 	#include "TRADERS\FOX\TraderCategoriesFOX.hpp"	
 	#include "TRADERS\HAP\TraderCategoriesHAP.hpp"
