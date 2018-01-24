@@ -93,7 +93,7 @@
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
-			"AN/PVS-7",
+			//"AN/PVS-7",
 			"NVG",
 			"ffaa_Glasses",
 			"ffaa_briliat_item_nbq"
@@ -117,7 +117,7 @@
 			"ffaa_acc_puntero_ir"
 		};
 	};
-	classclass FFAABipodAttachments
+	class FFAABipodAttachments
 	{
      name = "Bipod Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";

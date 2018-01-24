@@ -73,7 +73,7 @@
 	//////////////////////////////////////////////////////////////////////////////
 	//	Faceware
 	//////////////////////////////////////////////////////////////////////////////
-	class AN/PVS-7												{ quality = 2; price = 80; };
+	//class AN/PVS-7												{ quality = 2; price = 80; };
 	class NVG 													{ quality = 2; price = 80; };
 	class ffaa_Glasses											{ quality = 1; price = 10; };
 	class ffaa_briliat_item_nbq 								{ quality = 2; price = 450; };
