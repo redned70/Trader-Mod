@@ -214,19 +214,19 @@
 		};
 	}; 
 
-	class FFAASmg
-	{
-     name = "FFAA Sniper Rifles";
-     icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-     items[] =
-		{
-			"ffaa_armas_hkmp510a3",
-			"ffaa_armas_hkmp5a5",
-			"ffaa_armas_hkmp5pdw",
-			"ffaa_armas_p90",
-			"ffaa_armas_ump"
-		};
-	}; 
+    class FFAASmg
+     {
+      name = "FFAA SMG";
+      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+      items[] =
+         {
+             "ffaa_armas_hkmp510a3",
+             "ffaa_armas_hkmp5a5",
+             "ffaa_armas_hkmp5pdw",
+             "ffaa_armas_p90",
+             "ffaa_armas_ump"
+         };
+     }; 
 
 	class FFAASniperRifles
 	{
