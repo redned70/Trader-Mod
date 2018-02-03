@@ -905,3 +905,62 @@
 			"rhs_GDM40"
 		};
 	};
+	class RHSStaticMG				// way too powerful
+	{
+		name = "RHS Static Weapons";
+		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
+		items[] =
+		{
+			"RHS_ZU23_MSV",
+			"RHS_ZU23_VDV",
+			"RHS_ZU23_VMF",
+			"RHS_NSV_TriPod_MSV",
+			"RHS_NSV_TriPod_VDV",
+			"RHS_NSV_TriPod_VMF",
+			"RHS_NSV_TriPod_INS",
+			"rhs_KORD_MSV",
+			"rhs_KORD_VDV",
+			"rhs_KORD_VMF",
+			"rhs_KORD_INS",
+			"rhs_KORD_high_MSV",
+			"rhs_KORD_high_VDV",
+			"rhs_KORD_high_VMF",
+			"rhs_KORD_high_INS",
+			"rhs_DSHKM_ins",
+			"rhs_DSHKM_Mini_TriPod_ins",
+			"RHS_AGS30_TriPod_MSV",
+			"RHS_AGS30_TriPod_VDV",
+			"RHS_AGS30_TriPod_VMF",
+			"RHS_AGS30_TriPod_INS",
+			"rhs_SPG9_INS",
+			"rhs_SPG9M_MSV",
+			"rhs_SPG9M_VDV",
+			"rhs_SPG9M_VMF",
+			"rhs_Igla_AA_pod_msv",
+			"rhs_Igla_AA_pod_vdv",
+			"rhs_Igla_AA_pod_vmf",
+			"rhs_Igla_AA_pod_ins",
+			"rhs_2b14_82mm_msv",
+			"rhs_2b14_82mm_vdv",
+			"rhs_2b14_82mm_vmf",
+			"rhs_2b14_82mm_ins",
+			"rhs_Metis_9k115_2_msv",
+			"rhs_Metis_9k115_2_vdv",
+			"rhs_Metis_9k115_2_vmf",
+			"rhs_Metis_9k115_2_ins",
+			"rhs_Metis_9k115_1_ins",
+			"rhs_D30_msv",
+			"rhs_D30_vdv",
+			"rhs_D30_vmf",
+			"rhs_D30_ins",
+			"rhs_D30_at_msv",
+			"rhs_D30_at_vdv",
+			"rhs_D30_at_vmf",
+			"rhs_D30_at_ins",
+			"rhs_Kornet_9M133_2_msv",
+			"rhs_Kornet_9M133_2_vdv",
+			"rhs_Kornet_9M133_2_vmf",
+			"rhs_Kornet_9M133_2_ins",
+			"rhs_Kornet_9M133_1_ins"
+		};
+	};

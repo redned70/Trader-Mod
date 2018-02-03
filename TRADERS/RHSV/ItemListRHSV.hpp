@@ -324,12 +324,51 @@
 	//////////////////////////////////////////////////////////////////////////////
 	class RHS_M2A3   								{ quality = 4; price = 600000; };
 	class RHS_M2A3_BUSKI 							{ quality = 4; price = 650000; };
+	class rhs_2s3_tv								{ quality = 4; price = 1000000; };
+	class rhs_bmd1_chdkz   							{ quality = 4; price = 41000; };
+	class rhs_bmd2_chdkz   							{ quality = 4; price = 41000; };
+	class rhs_bmd4_vdv   							{ quality = 4; price = 41000; };
+	class rhs_bmd4m_vdv   							{ quality = 4; price = 41000; };
+	class rhs_bmd4ma_vdv   							{ quality = 4; price = 41000; };
+	class rhs_bmp1_chdkz   							{ quality = 4; price = 41000; };
+	class rhs_bmp1d_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_bmp1k_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_bmp1p_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_bmp2_chdkz   							{ quality = 4; price = 41000; };
+	class rhs_bmp2d_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_bmp2e_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_bmp2k_chdkz   						{ quality = 4; price = 41000; };
+	class rhs_sprut_vdv								{ quality = 4; price = 1000000; };
 	class rhs_t72ba_tv								{ quality = 4; price = 1000000; };
+	class rhs_t72bb_chdkz							{ quality = 4; price = 1000000; };
+	class rhs_t72bb_tv								{ quality = 4; price = 1000000; };
 	class rhs_t72bc_tv								{ quality = 4; price = 1000000; };
+	class rhs_t72bd_tv								{ quality = 4; price = 1000000; };
+	class rhs_t80									{ quality = 4; price = 1000000; };
+	class rhs_t80a									{ quality = 4; price = 1000000; };
+	class rhs_t80b									{ quality = 4; price = 1000000; };
+	class rhs_t80bk									{ quality = 4; price = 1000000; };
+	class rhs_t80bv									{ quality = 4; price = 1000000; };
+	class rhs_t80bvk								{ quality = 4; price = 1000000; };
+	class rhs_t80u									{ quality = 4; price = 1000000; };
+	class rhs_t80u45m								{ quality = 4; price = 1000000; };
+	class rhs_t80ue1								{ quality = 4; price = 1000000; };
+	class rhs_t80uk									{ quality = 4; price = 1000000; };
+	class rhs_t80um									{ quality = 4; price = 1000000; };
+	class rhs_t90_tv								{ quality = 4; price = 1000000; };
+	class rhs_t90a_tv								{ quality = 4; price = 1000000; };
+	class rhs_zsu234_chdkz							{ quality = 4; price = 1000000; };
+	class rhsusf_M1117_W							{ quality = 4; price = 1000000; };
+	class rhsusf_m109_usarmy						{ quality = 4; price = 1000000; };
+	class rhsusf_m109d_usarmy						{ quality = 4; price = 1000000; };
+	class rhsusf_m113_usarmy						{ quality = 4; price = 1000000; };
 	class rhsusf_m113_usarmy_M240   				{ quality = 4; price = 41000; };
+	class rhsusf_m113_usarmy_M2_90  				{ quality = 4; price = 41000; };
 	class rhsusf_m113_usarmy_MK19   				{ quality = 4; price = 41000; };
+	class rhsusf_m113_usarmy_MK19_90				{ quality = 4; price = 41000; };
+	class rhsusf_m113_usarmy_medical  				{ quality = 4; price = 41000; };
 	class rhsusf_m113_usarmy_supply   				{ quality = 4; price = 41000; };
-	class rhsusf_m113_usarmy_unarmed 				{ quality = 4; price = 41000; sellPrice = 12000; };
+	class rhsusf_m113_usarmy_unarmed 				{ quality = 4; price = 41000; };
 	class rhsusf_m113d_usarmy   					{ quality = 4; price = 41000; };
 	class rhsusf_m113d_usarmy_M240   				{ quality = 4; price = 41000; };
 	class rhsusf_m113d_usarmy_MK19   				{ quality = 4; price = 41000; };
@@ -534,13 +573,6 @@
 	class rhs_mig29sm_vvs 	  						{ quality = 5; price = 750000; };
 	class rhs_mig29sm_vvsc	  						{ quality = 5; price = 750000; };
 	class rhs_mig29sm_vmf 	  						{ quality = 5; price = 750000; };
-	
-	//////////////////////////////////////////////////////////////////////////////////
-	//Static MG - dont think these are rhs
-	//////////////////////////////////////////////////////////////////////////////////
-	class I_mas_DSHkM_Mini_TriPod					{ quality = 1; price = 12000; };
-	class I_mas_KORD_AAF							{ quality = 1; price = 15000; };
-	class I_mas_M2StaticMG_MiniTripod_AAF			{ quality = 1; price = 10000; };
 	
 	////////////////////////////////////////////////////////////////////////////////
 	////////////////////////////////////////////////////////////////////////////////

@@ -328,7 +328,46 @@
 			"rhsusf_rg33_m2_usmc_wd",
 			"rhsusf_rg33_m2_wd",
 			"rhsusf_rg33_usmc_d",
-			"rhsusf_rg33_usmc_wd"
+			"rhsusf_rg33_usmc_wd",
+			"rhs_sprut_vdv",
+			"rhs_2s3_tv",
+			"rhs_bmd1_chdkz",
+			"rhs_bmd2_chdkz",
+			"rhs_bmd4_vdv",
+			"rhs_bmd4ma_vdv",
+			"rhs_bmd4m_vdv",
+			"rhs_bmp1_chdkz",
+			"rhs_bmp1d_chdkz",
+			"rhs_bmp1k_chdkz",
+			"rhs_bmp1p_chdkz",
+			"rhs_bmp2e_chdkz",
+			"rhs_bmp2_chdkz",
+			"rhs_bmp2d_chdkz",
+			"rhs_bmp2k_chdkz",
+			"rhsusf_m109_usarmy",
+			"rhsusf_m109d_usarmy",
+			"rhsusf_M1117_W",
+			"rhsusf_m113_usarmy",
+			"rhsusf_m113_usarmy_M2_90",
+			"rhsusf_m113_usarmy_medical",
+			"rhsusf_m113_usarmy_MK19_90",
+			"rhs_t72bb_chdkz",
+			"rhs_t72bb_tv",
+			"rhs_t72bd_tv",
+			"rhs_t80",
+			"rhs_t80a",
+			"rhs_t80b",
+			"rhs_t80bk",
+			"rhs_t80bv",
+			"rhs_t80bvk",
+			"rhs_t80u45m",
+			"rhs_t80u",
+			"rhs_t80ue1",
+			"rhs_t80uk",
+			"rhs_t80um",
+			"rhs_t90_tv",
+			"rhs_t90a_tv",
+			"rhs_zsu234_chdkz"
 			//"RHS_BM21_MSV_01",					//Horribly OP
 			//"RHS_BM21_VDV_01",					//Horribly OP
 			//"RHS_BM21_VMF_01",					//Horribly OP
@@ -519,9 +558,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
-		//"I_mas_DSHkM_Mini_TriPod",
-		//"I_mas_KORD_AAF",
-		//"I_mas_M2StaticMG_MiniTripod_AAF"
+		// in weapons files
 		};
 	};
 
