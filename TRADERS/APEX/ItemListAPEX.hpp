@@ -330,14 +330,3 @@
 	// Planes
 	///////////////////////////////////////////////////////////////////////////////	
 	class C_Plane_Civil_01_F						{ quality = 2; price = 20000; };
-	
-	///////////////////////////////////////////////////////////////////////////////
-	// Jets DLC items
-	///////////////////////////////////////////////////////////////////////////////		
-	class V_DeckCrew_blue_F							{ quality = 2; price = 30; };
-	class V_DeckCrew_brown_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_green_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_red_F							{ quality = 2; price = 30; };
-	class V_DeckCrew_violet_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_white_F						{ quality = 2; price = 30; };
-	class V_DeckCrew_yellow_F						{ quality = 2; price = 30; };

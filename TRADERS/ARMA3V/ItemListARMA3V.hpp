@@ -214,6 +214,9 @@
 	class O_UAV_02_F  									{ quality = 3; price = 30000; };
 	class O_UGV_01_F 									{ quality = 3; price = 20000; };
 	class O_UGV_01_rcws_F 								{ quality = 3; price = 100000; };
+	class B_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// MQ-4A Greyhawk
+	class O_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3 
+	class I_UAV_02_dynamicLoadout_F   					{ quality = 6; price = 100000; };		// K40 Ababil-3	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Arma 3 Unarmed Helicopters
@@ -296,3 +299,13 @@
 	class I_Plane_Fighter_03_dynamicLoadout_F   	   	{ quality = 1; price = 550000; };	//new dynamic version
 	class O_Plane_CAS_02_F 	                			{ quality = 1; price = 550000; };
 	class O_Plane_CAS_02_dynamicLoadout_F   			{ quality = 1; price = 550000; };	//new dynamic version	
+
+	///////////////////////////////////////////////////////////////////////////////	
+	// Arma 3 Taru Pod - NOT LISTED IN TRADERS
+	///////////////////////////////////////////////////////////////////////////////	
+	class Land_Pod_Heli_Transport_04_bench_F			{ quality = 3; price = 10000; };	// Taru Bench Pod		
+	class Land_Pod_Heli_Transport_04_covered_F			{ quality = 3; price = 10000; };	// Taru Transport Pod 	
+	class Land_Pod_Heli_Transport_04_medevac_F			{ quality = 3; price = 10000; };	// Taru Medical Pod 	  
+	class Land_Pod_Heli_Transport_04_bench_black_F		{ quality = 3; price = 10000; };	// Taru Bench Pod 		  
+	class Land_Pod_Heli_Transport_04_covered_black_F	{ quality = 3; price = 10000; };	// Taru Transport Pod 	  
+	class Land_Pod_Heli_Transport_04_medevac_black_F	{ quality = 3; price = 10000; };	// Taru Medical Pod	

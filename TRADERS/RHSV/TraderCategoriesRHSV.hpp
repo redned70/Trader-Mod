@@ -17,8 +17,14 @@
 			"RHS_BTR80_VDV",
 			"RHS_BTR80_VMF",
 			"RHS_BTR80_VV",
+			"RHS_Civ_Truck_02_covered_F",
+			"RHS_Civ_Truck_02_transport_F",
 			"RHS_M2A3",
 			"RHS_M2A3_BUSKI",
+			"RHS_UAZ_MSV_01",
+			"RHS_Ural_Civ_01",
+			"RHS_Ural_Civ_02",
+			"RHS_Ural_Civ_03",
 			"RHS_Ural_Flat_MSV_01",
 			"RHS_Ural_Flat_VDV_01",
 			"RHS_Ural_Flat_VMF_01",
@@ -39,18 +45,13 @@
 			"RHS_Ural_Open_VDV_01",
 			"RHS_Ural_Open_VMF_01",
 			"RHS_Ural_Open_VV_01",
-			"RHS_Ural_VDV_01",
-			"RHS_Ural_VMF_01",
-			"RHS_Ural_VV_01",
-			"RHS_Civ_Truck_02_covered_F",
-			"RHS_Civ_Truck_02_transport_F",
-			"RHS_Ural_Civ_01",
-			"RHS_Ural_Civ_02",
-			"RHS_Ural_Civ_03",
 			"RHS_Ural_Repair_MSV_01",
 			"RHS_Ural_Repair_VDV_01",
 			"RHS_Ural_Repair_VMF_01",
 			"RHS_Ural_Repair_VV_01",
+			"RHS_Ural_VDV_01",
+			"RHS_Ural_VMF_01",
+			"RHS_Ural_VV_01",
 			"rhs_bmp3_late_msv",
 			"rhs_bmp3mera_msv",
 			"rhs_btr60_chdkz",
@@ -89,6 +90,26 @@
 			"rhs_gaz66o_vdv",
 			"rhs_gaz66o_vmf",
 			"rhs_gaz66o_vv",
+			"rhs_kamaz5350",
+			"rhs_kamaz5350_flatbed",
+			"rhs_kamaz5350_flatbed_cover",
+			"rhs_kamaz5350_flatbed_cover_msv",
+			"rhs_kamaz5350_flatbed_cover_vdv",
+			"rhs_kamaz5350_flatbed_cover_vmf",
+			"rhs_kamaz5350_flatbed_cover_vv",
+			"rhs_kamaz5350_flatbed_msv",
+			"rhs_kamaz5350_flatbed_vdv",
+			"rhs_kamaz5350_flatbed_vmf",
+			"rhs_kamaz5350_flatbed_vv",
+			"rhs_kamaz5350_msv",
+			"rhs_kamaz5350_open",
+			"rhs_kamaz5350_open_msv",
+			"rhs_kamaz5350_open_vdv",
+			"rhs_kamaz5350_open_vmf",
+			"rhs_kamaz5350_open_vv",
+			"rhs_kamaz5350_vdv",
+			"rhs_kamaz5350_vmf",
+			"rhs_kamaz5350_vv",
 			"rhs_tigr_3camo_vdv",
 			"rhs_tigr_3camo_vmf",
 			"rhs_tigr_3camo_vv",
@@ -122,38 +143,13 @@
 			"rhs_tigr_vv",
 			"rhs_truck",
 			"rhs_typhoon_vdv",
-			//"rhs_uaz_ags_chdkz",						//Broken?
-			//"rhs_uaz_dshkm_chdkz",					//Broken?
 			"rhs_uaz_open_chdkz",
-			"rhs_uaz_open_vmf",
-			"rhs_uaz_spg9_chdkz",
-			//"rhs_uaz_vmf",							//Broken?
-			"RHS_UAZ_MSV_01",
-			//"rhs_uaz_open_MSV_01",					//Broken?
 			"rhs_uaz_open_vdv",
+			"rhs_uaz_open_vmf",
 			"rhs_uaz_open_vv",
+			"rhs_uaz_spg9_chdkz",
 			"rhs_uaz_vdv",
 			"rhs_uaz_vv",
-			"rhs_kamaz5350",
-			"rhs_kamaz5350_flatbed",
-			"rhs_kamaz5350_flatbed_cover",
-			"rhs_kamaz5350_flatbed_cover_msv",
-			"rhs_kamaz5350_flatbed_cover_vdv",
-			"rhs_kamaz5350_flatbed_cover_vmf",
-			"rhs_kamaz5350_flatbed_cover_vv",
-			"rhs_kamaz5350_flatbed_msv",
-			"rhs_kamaz5350_flatbed_vdv",
-			"rhs_kamaz5350_flatbed_vmf",
-			"rhs_kamaz5350_flatbed_vv",
-			"rhs_kamaz5350_msv",
-			"rhs_kamaz5350_open",
-			"rhs_kamaz5350_open_msv",
-			"rhs_kamaz5350_open_vdv",
-			"rhs_kamaz5350_open_vmf",
-			"rhs_kamaz5350_open_vv",
-			"rhs_kamaz5350_vdv",
-			"rhs_kamaz5350_vmf",
-			"rhs_kamaz5350_vv",
 			"rhs_ural_chdkz",
 			"rhs_ural_open_chdkz",
 			"rhs_ural_work_chdkz",
@@ -289,6 +285,19 @@
 			"rhsusf_m113d_usarmy_medical",
 			"rhsusf_m113d_usarmy_supply",
 			"rhsusf_m113d_usarmy_unarmed",
+			"rhsusf_m1a1aim_tuski_d",
+			"rhsusf_m1a1aim_tuski_wd",
+			"rhsusf_m1a1aimd_usarmy",
+			"rhsusf_m1a1fep_d",
+			"rhsusf_m1a1fep_od",
+			"rhsusf_m1a1fep_wd",
+			"rhsusf_m1a1hc_wd",
+			"rhsusf_m1a2sep1d_usarmy",
+			"rhsusf_m1a2sep1tuskid_usarmy",
+			"rhsusf_m1a2sep1tuskiid_usarmy",
+			"rhsusf_m1a2sep1tuskiiwd_usarmy",
+			"rhsusf_m1a2sep1tuskiwd_usarmy",
+			"rhsusf_m1a2sep1wd_usarmy",
 			"rhsusf_m998_d_2dr",
 			"rhsusf_m998_d_2dr_fulltop",
 			"rhsusf_m998_d_2dr_halftop",
@@ -312,25 +321,14 @@
 			"rhsusf_m998_w_s_2dr_halftop",
 			"rhsusf_m998_w_s_4dr",			
 			"rhsusf_m998_w_s_4dr_fulltop",
-			//"rhsusf_m998_w_s_4dr_halftop",		//Broken?
 			"rhsusf_mrzr4_d",
 			"rhsusf_mrzr4_d_mud",
-			//"rhsusf_mrzr4_w",						//Broken?
 			"rhsusf_mrzr4_w_mud",
 			"rhsusf_rg33_d",
-			//"rhsusf_rg33_m2_d",					//Broken?
-			//"rhsusf_rg33_m2_usmc_d",				//Broken?
 			"rhsusf_rg33_m2_usmc_wd",
 			"rhsusf_rg33_m2_wd",
 			"rhsusf_rg33_usmc_d",
 			"rhsusf_rg33_usmc_wd"
-			//"rhsusf_rg33_wd"						//Broken?
-			//"rhs_btr60_msv",
-			//"rhs_btr60_vv",
-			//"rhs_t72ba_tv",
-			//"rhs_t72bc_tv",
-			//"rhsusf_m1a1aimwd_usarmy",
-			//"rhsusf_m1a2sep1tuskiiwd_usarmy"
 			//"RHS_BM21_MSV_01",					//Horribly OP
 			//"RHS_BM21_VDV_01",					//Horribly OP
 			//"RHS_BM21_VMF_01",					//Horribly OP
@@ -339,6 +337,21 @@
 			//"RHS_Ural_Zu23_VDV_01",				//Horribly OP
 			//"RHS_Ural_Zu23_VMF_01",				//Horribly OP
 			//"RHS_Ural_Zu23_VV_01",				//Horribly OP
+			//"rhs_btr60_msv",
+			//"rhs_btr60_vv",
+			//"rhs_t72ba_tv",
+			//"rhs_t72bc_tv",
+			//"rhs_uaz_ags_chdkz",						//Broken?
+			//"rhs_uaz_dshkm_chdkz",					//Broken?
+			//"rhs_uaz_open_MSV_01",					//Broken?
+			//"rhs_uaz_vmf",							//Broken?
+			//"rhsusf_m1a1aimwd_usarmy",
+			//"rhsusf_m1a2sep1tuskiiwd_usarmy"
+			//"rhsusf_m998_w_s_4dr_halftop",		//Broken?
+			//"rhsusf_mrzr4_w",						//Broken?
+			//"rhsusf_rg33_m2_d",					//Broken?
+			//"rhsusf_rg33_m2_usmc_d",				//Broken?
+			//"rhsusf_rg33_wd"						//Broken?
 		};
 	};
 
@@ -484,10 +497,13 @@
 			"RHS_T50_vvs_generic",
 			"RHS_T50_vvs_generic_ext",
 			"RHS_TU95MS_vvs_chelyabinsk",
-			"RHS_TU95MS_vvs_dubna",      
-			"RHS_TU95MS_vvs_irkutsk",    
-			"RHS_TU95MS_vvs_old",        
-			"RHS_TU95MS_vvs_tambov",     
+			"RHS_TU95MS_vvs_dubna",
+			"RHS_TU95MS_vvs_irkutsk",
+			"RHS_TU95MS_vvs_old",
+			"RHS_TU95MS_vvs_tambov",
+			"rhs_mig29sm_vvs",
+			"rhs_mig29sm_vvsc",
+			"rhs_mig29sm_vmf",
 			"rhs_mig29s_vmf",
 			"rhs_mig29s_vvs",
 			"rhs_mig29s_vvsc",

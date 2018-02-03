@@ -43,15 +43,6 @@ class ApexUniforms
 		"U_O_T_Soldier_F",
 		"U_O_V_Soldier_Viper_F",
 		"U_O_V_Soldier_Viper_hex_F"
-		/* Jets DLC
-		"V_DeckCrew_blue_F",
-		"V_DeckCrew_brown_F",
-		"V_DeckCrew_green_F",
-		"V_DeckCrew_red_F",
-		"V_DeckCrew_violet_F",
-		"V_DeckCrew_white_F",
-		"V_DeckCrew_yellow_F"
-		*/
 	};
 };
 

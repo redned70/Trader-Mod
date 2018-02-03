@@ -112,7 +112,7 @@
 			//"HLCMuzzleAttachments",		//should use NIArms
 			//"HLCOpticAttachments",		//should use NIArms
 			//"HLCSniperRifles",			//should use NIArms
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -149,7 +149,7 @@
 			"Smokes",
 			"StaticMGs",
 			"UAVs",
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -206,7 +206,7 @@
 			"Uniforms",
 			"Vests",
 			//"APEXTools",		//not used
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -222,7 +222,7 @@
 			"Drinks",
 			"Food",
 			"NonVeganFood"
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -239,7 +239,7 @@
 			//"R3FTools",
 			"ExtendedBaseMod",
 			"CBuilding"
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -285,7 +285,7 @@
 			//"UGV"	
 			//"A3UGVs"	
 			//"ApexUAVs"
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -314,13 +314,14 @@
 			"MASChoppers",
 			"MASPlanes",
 			"Planes",
+			"JetPlanes",
 			"Pods",		
 			"RHSChoppers",
 			"RHSPlanes",
-			"SAFChoppers",
+			"SAFChoppers"
 			//"A3UAVs",
 			//"CUAVs",
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
@@ -337,7 +338,7 @@
 			"ApexBoats",
 			"Boats",
 			"RHSBoats",
-			// Whatever your last line is make sure it doesnt have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
+			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
 
