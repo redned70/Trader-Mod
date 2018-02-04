@@ -144,6 +144,7 @@
 			"RHSExplosives",
 			"RHSLauncherAmmo",
 			"RHSLaunchers",
+			//"RHSStaticMG",		//not recommended except for militarised servers due to rockets/mortar etc
 			"RHSUGLAmmo",
 			"SAFMines",
 			"Smokes",
