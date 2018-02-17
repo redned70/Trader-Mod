@@ -1,22 +1,22 @@
 	/////////////////////////////////////////////////////////////////////////////////////
 	/// BREAKING POINT MOD WEAPONS released by Tobias Solem June 2017
-	/// List Created by Chainsaw Squirrel November 2017 
+	/// List Created by Chainsaw Squirrel November 2017
 	/// Some items still need work in this mod, some scopes may have issues as 11/17
 	////////////////////////////////////////////////////////////////////////////////////
 
 	/////////////////////////////////////////////////////////////////////////////////////
 	/// Assault rifle - color varations dont yet show in trader, use the base gun, give missions and ai variations
 	////////////////////////////////////////////////////////////////////////////////////
-	
-	class BPPointerAttachments 
+
+	class BPPointerAttachments
 	{
 		name = "BP Pointer Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_AFG"					// Angled ForeGrip
 			"BP_Bayonet_Stab",
-			"BP_Binocular_Hunter",		// Binocs 
+			"BP_Binocular_Hunter",		// Binocs
 			"BP_CPad",					// Cheek Pad
 			"BP_CQCKnife",
 			"BP_CZmod_br",				// CZ Old Barrel
@@ -30,13 +30,13 @@
 			"BP_Rifle_Butt",
 			"BP_flashlight"
 		};
-	}; 
+	};
 
-	class BPMuzzleAttachments 
+	class BPMuzzleAttachments
 	{
 		name = "BP Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_22Sup",
 			"BP_300Sup",
@@ -46,7 +46,7 @@
 			"BP_Mk12Sup",
 			"BP_R7Sup",
 			"BP_gemtech45",
-			"BP_gemtech9", 
+			"BP_gemtech9",
 			"BP_muzzle_snds_408",
 			"BP_muzzle_snds_58_blk_F",
 			"BP_muzzle_snds_65_TI_blk_F",
@@ -62,33 +62,33 @@
 		};
 	};
 
-	class BPOpticAttachments 
+	class BPOpticAttachments
 	{
 		name = "BP Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_EnfieldOptic2",
 			"BP_Harris",
-			"BP_Harris2", 
+			"BP_Harris2",
 			"BP_L14X",
-			"BP_M3A", 
-			"BP_M3A2", 
+			"BP_M3A",
+			"BP_M3A2",
 			"BP_M3AMrad",
 			"BP_M3AN",
-			"BP_M8", 
+			"BP_M8",
 			"BP_MRT",
-			"BP_NXS", 
-			"BP_PS22", 
-			"BP_PSO1", 
+			"BP_NXS",
+			"BP_PS22",
+			"BP_PSO1",
 			"BP_PSOP",
 			"BP_R7P",
 			"BP_R7S",
 			"BP_SOS",
 			"BP_Unertl32x",
 			"BP_Unertl8x",
-			"BP_VX2", 
-			"BP_VX3", 
+			"BP_VX2",
+			"BP_VX3",
 			"BP_ZF42",
 			"BP_compm4s",
 			"BP_m3lr",
@@ -101,7 +101,7 @@
 	{
 		name = "BP Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_100Rnd_127x99_box",
 			"BP_100Rnd_580x42_Mag_F",
@@ -113,11 +113,11 @@
 			"BP_10Rnd_300M_Mag",
 			"BP_10Rnd_300_Mag",
 			"BP_10Rnd_303_JSP_Mag",
-			"BP_10Rnd_303_Mag", 
+			"BP_10Rnd_303_Mag",
 			"BP_10Rnd_338LapuaOVP_Mag",
 			"BP_10Rnd_338Lapua_Mag",
 			"BP_10Rnd_50BW_Mag_F",
-			"BP_10Rnd_65x39", 
+			"BP_10Rnd_65x39",
 			"BP_10Rnd_65x39_SD",
 			"BP_10Rnd_65x47_Lapua",
 			"BP_10Rnd_762Rubber_Mag",
@@ -129,31 +129,31 @@
 			"BP_150Rnd_556x45_Drum_Mag_Tracer_F",
 			"BP_150Rnd_762x51_Box",
 			"BP_15Rnd_9x21_Rubber",
-			"BP_16Rnd_9x21_Mag", 
+			"BP_16Rnd_9x21_Mag",
 			"BP_17Rnd_9x19",
-			"BP_19Rnd_9x19", 
+			"BP_19Rnd_9x19",
 			"BP_1Rnd_40mm_Flashbang",
-			"BP_1Rnd_HE_shell", 
+			"BP_1Rnd_HE_shell",
 			"BP_200Rnd_556x45_LIM_Box_F",
-			"BP_200Rnd_556x45_LIM_Box_Red_F", 
+			"BP_200Rnd_556x45_LIM_Box_Red_F",
 			"BP_200Rnd_556x45_LIM_Box_Tracer_F",
 			"BP_200Rnd_556x45_LIM_Box_Tracer_Red_F",
 			"BP_200Rnd_556x45_MINIMI",
 			"BP_200Rnd_556x45_TRACER",
-			"BP_20Rnd_3006M_Mag", 
+			"BP_20Rnd_3006M_Mag",
 			"BP_20Rnd_3006_Mag",
 			"BP_20Rnd_650x39_Cased_Mag_F",
-			"BP_20Rnd_65x47_Lapua", 
+			"BP_20Rnd_65x47_Lapua",
 			"BP_20Rnd_762x51_BPMag",
 			"BP_20Rnd_762x51_M80A1",
 			"BP_20Rnd_762x51_Mk316Mod0",
 			"BP_25Rnd_22_Mag",
 			"BP_2Rnd_Buckshot",
 			"BP_2Rnd_MagBuckshot",
-			"BP_2Rnd_Slug", 
-			"BP_30Rnd_300AAC_Mag", 
+			"BP_2Rnd_Slug",
+			"BP_30Rnd_300AAC_Mag",
 			"BP_30Rnd_545x39_Mag_F",
-			"BP_30Rnd_545x39_Mag_Green_F", 
+			"BP_30Rnd_545x39_Mag_Green_F",
 			"BP_30Rnd_545x39_Mag_Tracer_F",
 			"BP_30Rnd_545x39_Mag_Tracer_Green_F",
 			"BP_30Rnd_580x42_Mag_F",
@@ -166,15 +166,15 @@
 			"BP_30Rnd_762x51_BPMag",
 			"BP_30Rnd_762x51_M80A1",
 			"BP_30Rnd_762x51_Mk316Mod0",
-			"BP_30Rnd_9x21_Mag", 
+			"BP_30Rnd_9x21_Mag",
 			"BP_33Rnd_9x19",
 			"BP_33Rnd_9x19OVP",
 			"BP_3Rnd_HE_shell",
 			"BP_545x39_30rnd_7N22",
 			"BP_545x39_30rnd_Ball_T",
-			"BP_545x39_AK107", 
+			"BP_545x39_AK107",
 			"BP_545x39_HP_30rnd",
-			"BP_545x39_RPK107", 
+			"BP_545x39_RPK107",
 			"BP_556old_Stanag",
 			"BP_556x45_Rubber",
 			"BP_556x45_Stanag",
@@ -182,27 +182,27 @@
 			"BP_556x45_StanagMK262",
 			"BP_556x45_StanagSD",
 			"BP_556x45_Stanag_Tracer",
-			"BP_5Rnd_127x108_Mag", 
+			"BP_5Rnd_127x108_Mag",
 			"BP_5Rnd_223BTHP_Mag",
 			"BP_5Rnd_223_Mag",
-			"BP_5Rnd_22_Mag", 
+			"BP_5Rnd_22_Mag",
 			"BP_5Rnd_250_Mag",
 			"BP_5Rnd_3006M_Mag",
-			"BP_5Rnd_3006_Mag", 
+			"BP_5Rnd_3006_Mag",
 			"BP_5Rnd_300AAC_Mag",
 			"BP_5Rnd_300M_Mag",
 			"BP_5Rnd_300_Mag",
 			"BP_5Rnd_762Rubber_Mag",
 			"BP_5Rnd_762m80a1_Mag",
-			"BP_5Rnd_762mk316_Mag", 
-			"BP_5Rnd_762x51_Mag", 
+			"BP_5Rnd_762mk316_Mag",
+			"BP_5Rnd_762x51_Mag",
 			"BP_5Rnd_Mauser_Mag",
 			"BP_60Rnd_762x39_AKM",
-			"BP_6Rnd_357_Mag", 
+			"BP_6Rnd_357_Mag",
 			"BP_6Rnd_GreenFlare",
 			"BP_6Rnd_RedFlare",
 			"BP_762x39_AKM",
-			"BP_762x51_Box_Tracer", 
+			"BP_762x51_Box_Tracer",
 			"BP_762x54_7N13_10rnd",
 			"BP_762x54_7N1_10rnd",
 			"BP_762x54_SVD",
@@ -210,8 +210,8 @@
 			"BP_7Rnd_45acp",
 			"BP_8Rnd_3006M_Mag",
 			"BP_8Rnd_3006_Mag",
-			"BP_8Rnd_Buckshot", 
-			"BP_8Rnd_MagBuckshot", 
+			"BP_8Rnd_Buckshot",
+			"BP_8Rnd_MagBuckshot",
 			"BP_8Rnd_Slug",
 			"BP_93x64_SVDK",
 			"BP_Arrow_Fire",
@@ -223,11 +223,11 @@
 		};
 	};
 
-	class BPPistols 
+	class BPPistols
 	{
 		name = "BP Pistols";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\handgun_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_1911",
 			"BP_1911MDes",
@@ -247,9 +247,9 @@
 			"BP_m9Tac",
 			"B_Patrol_Soldier_Pistol_F"
 			/*
-			"BP_1911_DES", 
-			"BP_1911_URB", 
-			"BP_1911_WDL", 
+			"BP_1911_DES",
+			"BP_1911_URB",
+			"BP_1911_WDL",
 			"BP_G17_DES",
 			"BP_G17_URB",
 			"BP_G17_WDL",
@@ -284,11 +284,11 @@
 		};
 	};
 
-	class BPSubMachineGuns 
+	class BPSubMachineGuns
 	{
 		name = "BP Submachine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
             "BP_MP5"
 			/*
@@ -299,18 +299,18 @@
 		};
 	};
 
-	class BPLightMachineGuns 
+	class BPLightMachineGuns
 	{
 		name = "BP Light Machine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
-			"BP_Minimi_762",                    
-			"BP_Minimi_HG",  
+			"BP_Minimi_762",
+			"BP_Minimi_HG",
 			"BP_Zafir"
 			/*
-			 "BP_Minimi_DES",                     
-			"BP_Minimi_762_DES", 
+			 "BP_Minimi_DES",
+			"BP_Minimi_762_DES",
 			"BP_Minimi_762_URB",
 			"BP_Minimi_762_WDL",
 			"BP_Minimi_URB",
@@ -323,7 +323,7 @@
 	{
 		name = "BP Assault Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_1866",
 			"BP_1866C",
@@ -563,7 +563,7 @@
 	{
 		name = "BP Sniper Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"BP_AWSM",
 			"BP_CZ550_WDL",

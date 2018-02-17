@@ -2,17 +2,17 @@
 	{
 		name = "Arma 3 Headgear ";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{		
+		items[] =
+		{
 			// all now included in default Exile list
 		};
 	};
-	
+
 	class A3Launchers
 	{
 		name = "Arma 3 Launchers";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\cargothrow_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"launch_B_Titan_F",
 			"launch_B_Titan_short_F",
@@ -25,14 +25,14 @@
 			"launch_Titan_F",
 			"launch_Titan_short_F"
 		};
-	};	
-	
-	class A3LauncherAmmo 
+	};
+
+	class A3LauncherAmmo
 	{
 		name = "Arma 3 Launcher Ammo";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
 			"NLAW_F",
 			"Titan_AA",
 			"Titan_AP",
@@ -40,5 +40,4 @@
             "RPG32_F",
             "RPG32_HE_F"
 		};
-	};				
-			
+	};

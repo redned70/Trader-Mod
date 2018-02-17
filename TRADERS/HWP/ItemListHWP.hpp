@@ -254,7 +254,7 @@
 	class srifle_GM6_camo_F_HWP_White									{ quality = 1; price = 400; };
 	class srifle_GM6_camo_F_HWP_Woodgrain								{ quality = 1; price = 400; };
 	class srifle_GM6_camo_F_HWP_Yellow_1								{ quality = 1; price = 400; };
- 
+
 	///////////////////////////////////////////////////////////////////////////////
 	// LRR Rifles
 	///////////////////////////////////////////////////////////////////////////////

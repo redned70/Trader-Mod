@@ -6,7 +6,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// FOX Cars
 	///////////////////////////////////////////////////////////////////////////////
-		
+
 	class Fox_ChallengerBR			{ quality = 3; price = 1; };
 	class Fox_ChallengerDev			{ quality = 3; price = 2; };
 	class Fox_ChallengerDev2		{ quality = 3; price = 3; };
@@ -26,11 +26,11 @@
 	class Fox_Patrol2				{ quality = 3; price = 17; };
 	class Fox_Patrol3				{ quality = 3; price = 18; };
 	class Fox_Interceptor			{ quality = 3; price = 19; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// FOX Trucks
 	///////////////////////////////////////////////////////////////////////////////
-	
+
 	class Fox_BUS					{ quality = 3; price = 20; };
 	class Fox_Megabus				{ quality = 3; price = 21; };
 	class Fox_Fireengine			{ quality = 3; price = 22; };
@@ -45,4 +45,4 @@
 	class Fox_Pickup_Tow			{ quality = 3; price = 30; };
 	class Fox_Pickup6S				{ quality = 3; price = 31; };
 	class Fox_Landrover				{ quality = 3; price = 32; };
-	class Fox_Landrover2			{ quality = 3; price = 33; };	
+	class Fox_Landrover2			{ quality = 3; price = 33; };

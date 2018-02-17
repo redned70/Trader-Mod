@@ -100,7 +100,7 @@ class Land_Concrete_SmallWall_4m_F_Kit						{ quality = 1; price = 20000; sellPr
 ///////////////////////// V0.1.7
 class Land_PortableLight_double_F_Kit						{ quality = 1; price = 25000; sellPrice = 50; };
 class Land_Radar_Small_F_Kit								{ quality = 1; price = 150000; sellPrice = 50; };
-class Land_Cargo_addon02_V2_F_Kit							{ quality = 1; price = 20000; sellPrice = 50; }; //Slumplane	
+class Land_Cargo_addon02_V2_F_Kit							{ quality = 1; price = 20000; sellPrice = 50; }; //Slumplane
 class Land_TableDesk_F_Kit									{ quality = 1; price = 20000; sellPrice = 50; };
 class Land_ToiletBox_F_Kit									{ quality = 1; price = 10000; sellPrice = 50; };
 //class Land_Pier_Box_F_Kit									{ quality = 1; price = 500000; sellPrice = 50; }; Removed
@@ -208,7 +208,7 @@ class Land_Suitcase_F_Kit									{ quality = 2; price = 40000; sellPrice = 50; 
 class B_Slingload_01_fuel_F_Kit								{ quality = 6; price = 70000; sellPrice = 50; };
 class B_Slingload_01_Ammo_F_Kit								{ quality = 6; price = 70000; sellPrice = 50; };
 
-///////////////////////// V0.3.1 
+///////////////////////// V0.3.1
 class Land_FlatTV_01_F_Kit									{ quality = 3; price = 5000; sellPrice = 50; };
 class Land_ChairPlastic_F_Kit								{ quality = 3; price = 1000; sellPrice = 50; };
 class Land_GamingSet_01_console_F_Kit						{ quality = 5; price = 70000; sellPrice = 50; };
@@ -271,7 +271,7 @@ class PortableHelipadLight_01_blue_F_Kit					{ quality = 1; price = 10000; sellP
 class PortableHelipadLight_01_green_F_Kit					{ quality = 1; price = 10000; sellPrice = 50; };
 class PortableHelipadLight_01_red_F_Kit						{ quality = 1; price = 10000; sellPrice = 50; };
 class PortableHelipadLight_01_white_F_Kit					{ quality = 1; price = 10000; sellPrice = 50; };
-class PortableHelipadLight_01_yellow_F_Kit					{ quality = 1; price = 10000; sellPrice = 50; }; 
+class PortableHelipadLight_01_yellow_F_Kit					{ quality = 1; price = 10000; sellPrice = 50; };
 class Land_GamingSet_01_powerSupply_F_Kit					{ quality = 5; price = 80000; sellPrice = 50; };
 class Land_GamingSet_01_camera_F_Kit						{ quality = 5; price = 80000; sellPrice = 50; };
 class WaterPump_01_forest_F_Kit								{ quality = 4; price = 70000; sellPrice = 50; };
@@ -288,7 +288,7 @@ class Land_PortableGenerator_01_F_Kit						{ quality = 3; price = 20000; sellPri
 class Land_Obstacle_Ramp_F_Kit								{ quality = 1; price = 10000; sellPrice = 50; };
 class MetalBarrel_burning_F_Kit								{ quality = 1; price = 10000; sellPrice = 50; };
 
-///////////////////////// V0.3.1 
+///////////////////////// V0.3.1
 class EBM_Brickwall_window_Kit								{ quality = 1; price = 3000; sellPrice = 50; };
 class EBM_Brickwall_stairs_Kit								{ quality = 1; price = 1000; sellPrice = 50; };
 class EBM_Brickwall_floorport_door_Kit						{ quality = 1; price = 10000; sellPrice = 50; };
@@ -301,7 +301,7 @@ class EBM_Airhook_Kit										{ quality = 1; price = 10000; sellPrice = 50; };
 class EBM_Parksign_Kit										{ quality = 1; price = 500; sellPrice = 50; };
 class EBM_Brickwall_Kit										{ quality = 1; price = 1000; sellPrice = 50; };
 
-///////////////////////// V0.3.4 
+///////////////////////// V0.3.4
 class EBM_Metalwall_window_Kit								{ quality = 5; price = 30000; sellPrice = 50; };
 class EBM_Metalwall_stairs_Kit								{ quality = 5; price = 10000; sellPrice = 50; };
 class EBM_Metalwall_floorport_door_Kit						{ quality = 5; price = 100000; sellPrice = 50; };

@@ -1,8 +1,8 @@
-	class HLCMuzzleAttachments 
+	class HLCMuzzleAttachments
 	{
 		name = "HLC Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"hlc_muzzle_300blk_KAC",
 			"hlc_muzzle_545SUP_AK",
@@ -20,15 +20,15 @@
 		};
 	};
 
-	class HLCOpticAttachments 
+	class HLCOpticAttachments
 	{
 		name = "HLC Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HLC_Optic_1p29",
 			"HLC_Optic_PSO1",
-			"HLC_Optic_ZFSG1",	
+			"HLC_Optic_ZFSG1",
 			"hlc_optic_GOSHAWK",
 			"hlc_optic_LRT_m14",
 			"hlc_optic_PVS4FAL",
@@ -36,11 +36,11 @@
 			"hlc_optic_PVS4M14",
 			"hlc_optic_accupoint_g3",
 			"hlc_optic_artel_m14",
-			"hlc_optic_kobra",	
+			"hlc_optic_kobra",
 			"hlc_optic_suit"
 		};
 	};
-	
+
 	class HLCLightMachineGuns
 	{
 		name = "HLC Light Machine Guns";
@@ -53,7 +53,7 @@
 			"hlc_rifle_rpk"
 		};
 	};
-	
+
 	class HLCAssaultRifles
 	{
 		name = "HLC Assault Rifles";
@@ -110,7 +110,7 @@
 			"hlc_rifle_vendimus"
 		};
 	};
-	
+
 	class HLCSniperRifles
 	{
 		name = "HLC Sniper Rifles";
@@ -122,7 +122,7 @@
 			"hlc_rifle_psg1"
 		};
 	};
-	
+
 	class HLCAmmunition
 	{
 		name = "HLC Ammo";
@@ -134,7 +134,7 @@
 			"29rnd_300BLK_STANAG_T",
 			"hlc_100Rnd_762x51_B_M60E4",
 			"hlc_100Rnd_762x51_M_M60E4",
-			"hlc_100Rnd_762x51_T_M60E4",	
+			"hlc_100Rnd_762x51_T_M60E4",
 			"hlc_10rnd_12g_buck_S12",
 			"hlc_10rnd_12g_slug_S12",
 			"hlc_20Rnd_762x51_B_G3",

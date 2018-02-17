@@ -1,18 +1,18 @@
-	class CUPPointerAttachments 
+	class CUPPointerAttachments
 	{
 		name = "CUP Pointer Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 		//not used from the items list
 		};
-	}; 
+	};
 
-	class CUPMuzzleAttachments 
+	class CUPMuzzleAttachments
 	{
 		name = "CUP Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_muzzle_PBS4",
             "CUP_muzzle_PB6P9",
@@ -35,11 +35,11 @@
 		};
 	};
 
-	class CUPOpticAttachments 
+	class CUPOpticAttachments
 	{
 		name = "CUP Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_optic_PSO_1",
             "CUP_optic_PSO_3",
@@ -80,7 +80,7 @@
             "CUP_optic_MRad",
             "CUP_optic_TrijiconRx01_desert",
             "CUP_optic_TrijiconRx01_black",
-            "CUP_optic_AN_PVS_4" 	
+            "CUP_optic_AN_PVS_4"
 		};
 	};
 
@@ -88,10 +88,10 @@
 	{
 		name = "CUP Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"CUP_20Rnd_B_AA12_Pellets",
-            "CUP_20Rnd_B_AA12_74Slug", 
+            "CUP_20Rnd_B_AA12_74Slug",
             "CUP_20Rnd_B_AA12_HE",
             "CUP_8Rnd_B_Beneli_74Slug",
             "CUP_8Rnd_B_Saiga12_74Slug_M",
@@ -180,11 +180,11 @@
 		};
 	};
 
-	class CUPPistols 
+	class CUPPistols
 	{
 		name = "CUP Pistols";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\handgun_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_hgun_Colt1911",
 //         	"CUP_hgun_Colt1911_snds",
@@ -207,15 +207,15 @@
             "CUP_hgun_TaurusTracker455_gold",
             "CUP_hgun_SA61",
             "CUP_hgun_Duty",
-            "CUP_hgun_Phantom" 
+            "CUP_hgun_Phantom"
 		};
 	};
 
-	class CUPSubMachineGuns 
+	class CUPSubMachineGuns
 	{
 		name = "CUP Submachine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_smg_bizon",
 //       	"CUP_smg_bizon_snds",
@@ -223,15 +223,15 @@
 //        	"CUP_smg_EVO_MRad_Flashlight",
 //        	"CUP_smg_EVO_MRad_Flashlight_Snds",
             "CUP_smg_MP5SD6",
-            "CUP_smg_MP5A5" 
+            "CUP_smg_MP5A5"
 		};
 	};
 
-	class CUPLightMachineGuns 
+	class CUPLightMachineGuns
 	{
 		name = "CUP Light Machine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_lmg_L7A2",
             "CUP_lmg_L110A1",
@@ -251,7 +251,7 @@
             "CUP_lmg_PKM",
 //          "CUP_lmg_Pecheneg_PScope",
             "CUP_lmg_UK59",
-            "CUP_lmg_Pecheneg" 
+            "CUP_lmg_Pecheneg"
 		};
 	};
 
@@ -259,7 +259,7 @@
 	{
 		name = "CUP Assault Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
             "CUP_arifle_AK74",
             "CUP_arifle_AK107",
@@ -411,7 +411,7 @@
 	{
 		name = "CUP Sniper Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 //       	"CUP_srifle_AS50_SBPMII",
 //        	"CUP_srifle_AS50_AMPAS13c2",
@@ -451,7 +451,7 @@
             "CUP_srifle_ksvk",
             "CUP_srifle_VSSVintorez",
 //        	"CUP_srifle_VSSVintorez_pso",
-            "CUP_srifle_AS50" 
+            "CUP_srifle_AS50"
 		};
 	};
 
@@ -459,19 +459,19 @@
 	{
 		name = "CUP Explosive Weapons";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
             "CUP_glaunch_M32",
             "CUP_glaunch_M79",
-            "CUP_glaunch_Mk13" 
+            "CUP_glaunch_Mk13"
 		};
-	};	
-	
-	class CUPLaunchers 
+	};
+
+	class CUPLaunchers
 	{
 		name = "CUP Launchers";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 /*        	"CUP_launch_Igla",
             "CUP_launch_Javelin",
@@ -488,13 +488,13 @@
             "CUP_launch_Mk153Mod0",
             "CUP_launch_9K32Strela"	*/
 		};
-	};	
-	
-	class CUPLauncherAmmo 
+	};
+
+	class CUPLauncherAmmo
 	{
 		name = "CUP Launcher Ammo";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
  /*        	"CUP_Igla_M",
             "CUP_M136_M",

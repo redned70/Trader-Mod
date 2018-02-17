@@ -248,7 +248,7 @@
 			"CUP_O_Su25_RU_2",
 			"CUP_O_Su25_RU_3",
 			"CUP_O_Su25_SLA",
-			"CUP_O_Su25_TKA",         
+			"CUP_O_Su25_TKA",
 			"CUP_B_GR9_MK82_GB",
 			"CUP_B_GR9_GBU12_GB",
 			"CUP_B_GR9_AGM_GB",
@@ -261,7 +261,7 @@
 			"CUP_B_F35B_LGB_USMC",
 			"CUP_B_F35B_AA_BAF",
 			"CUP_B_F35B_CAS_BAF",
-			"CUP_B_F35B_LGB_BAF",          
+			"CUP_B_F35B_LGB_BAF",
 			"CUP_I_SU34_AGM_AAF",
 			"CUP_B_SU34_LGB_CDF",
 			"CUP_B_SU34_AGM_CDF"

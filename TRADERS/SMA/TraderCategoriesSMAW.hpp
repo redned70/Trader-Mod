@@ -2,7 +2,7 @@
 	{
 		name = "SMA Assault Rifles ";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"SMA_HK416afgQCB",
 			"SMA_HK416afg",
@@ -192,15 +192,15 @@
 			"SMA_M4afgSTOCK",
 			"SMA_M4CQBR",
 			"SMA_M4CQBRMOE"
-	
+
 		};
 	};
-	
+
 	class SMALightMachineGuns
 	{
 		name = "SMA Light Machine Gun";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"sma_minimi_mk3_762tlb",
 			"sma_minimi_mk3_762tlb_des",
@@ -209,13 +209,13 @@
 			"sma_minimi_mk3_762tsb_des",
 			"sma_minimi_mk3_762tsb_wdl"
 		};
-	};	
+	};
 
-	class SMAPointerAttachments 
+	class SMAPointerAttachments
 	{
 		name = "SMA Pointer Attachments Rail Guards";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"SMA_RAILGUARD_OD_HK",
 			"SMA_RAILGUARD_TAN_HK",
@@ -255,21 +255,21 @@
 		};
 	};
 
-	class SMABipodAttachments 
+	class SMABipodAttachments
 	{
 		name = "SMA Bipod Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"SMA_Gripod_01"
 		};
 	};
 
-		class SMAOpticAttachments 
+		class SMAOpticAttachments
 	{
 		name = "SMA Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"SMA_ELCAN_SPECTER",
 			"SMA_ELCAN_SPECTER_TAN",
@@ -316,16 +316,16 @@
 			"SMA_ELCAN_SPECTER_GREEN_ARDRDS_4z",
 			"SMA_ELCAN_SPECTER_RDS_4z",
 			"SMA_ELCAN_SPECTER_TAN_RDS_4z",
-			"SMA_ELCAN_SPECTER_GREEN_RDS_4z"			
-						
+			"SMA_ELCAN_SPECTER_GREEN_RDS_4z"
+
 		};
 	};
-	
-	class SMAMuzzleAttachments 
+
+	class SMAMuzzleAttachments
 	{
 		name = "SMA Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"SMA_FLASHHIDER1",
 			"SMA_FLASHHIDER2",
@@ -363,16 +363,16 @@
 			"SMA_rotex_gry",
 			"SMA_AAC_762_sdn6",
 			"SMA_AAC_762_sdn6_w",
-			"SMA_AAC_762_sdn6_d"			
+			"SMA_AAC_762_sdn6_d"
 		};
 	};
-	
-	class SMAAmmunition 
+
+	class SMAAmmunition
 	{
 		name = "SMA Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
 			"SMA_30Rnd_762x35_BLK_EPR",
 			"SMA_30Rnd_762x35_SS",
 			"SMA_30Rnd_762x39_SKS_FMJ",
@@ -408,7 +408,6 @@
 			"SMA_30Rnd_68x43_sub_IR",
 			"SMA_150Rnd_762_M80A1",
 			"SMA_150Rnd_762_M80A1_Tracer",
-			"SMA_150Rnd_762_M80A1_Mixed"		
+			"SMA_150Rnd_762_M80A1_Mixed"
 		};
-	};				
-			
+	};

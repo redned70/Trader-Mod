@@ -1,6 +1,6 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Building Supplies
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	//class Exile_Item_WoodDrawBridgeKit					{ quality = 1; price = 750; };
 	class Exile_Item_ConcreteDoorwayKit					{ quality = 3; price = 2200; };
 	class Exile_Item_ConcreteFloorKit           		{ quality = 3; price = 2200; };
@@ -9,7 +9,7 @@
 	class Exile_Item_ConcreteStairsKit          		{ quality = 3; price = 2200; };
 	class Exile_Item_ConcreteSupportKit         		{ quality = 3; price = 2200; };
 	class Exile_Item_ConcreteWallKit            		{ quality = 3; price = 2200; };
-	class Exile_Item_MetalHedgehogKit					{ quality = 2; price = 1200; };	
+	class Exile_Item_MetalHedgehogKit					{ quality = 2; price = 1200; };
 	class Exile_Item_WoodDoorKit						{ quality = 1; price = 750; };
 	class Exile_Item_WoodDoorwayKit						{ quality = 1; price = 750; };
 	class Exile_Item_WoodFloorKit						{ quality = 1; price = 750; };

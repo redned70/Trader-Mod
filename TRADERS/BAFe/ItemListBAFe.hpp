@@ -179,10 +179,10 @@
 	class UK3CB_BAF_H_CrewHelmet_DDPM_A					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_H_CrewHelmet_DDPM_ESS_A					                { quality = 1; price = 250; };
 	class UK3CB_BAF_H_CrewHelmet_DPMT_A					                    { quality = 1; price = 250; };
-	class UK3CB_BAF_H_CrewHelmet_DPMT_ESS_A					                { quality = 1; price = 250; }; 
+	class UK3CB_BAF_H_CrewHelmet_DPMT_ESS_A					                { quality = 1; price = 250; };
 	class UK3CB_BAF_H_CrewHelmet_DPMW_A					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_H_CrewHelmet_DPMW_ESS_A					                { quality = 1; price = 250; };
-	class UK3CB_BAF_H_CrewHelmet_ESS_A					                    { quality = 1; price = 250; }; 
+	class UK3CB_BAF_H_CrewHelmet_ESS_A					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_H_Mk6_DDPM_A					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_H_Mk6_DDPM_B					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_H_Mk6_DDPM_C					                        { quality = 1; price = 250; };
@@ -240,17 +240,17 @@
 	class UK3CB_BAF_H_Mk7_Win_A					                            { quality = 1; price = 250; };
 	class UK3CB_BAF_H_Mk7_Win_ESS_A					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_H_PilotHelmetHeli_A										{ quality = 1; price = 250; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF NVGs
 	//////////////////////////////////////////////////////////////////////////////////
 	class UK3CB_BAF_HMNVS													{ quality = 1; price = 250; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Soflam
 	//////////////////////////////////////////////////////////////////////////////////
 	class UK3CB_BAF_Soflam_Laserdesignator									{ quality = 1; price = 250; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////////
 	// BAF Uniforms
 	//////////////////////////////////////////////////////////////////////////////////
@@ -272,7 +272,7 @@
 	class UK3CB_BAF_U_CombatUniform_DPMW_ShortSleeve_RM					    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_CombatUniform_MTP					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_CombatUniform_MTP_Ghillie_RM					        { quality = 1; price = 250; };
-	class UK3CB_BAF_U_CombatUniform_MTP_RM					                { quality = 1; price = 250; }; 
+	class UK3CB_BAF_U_CombatUniform_MTP_RM					                { quality = 1; price = 250; };
 	class UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve					        { quality = 1; price = 250; };
 	class UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve_RM					    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_CombatUniform_MTP_TShirt					            { quality = 1; price = 250; };
@@ -290,7 +290,7 @@
 	class UK3CB_BAF_U_Smock_DDPM					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_U_Smock_DPMT					                        { quality = 1; price = 250; };
 	class UK3CB_BAF_U_Smock_DPMW					                        { quality = 1; price = 250; };
-	class UK3CB_BAF_U_Smock_DPMW_Arctic					                    { quality = 1; price = 250; }; 
+	class UK3CB_BAF_U_Smock_DPMW_Arctic					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_Smock_DPMW_DDPM					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_Smock_DPMW_MTP					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_U_Smock_DPMW_OLI					                    { quality = 1; price = 250; };
@@ -358,7 +358,7 @@
 	class UK3CB_BAF_V_PLCE_Webbing_DDPM					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_V_PLCE_Webbing_DPMT					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_V_PLCE_Webbing_DPMW					                    { quality = 1; price = 250; };
-	class UK3CB_BAF_V_PLCE_Webbing_MTP					                    { quality = 1; price = 250; }; 
+	class UK3CB_BAF_V_PLCE_Webbing_MTP					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_V_PLCE_Webbing_OLI					                    { quality = 1; price = 250; };
 	class UK3CB_BAF_V_PLCE_Webbing_Plate_DDPM					            { quality = 1; price = 250; };
 	class UK3CB_BAF_V_PLCE_Webbing_Plate_DPMT					            { quality = 1; price = 250; };

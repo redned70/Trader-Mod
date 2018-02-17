@@ -433,10 +433,10 @@
 	//class Exile_Item_CarWheel						{ quality = 1; price = 1000; };
 	//class Exile_Item_Cement						{ quality = 1; price = 20; };
 	//class Exile_Item_Laptop						{ quality = 2; price = 9000; };
-	//class Exile_Item_MetalHedgehogKit				{ quality = 1; price = 1200; };	
+	//class Exile_Item_MetalHedgehogKit				{ quality = 1; price = 1200; };
 	//class Exile_Item_MetalWire					{ quality = 1; price = 100; };
 	//class Exile_Item_Sand							{ quality = 1; price = 20; };
-	
+
 	// Added in 1.0.3, but not used
 	//class Exile_Item_Bullets_556					{ quality = 2; price = 5; };
 	//class Exile_Item_Bullets_762					{ quality = 2; price = 5; };

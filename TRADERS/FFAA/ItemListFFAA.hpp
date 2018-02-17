@@ -150,7 +150,7 @@
 	class ffaa_armas_mg4										{ quality = 4; price = 500; };
 	class ffaa_armas_sdass										{ quality = 2; price = 400; };
 	class ffaa_armas_sdassc 									{ quality = 2; price = 400; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////
 	//	SMG
 	//////////////////////////////////////////////////////////////////////////////
@@ -159,16 +159,16 @@
 	class ffaa_armas_hkmp5pdw									{ quality = 4; price = 250; };
 	class ffaa_armas_p90										{ quality = 4; price = 250; };
 	class ffaa_armas_ump										{ quality = 4; price = 250; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////
 	//	Snipers
 	//////////////////////////////////////////////////////////////////////////////
 	class ffaa_armas_aw											{ quality = 6; price = 5000; };
-	class ffaa_armas_aw50										{ quality = 6; price = 5000; }; 
+	class ffaa_armas_aw50										{ quality = 6; price = 5000; };
 	class ffaa_armas_m95 										{ quality = 6; price = 5000; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////
-	//	FFAA Helis 
+	//	FFAA Helis
 	//////////////////////////////////////////////////////////////////////////////
      class ffaa_famet_ch47_des_mg								{ quality = 1; price = 150000; sellPrice = 15000; };
      class ffaa_famet_ch47_mg									{ quality = 1; price = 150000; };
@@ -177,7 +177,7 @@
      class ffaa_famet_tigre_cas									{ quality = 1; price = 650000; };
      class ffaa_famet_tigre_at									{ quality = 1; price = 650000; };
      class ffaa_famet_tigre_aa									{ quality = 1; price = 650000; };
-	 
+
 	//////////////////////////////////////////////////////////////////////////////
 	//	FFAA Boats
 	//////////////////////////////////////////////////////////////////////////////
@@ -185,14 +185,14 @@
      //class ffaa_ar_supercat									{ quality = 1; price = 20000; };
      //class ffaa_ar_zodiac_hurricane							{ quality = 1; price = 15000; };
      //class ffaa_ar_zodiac_hurricane_long						{ quality = 1; price = 16000; };
-	 
+
 	//////////////////////////////////////////////////////////////////////////////
 	//	FFAA Planes
 	//////////////////////////////////////////////////////////////////////////////
      class ffaa_ea_hercules										{ quality = 1; price = 1350000; };
      class ffaa_ea_hercules_camo								{ quality = 1; price = 1350000; };
-     
-    
+
+
 	//////////////////////////////////////////////////////////////////////////////
 	//FFAA Jets
 	//////////////////////////////////////////////////////////////////////////////
@@ -200,7 +200,7 @@
      class ffaa_ar_harrier_cap									{ quality = 1; price = 200000; };
      class ffaa_ar_harrier_mr									{ quality = 1; price = 200000; };
      class ffaa_ar_harrier_cas									{ quality = 1; price = 200000; };
-	 
+
 	//////////////////////////////////////////////////////////////////////////////
 	//	FFAA Armed
 	//////////////////////////////////////////////////////////////////////////////
@@ -236,4 +236,4 @@
      class ffaa_et_m250_recuperacion_blin						{ quality = 1; price = 60000; };
      class ffaa_et_m250_carga_blin								{ quality = 1; price = 60000; };
      class ffaa_et_m250_carga_lona_blin							{ quality = 1; price = 60000; };
-     class ffaa_et_anibal										{ quality = 1; price = 60000; };	
+     class ffaa_et_anibal										{ quality = 1; price = 60000; };

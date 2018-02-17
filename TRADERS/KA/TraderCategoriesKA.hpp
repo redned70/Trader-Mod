@@ -58,7 +58,7 @@
 			"KA_UMP45_Silencer",
 			"KA_UMP9_Silencer",
 			"KA_WA2000_Silencer"
-			
+
 		};
 	};
 
@@ -185,7 +185,7 @@
 			"KA_Mk23_black",
 			"KA_Mk23_silver",
 			"KA_P226",
-			"KA_MP7_Pistol_Black_20Rnd", 
+			"KA_MP7_Pistol_Black_20Rnd",
 			"KA_MP7_Rifle_Black_20Rnd",
 			"KA_MP7_Pistol_Black_40Rnd",
 			"KA_MP7_Rifle_Black_40Rnd",
@@ -219,41 +219,41 @@
 			 "KA_DSR50",
 			 "KA_FAMAS_F1",
 			 "KA_FAMAS_F1_M203",
-			 "KA_SPAS12", 
+			 "KA_SPAS12",
 			 "KA_UMP40",
-			 "KA_UMP45", 
+			 "KA_UMP45",
 			 "KA_UMP45_P",
 			 "KA_UMP9",
 			 "KA_KSG_Black",
 			 "KA_KSG_Green",
-			 "KA_M4A1_F", 
+			 "KA_M4A1_F",
 			 "KA_M4A1_M203_F",
-			 //"KA_FMG9", 
-			 "KA_PDR", 
+			 //"KA_FMG9",
+			 "KA_PDR",
 			 "KA_CS5",
 			 "KA_NTW20",
 			 "KA_PP19",
 			 "KA_PP19_MTK83",
-			 "KA_Vityaz", 
+			 "KA_Vityaz",
 			 "KA_SCAR_H_Black_Hand",
 			 "KA_SCAR_H_Black_AFG",
 			 "KA_SCAR_H_Black_EGLM",
 			 "KA_SCAR_H_Black_Grip",
 			 "KA_SCAR_H_Tan_Hand",
-			 "KA_SCAR_H_Tan_AFG", 
+			 "KA_SCAR_H_Tan_AFG",
 			 "KA_SCAR_H_Tan_EGLM",
 			 "KA_SCAR_H_Tan_Grip",
 			 "KA_SCAR_L_Black_Hand",
 			 "KA_SCAR_L_Black_60RndMag",
 			 "KA_SCAR_L_Black_AFG",
 			 "KA_SCAR_L_Black_EGLM",
-			 "KA_SCAR_L_Black_Grip", 
+			 "KA_SCAR_L_Black_Grip",
 			 "KA_SCAR_L_Tan_Hand",
 			 "KA_SCAR_L_Tan_60RndMag",
-			 "KA_SCAR_L_Tan_AFG", 
+			 "KA_SCAR_L_Tan_AFG",
 			 "KA_SCAR_L_Tan_EGLM",
 			 "KA_SCAR_L_Tan_Grip",
-			 "KA_SG_550", 
+			 "KA_SG_550",
 			 "KA_SG_552",
 			 "KA_SG_552_Black",
 			 "KA_VSSK",
@@ -264,7 +264,7 @@
 		};
 	};
 
-	
+
 	class KAAmmunition
 	{
 		name = "KA Ammo";

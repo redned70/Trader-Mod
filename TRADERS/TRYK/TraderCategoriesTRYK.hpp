@@ -452,7 +452,7 @@
 		};
 	};
 
- 
+
 	class TRYKBackpacks
 	{
 		name = "TRYK Backpacks";
@@ -500,4 +500,3 @@
 			"TRYK_Winter_pack"
 		};
 	};
-	

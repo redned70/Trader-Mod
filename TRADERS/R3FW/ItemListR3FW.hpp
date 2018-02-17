@@ -12,7 +12,7 @@
 	class R3F_PIRAT_DES								{ quality = 1; price = 10; };
 	class R3F_POINTEUR_SURB							{ quality = 1; price = 10; };
 	class R3F_POINTEUR_SURB_DES						{ quality = 1; price = 10; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -23,10 +23,10 @@
 	class R3F_SILENCIEUX_HK416						{ quality = 1; price = 50; };
 	class R3F_SILENCIEUX_HK416_DES					{ quality = 1; price = 50; };
 	class R3F_SILENCIEUX_HK417						{ quality = 1; price = 50; };
-	class R3F_SILENCIEUX_HK417_DES					{ quality = 1; price = 50; }; 	
+	class R3F_SILENCIEUX_HK417_DES					{ quality = 1; price = 50; };
 	class R3F_SILENCIEUX_MINIMI						{ quality = 1; price = 50; };
 	class R3F_SILENCIEUX_MINIMI_DES					{ quality = 1; price = 50; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -51,16 +51,16 @@
 	class R3F_NF42									{ quality = 1; price = 350; };
 	class R3F_NF42_DES								{ quality = 1; price = 350; };
 	class R3F_NF_DES								{ quality = 1; price = 300; };
-	class R3F_OB50									{ quality = 1; price = 470; };	
+	class R3F_OB50									{ quality = 1; price = 470; };
 	class R3F_ZEISS									{ quality = 1; price = 350; };
 	class R3F_ZEISS_DES								{ quality = 1; price = 350; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Bipod Attachments
 	///////////////////////////////////////////////////////////////////////////////
     class R3F_BIPIED_HK417							{ quality = 1; price = 10; };
-    class R3F_BIPIED_HK417_DES						{ quality = 1; price = 10; }; 
-	
+    class R3F_BIPIED_HK417_DES						{ quality = 1; price = 10; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -69,7 +69,7 @@
     class R3F_10Rnd_127x99_M107						{ quality = 2; price = 60; };
     class R3F_10Rnd_127x99_PEI_M107					{ quality = 2; price = 1500; };
     class R3F_10Rnd_762x51_FRF2						{ quality = 2; price = 20; };
-    class R3F_15Rnd_9x19_PAMAS						{ quality = 2; price = 20; }; 
+    class R3F_15Rnd_9x19_PAMAS						{ quality = 2; price = 20; };
     class R3F_200Rnd_556x45_MINIMI					{ quality = 2; price = 50; };
     class R3F_20Rnd_762x51_HK417					{ quality = 2; price = 20; };
     class R3F_20Rnd_762x51_TRACER_HK417				{ quality = 2; price = 30; };
@@ -94,14 +94,14 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Pistols
 	///////////////////////////////////////////////////////////////////////////////
-    class R3F_PAMAS									{ quality = 1; price = 100; }; 	
+    class R3F_PAMAS									{ quality = 1; price = 100; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
     class R3F_MP5A5									{ quality = 1; price = 200; };
     class R3F_MP5SD									{ quality = 1; price = 250; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -109,15 +109,15 @@
     class R3F_Minimi_762							{ quality = 1; price = 1500; };
     class R3F_Minimi_762_HG							{ quality = 1; price = 1700; };
     class R3F_Minimi_HG								{ quality = 1; price = 1200; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Explosive and Shotgun
 	///////////////////////////////////////////////////////////////////////////////
-    class R3F_M4S90									{ quality = 1; price = 1900; }; 
+    class R3F_M4S90									{ quality = 1; price = 1900; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
     class R3F_Famas_F1								{ quality = 1; price = 600; };
     class R3F_Famas_F1_DES							{ quality = 1; price = 600; };
     class R3F_Famas_F1_HG							{ quality = 1; price = 600; };
@@ -151,10 +151,10 @@
     class R3F_HK417M_HG_DES							{ quality = 1; price = 800; };
     class R3F_HK417S_HG								{ quality = 1; price = 800; };
     class R3F_HK417S_HG_DES							{ quality = 1; price = 800; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Sniper Rifles
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
     class R3F_FRF2									{ quality = 1; price = 1600; };
     class R3F_FRF2_DES								{ quality = 1; price = 1600; };
     class R3F_M107									{ quality = 1; price = 2100; };
@@ -163,14 +163,14 @@
     class R3F_PGM_Hecate_II_DES						{ quality = 1; price = 3200; };
     class R3F_PGM_Hecate_II_POLY					{ quality = 1; price = 3200; };
     class R3F_TAC50									{ quality = 1; price = 2500; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Launchers
 	///////////////////////////////////////////////////////////////////////////////
     class R3F_AT4CS									{ quality = 1; price = 10000; };
     class R3F_ERYX									{ quality = 1; price = 10000; };
     class R3F_STINGER								{ quality = 1; price = 10000; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo
 	///////////////////////////////////////////////////////////////////////////////
@@ -181,4 +181,3 @@
     class R3F_ERYX_Mag								{ quality = 2; price = 1000; };
     class R3F_FUM40									{ quality = 2; price = 1000; };
     class R3F_STINGER_Mag							{ quality = 2; price = 1000; };
-	

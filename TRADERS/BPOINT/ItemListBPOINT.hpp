@@ -1,6 +1,6 @@
 	////////////////////////////////////////////////////////////////////////////////////
 	/// BREAKING POINT MOD WEAPONS released by Tobias Solem June 2017
-	/// List Created by Chainsaw Squirrel November 2017 
+	/// List Created by Chainsaw Squirrel November 2017
 	/// Some items still need work in this mod, some scopes may have issues as 11/17
 	////////////////////////////////////////////////////////////////////////////////////
 
@@ -233,7 +233,7 @@
 	class BP_1886S_DES 								{ quality = 1; price = 400; };
 	class BP_1886S_URB 								{ quality = 1; price = 400; };
 	class BP_1886S_WDL 								{ quality = 1; price = 400; };
-						
+
 	////////////////////////////////////////////////////////////////////////////////
 	///SHOTGUNS and CROSSBOW
 	////////////////////////////////////////////////////////////////////////////////
@@ -263,8 +263,8 @@
 	class BP_Bayonet_Stab							{ quality = 1; price = 50; };
 	class BP_PLight									{ quality = 1; price = 50; };	// gun flashlight
 	class BP_Handle									{ quality = 1; price = 50; };	// handle
-	class BP_Binocular_Hunter 						{ quality = 1; price = 50; };	// Binocs 
-	class BP_flashlight								{ quality = 1; price = 50; }; 
+	class BP_Binocular_Hunter 						{ quality = 1; price = 50; };	// Binocs
+	class BP_flashlight								{ quality = 1; price = 50; };
 	class BP_CPad									{ quality = 1; price = 50; };	// Cheek Pad
 	class BP_AFG 									{ quality = 1; price = 50; };	// Angled ForeGrip
 	class BP_CZol_br								{ quality = 1; price = 50; };
@@ -325,7 +325,7 @@
 	class BP_PPK_DES 								{ quality = 1; price = 200; };
 	class BP_PPK_URB 								{ quality = 1; price = 200; };
 	class BP_PPK_WDL 								{ quality = 1; price = 200; };
-	
+
 	//////////////////////////////////////////////////////////////////////////////
 	/// Light Machine Gun
 	///////////////////////////////////////////////////////////////////////////
@@ -426,7 +426,7 @@
 	class BP_Unertl8x								{ quality = 1; price = 150; };
 	class BP_EnfieldOptic2 							{ quality = 1; price = 150; };
 	class BP_ZF42									{ quality = 1; price = 150; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////////////////
 	/// BP Mellee Weapons - Untested in Exile as of 11/21/17
 	///////////////////////////////////////////////////////////////////////////////////////////
@@ -461,7 +461,7 @@
 	class MeleeClub_WDL								{ quality = 1; price = 50; };
 	*/
 	//////////////////////////////////////////////////////////////////////////////////////////////
-	//// Suppressor 
+	//// Suppressor
 	//////////////////////////////////////////////////////////////////////////////////////////////
 	class BP_R7Sup									{ quality = 1; price = 50; };
 	class BP_22Sup									{ quality = 1; price = 50; };

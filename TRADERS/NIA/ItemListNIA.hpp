@@ -96,7 +96,7 @@
 	class hlc_20Rnd_762x51_B_M14                    { quality = 1; price = 30; };
 	class hlc_20Rnd_762x51_B_fal                    { quality = 1; price = 30; };
 	class hlc_20Rnd_762x51_Mdim_M14					{ quality = 1; price = 40; };
-	class hlc_20Rnd_762x51_S_M14                    { quality = 1; price = 30; };	
+	class hlc_20Rnd_762x51_S_M14                    { quality = 1; price = 30; };
 	class hlc_20Rnd_762x51_S_fal                    { quality = 1; price = 30; };
 	class hlc_20Rnd_762x51_TDim_fal                 { quality = 1; price = 30; };
 	class hlc_20Rnd_762x51_T_M14                 	{ quality = 1; price = 30; };
@@ -232,7 +232,7 @@
 	class hlc_GRD_orange                           	{ quality = 1; price = 30; };
 	class hlc_GRD_purple                           	{ quality = 1; price = 30; };
 	class hlc_GRD_red                              	{ quality = 1; price = 30; };
-	class hlc_GRD_yellow                           	{ quality = 1; price = 30; };	
+	class hlc_GRD_yellow                           	{ quality = 1; price = 30; };
 	class hlc_VOG25_AK								{ quality = 1; price = 30; };
 
 	///////////////////////////////////////////////////////////////////////////////

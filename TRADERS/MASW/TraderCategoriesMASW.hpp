@@ -1,4 +1,4 @@
-	class MASHeadgear 
+	class MASHeadgear
 	{
 		name = "MAS Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -49,11 +49,11 @@
 	};
 
 
-	class MASPointerAttachments 
+	class MASPointerAttachments
 	{
 		name = "MAS Pointer Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"acc_mas_flash_gun",
 			"acc_mas_pointer_gun_IR",
@@ -68,11 +68,11 @@
 		};
 	};
 
-	class MASMuzzleAttachments 
+	class MASMuzzleAttachments
 	{
 		name = "MAS Suppressor Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemmuzzle_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"muzzle_mas_snds_L",
 			"muzzle_mas_snds_LM",
@@ -93,11 +93,11 @@
 		};
 	};
 
-	class MASOpticAttachments 
+	class MASOpticAttachments
 	{
 		name = "MAS Scopes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"optic_mas_DMS",
 			"optic_mas_DMS_c",
@@ -148,7 +148,7 @@
 	{
 		name = "MAS Tools";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"NVGoggles_mas_h",
 			"Rangefinder_mas_h",
@@ -160,7 +160,7 @@
 	{
 		name = "MASBackpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"B_mas_m_Bergen_us",
 			"B_mas_m_Bergen_us_g",
@@ -199,7 +199,7 @@
 	{
 		name = "MAS Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"30Rnd_mas_556x45_Stanag",
 			"30Rnd_mas_556x45_T_Stanag",
@@ -259,11 +259,11 @@
 		};
 	};
 
-	class MASPistols 
+	class MASPistols
 	{
 		name = "MAS Pistols";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\handgun_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"hgun_mas_mp7p_F",
 			"hgun_mas_uzi_F",
@@ -282,11 +282,11 @@
 		};
 	};
 
-	class MASSubMachineGuns 
+	class MASSubMachineGuns
 	{
 		name = "MAS Sub Machine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"arifle_mas_mp40",
 			"arifle_mas_mp40_o",
@@ -301,11 +301,11 @@
 		};
 	};
 
-	class MASLightMachineGuns 
+	class MASLightMachineGuns
 	{
 		name = "MAS Light Machine Guns";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"arifle_mas_m27",
 			"arifle_mas_m27m",
@@ -335,7 +335,7 @@
 	{
 		name = "MAS Assault Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"arifle_mas_hk416",
 			"arifle_mas_hk416_gl",
@@ -436,7 +436,7 @@
 	{
 		name = "MAS Sniper Rifles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"arifle_mas_hk417c",
 			"arifle_mas_hk417_m203c",
@@ -473,21 +473,21 @@
 	{
 		name = "MAS Explosive Weapons";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
 			"arifle_mas_aa12",
 			"arifle_mas_m79"
 		};
 	};
-	
-	class MASLaunchers 
+
+	class MASLaunchers
 	{
 		name = "MAS Launchers";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
-			"mas_launch_maaws_F", 
-			"mas_launch_smaw_F", 
+			"mas_launch_maaws_F",
+			"mas_launch_smaw_F",
 			"mas_launch_NLAW_F",
 			"mas_launch_LAW_F",
 			"mas_launch_M136_F",
@@ -499,13 +499,13 @@
 			"mas_launch_Stinger_F",
 			"mas_launch_Strela_F"
 		};
-	};	
-	
-	class MASLauncherAmmo 
+	};
+
+	class MASLauncherAmmo
 	{
 		name = "MAS Launcher Ammo";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"mas_MAAWS",
 			"mas_MAAWS_HE",
@@ -531,4 +531,4 @@
 			"mas_Stinger",
 			"mas_Strela"
 		};
-	};	
+	};

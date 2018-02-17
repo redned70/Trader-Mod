@@ -2,7 +2,7 @@
 	{
 		name = "Building Supplies";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"Exile_Item_ConcreteDoorwayKit",
 			"Exile_Item_ConcreteFloorKit",
@@ -26,12 +26,12 @@
 			//"Exile_Item_WoodDrawBridgeKit",
 		};
 	};
-	
+
 	class CPlanes
 	{
 		name = "Custom Planes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			// moved to arma3
 		};

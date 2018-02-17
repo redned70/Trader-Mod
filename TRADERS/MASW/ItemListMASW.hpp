@@ -1,5 +1,5 @@
 	///////////////////////////////////////////////////////////////////////////////
-	// MAS Weapons 
+	// MAS Weapons
 	///////////////////////////////////////////////////////////////////////////////
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -46,7 +46,7 @@
 	class G_mas_wpn_shemag_gog						{ quality = 1; price = 50; };
 	class G_mas_wpn_shemag_mask						{ quality = 1; price = 50; };
 	class G_mas_wpn_gasmask							{ quality = 1; price = 50; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Pointer Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -60,7 +60,7 @@
 	class acc_mas_pointer_IR2_top 					{ quality = 1; price = 100; };
 	class acc_mas_pointer_IR2c 						{ quality = 1; price = 100; };
 	class acc_mas_pointer_IR2c_top					{ quality = 1; price = 100; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Muzzle Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -79,8 +79,8 @@
 	class muzzle_mas_snds_SV 						{ quality = 2; price = 120; };
 	class muzzle_mas_snds_SVc 						{ quality = 2; price = 120; };
 	class muzzle_mas_snds_SVD 						{ quality = 2; price = 120; };
-	class muzzle_mas_snds_KSVK 						{ quality = 2; price = 200; };	
-	
+	class muzzle_mas_snds_KSVK 						{ quality = 2; price = 200; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -125,15 +125,15 @@
 	class optic_mas_nspu							{ quality = 2; price = 250; };
 	class optic_mas_goshawk							{ quality = 2; price = 150; };
 	class optic_mas_PSO_kv							{ quality = 2; price = 250; };
-	class optic_mas_PSO_kv_c						{ quality = 2; price = 250; };	
-	
+	class optic_mas_PSO_kv_c						{ quality = 2; price = 250; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Navigation
 	///////////////////////////////////////////////////////////////////////////////
 	class NVGoggles_mas_h							{ quality = 2; price = 250; };
 	class Rangefinder_mas_h							{ quality = 2; price = 250; };
-	class Laserdesignator_mas_h						{ quality = 3; price = 950; };	
-	
+	class Laserdesignator_mas_h						{ quality = 3; price = 950; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Backpacks
 	///////////////////////////////////////////////////////////////////////////////
@@ -166,8 +166,8 @@
 	class B_mas_Bergen_rng							{ quality = 2; price = 200; };
 	class O_mas_Bergen_flo							{ quality = 2; price = 200; };
 	class O_mas_Bergen_blk							{ quality = 2; price = 200; };
-	class O_mas_Bergen_rtan							{ quality = 2; price = 200; };	
-	
+	class O_mas_Bergen_rtan							{ quality = 2; price = 200; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -223,9 +223,9 @@
 	class 150Rnd_mas_556x45_Stanag					{ quality = 1; price = 30; };
 	class 150Rnd_mas_556x45_T_Stanag				{ quality = 2; price = 30; };
 	class 30Rnd_mas_9x39_mag						{ quality = 2; price = 40; };
-	class 20Rnd_mas_9x39_mag						{ quality = 2; price = 30; };	
-	class 5Rnd_mas_127x99_dem_Stanag				{ quality = 2; price = 90; };	
-	class 5Rnd_mas_127x108_dem_mag  				{ quality = 2; price = 90; };	
+	class 20Rnd_mas_9x39_mag						{ quality = 2; price = 30; };
+	class 5Rnd_mas_127x99_dem_Stanag				{ quality = 2; price = 90; };
+	class 5Rnd_mas_127x108_dem_mag  				{ quality = 2; price = 90; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Pistols
@@ -243,8 +243,8 @@
 	class hgun_mas_glocksf_F 						{ quality = 2; price = 250; };
 	class hgun_mas_grach_F 							{ quality = 1; price = 250; };
 	class hgun_mas_mak_F 							{ quality = 1; price = 250; };
-	class hgun_mas_mak_F_sd 						{ quality = 1; price = 250; };	
-	
+	class hgun_mas_mak_F_sd 						{ quality = 1; price = 250; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -260,8 +260,8 @@
 	class arifle_mas_mp5sd_ds 						{ quality = 2; price = 600; };
 	class hgun_mas_mp7_F 							{ quality = 2; price = 300; };
 	class arifle_mas_bizon 							{ quality = 1; price = 450; };
-	class arifle_mas_saiga 							{ quality = 2; price = 300; };	
-	
+	class arifle_mas_saiga 							{ quality = 2; price = 300; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -285,8 +285,8 @@
 	class LMG_mas_m72_F								{ quality = 2; price = 550; };
 	class LMG_mas_rpk_F								{ quality = 2; price = 550; };
 	class LMG_mas_pkm_F								{ quality = 3; price = 650; };
-	class LMG_mas_pech_F							{ quality = 3; price = 700; };	
-	
+	class LMG_mas_pech_F							{ quality = 3; price = 700; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
 	///////////////////////////////////////////////////////////////////////////////
@@ -414,13 +414,13 @@
 	class srifle_mas_svd							{ quality = 2; price = 800; };
 	class srifle_mas_vss							{ quality = 2; price = 750; };
 	class srifle_mas_ksvk 							{ quality = 3; price = 1000; };
-	class srifle_mas_ksvk_c 						{ quality = 3; price = 1000; };	
-	
+	class srifle_mas_ksvk_c 						{ quality = 3; price = 1000; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Launchers
 	///////////////////////////////////////////////////////////////////////////////
-	class mas_launch_maaws_F 						{ quality = 1; price = 7500; }; 
-	class mas_launch_smaw_F 						{ quality = 1; price = 7500; }; 
+	class mas_launch_maaws_F 						{ quality = 1; price = 7500; };
+	class mas_launch_smaw_F 						{ quality = 1; price = 7500; };
 	class mas_launch_NLAW_F 						{ quality = 1; price = 7500; };
 	class mas_launch_LAW_F 							{ quality = 1; price = 7500; };
 	class mas_launch_M136_F 						{ quality = 1; price = 7500; };
@@ -431,7 +431,7 @@
 	class mas_launch_pzf60_F 						{ quality = 1; price = 7500; };
 	class mas_launch_Stinger_F 						{ quality = 1; price = 7500; };
 	class mas_launch_Strela_F 						{ quality = 1; price = 7500; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo
 	///////////////////////////////////////////////////////////////////////////////
@@ -458,4 +458,3 @@
 	class mas_pzf60									{ quality = 1; price = 3000; };
 	class mas_Stinger								{ quality = 1; price = 3000; };
 	class mas_Strela								{ quality = 1; price = 3000; };
-	

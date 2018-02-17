@@ -2,7 +2,7 @@
 	{
 		name = "GREF Uniforms";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsgref_uniform_alpenflage",
 			"rhsgref_uniform_flecktarn",
@@ -25,7 +25,7 @@
 	{
 		name = "GREF Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsgref_6b23",
 			"rhsgref_6b23_khaki",
@@ -53,7 +53,7 @@
 		};
 	};
 
-	class GREFHeadgear 
+	class GREFHeadgear
 	{
 		name = "GREF Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -84,7 +84,7 @@
 	{
 		name = "GREF Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsgref_5Rnd_792x57_kar98k",
  			"rhsgref_30rnd_556x45_m21",
@@ -98,7 +98,7 @@
 	{
 		name = "GREF Weapons";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
  			"rhs_weap_kar98k",
  			"rhs_weap_m21a",
@@ -121,7 +121,7 @@
 	{
 		name = "GREF Armed";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhsgref_BRDM2",
 			"rhsgref_BRDM2UM",
@@ -166,24 +166,24 @@
  			"rhsgref_cdf_reg_uaz_spg9"
 		};
 	};
-	
+
 	class GREFChoppers
 	{
 		name = "GREF Helicopters";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
-		{			
+		{
 				"rhsgref_mi24g_CAS",
 				"rhsgref_mi24g_FAB",
 				"rhsgref_mi24g_UPK23"
 		};
 	};
-	
+
 	class GREFPlanes
 	{
 		name = "GREF Planes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
  			"RHS_AN2",
  			"rhs_l159_CDF",
@@ -192,4 +192,4 @@
  			"rhs_l159_CDF_plamen",
  			"rhs_l39_cdf"
 		};
-	};	
+	};

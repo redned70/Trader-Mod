@@ -9,7 +9,7 @@
 	{
 		name = "SAF Uniforms";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhssaf_uniform_m10_digital",
 			"rhssaf_uniform_m10_digital_summer",
@@ -25,7 +25,7 @@
 	{
 		name = "SAF Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhssaf_vest_md98_woodland",
 			"rhssaf_vest_md98_md2camo",
@@ -42,7 +42,7 @@
 		};
 	};
 
-	class SAFHeadgear 
+	class SAFHeadgear
 	{
 		name = "SAF Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -87,7 +87,7 @@
 		name = "SAF Backpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
 		items[] =
-		{		
+		{
 
 			"rhssaf_Kitbag_base",
 			"rhssaf_kitbag_md2camo",
@@ -100,7 +100,7 @@
 	{
 		name = "SAF Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhssaf_30rnd_556x45_EPR_G36",
 			"rhssaf_30rnd_556x45_SOST_G36",
@@ -115,7 +115,7 @@
 			"rhs_30Rnd_762x39mm_tracer",
 			"rhs_30Rnd_762x39mm_89",
 			"rhs_30Rnd_762x39mm_U",
-			"rhsgref_30rnd_556x45_m21", 
+			"rhsgref_30rnd_556x45_m21",
 			"rhsgref_30rnd_556x45_m21_t",
 			"rhs_100Rnd_762x54mmR",
 			"rhs_100Rnd_762x54mmR_green",
@@ -127,7 +127,7 @@
 	{
 		name = "SAF Weapons";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhs_weap_m70ab2_fold",
 			"rhs_weap_m70b1",
@@ -165,21 +165,21 @@
 		};
 	};
 
-	class SAFAttachments 
+	class SAFAttachments
 	{
 		name = "SAF Attachments";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhs_acc_mtz"
 		};
-	};	
+	};
 
 	class SAFArmed
 	{
 		name = "SAF Armed";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"rhssaf_army_t72s",
 			"rhssaf_m1025_olive_m2"
@@ -204,13 +204,13 @@
 			"rhssaf_m1025_olive"
 		};
 	};
-	
+
 	class SAFChoppers
 	{
 		name = "SAF Helicopters";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
-		{			
+		{
  			"rhssaf_airforce_ht48"
 		};
 	};

@@ -7,7 +7,7 @@ class ExtendedBaseMod
 	{
 		name = "ExtendedBaseMod";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 		"Land_HBarrier_1_F_Kit",
 		"Land_HBarrier_3_F_Kit",
@@ -69,7 +69,7 @@ class ExtendedBaseMod
 		"Land_Wall_IndCnc_2deco_F_Kit",
 		"Land_CncWall4_F_Kit",
 		"Land_FuelStation_Shed_F_Kit",
-		"Land_Shed_Small_F_Kit",		
+		"Land_Shed_Small_F_Kit",
 		"Land_Razorwire_F_Kit",
 		///////////////////////// V0.1.5
 		"Land_u_Addon_01_V1_F_Kit", //brokenshed
@@ -164,7 +164,7 @@ class ExtendedBaseMod
 		"Land_HBarrier_01_tower_green_F_Kit", //name changed
 		"Land_IRMaskingCover_01_F_Kit",//V0.2.8
 		"Land_IRMaskingCover_02_F_Kit",//V0.2.8
-		/* 
+		/*
 		"Land_Airport_01_controlTower_F_Kit",
 		"Land_BasaltWall_01_4m_F_Kit",//V0.2.8
 		"Land_BasaltWall_01_8m_F_Kit",//V0.2.8
@@ -180,7 +180,7 @@ class ExtendedBaseMod
 		"Land_PillboxWall_01_3m_F_Kit",
 		"Land_PillboxWall_01_6m_F_Kit",
 		"Land_trench_01_forest_F_Kit",
-		"Land_trench_01_grass_F_Kit", 
+		"Land_trench_01_grass_F_Kit",
 		*/
 		#endif
 		///////////////////////// V0.2.7
@@ -193,7 +193,7 @@ class ExtendedBaseMod
 		"Land_Suitcase_F_Kit",
 		"B_Slingload_01_fuel_F_Kit",
 		"B_Slingload_01_Ammo_F_Kit",
-		///////////////////////// V0.3.1 
+		///////////////////////// V0.3.1
 		"Land_FlatTV_01_F_Kit",
 		"Land_ChairPlastic_F_Kit",
 		"Land_GamingSet_01_console_F_Kit",

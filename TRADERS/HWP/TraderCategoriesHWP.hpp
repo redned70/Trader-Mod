@@ -2,7 +2,7 @@
 	{
 		name = "HWP WEAPONS";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 		///////////////////////////////////////////////////////////////////////////////
 		// Assult Rifles

@@ -79,7 +79,7 @@
 			"rhs_gaz66_repair_vdv",
 			"rhs_gaz66_repair_vmf",
 			"rhs_gaz66_repair_vv",
-			"rhs_gaz66_vdv",			
+			"rhs_gaz66_vdv",
 			"rhs_gaz66_vmf",
 			"rhs_gaz66_vv",
 			"rhs_gaz66o_flat_msv",
@@ -273,7 +273,7 @@
 			"rhsusf_m1025_w_m2",
 			"rhsusf_m1025_w_mk19",
 			"rhsusf_m1025_w_s",
-			"rhsusf_m1025_w_s_Mk19",	
+			"rhsusf_m1025_w_s_Mk19",
 			"rhsusf_m1025_w_s_m2",
 			"rhsusf_m113_usarmy_M240",
 			"rhsusf_m113_usarmy_MK19",
@@ -319,7 +319,7 @@
 			"rhsusf_m998_w_s_2dr",
 			"rhsusf_m998_w_s_2dr_fulltop",
 			"rhsusf_m998_w_s_2dr_halftop",
-			"rhsusf_m998_w_s_4dr",			
+			"rhsusf_m998_w_s_4dr",
 			"rhsusf_m998_w_s_4dr_fulltop",
 			"rhsusf_mrzr4_d",
 			"rhsusf_mrzr4_d_mud",
@@ -424,8 +424,8 @@
 			"RHS_Ka52_vvsc",
 			"RHS_MELB_AH6M",
 			"RHS_MELB_AH6M_H",
-			"RHS_MELB_AH6M_M",   
-			"RHS_MELB_H6M",       
+			"RHS_MELB_AH6M_M",
+			"RHS_MELB_H6M",
 			"RHS_MELB_MH6M",
 			"RHS_MI8MTV3_UPK23_vvs",
 			"RHS_MI8MTV3_UPK23_vvsc",
@@ -562,12 +562,12 @@
 		};
 	};
 
-	class RHSBoats	
+	class RHSBoats
 	{
 		name = "RHS Boats";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
-		{	
+		{
 			"rhsusf_mkvsoc"
 		};
 	};

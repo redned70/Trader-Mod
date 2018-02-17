@@ -37,4 +37,3 @@
 	class Jonzie_Corolla   						            { quality = 1; price = 1; };
 	class Jonzie_Western   				                    { quality = 1; price = 1; };
 	class Jonzie_Pallet_Empty   				     	    { quality = 1; price = 1; };
-	

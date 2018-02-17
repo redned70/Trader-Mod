@@ -68,7 +68,7 @@
 	class Tiger_Cap						{ quality = 1; price = 200; };
 	class Tiger_Helmet1					{ quality = 1; price = 200; };
 	class Tiger_Helmet2					{ quality = 1; price = 200; };
-	
+
 	////////////////////////////////////////////////////////////////////
 	//	Vests
 	////////////////////////////////////////////////////////////////////
@@ -423,7 +423,7 @@
 	class VSM_MX_LMG					{ quality = 1; price = 300; };
 	class VSM_MX_LMG_TC					{ quality = 1; price = 300; };
 	class VSM_MX_TC						{ quality = 1; price = 300; };
-	
+
 	////////////////////////////////////////////////////////////////////
 	//	Backpacks
 	////////////////////////////////////////////////////////////////////
@@ -458,7 +458,7 @@
 	class Scorpion_Backpack_Kitbag			{ quality = 1; price = 200; };
 	class Tiger_Backpack_Compact			{ quality = 1; price = 200; };
 	class Tiger_Backpack_Kitbag				{ quality = 1; price = 200; };
-	
+
 	////////////////////////////////////////////////////////////////////
 	///Vests
 	////////////////////////////////////////////////////////////////////

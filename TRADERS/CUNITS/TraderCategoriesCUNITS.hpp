@@ -102,7 +102,7 @@
 			"CUP_U_B_BAF_MTP_S4_UnRolled",
 			"CUP_U_B_BAF_MTP_S5_UnRolled",
 			"CUP_U_B_BAF_MTP_S6_UnRolled"
-	 
+
 		};
 	};
 	class CUPHeadgear
@@ -224,12 +224,12 @@
 			///"CUP_H_SLA_BeretRed",
 		};
 	};
-	
+
 	class CUPBackpacks
 	{
 		name = "CUPBackpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"CUP_B_ACRPara_m95",
 			"CUP_B_AssaultPack_ACU",

@@ -2,7 +2,7 @@ class HAPCARS
 	{
 		name = "HAP Cars";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_ATV_new_black",
 			"HAP_ATV_new_blue",
@@ -41,12 +41,12 @@ class HAPCARS
 			"HAP_SUV_red"
 		};
 	};
-	
+
 	class HAPTRUCKS
 	{
 		name = "HAP Trucks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_IF_blue_1",
 			"HAP_IF_green_1",
@@ -75,12 +75,12 @@ class HAPCARS
 			"HAP_STRY_woodland1"
 		};
 	};
-	
+
 	class HAPASSAULTRIFLES
 	{
 		name = "HAP Assault Rifle";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_MX_camo1_green",
 			"HAP_MX_camo1_purple",
@@ -95,12 +95,12 @@ class HAPCARS
 			"HAP_MX_yellow"
         };
 	};
-	
+
 	class HAPSNIPERRIFLES
 	{
 		name = "HAP Sniper";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_CHEY_camo2_blue",
 			"HAP_CHEY_camo2_woodland",
@@ -178,12 +178,12 @@ class HAPCARS
 			"HAP_MARKS_M14_wood1"
 		};
 	};
-	
+
 	class HAPHEADGEAR
 	{
 		name = "HAP HEADGEAR";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_HPILOT_big_smile1",
 			"HAP_HPILOT_green",
@@ -208,12 +208,12 @@ class HAPCARS
 			"HAP_MOTO_STUNT"
 		};
 	};
-	
+
 	class HAPVESTS
 	{
 		name = "HAP Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_VEST_KERRY_black",
 			"HAP_VEST_KERRY_blue",
@@ -261,12 +261,12 @@ class HAPCARS
 			"HAP_press_vest_winter2"
 		};
 	};
-	
+
 	class HAPBACKPACKS
 	{
 		name = "HAP Backpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_B_Bergen_blue",
 			"HAP_B_Bergen_camo_blue",
@@ -299,12 +299,12 @@ class HAPCARS
 			"HAP_B_Gorod_winter_1"
 		};
 	};
-	
+
 	class HAPUNIFORMS
 	{
 		name = "HAP Uniforms";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"HAP_BTN_army",
 			"HAP_BTN_haw1",

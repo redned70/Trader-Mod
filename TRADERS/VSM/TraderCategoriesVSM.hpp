@@ -1,12 +1,12 @@
-	
 
 
 
-	class VSMHeadgear 
+
+	class VSMHeadgear
 	{
 		name = "VSM Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"ABU_Boonie",
 			"ABU_Cap",
@@ -78,11 +78,11 @@
 		};
 	};
 
-	class VSMUniform 
+	class VSMUniform
 	{
 		name = "VSM Uniform";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"ABU_BP_Camo",
 			"ABU_BP_Camo_SS",
@@ -395,7 +395,7 @@
 			"Scorpion_TP_Camo_SS",
 			"Scorpion_TS_Camo",
 			"Scorpion_TS_Camo_SS",
-			"Tiger_Camo",			
+			"Tiger_Camo",
 			"Tiger_Camo_BDU",
 			"Tiger_Camo_BDU_GP",
 			"Tiger_Camo_BDU_TP",
@@ -422,7 +422,7 @@
 	{
 		name = "VSM Weapons";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"Project_Honor_Mk20",
 			"Project_Honor_Mk20C",
@@ -447,7 +447,7 @@
 	{
 		name = "VSM Backpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"ABU_Backpack_Compact",
 			"ABU_Backpack_Kitbag",
@@ -487,8 +487,8 @@
 	{
 		name = "VSM Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
-		items[] = 
-		{	
+		items[] =
+		{
 			"ABU_Vest_1",
 			"ABU_Vest_2",
 			"ABU_Vest_3",
@@ -642,4 +642,4 @@
 			"Tiger_Vest_5",
 			"aor2_LBT_vest"
 		};
-	};	
+	};

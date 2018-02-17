@@ -570,7 +570,7 @@
 			"Exile_Item_SausageGravy",
 			"Exile_Item_SeedAstics",
 			"Exile_Item_Surstromming"
-			
+
 			// Hunted Animals
 			// Note: Adding these to the trader will defeat the purpose of hunting!
 			/*
@@ -607,7 +607,7 @@
 			*/
 		};
 	};
-	
+
 	class NonVeganFood
 	{
 		name = "Non-Vegan Food";
@@ -631,7 +631,7 @@
 			"Exile_Item_TurtleFilet_Raw"
 		};
 	};
-	
+
 
 	class Drinks
 	{
@@ -655,7 +655,7 @@
 		name = "Tools";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
-		{	
+		{
 			"Binocular",
 			"Exile_Item_CanOpener",
 			"Exile_Item_CookingPot",
@@ -664,7 +664,7 @@
 			"Exile_Item_Handsaw",
 			"Exile_Item_Matches",
 			"Exile_Item_Pliers",
-			"Exile_Item_XM8",			
+			"Exile_Item_XM8",
 			"ItemCompass",
 			"ItemGPS",
 			"ItemMap",

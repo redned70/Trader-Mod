@@ -2,7 +2,7 @@
 	{
 		name = "FMP Cars";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"FMP_Hunter_Alpha",
 			"FMP_Hunter_Bgcamo",
@@ -203,12 +203,12 @@
 			"bv_the_crowner_skin_white"
 		};
 	};
-	
+
 	class FMPTrucks
 	{
 		name = "FMP Trucks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"bv_monster_aqua",
 			"bv_monster_baby_blue",

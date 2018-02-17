@@ -46,7 +46,7 @@
 			"C_Offroad_01_white_F",
 			"C_Offroad_default_F",
 			"C_Offroad_luxe_F",
-			"C_Offroad_stripped_F",		
+			"C_Offroad_stripped_F",
 			"I_G_Offroad_01_F",
 			"C_SUV_01_F",
 			"C_IDAP_Offroad_01_F",
@@ -151,7 +151,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
-			"I_G_Offroad_01_armed_F",	
+			"I_G_Offroad_01_armed_F",
 			"B_APC_Wheeled_01_cannon_F",
 			"B_G_Offroad_01_armed_F",
 			"B_MRAP_01_gmg_F",
@@ -287,7 +287,7 @@
 			"C_Heli_light_01_wasp_F",
 			"C_Heli_light_01_wave_F",
 			"I_Heli_light_03_unarmed_F",
-			"O_Heli_Light_02_dynamicLoadout_F",			
+			"O_Heli_Light_02_dynamicLoadout_F",
 			"O_Heli_Transport_04_F",
 			"O_Heli_Transport_04_ammo_F",
 			"O_Heli_Transport_04_ammo_black_F",

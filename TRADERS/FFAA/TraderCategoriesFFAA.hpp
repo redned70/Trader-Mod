@@ -131,7 +131,7 @@
      name = "FFAA Ammunition";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
-		{ 
+		{
 			"ffaa_127x99_ap",
 			"ffaa_127x99_he",
 			"ffaa_507x28_p90",
@@ -150,7 +150,7 @@
 			"ffaa_9x19_ump",
 			"ffaa_mag_c90"
 		};
-	}; 
+	};
 
 	class FFAAOpticAttachments
 	{
@@ -173,7 +173,7 @@
 			"ffaa_optic_susat",
 			"ffaa_optic_vosel"
 		};
-	}; 
+	};
 
 	class FFAAPistols
 	{
@@ -212,7 +212,7 @@
 			"ffaa_armas_sdass",
 			"ffaa_armas_sdassc"
 		};
-	}; 
+	};
 
     class FFAASmg
      {
@@ -226,7 +226,7 @@
              "ffaa_armas_p90",
              "ffaa_armas_ump"
          };
-     }; 
+     };
 
 	class FFAASniperRifles
 	{
@@ -238,8 +238,8 @@
 			"ffaa_armas_aw50",
 			"ffaa_armas_m95"
 		};
-	}; 
- 
+	};
+
 	class FFAAChoppers
 	{
          name = "FFAA Helicopters";
@@ -254,7 +254,7 @@
 			"ffaa_famet_tigre_at",
 			"ffaa_famet_tigre_cas"
 		};
-	}; 
+	};
 
    	class FFAABoats
 	{
@@ -267,7 +267,7 @@
 			"ffaa_ar_zodiac_hurricane",
 			"ffaa_ar_zodiac_hurricane_long"
 		};
-	}; 
+	};
 
    	class FFAAPlanes
 	{
@@ -278,7 +278,7 @@
 			"ffaa_ea_hercules_camo",
 			"ffaa_ea_hercules"
 		};
-	}; 
+	};
 
    	class FFAAJets
 	{
@@ -291,7 +291,7 @@
 			"ffaa_ar_harrier_gbu",
 			"ffaa_ar_harrier_mr"
 		};
-	}; 
+	};
 
    	class FFAAArmed
 	{
@@ -316,7 +316,7 @@
 			"ffaa_et_vamtac_ume"
 		};
 	};
-     
+
     class FFAAUnarmed
 	{
          name = "FFAA Unarmed";

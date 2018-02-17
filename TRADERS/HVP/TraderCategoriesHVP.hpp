@@ -2,7 +2,7 @@
 	{
 		name = "HVP Vehicles";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 	"Mrshounka_corbillard_c",
 	"Mrshounka_corbillard_c_bleufonce",
@@ -131,15 +131,15 @@
 	"Mrshounka_yamaha_p_v"
 		};
 	};
-	
+
 	class HVPPlanes
 	{
 		name = "HVP Planes";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 "sab_camel_blu",
 "sab_camel_red",
-"MV22" 
+"MV22"
 		};
 	};

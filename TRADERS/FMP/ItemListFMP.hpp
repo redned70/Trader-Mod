@@ -12,7 +12,7 @@
 	class FMP_Hunter_Savage 				{ quality = 5; price = 26500; };
 	class FMP_Hunter_Skull 					{ quality = 5; price = 26500; };
 	class FMP_Hunter_Suba 					{ quality = 5; price = 26500; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class FMP_Strider_Carbon 				{ quality = 6; price = 44000; };
 	class FMP_Strider_Hex 					{ quality = 6; price = 44000; };
 	class FMP_Strider_Multi					{ quality = 6; price = 44000; };
@@ -20,7 +20,7 @@
 	class FMP_Strider_Rusty 				{ quality = 6; price = 44000; };
 	class FMP_Strider_Splatter 				{ quality = 6; price = 44000; };
 	class FMP_Strider_Standard				{ quality = 6; price = 44000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_458_aqua						{ quality = 2; price = 44000; };
 	class bv_458_baby_blue					{ quality = 2; price = 44000; };
 	class bv_458_baby_pink					{ quality = 2; price = 44000; };
@@ -46,7 +46,7 @@
 	class bv_458_skin_blue					{ quality = 2; price = 44000; };
 	class bv_458_skin_camo					{ quality = 2; price = 44000; };
 	class bv_458_skin_camo_urban			{ quality = 2; price = 44000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_gtr_spec_V_aqua				{ quality = 3; price = 45000; };
 	class bv_gtr_spec_V_baby_blue			{ quality = 3; price = 45000; };
 	class bv_gtr_spec_V_baby_pink			{ quality = 3; price = 45000; };
@@ -72,7 +72,7 @@
 	class bv_gtr_spec_V_skin_blue			{ quality = 3; price = 45000; };
 	class bv_gtr_spec_V_skin_camo			{ quality = 3; price = 45000; };
 	class bv_gtr_spec_V_skin_camo_urban		{ quality = 3; price = 45000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_ben_dover_aqua					{ quality = 1; price = 15000; };
 	class bv_ben_dover_baby_blue			{ quality = 1; price = 15000; };
 	class bv_ben_dover_baby_pink			{ quality = 1; price = 15000; };
@@ -98,7 +98,7 @@
 	class bv_ben_dover_skin_blue			{ quality = 1; price = 15000; };
 	class bv_ben_dover_skin_camo			{ quality = 1; price = 15000; };
 	class bv_ben_dover_skin_camo_urban		{ quality = 1; price = 15000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_monster_aqua					{ quality = 1; price = 17000; };
 	class bv_monster_baby_blue				{ quality = 1; price = 17000; };
 	class bv_monster_baby_pink				{ quality = 1; price = 17000; };
@@ -124,7 +124,7 @@
 	class bv_monster_skin_blue				{ quality = 1; price = 17000; };
 	class bv_monster_skin_camo				{ quality = 1; price = 17000; };
 	class bv_monster_skin_camo_urban		{ quality = 1; price = 17000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_caressa_gt_aqua				{ quality = 2; price = 40000; };
 	class bv_caressa_gt_baby_blue			{ quality = 2; price = 40000; };
 	class bv_caressa_gt_baby_pink			{ quality = 2; price = 40000; };
@@ -150,7 +150,7 @@
 	class bv_caressa_gt_skin_blue			{ quality = 2; price = 40000; };
 	class bv_caressa_gt_skin_camo			{ quality = 2; price = 40000; };
 	class bv_caressa_gt_skin_camo_urban		{ quality = 2; price = 40000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_e60_m5_aqua					{ quality = 2; price = 31000; };
 	class bv_e60_m5_baby_blue				{ quality = 2; price = 31000; };
 	class bv_e60_m5_baby_pink				{ quality = 2; price = 31000; };
@@ -176,7 +176,7 @@
 	class bv_e60_m5_skin_blue				{ quality = 2; price = 31000; };
 	class bv_e60_m5_skin_camo				{ quality = 2; price = 31000; };
 	class bv_e60_m5_skin_camo_urban			{ quality = 2; price = 31000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_e63_amg_aqua					{ quality = 2; price = 35000; };
 	class bv_e63_amg_baby_blue				{ quality = 2; price = 35000; };
 	class bv_e63_amg_baby_pink				{ quality = 2; price = 35000; };
@@ -202,14 +202,14 @@
 	class bv_e63_amg_skin_blue				{ quality = 2; price = 35000; };
 	class bv_e63_amg_skin_camo				{ quality = 2; price = 35000; };
 	class bv_e63_amg_skin_camo_urban		{ quality = 2; price = 35000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_shelly_bf_skin					{ quality = 1; price = 18000; };
 	class bv_shelly_bw_skin					{ quality = 1; price = 18000; };
 	class bv_shelly_rw_skin					{ quality = 1; price = 18000; };
 	class bv_shelly_wb_skin					{ quality = 1; price = 18000; };
 	class bv_shelly_wbl_skin 				{ quality = 1; price = 18000; };
 	class bv_shelly_wf_skin					{ quality = 1; price = 18000; };
-	///////////////////////////////////////////////////////////////////////////////	
+	///////////////////////////////////////////////////////////////////////////////
 	class bv_the_crowner_aqua 				{ quality = 1; price = 5000; };
 	class bv_the_crowner_baby_blue			{ quality = 1; price = 5000; };
 	class bv_the_crowner_baby_pink			{ quality = 1; price = 5000; };

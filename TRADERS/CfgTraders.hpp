@@ -5,11 +5,11 @@
 	{
 		name = "ARMORY";
 		showWeaponFilter = 1;
-		categories[] = 
+		categories[] =
 		{
 			"APEXAmmunition",
 			"APEXAssaultRifles",
-			"APEXBipodAttachments",		
+			"APEXBipodAttachments",
 			"APEXLightMachineGuns",
 			"APEXMuzzleAttachments",
 			"APEXOpticAttachments",
@@ -25,7 +25,7 @@
 			"BPOpticAttachments",
 			"BPPistols",
 			"BPPointerAttachments",
-			"BPSniperRifles", 
+			"BPSniperRifles",
 			"BPSubMachineGuns",
 			"BipodAttachments",
 			"CUPAmmunition",
@@ -52,10 +52,10 @@
 			"HAPASSAULTRIFLES",
 			"HAPSNIPERRIFLES",
 			"HWPweapons",
-			"KAAmmunition",			
+			"KAAmmunition",
 			"KAAttachments",
 			"KAMuzzleAttachments",
-			"KAOpticAttachments",			
+			"KAOpticAttachments",
 			"KAPistols",
 			"KARifles",
 			"LightMachineGuns",
@@ -100,9 +100,9 @@
 			"RHSPointerAttachments",
 			"RHSSniperRifles",
 			"RHSSubMachineGuns",
-			"SAFAmmunition", 
+			"SAFAmmunition",
 			"SAFAttachments",
-			"SAFWeapons", 
+			"SAFWeapons",
 			"Shotguns",
 			"SniperRifles",
 			"SubMachineGuns",
@@ -123,7 +123,7 @@
 	{
 		name = "SPECIAL OPERATIONS";
 		showWeaponFilter = 1; // for noob tubes
-		categories[] = 
+		categories[] =
 		{
 			"A3LauncherAmmo",
 			"A3Launchers",
@@ -158,10 +158,10 @@
 	 * Uniforms, vests, helmets, backpacks
 	 */
 	class Exile_Trader_Equipment
-	{	
+	{
 		name = "EQUIPMENT";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"A3Backpacks",
 			"APEXBackpacks",
@@ -218,7 +218,7 @@
 	{
 		name = "FAST FOOD";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Drinks",
 			"Food",
@@ -234,7 +234,7 @@
 	{
 		name = "HARDWARE";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Hardware",
 			//"R3FTools",
@@ -251,7 +251,7 @@
 	{
 		name = "VEHICLE";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"A3Armed",
 			"A3Cars",
@@ -279,12 +279,12 @@
 			"MASTrucks",
 			"RHSVehicles",
 			"SAFArmed",
-			"SAFUnarmed", 
+			"SAFUnarmed",
 			"Trucks",
 			//"MASTanks"
-			//"A3Tanks"	
-			//"UGV"	
-			//"A3UGVs"	
+			//"A3Tanks"
+			//"UGV"
+			//"A3UGVs"
 			//"ApexUAVs"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
@@ -297,7 +297,7 @@
 	{
 		name = "AIRCRAFT";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"A3Planes",
 			"A3armedChoppers",
@@ -316,7 +316,7 @@
 			"MASPlanes",
 			"Planes",
 			"JetPlanes",
-			"Pods",		
+			"Pods",
 			"RHSChoppers",
 			"RHSPlanes",
 			"SAFChoppers"
@@ -328,12 +328,12 @@
 
 	/**
 	 * Sells ships and boats
-	 */ 
+	 */
 	class Exile_Trader_Boat
 	{
 		name = "BOAT";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"A3Boats",
 			"ApexBoats",
@@ -347,20 +347,20 @@
 	{
 		name = "DIVERS";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Diving"
 		};
-	};	
-	
+	};
+
 	/**
 	 * Sells Community Items
-	 */ 
+	 */
 	class Exile_Trader_CommunityCustoms
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community"
 		};
@@ -369,7 +369,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community2"
 		};
@@ -379,7 +379,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community3"
 		};
@@ -389,7 +389,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community4"
 		};
@@ -399,7 +399,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community5"
 		};
@@ -409,7 +409,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community6"
 		};
@@ -419,7 +419,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community7"
 		};
@@ -429,7 +429,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community8"
 		};
@@ -439,7 +439,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community9"
 		};
@@ -449,7 +449,7 @@
 	{
 		name = "COMMUNITY";
 		showWeaponFilter = 0;
-		categories[] = 
+		categories[] =
 		{
 			"Community10"
 		};

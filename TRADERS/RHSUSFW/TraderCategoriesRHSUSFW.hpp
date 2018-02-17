@@ -34,7 +34,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
 		items[] =
 		{
-			
+
 			"rhsusf_iotv_ucp",
 			"rhsusf_iotv_ucp_grenadier",
 			"rhsusf_iotv_ucp_medic",
@@ -67,7 +67,7 @@
 			"rhsusf_spcs_ocp",
 			"rhsusf_spcs_ucp_rifleman",
 			"rhsusf_spcs_ucp"
-			
+
 		};
 	};
 
@@ -77,7 +77,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
 		items[] =
 		{
-			
+
 			"rhs_Booniehat_m81",
 			"rhs_Booniehat_marpatd",
 			"rhs_Booniehat_marpatwd",
@@ -236,7 +236,7 @@
 			"rhsusf_falconii_mc",
 			"rhsusf_falconii",
 			"RHS_M2_Gun_Bag",
-			
+
 		};
 	};
 
@@ -279,7 +279,7 @@
 		items[] =
 		{
 			"rhsusf_acc_harris_bipod"
-						
+
 		};
 	};
 
@@ -295,7 +295,7 @@
 			"rhsusf_acc_grip2_tan",
 			"rhsusf_acc_grip3",
 			"rhsusf_acc_grip3_tan"
-						
+
 		};
 	};
 
@@ -343,7 +343,7 @@
 			"rhsusf_acc_ACOG3_USMC",
 			"rhsusf_acc_LEUPOLDMK4_2",
 			"rhsusf_acc_EOTECH",
-			
+
 			// Added by ElShotte - 19 Items
 			"rhsusf_acc_ACOG_MDO",
 			"rhsusf_acc_ACOG_RMR",
@@ -361,7 +361,7 @@
 			"rhsusf_acc_M8541_low",
 			"rhsusf_acc_M8541_low_d",
 			"rhsusf_acc_M8541_low_wd"
-					
+
 		};
 	};
 
@@ -393,7 +393,7 @@
 			"rhs_weap_m240B",
 			"rhs_weap_m240B_CAP",
 			"rhs_weap_m240G"
-						
+
 		};
 	};
 
@@ -509,7 +509,7 @@
 			"rhs_weap_m4a1_grip2",
 			"rhs_weap_mk18_grip2",
 			"rhs_weap_mk18_grip2_KAC"
-			
+
 		};
 	};
 
@@ -549,7 +549,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
 		{
-		
+
 			"rhs_200rnd_556x45_M_SAW",
 			"rhs_200rnd_556x45_B_SAW",
 			"rhs_200rnd_556x45_T_SAW",
@@ -561,13 +561,13 @@
 			"rhsusf_100Rnd_762x51_m80a1epr",
 			"rhsusf_20Rnd_762x51_m993_Mag",
 			"rhsusf_5Rnd_300winmag_xm2010",
-			
+
 
 			// Added by ElShotte - 26 Items
 			//M-107 and M82A1
 			"rhsusf_mag_10Rnd_STD_50BMG_M33",
 			"rhsusf_mag_10Rnd_STD_50BMG_mk211",  // <- Exploding 50 Cal rounds (WAY too powerful)
-		
+
 			// M590
 			"rhsusf_5Rnd_00Buck",
 			"rhsusf_8Rnd_00Buck",
@@ -577,7 +577,7 @@
 			"rhsusf_5Rnd_HE",
 			"rhsusf_8Rnd_HE",
 			"rhsusf_8Rnd_doomsday_Buck",
-			
+
 			// M24 SWS
 			"rhsusf_5Rnd_762x51_m118_special_Mag",
 			"rhsusf_5Rnd_762x51_m993_Mag",
@@ -593,7 +593,7 @@
 			"rhsusf_mag_15Rnd_9x19_JHP",
 			"rhsusf_mag_17Rnd_9x19_JHP",
 			"rhsusf_mag_17Rnd_9x19_FMJ"
-			
+
 		};
 	};
 
@@ -617,9 +617,9 @@
 			"rhs_mag_mk84",
 			"rhs_mag_mk3a2",
 			"rhs_mag_m4009",
-			"rhs_mag_m7a3_cs",	
+			"rhs_mag_m7a3_cs",
 			"rhs_mag_an_m8hc",
 			"rhs_mag_an_m14_th3"
-						
+
 		};
 	};

@@ -380,7 +380,7 @@
 	class rhs_acc_harris_swivel								{ quality = 3; price = 80; };
 	class rhs_bipod											{ quality = 3; price = 80; };
 	class rhsusf_acc_harris_bipod							{ quality = 3; price = 80; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Weapon Attachments - Muzzle
 	///////////////////////////////////////////////////////////////////////////////
@@ -459,7 +459,7 @@
 	class rhsusf_acc_premier 								{ quality = 5; price = 600; };
 	class rhsusf_acc_premier_anpvs27 						{ quality = 5; price = 2500; };
 	class rhsusf_acc_premier_low 							{ quality = 5; price = 600; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -816,9 +816,9 @@
 	class rhs_VG40MD_Green								{ quality = 4; price = 50; };
 	class rhs_VG40MD_Red								{ quality = 4; price = 50; };
 	class rhs_GDM40										{ quality = 4; price = 50; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
-	// RHS AA and artillery 
+	// RHS AA and artillery
 	///////////////////////////////////////////////////////////////////////////////
 	class RHS_AGS30_TriPod_INS	  				{ quality = 6; price = 100000; };
 	class RHS_AGS30_TriPod_MSV	  				{ quality = 6; price = 100000; };

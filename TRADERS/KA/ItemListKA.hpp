@@ -59,7 +59,7 @@
 	class KA_UMP45_Silencer								{ quality = 2; price = 100; };
 	class KA_UMP9_Silencer								{ quality = 2; price = 100; };
 	class KA_WA2000_Silencer							{ quality = 2; price = 100; };
-          
+
 	///////////////////////////////////////////////////////////////////////////////
 	//	KA Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -342,7 +342,7 @@
 	class KA_DSR50_3Rnd_x2_M17_Tracer_Mag				{ quality = 6; price = 500; };
 	class KA_DSR50_3Rnd_x2_M33_FMJ_Mag					{ quality = 6; price = 500; };
 	class KA_DSR50_3Rnd_x2_MK211_HEIAP_Mag				{ quality = 6; price = 800; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	//	KA Pistols
 	////////////////////////////////////////////////////////////////////////////////

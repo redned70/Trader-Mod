@@ -1,7 +1,7 @@
 	///////////////////////////////////////////////////////////////////////////////
-    // TRYK Custom  	
+    // TRYK Custom
     ///////////////////////////////////////////////////////////////////////////////
-	
+
    ///HeadGear
    ///////////////////////////////////////
  class   TRYK_ESS_CAP                                    { quality = 1; price = 100; };
@@ -115,7 +115,7 @@
  class   TRYK_H_LHS_HEL_G                                { quality = 1; price = 100; };
  ////////////////////////////////////
 /////Vests
-/////////////////////////////// 
+///////////////////////////////
  class   TRYK_V_PlateCarrier_JSDF                        { quality = 1; price = 150; };
  class   TRYK_V_ArmorVest_AOR1                           { quality = 1; price = 150; };
  class   TRYK_V_ArmorVest_AOR2                           { quality = 1; price = 150; };
@@ -154,7 +154,7 @@
  class   TRYK_V_PlateCarrier_ACU                         { quality = 1; price = 150; };
  class   TRYK_V_TacVest_coyo                             { quality = 1; price = 150; };
  class   TRYK_V_IOTV_BLK                                 { quality = 1; price = 150; };
- 
+
  ////////////////////////////////////////////////////////////////////
  //////////Uniform
  ///////////////////////////////////////////////
@@ -163,7 +163,7 @@
  class   TRYK_H_ghillie_top_headless                     { quality = 1; price = 200; };
  class   TRYK_H_ghillie_over_green                       { quality = 1; price = 200; };
  class   TRYK_H_ghillie_top_green                        { quality = 1; price = 200; };
- class   TRYK_H_ghillie_top_headless_green               { quality = 1; price = 200; };                                                   
+ class   TRYK_H_ghillie_top_headless_green               { quality = 1; price = 200; };
  class   TRYK_U_B_OD_OD_CombatUniform                    { quality = 1; price = 150; };
  class   TRYK_U_B_OD_OD_R_CombatUniform                  { quality = 1; price = 150; };
  class   TRYK_U_B_TANTAN_CombatUniform                   { quality = 1; price = 150; };
@@ -437,11 +437,11 @@
  class   TRYK_U_B_PCUHsW7                                { quality = 1; price = 150; };
  class   TRYK_U_B_PCUHsW8                                { quality = 1; price = 150; };
  class   TRYK_U_B_PCUHsW9 							     { quality = 1; price = 150; };
- 
+
     ///////////////////////////////////////////////////////////////////////////////
     // TRYK BackPacks
     ///////////////////////////////////////////////////////////////////////////////
-   
+
     class TRYK_B_AssaultPack_UCP                        { quality = 1; price = 200; };
     class TRYK_B_AssaultPack_Type2camo                  { quality = 1; price = 200; };
     class TRYK_B_AssaultPack_MARPAT_Desert              { quality = 1; price = 200; };
@@ -481,4 +481,3 @@
     class TRYK_B_tube_blk                               { quality = 1; price = 200; };
     class TRYK_B_FieldPack_Wood                         { quality = 1; price = 200; };
     class TRYK_Winter_pack                              { quality = 1; price = 200; };
-	

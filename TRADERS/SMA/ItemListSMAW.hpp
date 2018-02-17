@@ -1,5 +1,5 @@
 	///////////////////////////////////////////////////////////////////////////////
-	// Assault rifle 
+	// Assault rifle
 	///////////////////////////////////////////////////////////////////////////////
 	class SMA_HK416afgQCB							{ quality = 6; price = 800; };
 	class SMA_HK416afg								{ quality = 6; price = 800; };
@@ -189,7 +189,7 @@
 	class SMA_M4afgSTOCK							{ quality = 6; price = 800; };
 	class SMA_M4CQBR								{ quality = 6; price = 800; };
 	class SMA_M4CQBRMOE								{ quality = 6; price = 800; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Gun
 	///////////////////////////////////////////////////////////////////////////////
@@ -199,7 +199,7 @@
 	class sma_minimi_mk3_762tsb						{ quality = 6; price = 1000; };
 	class sma_minimi_mk3_762tsb_des					{ quality = 6; price = 1000; };
 	class sma_minimi_mk3_762tsb_wdl					{ quality = 6; price = 1000; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Pointer Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -210,41 +210,41 @@
 	class SMA_ANPEQ15_TOP_TAN 						{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_417TAN 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_BLK 							{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_BLK 						{ quality = 6; price = 150; };	
+	class SMA_ANPEQ15_TOP_BLK 						{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_417BLK 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_TAN_MK18 					{ quality = 6; price = 150; };	
+	class SMA_ANPEQ15_TOP_TAN_MK18 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_BLK_MK18 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_TAN_M4 					{ quality = 6; price = 150; };	
+	class SMA_ANPEQ15_TOP_TAN_M4 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_BLK_M4 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_TAN_SCAR 					{ quality = 6; price = 150; };	
 	class SMA_ANPEQ15_TOP_TAN_SCAR 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_BLK_SCAR 					{ quality = 6; price = 150; };	
+	class SMA_ANPEQ15_TOP_TAN_SCAR 					{ quality = 6; price = 150; };
+	class SMA_ANPEQ15_TOP_BLK_SCAR 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_TAN_ACR 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_BLK_ACR 					{ quality = 6; price = 150; };	
+	class SMA_ANPEQ15_TOP_BLK_ACR 					{ quality = 6; price = 150; };
 	class SMA_SFFL_TAN 								{ quality = 6; price = 150; };
-	class SMA_SFFL_BLK 								{ quality = 6; price = 150; };	
+	class SMA_SFFL_BLK 								{ quality = 6; price = 150; };
 	class SMA_SFPEQ_M4TOP_TAN 						{ quality = 6; price = 150; };
-	class SMA_SFPEQ_M4TOP_BLK 						{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_M4TOP_BLK 						{ quality = 6; price = 150; };
 	class SMA_SFPEQ_MK18TOP_TAN 					{ quality = 6; price = 150; };
-	class SMA_SFPEQ_MK18TOP_BLK 					{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_MK18TOP_BLK 					{ quality = 6; price = 150; };
 	class SMA_SFPEQ_HKTOP_TAN 						{ quality = 6; price = 150; };
-	class SMA_SFPEQ_HKTOP_BLK 						{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_HKTOP_BLK 						{ quality = 6; price = 150; };
 	class SMA_SFPEQ_HK417TOP_TAN 					{ quality = 6; price = 150; };
-	class SMA_SFPEQ_HK417TOP_BLK 					{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_HK417TOP_BLK 					{ quality = 6; price = 150; };
 	class SMA_SFPEQ_SCARTOP_TAN 					{ quality = 6; price = 150; };
-	class SMA_SFPEQ_SCARTOP_BLK 					{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_SCARTOP_BLK 					{ quality = 6; price = 150; };
 	class SMA_SFPEQ_ACRTOP_BLK 						{ quality = 6; price = 150; };
-	class SMA_SFPEQ_ACRTOP_BLK_LIGHT 				{ quality = 6; price = 150; };	
+	class SMA_SFPEQ_ACRTOP_BLK_LIGHT 				{ quality = 6; price = 150; };
 	class SMA_SFPEQ_ACRTOP_TAN 						{ quality = 6; price = 150; };
 	class SMA_SFPEQ_ACRTOP_TAN_LIGHT 				{ quality = 6; price = 150; };
 	class SMA_SFPEQ_AUGCQC_TAN 						{ quality = 6; price = 150; };
-	class SMA_SFPEQ_AUGCQC_BLK 						{ quality = 6; price = 150; };	
-	
+	class SMA_SFPEQ_AUGCQC_BLK 						{ quality = 6; price = 150; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Bitpod Attachments
 	///////////////////////////////////////////////////////////////////////////////
 	class SMA_Gripod_01	 							{ quality = 6; price = 200; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Optic Attachments
 	///////////////////////////////////////////////////////////////////////////////
@@ -317,7 +317,7 @@
 	class SMA_supp1BT_556 							{ quality = 6; price = 400; };
 	class SMA_supp1Bwht_556 						{ quality = 6; price = 400; };
 	class SMA_supp1TB_556 							{ quality = 6; price = 400; };
-	class SMA_supp1TOD_556 							{ quality = 6; price = 400; };	
+	class SMA_supp1TOD_556 							{ quality = 6; price = 400; };
 	class SMA_supp1TT_556 							{ quality = 6; price = 400; };
 	class SMA_supp1TW_556 							{ quality = 6; price = 400; };
 	class SMA_supp2BOD_556 							{ quality = 6; price = 400; };
@@ -327,15 +327,15 @@
 	class SMA_supp2TB_556 							{ quality = 6; price = 400; };
 	class SMA_supp2TOD_556 							{ quality = 6; price = 400; };
 	class SMA_supp2TWH_556 							{ quality = 6; price = 400; };
-	class SMA_supp2smaB_556 						{ quality = 6; price = 400; };	
+	class SMA_supp2smaB_556 						{ quality = 6; price = 400; };
 	class SMA_supp2smaT_556 						{ quality = 6; price = 400; };
 	class SMA_rotex_blk 							{ quality = 6; price = 400; };
 	class SMA_rotex_tan 							{ quality = 6; price = 400; };
 	class SMA_rotex_gry 							{ quality = 6; price = 400; };
-	class SMA_AAC_762_sdn6 							{ quality = 6; price = 400; };	
+	class SMA_AAC_762_sdn6 							{ quality = 6; price = 400; };
 	class SMA_AAC_762_sdn6_w 						{ quality = 6; price = 400; };
-	class SMA_AAC_762_sdn6_d 						{ quality = 6; price = 400; };		
-	
+	class SMA_AAC_762_sdn6_d 						{ quality = 6; price = 400; };
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
 	///////////////////////////////////////////////////////////////////////////////
@@ -371,9 +371,8 @@
 	class SMA_30Rnd_68x43_BT_IR  										{ quality = 6; price = 50; };
 	class SMA_30Rnd_68x43_sub 											{ quality = 6; price = 50; };
 	class SMA_30Rnd_68x43_sub_Tracer 									{ quality = 6; price = 50; };
-	class SMA_30Rnd_68x43_sub_IR 										{ quality = 6; price = 50; };	
+	class SMA_30Rnd_68x43_sub_IR 										{ quality = 6; price = 50; };
 	class SMA_150Rnd_762_M80A1 											{ quality = 6; price = 50; };
 	class SMA_150Rnd_762_M80A1_Tracer 									{ quality = 6; price = 50; };
 	class SMA_150Rnd_762_M80A1_Mixed  									{ quality = 6; price = 50; };
-	
-	
+

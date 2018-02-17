@@ -25,7 +25,7 @@
 			"Fox_Patrol3"
 		};
 	};
-	
+
 		class FOXTrucks
 	{
 		name = "FOX Trucks";
@@ -40,7 +40,7 @@
 			"Fox_Pickup_Apocalypse",
 			"Fox_Tahoe_Apocalypse",
 			"Fox_Landrover",
-			"Fox_Landrover2",			
+			"Fox_Landrover2",
 			"Fox_Pickup",
 			"Fox_Pickup_Tow",
 			"Fox_Pickup6S",

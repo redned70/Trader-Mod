@@ -2,7 +2,7 @@
 	{
 		name = "Jonzie Cars";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 		///////////////////////////////////////////////////////////////////////////////
 		// CARS

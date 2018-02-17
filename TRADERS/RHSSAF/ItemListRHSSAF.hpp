@@ -15,7 +15,7 @@
 	class rhssaf_uniform_m93_oakleaf					{ quality = 3; price = 150; };
 	class rhssaf_uniform_m93_oakleaf_summer				{ quality = 3; price = 150; };
 	class rhssaf_uniform_heli_pilot						{ quality = 3; price = 150; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	//RHS:SAF Vests
 	///////////////////////////////////////////////////////////////////////////////
@@ -118,7 +118,7 @@
     ///////////////////////////////////////////////////////////////////////////////
 	//  RHS:SAF Attachments
 	///////////////////////////////////////////////////////////////////////////////
-	class rhs_acc_mtz									{ quality = 3; price = 150; }; 					
+	class rhs_acc_mtz									{ quality = 3; price = 150; };
 
     ///////////////////////////////////////////////////////////////////////////////
 	//  RHS:SAF Ammo
@@ -152,7 +152,7 @@
 
 	//PTS-M Amphibious Tracked Transport Vehicle
 	class rhssaf_army_pts								{ quality = 3; price = 18000; };
-	
+
 	//M998 HMMWV, 1-1/14 Ton, Cargo Carrier, Olive
 	class rhssaf_m998_olive_2dr_halftop					{ quality = 3; price = 15000; };
 	class rhssaf_m998_olive_2dr_fulltop					{ quality = 3; price = 15000; };

@@ -2,7 +2,7 @@
 	// BAF Clothings/Equipment
 	// Original Script by Red_Ned  / Mod added by Tinboye (Fortex)
 	//////////////////////////////////////////////////////////////////////////////////
-	
+
 	class BAFUniforms
 {
 	name = "BAF Uniforms";
@@ -27,7 +27,7 @@
 		"UK3CB_BAF_U_CombatUniform_DPMW_ShortSleeve_RM",
 		"UK3CB_BAF_U_CombatUniform_MTP",
 		"UK3CB_BAF_U_CombatUniform_MTP_Ghillie_RM",
-		"UK3CB_BAF_U_CombatUniform_MTP_RM", 
+		"UK3CB_BAF_U_CombatUniform_MTP_RM",
 		"UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve",
 		"UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve_RM",
 		"UK3CB_BAF_U_CombatUniform_MTP_TShirt",
@@ -45,7 +45,7 @@
 		"UK3CB_BAF_U_Smock_DDPM",
 		"UK3CB_BAF_U_Smock_DPMT",
 		"UK3CB_BAF_U_Smock_DPMW",
-		"UK3CB_BAF_U_Smock_DPMW_Arctic", 
+		"UK3CB_BAF_U_Smock_DPMW_Arctic",
 		"UK3CB_BAF_U_Smock_DPMW_DDPM",
 		"UK3CB_BAF_U_Smock_DPMW_MTP",
 		"UK3CB_BAF_U_Smock_DPMW_OLI",
@@ -118,7 +118,7 @@ class BAFVests
 		"UK3CB_BAF_V_PLCE_Webbing_DDPM",
 		"UK3CB_BAF_V_PLCE_Webbing_DPMT",
 		"UK3CB_BAF_V_PLCE_Webbing_DPMW",
-		"UK3CB_BAF_V_PLCE_Webbing_MTP", 
+		"UK3CB_BAF_V_PLCE_Webbing_MTP",
 		"UK3CB_BAF_V_PLCE_Webbing_OLI",
 		"UK3CB_BAF_V_PLCE_Webbing_Plate_DDPM",
 		"UK3CB_BAF_V_PLCE_Webbing_Plate_DPMT",
@@ -257,10 +257,10 @@ class BAFHelmets
 		"UK3CB_BAF_H_CrewHelmet_DDPM_A",
 		"UK3CB_BAF_H_CrewHelmet_DDPM_ESS_A",
 		"UK3CB_BAF_H_CrewHelmet_DPMT_A",
-		"UK3CB_BAF_H_CrewHelmet_DPMT_ESS_A", 
+		"UK3CB_BAF_H_CrewHelmet_DPMT_ESS_A",
 		"UK3CB_BAF_H_CrewHelmet_DPMW_A",
 		"UK3CB_BAF_H_CrewHelmet_DPMW_ESS_A",
-		"UK3CB_BAF_H_CrewHelmet_ESS_A", 
+		"UK3CB_BAF_H_CrewHelmet_ESS_A",
 		"UK3CB_BAF_H_Mk6_DDPM_A",
 		"UK3CB_BAF_H_Mk6_DDPM_B",
 		"UK3CB_BAF_H_Mk6_DDPM_C",
@@ -318,7 +318,7 @@ class BAFHelmets
 		"UK3CB_BAF_H_Mk7_Win_A",
 		"UK3CB_BAF_H_Mk7_Win_ESS_A",
 		"UK3CB_BAF_H_PilotHelmetHeli_A"
-	
+
 	};
 };
 

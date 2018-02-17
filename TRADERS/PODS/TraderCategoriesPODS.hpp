@@ -2,7 +2,7 @@
 	{
 		name = "Pods";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] = 
+		items[] =
 		{
 			"B_Slingload_01_Cargo_F",
 			"Land_Pod_Heli_Transport_04_bench_F",
@@ -24,4 +24,4 @@
 			"Land_Pod_Heli_Transport_04_repair_black_F",
 			*/
 		};
-	};	
+	};

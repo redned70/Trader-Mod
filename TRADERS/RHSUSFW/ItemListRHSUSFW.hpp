@@ -1,13 +1,13 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// RHS Weapons [CiC]red_ned http://cic-gaming.co.uk
-	// Thanks to ElShotte for update of items 
-	// Edit By Chainsaw Squrriel, removed all the non RHS USAF stuff out of it, and fixed missing prices etc 
+	// Thanks to ElShotte for update of items
+	// Edit By Chainsaw Squrriel, removed all the non RHS USAF stuff out of it, and fixed missing prices etc
 	///////////////////////////////////////////////////////////////////////////////
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Uniforms
 	///////////////////////////////////////////////////////////////////////////////
-	
+
 	class rhs_uniform_FROG01_m81							{ quality = 3; price = 65; };
 	class rhs_uniform_FROG01_d								{ quality = 3; price = 65; };
 	class rhs_uniform_FROG01_wd								{ quality = 3; price = 65; };
@@ -23,7 +23,7 @@
 	class rhs_uniform_cu_ucp_patchless						{ quality = 3; price = 65; };
 	class rhs_uniform_cu_ocp								{ quality = 3; price = 65; };
 	class rhs_uniform_cu_ucp								{ quality = 3; price = 65; };
-	// Added by ElShotte		
+	// Added by ElShotte
 	class rhs_uniform_g3_m81								{ quality = 3; price = 65; };
 	class rhs_uniform_g3_blk								{ quality = 3; price = 65; };
 	class rhs_uniform_g3_mc									{ quality = 3; price = 65; };
@@ -34,7 +34,7 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Vests
 	///////////////////////////////////////////////////////////////////////////////
-	
+
 	class rhsusf_iotv_ucp									{ quality = 2; price = 450; };
 	class rhsusf_iotv_ucp_grenadier							{ quality = 2; price = 450; };
 	class rhsusf_iotv_ucp_medic								{ quality = 2; price = 450; };
@@ -67,7 +67,7 @@
 	class rhsusf_spcs_ocp									{ quality = 2; price = 450; };
 	class rhsusf_spcs_ucp_rifleman							{ quality = 2; price = 450; };
 	class rhsusf_spcs_ucp									{ quality = 2; price = 450; };
-	
+
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Backpacks
@@ -79,7 +79,7 @@
 	class rhsusf_falconii_coy								{ quality = 2; price = 150; };
 	class rhsusf_falconii_mc								{ quality = 2; price = 150; };
 	class rhsusf_falconii									{ quality = 2; price = 150; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Accessories
 	///////////////////////////////////////////////////////////////////////////////
@@ -90,11 +90,11 @@
 	class rhs_googles_orange								{ quality = 2; price = 50; };
 	class rhsusf_ANPVS_15									{ quality = 4; price = 650; };
 	class rhsusf_ANPVS_14									{ quality = 3; price = 550; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Helmets
 	///////////////////////////////////////////////////////////////////////////////
-		
+
 	class rhs_Booniehat_m81									{ quality = 1; price = 90; };
 	class rhs_Booniehat_marpatd								{ quality = 1; price = 110; };
 	class rhs_Booniehat_marpatwd							{ quality = 1; price = 120; };
@@ -253,7 +253,7 @@
 	class rhsusf_acc_grip2_tan 								{ quality = 4; price = 100; };
 	class rhsusf_acc_grip3 									{ quality = 4; price = 100; };
 	class rhsusf_acc_grip3_tan 								{ quality = 4; price = 100; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Weapon Attachments - Rail
 	///////////////////////////////////////////////////////////////////////////////
@@ -270,7 +270,7 @@
 	// Weapon Attachments - Bipods
 	///////////////////////////////////////////////////////////////////////////////
 	class rhsusf_acc_harris_bipod							{ quality = 3; price = 80; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Weapon Attachments - Muzzle
 	///////////////////////////////////////////////////////////////////////////////
@@ -354,17 +354,17 @@
 	class rhsusf_100Rnd_762x51_m80a1epr						{ quality = 1; price = 95; };
 	class rhsusf_20Rnd_762x51_m993_Mag						{ quality = 1; price = 45; };
 	class rhsusf_5Rnd_300winmag_xm2010						{ quality = 1; price = 55; };
-	
+
 	//50 Cal
 	class rhsusf_mag_10Rnd_STD_50BMG_M33					{ quality = 1; price = 100; };
 	class rhsusf_mag_10Rnd_STD_50BMG_mk211					{ quality = 3; price = 500; };
-	//MP7	
+	//MP7
 	class rhsusf_mag_40Rnd_46x30_AP 						{ quality = 1; price = 60; };
 	class rhsusf_mag_40Rnd_46x30_FMJ 						{ quality = 1; price = 60; };
 	class rhsusf_mag_40Rnd_46x30_JHP 						{ quality = 1; price = 60; };
-	//T-5000	
+	//T-5000
 	class rhs_5Rnd_338lapua_t5000 							{ quality = 1; price = 80; };
-	//M590	
+	//M590
 	class rhsusf_5Rnd_00Buck 								{ quality = 1; price = 40; };
 	class rhsusf_8Rnd_00Buck 								{ quality = 1; price = 50; };
 	class rhsusf_5Rnd_FRAG 									{ quality = 4; price = 70; };
@@ -373,21 +373,21 @@
 	class rhsusf_5Rnd_Slug 									{ quality = 2; price = 50; };
 	class rhsusf_8Rnd_Slug									{ quality = 1; price = 90; };
 	class rhsusf_8Rnd_doomsday_Buck 						{ quality = 4; price = 100; };
-	//M24 SWS	
+	//M24 SWS
 	class rhsusf_5Rnd_762x51_m118_special_Mag 				{ quality = 1; price = 60; };
 	class rhsusf_5Rnd_762x51_m993_Mag 						{ quality = 1; price = 60; };
 	class rhsusf_5Rnd_762x51_m62_Mag 						{ quality = 1; price = 60; };
-	//M40A5	
+	//M40A5
 	class rhsusf_10Rnd_762x51_m62_Mag 						{ quality = 1; price = 60; };
 	class rhsusf_10Rnd_762x51_m993_Mag 						{ quality = 1; price = 60; };
 	class rhsusf_10Rnd_762x51_m118_special_Mag 				{ quality = 1; price = 60; };
-	//M9	
+	//M9
 	class rhsusf_mag_15Rnd_9x19_FMJ							{ quality = 1; price = 20; };
 	class rhsusf_mag_15Rnd_9x19_JHP							{ quality = 1; price = 20; };
-	// Glock	
+	// Glock
 	class rhsusf_mag_17Rnd_9x19_JHP 						{ quality = 1; price = 20; };
 	class rhsusf_mag_17Rnd_9x19_FMJ 						{ quality = 1; price = 20; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Pistols
 	///////////////////////////////////////////////////////////////////////////////
@@ -395,7 +395,7 @@
 	class rhsusf_weap_glock17g4								{ quality = 3; price = 250; };
 	class rhsusf_weap_m9 									{ quality = 3; price = 250; };
 	class rhsusf_weap_m1911a1 								{ quality = 3; price = 250; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Light Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -409,7 +409,7 @@
 	class rhs_weap_m240B									{ quality = 2; price = 1500; };
 	class rhs_weap_m240B_CAP								{ quality = 2; price = 1500; };
 	class rhs_weap_m240G									{ quality = 2; price = 1500; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Assault Rifles
 	///////////////////////////////////////////////////////////////////////////////
@@ -506,7 +506,7 @@
 	class rhs_weap_mk18_d 							{ quality = 3; price = 500; };
 	class rhs_weap_mk18_m320						{ quality = 3; price = 500; };
 	class rhs_weap_mk18_wd 							{ quality = 3; price = 500; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
 	///////////////////////////////////////////////////////////////////////////////
@@ -526,7 +526,7 @@
 	class rhs_weap_XM2010_wd								{ quality = 3; price = 1250; };
 	class rhs_weap_XM2010_d									{ quality = 3; price = 1250; };
 	class rhs_weap_XM2010_sa								{ quality = 3; price = 1250; };
-	// Added by ElShotte		
+	// Added by ElShotte
 	class rhs_weap_M107   									{ quality = 3; price = 1500; };
 	class rhs_weap_M107_d   								{ quality = 3; price = 1500; };
 	class rhs_weap_M107_w   								{ quality = 3; price = 1500; };
@@ -548,12 +548,12 @@
 	class rhsusf_m112_mag 									{ quality = 4; price = 2000; };
 	class rhsusf_m112x4_mag									{ quality = 4; price = 6000; };
 	class rhsusf_mine_m14_mag								{ quality = 4; price = 1500; };
-	
+
 	///////////////////////////////////////////////////////////////////////////////
 	// Grenades
 	///////////////////////////////////////////////////////////////////////////////
 	// Added by ElShotte
-	
+
 	class rhs_mag_fakel 									{ quality = 2; price = 150; };
     class rhs_mag_m576 										{ quality = 2; price = 150; };
 	class rhs_mag_m18_green 								{ quality = 2; price = 150; };
