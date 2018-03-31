@@ -1,4 +1,4 @@
-# Trader-Mod v6.6
+# Trader-Mod v7.0
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -8,6 +8,9 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
+
+<b>v7.0 Update</b><br>
+Updated for Exile 1.0.4 "Pineapple"
 
 <b>v6.6 Update</b><br>
 Added KA Mod - thanks to CHAINSAW SQUIRREL<br>
@@ -36,7 +39,7 @@ Added FFAA - thanks to CHAINSAW SQUIRREL<br>
 Added Fox vehicles - thanks to Bob_the_K for the list.<br>
 Updated CUP Weapons including removing dupe items - thanks to Bob_the_K for the list.<br>
 Updated trader files to be sorted by name.<br>
-Updated Exile files to latest.<br> 
+Updated Exile files to latest.<br>
 
 <br>
 NOTE RHS IS BOTH RUS AND USA.<br>
