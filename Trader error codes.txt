@@ -1,0 +1,42 @@
+Server Side Trader Error Codes
+Code 1:
+Player Object is non-existent
+
+Code 2:
+Player isn't alive
+
+Code 3:
+Item doesn't exist in CfgExileArsenal
+
+Code 4:
+Item/vehicle price listed in CfgExileArsenal is less than or equal to 0
+
+Code 5:
+Sale price is greater than player's money
+
+Code 6:
+Vehicle Object is non-existent
+
+Code 7:
+Vehicles parent class doesn't exist in CfgVehicleCustoms
+
+Code 8:
+Error code doesn't exist
+
+Code 9:
+Error code doesn't exist
+
+Code 10:
+Error code doesn't exist
+
+Code 11:
+Pin code gathered from player has more than 4 digits
+
+Code 12:
+Player has MuteX applied (Meaning they are already trying to process a request)
+
+Code 13:
+Cannot find suitable position to spawn vehicle
+
+Code 14:
+Respect cost is greater than player's respect
