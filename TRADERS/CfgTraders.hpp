@@ -49,6 +49,7 @@
 			"FHQACCESSORIES",
 			"GREFAmmunition",
 			"GREFWeapons",
+			"HAFMCloth",
 			"HAPASSAULTRIFLES",
 			"HAPSNIPERRIFLES",
 			"HWPweapons",
@@ -76,6 +77,7 @@
 			"NIAMuzzleAttachments",
 			"NIAOpticAttachments",
 			"NIASniperRifles",
+			"Nlweapons",
 			"OpticAttachments",
 			"Pistols",
 			"PointerAttachments",
@@ -106,6 +108,7 @@
 			"Shotguns",
 			"SniperRifles",
 			"SubMachineGuns",
+			"WW2WEAPONS"
 			//"HLCAmmunition",				//should use NIArms
 			//"HLCAssaultRifles",			//should use NIArms
 			//"HLCLightMachineGuns",		//should use NIArms
@@ -150,6 +153,7 @@
 			"Smokes",
 			"StaticMGs",
 			"UAVs",
+			"WW2LAUNCHERS"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
@@ -190,6 +194,7 @@
 			"MASBackpacks",
 			"MASHeadgear",
 			"MASTools",
+			"Nlunit",
 			"RHSAccessories",
 			"RHSBackpacks",
 			"RHSHeadgear",
@@ -206,6 +211,7 @@
 			"Tools",
 			"Uniforms",
 			"Vests",
+			"WW2Clothing"
 			//"APEXTools",		//not used
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
@@ -270,6 +276,7 @@
 			"FOXTrucks",
 			"GREFArmed",
 			"GREFUnarmed",
+			"HAFMvehicle",
 			"HAPCARS",
 			"HAPTRUCKS",
 			"HVPCars",
@@ -277,6 +284,8 @@
 			"MASArmed",
 			"MASCars",
 			"MASTrucks",
+			"Nlvehicle",
+			"Nltank",
 			"RHSVehicles",
 			"SAFArmed",
 			"SAFUnarmed",
@@ -311,12 +320,19 @@
 			"Choppers",
 			"GREFChoppers",
 			"GREFPlanes",
+			"HAFMHeliarm",
+			"HAFMJet",
+			"HAFMPlane",
+			"HAFMheli",
 			"HVPPlanes",
 			"MASChoppers",
 			"MASPlanes",
+			"Nlheli",
+			"Nlpoli",
 			"Planes",
 			"JetPlanes",
 			"Pods",
+			"Pook",
 			"RHSChoppers",
 			"RHSPlanes",
 			"SAFChoppers"

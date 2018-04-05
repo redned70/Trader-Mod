@@ -99,6 +99,7 @@ CUPLaunchers
 MASLaunchers
 R3FLaunchers
 RHSLaunchers
+WW2LAUNCHERS
 
 ----------- launcher ammo ----------			
 A3LauncherAmmo
@@ -170,6 +171,8 @@ MASSniperRifles
 NIASniperRifles
 RHSSniperRifles
 SniperRifles
+Nlweapons
+WW2WEAPONS
 
 ----------- uniforms ----------
 APEXUniforms
@@ -181,12 +184,15 @@ HAPUNIFORMS
 RHSUniforms
 TRYKUniforms
 Uniforms
+Nlunit
+WW2Clothing
 
 ----------- vests ----------
 APEXVests
 CUPVests
 FFAAVest
 GREFVests
+HAFMCloth
 HAPVESTS
 RHSVests
 TRYKVests
@@ -251,6 +257,7 @@ APEXCars
 Cars
 FMPCars
 FOXCars
+HAFMvehicle
 HAPCARS
 HVPCars
 JonzieCars
@@ -271,10 +278,12 @@ MASArmed
 MASTrucks
 RHSVehicles
 Trucks
+Nlvehicle
 
 ----------- tanks ----------
 A3Tanks
 MASTanks
+Nltank
 
 ----------- helicopters ----------
 //CChoppers - no longer used
@@ -286,6 +295,11 @@ Choppers
 GREFChoppers
 MASChoppers
 RHSChoppers
+HAFMHeliarm
+HAFMheli
+Pook
+Nlheli
+Nlpoli
 
 ----------- boats ----------
 A3Boats
@@ -298,6 +312,8 @@ A3Planes
 APEXPlanes
 CPlanes
 GREFPlanes
+HAFMJet
+HAFMPlane
 HVPPlanes
 MASPlanes
 MASPlanes

@@ -1,4 +1,4 @@
-# Trader-Mod v7.0
+# Trader-Mod v7.1
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -9,8 +9,15 @@ This file does not include how to install mods or add to loot tables as that is 
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
 
+<b>v7.1 Update</b><br>
+Added : HAFM<br>
+Added : MASWW2<br>
+Added : NLD<br>
+Added : POOK<br>
+Thanks to @ItsDutch plus his contributors<br>
+
 <b>v7.0 Update</b><br>
-Updated for Exile 1.0.4 "Pineapple"
+Updated for Exile 1.0.4 "Pineapple"<br>
 
 <b>v6.6 Update</b><br>
 Added KA Mod - thanks to CHAINSAW SQUIRREL<br>
@@ -35,11 +42,6 @@ Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL<br>
 <b>v6.1 Update</b><br>
 Added FFAA - thanks to CHAINSAW SQUIRREL<br>
 
-<b>v6.0 Update</b><br>
-Added Fox vehicles - thanks to Bob_the_K for the list.<br>
-Updated CUP Weapons including removing dupe items - thanks to Bob_the_K for the list.<br>
-Updated trader files to be sorted by name.<br>
-Updated Exile files to latest.<br>
 
 <br>
 NOTE RHS IS BOTH RUS AND USA.<br>
@@ -47,7 +49,7 @@ NOTE RHS IS BOTH RUS AND USA.<br>
 <b>***************************************************</b><br>
 <b>****** Thanks to all the following for help 	******</b><br>
 <b>****** XxFri3ndlyxX, [RG] Salutesh, SE7EN	******</b><br>
-<b>****** Tobias Solem, pomp4h, Bob_the_K		******</b><br>
+<b>****** Tobias Solem, pomp4h, Bob_the_K, ItsDutch ******</b><br>
 <b>****** Razor77, jmayr2000, C][G GhostTown™	******</b><br>
 <b>****** ElShotte, Killerpoodezz, CHAINSAW SQUIRREL	******</b><br>
 <b>***************************************************</b><br>

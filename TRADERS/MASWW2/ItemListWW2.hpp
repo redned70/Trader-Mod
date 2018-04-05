@@ -1,0 +1,135 @@
+	///////////////////////////////////////////////////////////////////////////////
+	// WW2 items list made by its Dutch PORN Exile
+	///////////////////////////////////////////////////////////////////////////////
+	//backpacks
+	class B_mas_ww2_Bergen_uk 							{ quality = 1; price = 15000; };
+	class B_mas_ww2_Bergen_us 							{ quality = 1; price = 15000; };
+	class B_mas_ww2_Bergenat_uk							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergenat_us							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergene_uk							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergene_us							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergeni_uk							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergeni_us							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergenm_uk							{ quality = 1; price = 100000; };
+	class B_mas_ww2_Bergenm_us							{ quality = 1; price = 100000; };
+	class I_mas_ww2_Bergen_rus 							{ quality = 1; price = 15000; };
+	class I_mas_ww2_Bergenat_rus						{ quality = 1; price = 100000; };
+	class I_mas_ww2_Bergene_rus							{ quality = 1; price = 100000; };
+	class I_mas_ww2_Bergeni_rus							{ quality = 1; price = 100000; };
+	class I_mas_ww2_Bergenm_rus							{ quality = 1; price = 100000; };
+	class O_mas_ww2_Bergen_ger 							{ quality = 1; price = 15000; };
+	class O_mas_ww2_Bergenat_ger						{ quality = 1; price = 100000; };
+	class O_mas_ww2_Bergene_ger							{ quality = 1; price = 100000; };
+	class O_mas_ww2_Bergeni_ger							{ quality = 1; price = 100000; };
+	class O_mas_ww2_Bergenm_ger							{ quality = 1; price = 100000; };
+	//clothing
+	class U_mas_ww2_B_CombatUniform_uk					{ quality = 1; price = 10000; };
+	class U_mas_ww2_B_CombatUniform_uks					{ quality = 1; price = 10000; };
+	class U_mas_ww2_B_CombatUniform_us					{ quality = 1; price = 10000; };
+	class U_mas_ww2_B_CombatUniform_usr					{ quality = 1; price = 10000; };
+	class U_mas_ww2_I_CombatUniform_rus					{ quality = 1; price = 10000; };
+	class U_mas_ww2_O_CombatUniform_ger					{ quality = 1; price = 10000; };
+	class U_mas_ww2_O_CombatUniform_ita					{ quality = 1; price = 10000; };
+	class U_mas_ww2_O_CombatUniform_jap					{ quality = 1; price = 10000; };
+	class U_mas_ww2_O_CombatUniform_ss1					{ quality = 1; price = 10000; };
+	class U_mas_ww2_O_CombatUniform_ss2					{ quality = 1; price = 10000; };
+	class U_mas_wwa_B_CombatUniform_uk					{ quality = 1; price = 10000; };
+	class U_mas_wwa_O_CombatUniform_ger					{ quality = 6; price = 10000; };
+	class U_mas_wwa_O_CombatUniform_ita					{ quality = 1; price = 10000; };
+	class U_mas_wwm_B_CombatUniform_us					{ quality = 1; price = 10000; };
+	//Vest
+	class V_mas_ww2_vest_UK								{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_US								{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_USB							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_USH							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_ger							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_gerB							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_gerH							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_gerM							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_ita							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_jap							{ quality = 1; price = 10000; };
+	class V_mas_ww2_vest_rus							{ quality = 1; price = 10000; };
+	class V_mas_wwa_vest_ger							{ quality = 1; price = 10000; };
+	class V_mas_wwa_vest_gerH							{ quality = 1; price = 10000; };
+	class V_mas_wwa_vest_gerM							{ quality = 1; price = 10000; };
+	//helmet                                
+	class H_mas_ww2_beanie								{ quality = 1; price = 5000; };
+	class H_mas_ww2_beret_ger							{ quality = 1; price = 5000; };
+	class H_mas_ww2_beret_gerd							{ quality = 1; price = 5000; };
+	class H_mas_ww2_beret_gerv							{ quality = 1; price = 5000; };
+	class H_mas_ww2_beret_rus							{ quality = 1; price = 5000; };
+	class H_mas_ww2_beret_uk							{ quality = 1; price = 5000; };
+	class H_mas_ww2_cap_ger								{ quality = 1; price = 5000; };
+	class H_mas_ww2_cap_jap								{ quality = 1; price = 5000; };
+	class H_mas_ww2_cap_rus								{ quality = 1; price = 5000; };
+	class H_mas_ww2_hat_rus								{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ger2_O						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_gerP_O						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ger_O						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ita_O						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_jap_O						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_rus_I						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_uk_B							{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ukc_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ukp_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_ukpc_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_us_B							{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_usc_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_usn_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_helmet_usr_B						{ quality = 1; price = 5000; };
+	class H_mas_ww2_turbanuk							{ quality = 1; price = 5000; };
+	class H_mas_wwa_cap_ger								{ quality = 1; price = 5000; };
+	class H_mas_wwa_helmet_ger_O						{ quality = 1; price = 5000; };
+	class H_mas_wwa_helmet_ita_O						{ quality = 1; price = 5000; };
+	class H_mas_wwa_helmet_pith_O						{ quality = 1; price = 5000; };
+	class H_mas_wwa_helmet_uk_B							{ quality = 1; price = 5000; };
+	class H_mas_wwa_helmet_ukp_B						{ quality = 1; price = 5000; };
+	class H_mas_wwm_helmet_us_B							{ quality = 1; price = 5000; };
+	///////////////////////////////////////////////////////////////////////////////
+	// WW2 WEAPONS
+	///////////////////////////////////////////////////////////////////////////////
+	class LMG_mas_ww2_bar_F								{ quality = 1; price = 25000; };
+	class LMG_mas_ww2_mg3_F								{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_ari							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_kar98							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_lee							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_m1								{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_m1g							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_m91							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_mb38							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_mos							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_mp40							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_mp40_o							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_mp44							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_ppsh							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_sten							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_t100							{ quality = 1; price = 25000; };
+	class arifle_mas_ww2_tommy							{ quality = 1; price = 25000; };
+	class hgun_mas_ww2_acp_F							{ quality = 1; price = 5000; };
+	class hgun_mas_ww2_bhp_F							{ quality = 1; price = 5000; };
+	class hgun_mas_ww2_lug_F							{ quality = 1; price = 5000; };
+	class hgun_mas_ww2_m34_F							{ quality = 1; price = 5000; };
+	class hgun_mas_ww2_nambu_F							{ quality = 1; price = 5000; };
+	class hgun_mas_ww2_tt33_F							{ quality = 1; price = 5000; };
+	class muzzle_mas_ww2_snds_sten						{ quality = 1; price = 1000; };
+	//ammo                                  
+	class 100Rnd_mas_ww2_mg3							{ quality = 1; price = 1000; };
+	class 15Rnd_mas_ww2_m1								{ quality = 1; price = 1000; };
+	class 20Rnd_mas_ww2_bar								{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_mp40							{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_mp44							{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_sten							{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_sten_sd							{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_t100							{ quality = 1; price = 1000; };
+	class 30Rnd_mas_ww2_tommy							{ quality = 1; price = 1000; };
+	class 5Rnd_mas_ww2_ari								{ quality = 1; price = 1000; };
+	class 5Rnd_mas_ww2_kar98							{ quality = 1; price = 1000; };
+	class 5Rnd_mas_ww2_lee								{ quality = 1; price = 1000; };
+	class 71Rnd_mas_ww2_ppsh							{ quality = 1; price = 1000; };
+	class 8Rnd_mas_ww2_m1								{ quality = 1; price = 1000; };
+	//Launcher
+	class mas_ww2_launch_pzf60_F						{ quality = 1; price = 50000; };
+	class mas_ww2_launch_m1_F							{ quality = 1; price = 50000; };
+	//ammo
+	class mas_ww2_pzf60									{ quality = 1; price = 15000; };
+	class mas_ww2_m1bazooka								{ quality = 1; price = 15000; };
