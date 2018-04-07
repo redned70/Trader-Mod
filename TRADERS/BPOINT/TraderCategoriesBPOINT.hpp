@@ -14,7 +14,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
-			"BP_AFG"					// Angled ForeGrip
+			"BP_AFG",					// Angled ForeGrip
 			"BP_Bayonet_Stab",
 			"BP_Binocular_Hunter",		// Binocs
 			"BP_CPad",					// Cheek Pad
