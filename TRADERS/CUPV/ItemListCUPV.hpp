@@ -256,10 +256,13 @@
 	class CUP_B_RHIB2Turret_USMC				{ quality = 1; price = 20000; };
 	class CUP_B_RHIB_USMC				{ quality = 1; price = 20000; };
 	class CUP_B_Seafox_USMC				{ quality = 1; price = 1000; };
-	class CUP_B_Seafox_USV_USMC				{ quality = 1; price = 1000; };
+	class CUP_B_Seafox_USV_USMC			{ quality = 1; price = 1000; };
 	class CUP_B_Zodiac_USMC				{ quality = 1; price = 1000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	//	Bikes
 	///////////////////////////////////////////////////////////////////////////////
-	class CUP_B_M1030				{ quality = 1; price = 2000; };
+	class CUP_B_M1030			{ quality = 1; price = 2000; };
+	class CUP_C_TT650_CIV			{ quality = 1; price = 2000; };
+	class CUP_O_TT650_CHDKZ			{ quality = 1; price = 2000; };
+	class CUP_O_TT650_TKA			{ quality = 1; price = 2000; };
