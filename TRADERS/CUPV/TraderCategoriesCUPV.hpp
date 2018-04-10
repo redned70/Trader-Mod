@@ -290,5 +290,8 @@
 		items[] =
 		{
 			"CUP_B_M1030"
+			"CUP_O_TT650_CHDKZ"
+			"CUP_O_TT650_TKA"
+			"CUP_C_TT650_CIV"
 		};
 	};
