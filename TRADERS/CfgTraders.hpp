@@ -268,6 +268,7 @@
 			"CTrucks",
 			"CUGVs",
 			"CUPArmed",
+			"CUPBikes",
 			"CUPUnarmed",
 			"Cars",
 			"FMPCars",
@@ -317,6 +318,7 @@
 			"CChoppers",
 			"CPlanes",
 			"CUPChoppers",
+			"CUPPlanes",
 			"Choppers",
 			"GREFChoppers",
 			"GREFPlanes",
@@ -354,7 +356,8 @@
 			"A3Boats",
 			"ApexBoats",
 			"Boats",
-			"RHSBoats",
+			"CUPBoats",
+			"RHSBoats"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
 		};
 	};
