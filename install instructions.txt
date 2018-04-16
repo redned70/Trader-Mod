@@ -5,6 +5,10 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.
 ned
 
+*** Update v7.2 ***
+Added : TankDLC
+Thanks to @ItsDutch plus his contributors
+
 *** Update v7.1 ***
 Added : HAFM
 Added : MASWW2
@@ -25,9 +29,6 @@ Text sorted some more files and checked optimisation of tabs not spaces
 *** Update v6.5 ***
 Added 100+ vehicles into RHSV
 Added some missing Arma3 vehicles
-
-*** Update v6.2 ***
-Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL
 
 NOTE RHS IS BOTH RUS AND USA.
 
@@ -80,6 +81,7 @@ class CfgExileArsenal
 	#include "TRADERS\RHSSAF\ItemListRHSSAF.hpp"
 	#include "TRADERS\RHSV\ItemListRHSV.hpp"
 	#include "TRADERS\RHSW\ItemListRHSW.hpp"
+	#include "TRADERS\TANKDLC\ItemListTANKDLC.hpp"
 	#include "TRADERS\TRYK\ItemListTRYK.hpp"
 	//#include "TRADERS\HLC\ItemListHLC.hpp"		//should use NIArms
 };
@@ -123,8 +125,9 @@ class CfgTraderCategories
 	#include "TRADERS\RHSSAF\TraderCategoriesRHSSAF.hpp"
 	#include "TRADERS\RHSV\TraderCategoriesRHSV.hpp"
 	#include "TRADERS\RHSW\TraderCategoriesRHSW.hpp"
+	#include "TRADERS\TANKDLC\TraderCategoriesTANKDLC.hpp"
 	#include "TRADERS\TRYK\TraderCategoriesTRYK.hpp"
-	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms
+	//#include "TRADERS\HLC\TraderCategoriesHLC.hpp"		//should use NIArms as that is newer and working version of HLC
 };
 
 ---------------------------------------------------------------------------------------------------------------------------

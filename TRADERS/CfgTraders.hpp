@@ -152,6 +152,8 @@
 			"SAFMines",
 			"Smokes",
 			"StaticMGs",
+			"TankDLCLaunchers",
+			"TankDLCLauncherAmmo",
 			"UAVs",
 			"WW2LAUNCHERS"
 			// Whatever your last line is make sure it doesn't have a comma! <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<< <<<<<<<<<<<<<<<<
@@ -204,6 +206,7 @@
 			"SAFHeadgear",
 			"SAFUniforms",
 			"SAFVests",
+			"TankDLCclothing",
 			"TRYKBackpacks",
 			"TRYKHeadgear",
 			"TRYKUniforms",
@@ -289,6 +292,7 @@
 			"RHSVehicles",
 			"SAFArmed",
 			"SAFUnarmed",
+			"TankDLC",
 			"Trucks",
 			//"MASTanks"
 			//"A3Tanks"

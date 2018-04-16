@@ -1,4 +1,4 @@
-# Trader-Mod v7.1
+# Trader-Mod v7.2
 <b>Exile Easy Trader Mod System</b><br>
 
 This trader system is offered free without any guarantee or promise and users should back up their files before proceeding.<br>
@@ -8,6 +8,10 @@ If you use then you should consider sharing any further development, bug fixes o
 This file does not include how to install mods or add to loot tables as that is already well documented.<br><br>
 
 <b>This is a major update so please report bugs on exilemod.com</b><br><br>
+
+<b>v7.2 Update</b><br>
+Added : TankDLC<br>
+Thanks to @ItsDutch plus his contributors<br>
 
 <b>v7.1 Update</b><br>
 Added : HAFM<br>
@@ -38,10 +42,6 @@ About 170 new items in total<br>
 
 <b>v6.2 Update</b><br>
 Added BREAKING POINT Mod - thanks to CHAINSAW SQUIRREL<br>
-
-<b>v6.1 Update</b><br>
-Added FFAA - thanks to CHAINSAW SQUIRREL<br>
-
 
 <br>
 NOTE RHS IS BOTH RUS AND USA.<br>

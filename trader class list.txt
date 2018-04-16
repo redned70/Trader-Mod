@@ -100,6 +100,7 @@ MASLaunchers
 R3FLaunchers
 RHSLaunchers
 WW2LAUNCHERS
+TankDLCLaunchers
 
 ----------- launcher ammo ----------			
 A3LauncherAmmo
@@ -108,6 +109,7 @@ CUPLauncherAmmo
 MASLauncherAmmo	
 R3FLauncherAmmo		
 RHSLauncherAmmo
+TankDLCLauncherAmmo
 			
 ----------- pistols ----------
 APEXPistols
@@ -181,10 +183,11 @@ Diving
 FFAAUniform
 GREFUniforms
 HAPUNIFORMS
+Nlunit
 RHSUniforms
 TRYKUniforms
+TankDLCclothing
 Uniforms
-Nlunit
 WW2Clothing
 
 ----------- vests ----------
@@ -284,6 +287,7 @@ Nlvehicle
 A3Tanks
 MASTanks
 Nltank
+TankDLC
 
 ----------- helicopters ----------
 //CChoppers - no longer used
