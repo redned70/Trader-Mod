@@ -287,7 +287,7 @@ class NIAMiniGun
 
 	class NIAAmmunition
 	{
-		name = "NIA Ammo";
+		name = "NIA Ammunition";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
 		{
