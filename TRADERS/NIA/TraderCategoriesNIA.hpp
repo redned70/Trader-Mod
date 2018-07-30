@@ -274,7 +274,7 @@
 
 
 
-class NIAMiniGun
+	class NIAMiniGun
 	{
 		name = "NIA Minigun";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
