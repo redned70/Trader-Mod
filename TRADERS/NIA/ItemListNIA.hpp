@@ -12,11 +12,11 @@
 	class hlc_muzzle_Agendasix						{ quality = 2; price = 100; };
 	class hlc_muzzle_Agendasix10mm					{ quality = 2; price = 100; };
 	class hlc_muzzle_Tundra							{ quality = 2; price = 100; };
-	class hlc_muzzle_snds_AUG						{ quality = 2; price = 100; };
+	//class hlc_muzzle_snds_AUG						{ quality = 2; price = 100; };//Removed, may be back
 	class hlc_muzzle_snds_HK33						{ quality = 2; price = 100; };
 	class hlc_muzzle_snds_M14						{ quality = 2; price = 100; };
 	class hlc_muzzle_snds_a6AUG						{ quality = 2; price = 100; };
-	class hlc_muzzle_snds_fal						{ quality = 2; price = 100; };
+	//class hlc_muzzle_snds_fal						{ quality = 2; price = 100; };//Removed, may be back
 	class hlc_muzzle_snds_g3						{ quality = 2; price = 100; };
 
 	///////////////////////////////////////////////////////////////////////////////
@@ -76,15 +76,15 @@
 	class hlc_100Rnd_792x57_M_MG42                  { quality = 1; price = 70; };
 	class hlc_100Rnd_792x57_T_MG42                  { quality = 1; price = 70; };
 	class hlc_100rnd_556x45_EPR_G36	                { quality = 1; price = 30; };
-	class hlc_10Rnd_303_AP_enfield					{ quality = 1; price = 30; };
-	class hlc_10Rnd_303_B_enfield					{ quality = 1; price = 30; };
-	class hlc_10Rnd_303_T_enfield					{ quality = 1; price = 30; };
-	class hlc_10Rnd_45ACP_B_hk45					{ quality = 1; price = 30; };
+	//class hlc_10Rnd_303_AP_enfield				{ quality = 1; price = 30; };//Removed, may be back
+	//class hlc_10Rnd_303_B_enfield					{ quality = 1; price = 30; };//Removed, may be back
+	//class hlc_10Rnd_303_T_enfield					{ quality = 1; price = 30; };//Removed, may be back
+	//class hlc_10Rnd_45ACP_B_hk45					{ quality = 1; price = 30; };//Removed, may be back
 	class hlc_10rnd_12g_buck_S12	                { quality = 1; price = 30; };
 	class hlc_10rnd_12g_slug_S12	                { quality = 1; price = 30; };
-	class hlc_12Rnd_45ACP_B_mk23					{ quality = 1; price = 40; };
-	class hlc_12Rnd_45ACP_S_mk23					{ quality = 1; price = 40; };
-	class hlc_12Rnd_45ACP_T_mk23					{ quality = 1; price = 40; };
+	//class hlc_12Rnd_45ACP_B_mk23					{ quality = 1; price = 40; };//Removed, may be back
+	//class hlc_12Rnd_45ACP_S_mk23					{ quality = 1; price = 40; };//Removed, may be back
+	//class hlc_12Rnd_45ACP_T_mk23					{ quality = 1; price = 40; };//Removed, may be back
 	class hlc_200Rnd_792x57_AP_MG42                 { quality = 1; price = 100; };
 	class hlc_200Rnd_792x57_B_MG42                  { quality = 1; price = 100; };
 	class hlc_200Rnd_792x57_M_MG42                  { quality = 1; price = 100; };
@@ -129,9 +129,9 @@
 	class hlc_25Rnd_9x19mm_subsonic_AUG	            { quality = 1; price = 30; };
 	class hlc_30Rnd_10mm_B_MP5                      { quality = 1; price = 30; };
 	class hlc_30Rnd_10mm_JHP_MP5	                { quality = 1; price = 30; };
-	class hlc_30Rnd_303_AP_bren                 	{ quality = 1; price = 50; };
-	class hlc_30Rnd_303_B_bren                 		{ quality = 1; price = 50; };
-	class hlc_30Rnd_303_T_bren                 		{ quality = 1; price = 50; };
+	//class hlc_30Rnd_303_AP_bren                 	{ quality = 1; price = 50; };//Removed, may be back
+	//class hlc_30Rnd_303_B_bren                 	{ quality = 1; price = 50; };//Removed, may be back
+	//class hlc_30Rnd_303_T_bren                 	{ quality = 1; price = 50; };//Removed, may be back
 	class hlc_30Rnd_545x39_B_AK	                    { quality = 1; price = 30; };
 	class hlc_30Rnd_545x39_EP_ak					{ quality = 1; price = 30; };
 	class hlc_30Rnd_545x39_S_AK						{ quality = 1; price = 30; };
@@ -166,7 +166,7 @@
 	class hlc_30rnd_556x45_t_HK33                	{ quality = 1; price = 40; };
 	class hlc_30rnd_556x45_tdim_HK33                { quality = 1; price = 40; };
 	class hlc_30rnd_762x39_s_ak                		{ quality = 1; price = 40; };
-	class hlc_32rnd_9x19_B_sten                		{ quality = 1; price = 50; };
+	//class hlc_32rnd_9x19_B_sten                	{ quality = 1; price = 50; };//Removed, may be back
 	class hlc_40Rnd_556x45_B_AUG                    { quality = 1; price = 40; };
 	class hlc_40Rnd_556x45_SOST_AUG                 { quality = 1; price = 40; };
 	class hlc_40Rnd_556x45_SPR_AUG                  { quality = 1; price = 40; };
@@ -176,11 +176,11 @@
 	class hlc_45Rnd_762x39_t_rpk	                { quality = 1; price = 30; };
 	class hlc_500rnd_762x51_Belt	                { quality = 1; price = 1000; };
 	class hlc_500rnd_762x51_Cinematic               { quality = 6; price = 1000; };
-	class hlc_50Rnd_44mag_B_deagle             		{ quality = 1; price = 50; };
+	//class hlc_50Rnd_44mag_B_deagle             	{ quality = 1; price = 50; };//Removed, may be back
 	class hlc_50Rnd_45ACP_B_1921             		{ quality = 1; price = 50; };
 	class hlc_50Rnd_45ACP_T_1921             		{ quality = 1; price = 50; };
-	class hlc_50Rnd_57x28_FMJ_P90             		{ quality = 1; price = 50; };
-	class hlc_50Rnd_57x28_JHP_P90             		{ quality = 1; price = 50; };
+	//class hlc_50Rnd_57x28_FMJ_P90             	{ quality = 1; price = 50; };//Removed, may be back
+	//class hlc_50Rnd_57x28_JHP_P90             	{ quality = 1; price = 50; };//Removed, may be back
 	class hlc_50Rnd_762x51_B_M14             		{ quality = 1; price = 50; };
 	class hlc_50Rnd_762x51_B_MG3             		{ quality = 1; price = 50; };
 	class hlc_50Rnd_762x51_Barrier_MG3              { quality = 1; price = 50; };
@@ -208,13 +208,13 @@
 	class hlc_5rnd_300WM_T_AWM	                	{ quality = 1; price = 30; };
 	class hlc_5rnd_300WM_mk248_AWM                  { quality = 1; price = 30; };
 	class hlc_60Rnd_545x39_t_rpk	                { quality = 1; price = 30; };
-	class hlc_6Rnd_735_B_Carcano	                { quality = 1; price = 30; };
-	class hlc_6Rnd_735_T_Carcano	                { quality = 1; price = 30; };
+	//class hlc_6Rnd_735_B_Carcano	                { quality = 1; price = 30; };//Removed, may be back
+	//class hlc_6Rnd_735_T_Carcano	                { quality = 1; price = 30; };//Removed, may be back
 	class hlc_75Rnd_762x39_m_rpk	                { quality = 1; price = 70; };
-	class hlc_8Rnd_44mag_B_deagle					{ quality = 1; price = 40; };
-	class hlc_8Rnd_44mag_JHP_deagle					{ quality = 1; price = 40; };
-	class hlc_8Rnd_45ACP_B_hk45						{ quality = 1; price = 40; };
-	class hlc_8Rnd_45ACP_T_hk45						{ quality = 1; price = 40; };
+	//class hlc_8Rnd_44mag_B_deagle					{ quality = 1; price = 40; };//Removed, may be back
+	//class hlc_8Rnd_44mag_JHP_deagle				{ quality = 1; price = 40; };//Removed, may be back
+	//class hlc_8Rnd_45ACP_B_hk45					{ quality = 1; price = 40; };//Removed, may be back
+	//class hlc_8Rnd_45ACP_T_hk45					{ quality = 1; price = 40; };//Removed, may be back
 
 	//class HLC_AK_ammobox	                  		{ quality = 6; price = 1000; };
 
