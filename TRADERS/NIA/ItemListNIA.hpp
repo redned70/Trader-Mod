@@ -195,11 +195,11 @@
 	class hlc_50rnd_762x51_M_FAL	                { quality = 1; price = 60; };
 	class hlc_50rnd_762x51_M_G3	                    { quality = 1; price = 60; };
 	class hlc_50rnd_9x19_B_9mmar	                { quality = 1; price = 60; };
-	class hlc_5Rnd_12G_Buck_Trench                  { quality = 1; price = 30; }
-	class hlc_5Rnd_12G_DISTRACTION_Trench           { quality = 1; price = 30; }
-	class hlc_5Rnd_12G_Slug_Trench                  { quality = 1; price = 30; }
-	class hlc_5Rnd_792_AP_Kar98                   	{ quality = 1; price = 30; }
-	class hlc_5Rnd_792_T_Kar98	                    { quality = 1; price = 30; }
+	class hlc_5Rnd_12G_Buck_Trench                  { quality = 1; price = 30; };
+	class hlc_5Rnd_12G_DISTRACTION_Trench           { quality = 1; price = 30; };
+	class hlc_5Rnd_12G_Slug_Trench                  { quality = 1; price = 30; };
+	class hlc_5Rnd_792_AP_Kar98                   	{ quality = 1; price = 30; };
+	class hlc_5Rnd_792_T_Kar98	                    { quality = 1; price = 30; };
 	class hlc_5rnd_3006_1903	                    { quality = 1; price = 30; };
 	class hlc_5rnd_300WM_AP_AWM                     { quality = 1; price = 30; };
 	class hlc_5rnd_300WM_BTSP_AWM                   { quality = 1; price = 30; };
