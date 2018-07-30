@@ -33,7 +33,7 @@
 	};
 	class FFAAbackpack
 	{
-     name = "FFAA backpack";
+     name = "FFAA Backpacks";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
@@ -50,7 +50,7 @@
 	};
 	class FFAAUniform
 	{
-     name = "FFAA Uniform";
+     name = "FFAA Uniforms";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
@@ -68,7 +68,7 @@
 	};
 	class FFAAVest
 	{
-     name = "FFAA Vest";
+     name = "FFAA Vests";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
@@ -89,7 +89,7 @@
 	};
 	class FFAAfaceware
 	{
-     name = "FFAA faceware";
+     name = "FFAA Glasses";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
@@ -110,7 +110,7 @@
 	};
 	class FFAAPointerAttachments
 	{
-     name = "Pointer Attachments";
+     name = "FFAA Pointer Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
      items[] =
 		{
@@ -119,7 +119,7 @@
 	};
 	class FFAABipodAttachments
 	{
-     name = "Bipod Attachments";
+     name = "FFAA Bipod Attachments";
      icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
      items[] =
 		{
