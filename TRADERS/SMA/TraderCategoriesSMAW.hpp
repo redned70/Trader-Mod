@@ -124,11 +124,6 @@
 			"SMA_AAC_MPW_16_OD",
 			"SMA_AAC_MPW_16_Desert",
 			"SMA_AAC_MPW_16_Tan",
-			"SMA_AAC_762_sdn6",
-			"SMA_AAC_762_sdn6_w",
-			"SMA_AAC_762_sdn6_d",
-			"SMA_AAC_762_sdn6_T",
-			"SMA_AAC_762_sdn6_G",
 			"SMA_Tavor_F",
 			"SMA_TavorOD_F",
 			"SMA_TavorBLK_F",
@@ -363,7 +358,9 @@
 			"SMA_rotex_gry",
 			"SMA_AAC_762_sdn6",
 			"SMA_AAC_762_sdn6_w",
-			"SMA_AAC_762_sdn6_d"
+			"SMA_AAC_762_sdn6_d",
+			"SMA_AAC_762_sdn6_T",
+			"SMA_AAC_762_sdn6_G"
 		};
 	};
 
