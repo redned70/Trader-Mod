@@ -509,7 +509,7 @@
 			"rhs_weap_m4a1_grip2",
 			"rhs_weap_mk18_grip2",
 			"rhs_weap_mk18_grip2_KAC"
-
+		*/
 		};
 	};
 
