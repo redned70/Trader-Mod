@@ -121,11 +121,6 @@
 	class SMA_AAC_MPW_16_OD							{ quality = 6; price = 800; };
 	class SMA_AAC_MPW_16_Desert						{ quality = 6; price = 800; };
 	class SMA_AAC_MPW_16_Tan						{ quality = 6; price = 800; };
-	class SMA_AAC_762_sdn6							{ quality = 6; price = 800; };
-	class SMA_AAC_762_sdn6_w						{ quality = 6; price = 800; };
-	class SMA_AAC_762_sdn6_d						{ quality = 6; price = 800; };
-	class SMA_AAC_762_sdn6_T						{ quality = 6; price = 800; };
-	class SMA_AAC_762_sdn6_G						{ quality = 6; price = 800; };
 	class SMA_Tavor_F								{ quality = 6; price = 800; };
 	class SMA_TavorOD_F								{ quality = 6; price = 800; };
 	class SMA_TavorBLK_F							{ quality = 6; price = 800; };
@@ -216,7 +211,6 @@
 	class SMA_ANPEQ15_TOP_BLK_MK18 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_TAN_M4 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_BLK_M4 					{ quality = 6; price = 150; };
-	class SMA_ANPEQ15_TOP_TAN_SCAR 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_TAN_SCAR 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_BLK_SCAR 					{ quality = 6; price = 150; };
 	class SMA_ANPEQ15_TOP_TAN_ACR 					{ quality = 6; price = 150; };
@@ -332,9 +326,11 @@
 	class SMA_rotex_blk 							{ quality = 6; price = 400; };
 	class SMA_rotex_tan 							{ quality = 6; price = 400; };
 	class SMA_rotex_gry 							{ quality = 6; price = 400; };
-	class SMA_AAC_762_sdn6 							{ quality = 6; price = 400; };
-	class SMA_AAC_762_sdn6_w 						{ quality = 6; price = 400; };
-	class SMA_AAC_762_sdn6_d 						{ quality = 6; price = 400; };
+	class SMA_AAC_762_sdn6							{ quality = 6; price = 400; };
+	class SMA_AAC_762_sdn6_w						{ quality = 6; price = 400; };
+	class SMA_AAC_762_sdn6_d						{ quality = 6; price = 400; };
+	class SMA_AAC_762_sdn6_T						{ quality = 6; price = 400; };
+	class SMA_AAC_762_sdn6_G						{ quality = 6; price = 400; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ammunition
