@@ -557,6 +557,8 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[]=
 		{
+			"rhs_weap_M590_5RD",
+			"rhs_weap_M590_8RD",
 			"rhs_weap_hk416d10",
 			"rhs_weap_hk416d10_LMT",
 			"rhs_weap_hk416d10_m320",
@@ -566,6 +568,7 @@
 			"rhs_weap_m16a4_carryhandle",
 			"rhs_weap_m16a4_carryhandle_M203",
 			"rhs_weap_m16a4_carryhandle_pmag",
+			"rhs_weap_m32",
 			"rhs_weap_m4_carryhandle",
 			"rhs_weap_m4_carryhandle_pmag",
 			"rhs_weap_m4_m203",
@@ -674,6 +677,7 @@
 			"rhs_weap_svds_npz",
 			// Addd by ElShotte - 14 Items
 			"rhs_weap_M107",
+			"rhs_weap_M107_lc",
 			"rhs_weap_M107_d",
 			"rhs_weap_M107_w",
 			"rhs_weap_t5000",

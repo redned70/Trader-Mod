@@ -665,7 +665,9 @@
 	class rhs_weap_mk18_d 							{ quality = 3; price = 500; };
 	class rhs_weap_mk18_m320						{ quality = 3; price = 500; };
 	class rhs_weap_mk18_wd 							{ quality = 3; price = 500; };
-
+	class rhs_weap_M590_5RD							{ quality = 3; price = 550; };
+	class rhs_weap_M590_8RD							{ quality = 5; price = 650; };
+	class rhs_weap_m32								{ quality = 3; price = 550; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Sub Machine Guns
@@ -674,6 +676,7 @@
 	class rhsusf_weap_MP7A2_desert         			{ quality = 2; price = 800; };
 	class rhsusf_weap_MP7A2_aor1           			{ quality = 2; price = 800; };
 	class rhsusf_weap_MP7A2_winter         			{ quality = 2; price = 800; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Sniper Rifles
 	///////////////////////////////////////////////////////////////////////////////
@@ -695,8 +698,8 @@
 	// Added by ElShotte
 	class rhs_weap_M107   							{ quality = 3; price = 1500; };
 	class rhs_weap_M107_d   						{ quality = 3; price = 1500; };
+	class rhs_weap_M107_lc							{ quality = 3; price = 1500; };
 	class rhs_weap_M107_w   						{ quality = 3; price = 1500; };
-	class rhs_weap_t5000   							{ quality = 3; price = 1200; };
 	class rhs_weap_m24sws   						{ quality = 3; price = 1000; };
 	class rhs_weap_m24sws_blk   					{ quality = 3; price = 1000; };
 	class rhs_weap_m24sws_ghillie   				{ quality = 3; price = 1000; };
@@ -704,9 +707,10 @@
 	class rhs_weap_m40a5_d   						{ quality = 3; price = 1000; };
 	class rhs_weap_m40a5_w   						{ quality = 3; price = 1000; };
 	class rhs_weap_sr25_d 							{ quality = 3; price = 1100; };
-	class rhs_weap_sr25_wd 							{ quality = 3; price = 1100; };
 	class rhs_weap_sr25_ec_d 						{ quality = 3; price = 1100; };
 	class rhs_weap_sr25_ec_wd 						{ quality = 3; price = 1100; };
+	class rhs_weap_sr25_wd 							{ quality = 3; price = 1100; };
+	class rhs_weap_t5000   							{ quality = 3; price = 1200; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher

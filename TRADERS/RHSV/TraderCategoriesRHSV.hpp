@@ -552,16 +552,6 @@
 		};
 	};
 
-	class RHSStaticMG
-	{
-		name = "RHS StaticMG";
-		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-		items[] =
-		{
-		// in weapons files
-		};
-	};
-
 	class RHSBoats
 	{
 		name = "RHS Boats";
