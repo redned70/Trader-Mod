@@ -1,0 +1,1608 @@
+
+
+/*
+
+        Exile Trader Item Lists
+
+*/
+
+//  Grenades, Smoke Grenades, Chemlights and Flares
+"rhs_mag_fakel",
+"rhs_mag_fakels",
+"rhs_mag_nspd",
+"rhs_mag_nspn_green",
+"rhs_mag_nspn_red",
+"rhs_mag_nspn_yellow",
+"rhs_mag_plamyam",
+"rhs_mag_rdg2_black",
+"rhs_mag_rdg2_white",
+"rhs_mag_rgd5",
+"rhs_mag_rgn",
+"rhs_mag_rgo",
+"rhs_mag_zarya2",
+
+
+//  Launcher Rounds
+"rhs_mag_2Rnd_Igla",
+"rhs_mag_9k32_rocket",
+"rhs_mag_9k38_rocket",
+"rhs_rpg7_OG7V_mag",
+"rhs_rpg7_PG7V_mag",
+"rhs_rpg7_PG7VL_mag",
+"rhs_rpg7_PG7VM_mag",
+"rhs_rpg7_PG7VR_mag",
+"rhs_rpg7_PG7VS_mag",
+"rhs_rpg7_TBG7V_mag",
+"rhs_rpg7_type69_airburst_mag",
+
+
+//  Vehicle Ammo
+"rhs_mag_127x108mm_100",
+"rhs_mag_127x108mm_1470",
+"rhs_mag_127x108mm_150",
+"rhs_mag_127x108mm_1slt_1470",
+"rhs_mag_127x108mm_300",
+"rhs_mag_127x108mm_50",
+"rhs_mag_145x115mm_50",
+"rhs_mag_3bk12_8",
+"rhs_mag_3bk14_6",
+"rhs_mag_3bk14_8",
+"rhs_mag_3bk18_6",
+"rhs_mag_3bk18_8",
+"rhs_mag_3bk18m_6",
+"rhs_mag_3bk18m_8",
+"rhs_mag_3bk21_8",
+"rhs_mag_3bk29_8",
+"rhs_mag_3bk31_3",
+"rhs_mag_3bk31_6",
+"rhs_mag_3bk31_8",
+"rhs_mag_3bm12_10",
+"rhs_mag_3bm15_10",
+"rhs_mag_3bm17_10",
+"rhs_mag_3bm17_14",
+"rhs_mag_3bm22_10",
+"rhs_mag_3bm22_14",
+"rhs_mag_3bm22_7",
+"rhs_mag_3bm26_10",
+"rhs_mag_3bm26_7",
+"rhs_mag_3bm29_10",
+"rhs_mag_3bm29_7",
+"rhs_mag_3bm32_10",
+"rhs_mag_3bm32_7",
+"rhs_mag_3bm42_10",
+"rhs_mag_3bm42_7",
+"rhs_mag_3bm42m_10",
+"rhs_mag_3bm46_10",
+"rhs_mag_3bm46_8",
+"rhs_mag_3bm59_10",
+"rhs_mag_3bm60_10",
+"rhs_mag_3bm69_10",
+"rhs_mag_3bm69_17",
+"rhs_mag_3bm70_10",
+"rhs_mag_3bm9_10",
+"rhs_mag_3d17",
+"rhs_mag_3d17_12",
+"rhs_mag_3d17_4",
+"rhs_mag_3d17_6",
+"rhs_mag_3m7_12",
+"rhs_mag_3of11_6",
+"rhs_mag_3of26_5",
+"rhs_mag_3of26_6",
+"rhs_mag_3of26_7",
+"rhs_mag_3of56",
+"rhs_mag_3of56_10",
+"rhs_mag_3of69m",
+"rhs_mag_3of69m_2",
+"rhs_mag_3ubr11_125",
+"rhs_mag_3ubr11_160",
+"rhs_mag_3ubr11_195",
+"rhs_mag_3ubr11_230",
+"rhs_mag_3ubr11_250",
+"rhs_mag_3ubr6_150",
+"rhs_mag_3ubr6_160",
+"rhs_mag_3ubr6_195",
+"rhs_mag_3ubr6_230",
+"rhs_mag_3ubr6_250",
+"rhs_mag_3ubr8_125",
+"rhs_mag_3ubr8_160",
+"rhs_mag_3ubr8_195",
+"rhs_mag_3ubr8_230",
+"rhs_mag_3ubr8_250",
+"rhs_mag_3UOF17_22",
+"rhs_mag_3UOF191_22",
+"rhs_mag_3UOF19_22",
+"rhs_mag_3uof8_125",
+"rhs_mag_3uof8_305",
+"rhs_mag_3uof8_340",
+"rhs_mag_3uor6_150",
+"rhs_mag_3uor6_230",
+"rhs_mag_3uor6_250",
+"rhs_mag_3uor6_305",
+"rhs_mag_3uor6_340",
+"rhs_mag_3vo18_10",
+"rhs_mag_3vs25m_10",
+"rhs_mag_40Rnd_122mm_rockets",
+"rhs_mag_53_va_832a_10",
+"rhs_mag_762x54mm_100",
+"rhs_mag_762x54mm_1000",
+"rhs_mag_762x54mm_2000",
+"rhs_mag_762x54mm_250",
+"rhs_mag_762x54mm_500",
+"rhs_mag_902a",
+"rhs_mag_9m111",
+"rhs_mag_9m111_3",
+"rhs_mag_9m111_4",
+"rhs_mag_9m111_5",
+"rhs_mag_9m111M",
+"rhs_mag_9m111M_3",
+"rhs_mag_9m111M_4",
+"rhs_mag_9m111M_5",
+"rhs_mag_9m112_6",
+"rhs_mag_9m112m2_6",
+"rhs_mag_9m112m_4",
+"rhs_mag_9m112m_6",
+"rhs_mag_9m113",
+"rhs_mag_9m113_3",
+"rhs_mag_9m113_4",
+"rhs_mag_9m113_5",
+"rhs_mag_9m113M",
+"rhs_mag_9m113M_3",
+"rhs_mag_9m113M_4",
+"rhs_mag_9m113M_5",
+"rhs_mag_9M114",
+"rhs_mag_9M114_Mi24_2x",
+"rhs_mag_9M114F_Mi24_2x",
+"rhs_mag_9M114M1_Mi24_2x",
+"rhs_mag_9M114M2_Mi24_2x",
+"rhs_mag_9M114M_Mi24_2x",
+"rhs_mag_9M115",
+"rhs_mag_9m117_3",
+"rhs_mag_9m117_8",
+"rhs_mag_9m117m1_3",
+"rhs_mag_9m117m1_8",
+"rhs_mag_9m117m_3",
+"rhs_mag_9m117m_8",
+"rhs_mag_9m118_3",
+"rhs_mag_9m119_4",
+"rhs_mag_9m119_6",
+"rhs_mag_9m119f_6",
+"rhs_mag_9m119m_4",
+"rhs_mag_9m119m_6",
+"rhs_mag_9m119rx_6",
+"rhs_mag_9m120",
+"rhs_mag_9M120_16",
+"rhs_mag_9M120_8",
+"rhs_mag_9M120_Mi24_2x",
+"rhs_mag_9M120_Mi28_8x",
+"rhs_mag_9m120f",
+"rhs_mag_9M120f_16",
+"rhs_mag_9M120f_8",
+"rhs_mag_9M120F_Mi24_2x",
+"rhs_mag_9M120f_Mi28_8x",
+"rhs_mag_9m120m",
+"rhs_mag_9M120m_16",
+"rhs_mag_9M120m_8",
+"rhs_mag_9M120M_Mi24_2x",
+"rhs_mag_9M120M_Mi28_8x",
+"rhs_mag_9m120o",
+"rhs_mag_9M120O_Mi24_2x",
+"rhs_mag_9M120O_Mi28_8x",
+"rhs_mag_9m124_6",
+"rhs_mag_9m127",
+"rhs_mag_9m127m",
+"rhs_mag_9m128_6",
+"rhs_mag_9M131",
+"rhs_mag_9M131F",
+"rhs_mag_9M131M",
+"rhs_mag_9m133",
+"rhs_mag_9m1331",
+"rhs_mag_9m1331_2",
+"rhs_mag_9m133_2",
+"rhs_mag_9m133f",
+"rhs_mag_9m133f_2",
+"rhs_mag_9m133m2",
+"rhs_mag_9m133m2_2",
+"rhs_mag_9m14",
+"rhs_mag_9m14m",
+"rhs_mag_9m14m_3",
+"rhs_mag_9m14m_4",
+"rhs_mag_9m17",
+"rhs_mag_9M17_Mi24_2x",
+"rhs_mag_9m17p",
+"rhs_mag_9M17p_Mi24_2x",
+"rhs_mag_9m41_20",
+"rhs_mag_AM23_500",
+"rhs_mag_apu68_bd3_umk2a_s24",
+"rhs_mag_apu68_bd3_umk2a_s24b",
+"rhs_mag_apu68m3_s24",
+"rhs_mag_apu68m3_s24b",
+"rhs_mag_apu6_9m127m_ka52",
+"rhs_mag_Atomic_2a33",
+"rhs_mag_Atomic_2a33_26",
+"rhs_mag_AZP23_100",
+"rhs_mag_AZP23_100_ap",
+"rhs_mag_AZP23_2000",
+"rhs_mag_AZP23_2000_mixed",
+"rhs_mag_AZP23_250",
+"rhs_mag_AZP23_250_ap",
+"rhs_mag_AZP23_250_mixed",
+"rhs_mag_b13l1_ka52_s13b",
+"rhs_mag_b13l1_ka52_s13d",
+"rhs_mag_b13l1_ka52_s13df",
+"rhs_mag_b13l1_ka52_s13of",
+"rhs_mag_b13l1_ka52_s13t",
+"rhs_mag_b13l1_s13b",
+"rhs_mag_b13l1_s13d",
+"rhs_mag_b13l1_s13df",
+"rhs_mag_b13l1_s13of",
+"rhs_mag_b13l1_s13t",
+"rhs_mag_b13l_bd3_umk2a_s13b",
+"rhs_mag_b13l_bd3_umk2a_s13d",
+"rhs_mag_b13l_bd3_umk2a_s13df",
+"rhs_mag_b13l_bd3_umk2a_s13of",
+"rhs_mag_b13l_bd3_umk2a_s13t",
+"rhs_mag_b13l_s13b",
+"rhs_mag_b13l_s13d",
+"rhs_mag_b13l_s13df",
+"rhs_mag_b13l_s13of",
+"rhs_mag_b13l_s13t",
+"rhs_mag_b8m1_bd3_umk2a_s8df",
+"rhs_mag_b8m1_bd3_umk2a_s8kom",
+"rhs_mag_b8m1_bd3_umk2a_s8t",
+"rhs_mag_b8m1_s8df",
+"rhs_mag_b8m1_s8kom",
+"rhs_mag_b8m1_s8t",
+"rhs_mag_b8v20a_ka52_s8df",
+"rhs_mag_b8v20a_ka52_s8kom",
+"rhs_mag_b8v20a_ka52_s8t",
+"rhs_mag_b8v20a_s8df",
+"rhs_mag_b8v20a_s8kom",
+"rhs_mag_b8v20a_s8t",
+"rhs_mag_bd3_usk_a_o25l_s25l",
+"rhs_mag_bd3_usk_a_o25l_s25ld",
+"rhs_mag_bd3_usk_a_o25l_s25o",
+"rhs_mag_bd3_usk_a_o25l_s25of",
+"rhs_mag_bk13",
+"rhs_mag_bk13_26",
+"rhs_mag_bk15_5",
+"rhs_mag_bk17_8",
+"rhs_mag_bk4_5",
+"rhs_mag_bk5_8",
+"rhs_mag_bk6m",
+"rhs_mag_bk6m_26",
+"rhs_mag_bm23_15",
+"rhs_mag_bm25_14",
+"rhs_mag_bm4_15",
+"rhs_mag_bm8_14",
+"rhs_mag_br412_14",
+"rhs_mag_br412_17",
+"rhs_mag_d462",
+"rhs_mag_d462_2",
+"rhs_mag_d832du_10",
+"rhs_mag_dazzler",
+"rhs_mag_fab100",
+"rhs_mag_fab100_bd3_umk2a",
+"rhs_mag_fab100_ka52",
+"rhs_mag_fab100_MBD3_U4T",
+"rhs_mag_fab100_MBD3_U6",
+"rhs_mag_fab250",
+"rhs_mag_fab250_2",
+"rhs_mag_fab250_4",
+"rhs_mag_fab250_bd3_umk2a",
+"rhs_mag_fab250_ka52",
+"rhs_mag_fab250_m62",
+"rhs_mag_fab250_m62_bd3_umk2a",
+"rhs_mag_fab250_m62_ka52",
+"rhs_mag_fab500",
+"rhs_mag_fab500_bd3_umk2a",
+"rhs_mag_fab500_bd3_usk_a",
+"rhs_mag_fab500_ka52",
+"rhs_mag_fab500_m54",
+"rhs_mag_fab500_m54_bd3_umk2a",
+"rhs_mag_fab500_m54_bd3_usk_a",
+"rhs_mag_fab500_m54_ka52",
+"RHS_mag_GPD30_30",
+"rhs_mag_gsh30_bt_150",
+"rhs_mag_gsh30_bt_250",
+"rhs_mag_gsh30_bt_750",
+"rhs_mag_gsh30_mixed_150",
+"rhs_mag_gsh30_ofzt_250",
+"rhs_mag_gsh30_ofzt_750",
+"rhs_mag_HE_2a33",
+"rhs_mag_HE_2a33_26",
+"rhs_mag_ILLUM_2a33",
+"rhs_mag_ILLUM_2a33_26",
+"rhs_mag_kab250",
+"rhs_mag_kab250_int",
+"rhs_mag_kab500",
+"rhs_mag_kab500_bd3_umk2a",
+"rhs_mag_kab500kr",
+"rhs_mag_kab500kr_bd3_umk2a",
+"rhs_mag_kab500LK",
+"rhs_mag_kab500LK_bd3_umk2a",
+"rhs_mag_kab500od",
+"rhs_mag_kab500od_bd3_umk2a",
+"rhs_mag_kh25",
+"rhs_mag_kh25_apu68_mig29",
+"rhs_mag_kh25MA",
+"rhs_mag_kh25ML",
+"rhs_mag_kh25ML_apu68_mig29",
+"rhs_mag_kh25MP",
+"rhs_mag_kh25MP_apu68_mig29",
+"rhs_mag_kh25MT",
+"rhs_mag_kh25MT_apu68_mig29",
+"rhs_mag_kh25MTP",
+"rhs_mag_kh25MTP_apu68_mig29",
+"rhs_mag_kh29D",
+"rhs_mag_kh29l",
+"rhs_mag_kh29l_aku58_mig29",
+"rhs_mag_kh29ML",
+"rhs_mag_kh29ML_aku58_mig29",
+"rhs_mag_kh29MP",
+"rhs_mag_kh29MP_aku58_mig29",
+"rhs_mag_kh29T",
+"rhs_mag_kh29T_aku58_mig29",
+"rhs_mag_Kh38mae",
+"rhs_mag_Kh38mae_int",
+"rhs_mag_Kh38mle",
+"rhs_mag_Kh38mle_int",
+"rhs_mag_Kh38mte",
+"rhs_mag_Kh38mte_int",
+"rhs_mag_kh55sh",
+"rhs_mag_kh55sh_6",
+"rhs_mag_kh55sh_nocamo",
+"rhs_mag_kh55sh_nocamo_6",
+"rhs_mag_kh55sm",
+"rhs_mag_kh55sm_6",
+"rhs_mag_kh55sm_nocamo",
+"rhs_mag_kh55sm_nocamo_6",
+"rhs_mag_kmgu2_ao25",
+"rhs_mag_kmgu2_ao25_bd3_umk2a",
+"rhs_mag_kmgu2_ao25_ka52",
+"rhs_mag_kmgu2_pfm1",
+"rhs_mag_kmgu2_pfm1_bd3_umk2a",
+"rhs_mag_kmgu2_pfm1_ka52",
+"rhs_mag_kmgu2_ptab1m",
+"rhs_mag_kmgu2_ptab1m_bd3_umk2a",
+"rhs_mag_kmgu2_ptab1m_ka52",
+"rhs_mag_kmgu2_ptm1",
+"rhs_mag_kmgu2_ptm1_bd3_umk2a",
+"rhs_mag_kmgu2_ptm1_ka52",
+"rhs_mag_LASER_2a33",
+"rhs_mag_LASER_2a33_26",
+"rhs_mag_MCLOS_Training",
+"rhs_mag_mi24_empty",
+"rhs_mag_o25l_s25l",
+"rhs_mag_o25l_s25ld",
+"rhs_mag_o25l_s25o",
+"rhs_mag_o25l_s25of",
+"rhs_mag_of11_20",
+"rhs_mag_of28_20",
+"rhs_mag_of412_17",
+"rhs_mag_of412_18",
+"rhs_mag_of412_21",
+"rhs_mag_of462",
+"rhs_mag_of462_10",
+"rhs_mag_ofab250",
+"rhs_mag_ofab250_bd3_umk2a",
+"rhs_mag_ofab250_ka52",
+"rhs_mag_og15v_16",
+"rhs_mag_og15v_20",
+"rhs_mag_og15v_8",
+"rhs_mag_og9v",
+"rhs_mag_og9vm",
+"rhs_mag_pg15v_12",
+"rhs_mag_pg15v_20",
+"rhs_mag_pg15v_24",
+"rhs_mag_pg9n",
+"rhs_mag_pg9v",
+"rhs_mag_pg9vnt",
+"rhs_mag_ptb1150_ptb",
+"rhs_mag_ptb1500",
+"rhs_mag_R27ER",
+"rhs_mag_R27ER_APU470",
+"rhs_mag_R27ET",
+"rhs_mag_R27ET_APU470",
+"rhs_mag_R27R",
+"rhs_mag_R27R_APU470",
+"rhs_mag_R27T",
+"rhs_mag_R27T_APU470",
+"rhs_mag_R60",
+"rhs_mag_R60_APU60",
+"rhs_mag_R60M",
+"rhs_mag_R60M_APU60",
+"rhs_mag_R73",
+"rhs_mag_R73_APU73",
+"rhs_mag_R73M",
+"rhs_mag_R73M_APU73",
+"rhs_mag_R74",
+"rhs_mag_R74_APU73",
+"rhs_mag_R74M2",
+"rhs_mag_R74M2_int",
+"rhs_mag_R77",
+"rhs_mag_R77_AKU170",
+"rhs_mag_R77_AKU170_MIG29",
+"rhs_mag_R77M",
+"rhs_mag_R77M_AKU170",
+"rhs_mag_R77M_AKU170_MIG29",
+"rhs_mag_rbk250_ao1",
+"rhs_mag_rbk250_ao1_bd3_umk2a",
+"rhs_mag_rbk250_ao1_ka52",
+"rhs_mag_rbk250_ptab25",
+"rhs_mag_rbk250_ptab25_bd3_umk2a",
+"rhs_mag_rbk250_ptab25_ka52",
+"rhs_mag_rbk250_zab25t",
+"rhs_mag_rbk250_zab25t_bd3_umk2a",
+"rhs_mag_rbk250_zab25t_ka52",
+"rhs_mag_rbk500_ao25",
+"rhs_mag_rbk500_ao25_bd3_umk2a",
+"rhs_mag_rbk500_ao25_bd3_usk_a",
+"rhs_mag_rbk500_ao25_ka52",
+"rhs_mag_rbk500_ofab50",
+"rhs_mag_rbk500_ofab50_bd3_umk2a",
+"rhs_mag_rbk500_ofab50_bd3_usk_a",
+"rhs_mag_rbk500_ofab50_ka52",
+"rhs_mag_rbk500_ptab1m",
+"rhs_mag_rbk500_ptab1m_bd3_umk2a",
+"rhs_mag_rbk500_ptab1m_bd3_usk_a",
+"rhs_mag_rbk500_ptab1m_ka52",
+"rhs_mag_rbk500_spbed",
+"rhs_mag_rbk500_spbed_bd3_umk2a",
+"rhs_mag_rbk500_spbed_bd3_usk_a",
+"rhs_mag_rbk500_spbed_ka52",
+"rhs_mag_rbk500_zab25t",
+"rhs_mag_rbk500_zab25t_bd3_umk2a",
+"rhs_mag_rbk500_zab25t_bd3_usk_a",
+"rhs_mag_rbk500_zab25t_ka52",
+"rhs_mag_s13b_10",
+"rhs_mag_s13d_10",
+"rhs_mag_s13df_10",
+"rhs_mag_s13of_10",
+"rhs_mag_s13t_10",
+"rhs_mag_s463",
+"rhs_mag_s463_2",
+"rhs_mag_s5_128",
+"rhs_mag_s5_16",
+"rhs_mag_s5_192",
+"rhs_mag_s5_32",
+"rhs_mag_s5_64",
+"rhs_mag_s5_k1_128",
+"rhs_mag_s5_k1_16",
+"rhs_mag_s5_k1_192",
+"rhs_mag_s5_k1_32",
+"rhs_mag_s5_k1_64",
+"rhs_mag_s5_ko_128",
+"rhs_mag_s5_ko_16",
+"rhs_mag_s5_ko_192",
+"rhs_mag_s5_ko_32",
+"rhs_mag_s5_ko_64",
+"rhs_mag_s5_m1_128",
+"rhs_mag_s5_m1_16",
+"rhs_mag_s5_m1_192",
+"rhs_mag_s5_m1_32",
+"rhs_mag_s5_m1_64",
+"rhs_mag_s8_12",
+"rhs_mag_s8_120",
+"rhs_mag_s8_20",
+"rhs_mag_s8_40",
+"rhs_mag_s8_80",
+"rhs_mag_s8_DF_20",
+"rhs_mag_s8_DF_40",
+"rhs_mag_s8_DF_80",
+"rhs_mag_s8_T_20",
+"rhs_mag_s8_T_40",
+"rhs_mag_s8_T_80",
+"rhs_mag_SMOKE_2a33",
+"rhs_mag_SMOKE_2a33_26",
+"rhs_mag_smokegen",
+"rhs_mag_ub16_bd3_umk2a_s5",
+"rhs_mag_ub16_bd3_umk2a_s5k1",
+"rhs_mag_ub16_bd3_umk2a_s5ko",
+"rhs_mag_ub16_bd3_umk2a_s5m1",
+"rhs_mag_ub16_ka52_s5",
+"rhs_mag_ub16_ka52_s5k1",
+"rhs_mag_ub16_ka52_s5ko",
+"rhs_mag_ub16_ka52_s5m1",
+"rhs_mag_ub16_s5",
+"rhs_mag_ub16_s5k1",
+"rhs_mag_ub16_s5ko",
+"rhs_mag_ub16_s5m1",
+"rhs_mag_ub32_bd3_umk2a_s5",
+"rhs_mag_ub32_bd3_umk2a_s5k1",
+"rhs_mag_ub32_bd3_umk2a_s5ko",
+"rhs_mag_ub32_bd3_umk2a_s5m1",
+"rhs_mag_ub32_ka52_s5",
+"rhs_mag_ub32_ka52_s5k1",
+"rhs_mag_ub32_ka52_s5ko",
+"rhs_mag_ub32_ka52_s5m1",
+"rhs_mag_ub32_s5",
+"rhs_mag_ub32_s5k1",
+"rhs_mag_ub32_s5ko",
+"rhs_mag_ub32_s5m1",
+"rhs_mag_upk23_btz",
+"rhs_mag_upk23_ka52_btz",
+"rhs_mag_upk23_ka52_mixed",
+"rhs_mag_upk23_ka52_ofz",
+"rhs_mag_upk23_ka52_ofzt",
+"rhs_mag_upk23_mixed",
+"rhs_mag_upk23_ofz",
+"rhs_mag_upk23_ofzt",
+"RHS_mag_VOG17m_30",
+"RHS_mag_VOG30_30",
+"rhs_mag_WP_2a33",
+"rhs_mag_WP_2a33_26",
+"rhs_proxy_ags30_12_mag",
+"rhs_proxy_ags30_mag",
+"rhs_proxy_pkm_18_mag",
+
+
+/*
+
+        Exile Pricelists
+
+*/
+
+//  Grenades, Smoke Grenades, Chemlights and Flares
+class rhs_mag_fakel { quality = 3; price = 150; };
+class rhs_mag_fakels { quality = 3; price = 150; };
+class rhs_mag_nspd { quality = 3; price = 150; };
+class rhs_mag_nspn_green { quality = 3; price = 150; };
+class rhs_mag_nspn_red { quality = 3; price = 150; };
+class rhs_mag_nspn_yellow { quality = 3; price = 150; };
+class rhs_mag_plamyam { quality = 3; price = 150; };
+class rhs_mag_rdg2_black { quality = 3; price = 150; };
+class rhs_mag_rdg2_white { quality = 3; price = 150; };
+class rhs_mag_rgd5 { quality = 3; price = 150; };
+class rhs_mag_rgn { quality = 3; price = 150; };
+class rhs_mag_rgo { quality = 3; price = 150; };
+class rhs_mag_zarya2 { quality = 3; price = 150; };
+
+
+//  Launcher Rounds
+class rhs_mag_2Rnd_Igla { quality = 3; price = 150; };
+class rhs_mag_9k32_rocket { quality = 3; price = 150; };
+class rhs_mag_9k38_rocket { quality = 3; price = 150; };
+class rhs_rpg7_OG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VL_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VM_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VR_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VS_mag { quality = 3; price = 150; };
+class rhs_rpg7_TBG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_type69_airburst_mag { quality = 3; price = 150; };
+
+
+//  Vehicle Ammo
+class rhs_mag_127x108mm_100 { quality = 3; price = 150; };
+class rhs_mag_127x108mm_1470 { quality = 3; price = 150; };
+class rhs_mag_127x108mm_150 { quality = 3; price = 150; };
+class rhs_mag_127x108mm_1slt_1470 { quality = 3; price = 150; };
+class rhs_mag_127x108mm_300 { quality = 3; price = 150; };
+class rhs_mag_127x108mm_50 { quality = 3; price = 150; };
+class rhs_mag_145x115mm_50 { quality = 3; price = 150; };
+class rhs_mag_3bk12_8 { quality = 3; price = 150; };
+class rhs_mag_3bk14_6 { quality = 3; price = 150; };
+class rhs_mag_3bk14_8 { quality = 3; price = 150; };
+class rhs_mag_3bk18_6 { quality = 3; price = 150; };
+class rhs_mag_3bk18_8 { quality = 3; price = 150; };
+class rhs_mag_3bk18m_6 { quality = 3; price = 150; };
+class rhs_mag_3bk18m_8 { quality = 3; price = 150; };
+class rhs_mag_3bk21_8 { quality = 3; price = 150; };
+class rhs_mag_3bk29_8 { quality = 3; price = 150; };
+class rhs_mag_3bk31_3 { quality = 3; price = 150; };
+class rhs_mag_3bk31_6 { quality = 3; price = 150; };
+class rhs_mag_3bk31_8 { quality = 3; price = 150; };
+class rhs_mag_3bm12_10 { quality = 3; price = 150; };
+class rhs_mag_3bm15_10 { quality = 3; price = 150; };
+class rhs_mag_3bm17_10 { quality = 3; price = 150; };
+class rhs_mag_3bm17_14 { quality = 3; price = 150; };
+class rhs_mag_3bm22_10 { quality = 3; price = 150; };
+class rhs_mag_3bm22_14 { quality = 3; price = 150; };
+class rhs_mag_3bm22_7 { quality = 3; price = 150; };
+class rhs_mag_3bm26_10 { quality = 3; price = 150; };
+class rhs_mag_3bm26_7 { quality = 3; price = 150; };
+class rhs_mag_3bm29_10 { quality = 3; price = 150; };
+class rhs_mag_3bm29_7 { quality = 3; price = 150; };
+class rhs_mag_3bm32_10 { quality = 3; price = 150; };
+class rhs_mag_3bm32_7 { quality = 3; price = 150; };
+class rhs_mag_3bm42_10 { quality = 3; price = 150; };
+class rhs_mag_3bm42_7 { quality = 3; price = 150; };
+class rhs_mag_3bm42m_10 { quality = 3; price = 150; };
+class rhs_mag_3bm46_10 { quality = 3; price = 150; };
+class rhs_mag_3bm46_8 { quality = 3; price = 150; };
+class rhs_mag_3bm59_10 { quality = 3; price = 150; };
+class rhs_mag_3bm60_10 { quality = 3; price = 150; };
+class rhs_mag_3bm69_10 { quality = 3; price = 150; };
+class rhs_mag_3bm69_17 { quality = 3; price = 150; };
+class rhs_mag_3bm70_10 { quality = 3; price = 150; };
+class rhs_mag_3bm9_10 { quality = 3; price = 150; };
+class rhs_mag_3d17 { quality = 3; price = 150; };
+class rhs_mag_3d17_12 { quality = 3; price = 150; };
+class rhs_mag_3d17_4 { quality = 3; price = 150; };
+class rhs_mag_3d17_6 { quality = 3; price = 150; };
+class rhs_mag_3m7_12 { quality = 3; price = 150; };
+class rhs_mag_3of11_6 { quality = 3; price = 150; };
+class rhs_mag_3of26_5 { quality = 3; price = 150; };
+class rhs_mag_3of26_6 { quality = 3; price = 150; };
+class rhs_mag_3of26_7 { quality = 3; price = 150; };
+class rhs_mag_3of56 { quality = 3; price = 150; };
+class rhs_mag_3of56_10 { quality = 3; price = 150; };
+class rhs_mag_3of69m { quality = 3; price = 150; };
+class rhs_mag_3of69m_2 { quality = 3; price = 150; };
+class rhs_mag_3ubr11_125 { quality = 3; price = 150; };
+class rhs_mag_3ubr11_160 { quality = 3; price = 150; };
+class rhs_mag_3ubr11_195 { quality = 3; price = 150; };
+class rhs_mag_3ubr11_230 { quality = 3; price = 150; };
+class rhs_mag_3ubr11_250 { quality = 3; price = 150; };
+class rhs_mag_3ubr6_150 { quality = 3; price = 150; };
+class rhs_mag_3ubr6_160 { quality = 3; price = 150; };
+class rhs_mag_3ubr6_195 { quality = 3; price = 150; };
+class rhs_mag_3ubr6_230 { quality = 3; price = 150; };
+class rhs_mag_3ubr6_250 { quality = 3; price = 150; };
+class rhs_mag_3ubr8_125 { quality = 3; price = 150; };
+class rhs_mag_3ubr8_160 { quality = 3; price = 150; };
+class rhs_mag_3ubr8_195 { quality = 3; price = 150; };
+class rhs_mag_3ubr8_230 { quality = 3; price = 150; };
+class rhs_mag_3ubr8_250 { quality = 3; price = 150; };
+class rhs_mag_3UOF17_22 { quality = 3; price = 150; };
+class rhs_mag_3UOF191_22 { quality = 3; price = 150; };
+class rhs_mag_3UOF19_22 { quality = 3; price = 150; };
+class rhs_mag_3uof8_125 { quality = 3; price = 150; };
+class rhs_mag_3uof8_305 { quality = 3; price = 150; };
+class rhs_mag_3uof8_340 { quality = 3; price = 150; };
+class rhs_mag_3uor6_150 { quality = 3; price = 150; };
+class rhs_mag_3uor6_230 { quality = 3; price = 150; };
+class rhs_mag_3uor6_250 { quality = 3; price = 150; };
+class rhs_mag_3uor6_305 { quality = 3; price = 150; };
+class rhs_mag_3uor6_340 { quality = 3; price = 150; };
+class rhs_mag_3vo18_10 { quality = 3; price = 150; };
+class rhs_mag_3vs25m_10 { quality = 3; price = 150; };
+class rhs_mag_40Rnd_122mm_rockets { quality = 3; price = 150; };
+class rhs_mag_53_va_832a_10 { quality = 3; price = 150; };
+class rhs_mag_762x54mm_100 { quality = 3; price = 150; };
+class rhs_mag_762x54mm_1000 { quality = 3; price = 150; };
+class rhs_mag_762x54mm_2000 { quality = 3; price = 150; };
+class rhs_mag_762x54mm_250 { quality = 3; price = 150; };
+class rhs_mag_762x54mm_500 { quality = 3; price = 150; };
+class rhs_mag_902a { quality = 3; price = 150; };
+class rhs_mag_9m111 { quality = 3; price = 150; };
+class rhs_mag_9m111_3 { quality = 3; price = 150; };
+class rhs_mag_9m111_4 { quality = 3; price = 150; };
+class rhs_mag_9m111_5 { quality = 3; price = 150; };
+class rhs_mag_9m111M { quality = 3; price = 150; };
+class rhs_mag_9m111M_3 { quality = 3; price = 150; };
+class rhs_mag_9m111M_4 { quality = 3; price = 150; };
+class rhs_mag_9m111M_5 { quality = 3; price = 150; };
+class rhs_mag_9m112_6 { quality = 3; price = 150; };
+class rhs_mag_9m112m2_6 { quality = 3; price = 150; };
+class rhs_mag_9m112m_4 { quality = 3; price = 150; };
+class rhs_mag_9m112m_6 { quality = 3; price = 150; };
+class rhs_mag_9m113 { quality = 3; price = 150; };
+class rhs_mag_9m113_3 { quality = 3; price = 150; };
+class rhs_mag_9m113_4 { quality = 3; price = 150; };
+class rhs_mag_9m113_5 { quality = 3; price = 150; };
+class rhs_mag_9m113M { quality = 3; price = 150; };
+class rhs_mag_9m113M_3 { quality = 3; price = 150; };
+class rhs_mag_9m113M_4 { quality = 3; price = 150; };
+class rhs_mag_9m113M_5 { quality = 3; price = 150; };
+class rhs_mag_9M114 { quality = 3; price = 150; };
+class rhs_mag_9M114_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M114F_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M114M1_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M114M2_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M114M_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M115 { quality = 3; price = 150; };
+class rhs_mag_9m117_3 { quality = 3; price = 150; };
+class rhs_mag_9m117_8 { quality = 3; price = 150; };
+class rhs_mag_9m117m1_3 { quality = 3; price = 150; };
+class rhs_mag_9m117m1_8 { quality = 3; price = 150; };
+class rhs_mag_9m117m_3 { quality = 3; price = 150; };
+class rhs_mag_9m117m_8 { quality = 3; price = 150; };
+class rhs_mag_9m118_3 { quality = 3; price = 150; };
+class rhs_mag_9m119_4 { quality = 3; price = 150; };
+class rhs_mag_9m119_6 { quality = 3; price = 150; };
+class rhs_mag_9m119f_6 { quality = 3; price = 150; };
+class rhs_mag_9m119m_4 { quality = 3; price = 150; };
+class rhs_mag_9m119m_6 { quality = 3; price = 150; };
+class rhs_mag_9m119rx_6 { quality = 3; price = 150; };
+class rhs_mag_9m120 { quality = 3; price = 150; };
+class rhs_mag_9M120_16 { quality = 3; price = 150; };
+class rhs_mag_9M120_8 { quality = 3; price = 150; };
+class rhs_mag_9M120_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M120_Mi28_8x { quality = 3; price = 150; };
+class rhs_mag_9m120f { quality = 3; price = 150; };
+class rhs_mag_9M120f_16 { quality = 3; price = 150; };
+class rhs_mag_9M120f_8 { quality = 3; price = 150; };
+class rhs_mag_9M120F_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M120f_Mi28_8x { quality = 3; price = 150; };
+class rhs_mag_9m120m { quality = 3; price = 150; };
+class rhs_mag_9M120m_16 { quality = 3; price = 150; };
+class rhs_mag_9M120m_8 { quality = 3; price = 150; };
+class rhs_mag_9M120M_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M120M_Mi28_8x { quality = 3; price = 150; };
+class rhs_mag_9m120o { quality = 3; price = 150; };
+class rhs_mag_9M120O_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9M120O_Mi28_8x { quality = 3; price = 150; };
+class rhs_mag_9m124_6 { quality = 3; price = 150; };
+class rhs_mag_9m127 { quality = 3; price = 150; };
+class rhs_mag_9m127m { quality = 3; price = 150; };
+class rhs_mag_9m128_6 { quality = 3; price = 150; };
+class rhs_mag_9M131 { quality = 3; price = 150; };
+class rhs_mag_9M131F { quality = 3; price = 150; };
+class rhs_mag_9M131M { quality = 3; price = 150; };
+class rhs_mag_9m133 { quality = 3; price = 150; };
+class rhs_mag_9m1331 { quality = 3; price = 150; };
+class rhs_mag_9m1331_2 { quality = 3; price = 150; };
+class rhs_mag_9m133_2 { quality = 3; price = 150; };
+class rhs_mag_9m133f { quality = 3; price = 150; };
+class rhs_mag_9m133f_2 { quality = 3; price = 150; };
+class rhs_mag_9m133m2 { quality = 3; price = 150; };
+class rhs_mag_9m133m2_2 { quality = 3; price = 150; };
+class rhs_mag_9m14 { quality = 3; price = 150; };
+class rhs_mag_9m14m { quality = 3; price = 150; };
+class rhs_mag_9m14m_3 { quality = 3; price = 150; };
+class rhs_mag_9m14m_4 { quality = 3; price = 150; };
+class rhs_mag_9m17 { quality = 3; price = 150; };
+class rhs_mag_9M17_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9m17p { quality = 3; price = 150; };
+class rhs_mag_9M17p_Mi24_2x { quality = 3; price = 150; };
+class rhs_mag_9m41_20 { quality = 3; price = 150; };
+class rhs_mag_AM23_500 { quality = 3; price = 150; };
+class rhs_mag_apu68_bd3_umk2a_s24 { quality = 3; price = 150; };
+class rhs_mag_apu68_bd3_umk2a_s24b { quality = 3; price = 150; };
+class rhs_mag_apu68m3_s24 { quality = 3; price = 150; };
+class rhs_mag_apu68m3_s24b { quality = 3; price = 150; };
+class rhs_mag_apu6_9m127m_ka52 { quality = 3; price = 150; };
+class rhs_mag_Atomic_2a33 { quality = 3; price = 150; };
+class rhs_mag_Atomic_2a33_26 { quality = 3; price = 150; };
+class rhs_mag_AZP23_100 { quality = 3; price = 150; };
+class rhs_mag_AZP23_100_ap { quality = 3; price = 150; };
+class rhs_mag_AZP23_2000 { quality = 3; price = 150; };
+class rhs_mag_AZP23_2000_mixed { quality = 3; price = 150; };
+class rhs_mag_AZP23_250 { quality = 3; price = 150; };
+class rhs_mag_AZP23_250_ap { quality = 3; price = 150; };
+class rhs_mag_AZP23_250_mixed { quality = 3; price = 150; };
+class rhs_mag_b13l1_ka52_s13b { quality = 3; price = 150; };
+class rhs_mag_b13l1_ka52_s13d { quality = 3; price = 150; };
+class rhs_mag_b13l1_ka52_s13df { quality = 3; price = 150; };
+class rhs_mag_b13l1_ka52_s13of { quality = 3; price = 150; };
+class rhs_mag_b13l1_ka52_s13t { quality = 3; price = 150; };
+class rhs_mag_b13l1_s13b { quality = 3; price = 150; };
+class rhs_mag_b13l1_s13d { quality = 3; price = 150; };
+class rhs_mag_b13l1_s13df { quality = 3; price = 150; };
+class rhs_mag_b13l1_s13of { quality = 3; price = 150; };
+class rhs_mag_b13l1_s13t { quality = 3; price = 150; };
+class rhs_mag_b13l_bd3_umk2a_s13b { quality = 3; price = 150; };
+class rhs_mag_b13l_bd3_umk2a_s13d { quality = 3; price = 150; };
+class rhs_mag_b13l_bd3_umk2a_s13df { quality = 3; price = 150; };
+class rhs_mag_b13l_bd3_umk2a_s13of { quality = 3; price = 150; };
+class rhs_mag_b13l_bd3_umk2a_s13t { quality = 3; price = 150; };
+class rhs_mag_b13l_s13b { quality = 3; price = 150; };
+class rhs_mag_b13l_s13d { quality = 3; price = 150; };
+class rhs_mag_b13l_s13df { quality = 3; price = 150; };
+class rhs_mag_b13l_s13of { quality = 3; price = 150; };
+class rhs_mag_b13l_s13t { quality = 3; price = 150; };
+class rhs_mag_b8m1_bd3_umk2a_s8df { quality = 3; price = 150; };
+class rhs_mag_b8m1_bd3_umk2a_s8kom { quality = 3; price = 150; };
+class rhs_mag_b8m1_bd3_umk2a_s8t { quality = 3; price = 150; };
+class rhs_mag_b8m1_s8df { quality = 3; price = 150; };
+class rhs_mag_b8m1_s8kom { quality = 3; price = 150; };
+class rhs_mag_b8m1_s8t { quality = 3; price = 150; };
+class rhs_mag_b8v20a_ka52_s8df { quality = 3; price = 150; };
+class rhs_mag_b8v20a_ka52_s8kom { quality = 3; price = 150; };
+class rhs_mag_b8v20a_ka52_s8t { quality = 3; price = 150; };
+class rhs_mag_b8v20a_s8df { quality = 3; price = 150; };
+class rhs_mag_b8v20a_s8kom { quality = 3; price = 150; };
+class rhs_mag_b8v20a_s8t { quality = 3; price = 150; };
+class rhs_mag_bd3_usk_a_o25l_s25l { quality = 3; price = 150; };
+class rhs_mag_bd3_usk_a_o25l_s25ld { quality = 3; price = 150; };
+class rhs_mag_bd3_usk_a_o25l_s25o { quality = 3; price = 150; };
+class rhs_mag_bd3_usk_a_o25l_s25of { quality = 3; price = 150; };
+class rhs_mag_bk13 { quality = 3; price = 150; };
+class rhs_mag_bk13_26 { quality = 3; price = 150; };
+class rhs_mag_bk15_5 { quality = 3; price = 150; };
+class rhs_mag_bk17_8 { quality = 3; price = 150; };
+class rhs_mag_bk4_5 { quality = 3; price = 150; };
+class rhs_mag_bk5_8 { quality = 3; price = 150; };
+class rhs_mag_bk6m { quality = 3; price = 150; };
+class rhs_mag_bk6m_26 { quality = 3; price = 150; };
+class rhs_mag_bm23_15 { quality = 3; price = 150; };
+class rhs_mag_bm25_14 { quality = 3; price = 150; };
+class rhs_mag_bm4_15 { quality = 3; price = 150; };
+class rhs_mag_bm8_14 { quality = 3; price = 150; };
+class rhs_mag_br412_14 { quality = 3; price = 150; };
+class rhs_mag_br412_17 { quality = 3; price = 150; };
+class rhs_mag_d462 { quality = 3; price = 150; };
+class rhs_mag_d462_2 { quality = 3; price = 150; };
+class rhs_mag_d832du_10 { quality = 3; price = 150; };
+class rhs_mag_dazzler { quality = 3; price = 150; };
+class rhs_mag_fab100 { quality = 3; price = 150; };
+class rhs_mag_fab100_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_fab100_ka52 { quality = 3; price = 150; };
+class rhs_mag_fab100_MBD3_U4T { quality = 3; price = 150; };
+class rhs_mag_fab100_MBD3_U6 { quality = 3; price = 150; };
+class rhs_mag_fab250 { quality = 3; price = 150; };
+class rhs_mag_fab250_2 { quality = 3; price = 150; };
+class rhs_mag_fab250_4 { quality = 3; price = 150; };
+class rhs_mag_fab250_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_fab250_ka52 { quality = 3; price = 150; };
+class rhs_mag_fab250_m62 { quality = 3; price = 150; };
+class rhs_mag_fab250_m62_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_fab250_m62_ka52 { quality = 3; price = 150; };
+class rhs_mag_fab500 { quality = 3; price = 150; };
+class rhs_mag_fab500_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_fab500_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_fab500_ka52 { quality = 3; price = 150; };
+class rhs_mag_fab500_m54 { quality = 3; price = 150; };
+class rhs_mag_fab500_m54_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_fab500_m54_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_fab500_m54_ka52 { quality = 3; price = 150; };
+class RHS_mag_GPD30_30 { quality = 3; price = 150; };
+class rhs_mag_gsh30_bt_150 { quality = 3; price = 150; };
+class rhs_mag_gsh30_bt_250 { quality = 3; price = 150; };
+class rhs_mag_gsh30_bt_750 { quality = 3; price = 150; };
+class rhs_mag_gsh30_mixed_150 { quality = 3; price = 150; };
+class rhs_mag_gsh30_ofzt_250 { quality = 3; price = 150; };
+class rhs_mag_gsh30_ofzt_750 { quality = 3; price = 150; };
+class rhs_mag_HE_2a33 { quality = 3; price = 150; };
+class rhs_mag_HE_2a33_26 { quality = 3; price = 150; };
+class rhs_mag_ILLUM_2a33 { quality = 3; price = 150; };
+class rhs_mag_ILLUM_2a33_26 { quality = 3; price = 150; };
+class rhs_mag_kab250 { quality = 3; price = 150; };
+class rhs_mag_kab250_int { quality = 3; price = 150; };
+class rhs_mag_kab500 { quality = 3; price = 150; };
+class rhs_mag_kab500_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kab500kr { quality = 3; price = 150; };
+class rhs_mag_kab500kr_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kab500LK { quality = 3; price = 150; };
+class rhs_mag_kab500LK_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kab500od { quality = 3; price = 150; };
+class rhs_mag_kab500od_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kh25 { quality = 3; price = 150; };
+class rhs_mag_kh25_apu68_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh25MA { quality = 3; price = 150; };
+class rhs_mag_kh25ML { quality = 3; price = 150; };
+class rhs_mag_kh25ML_apu68_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh25MP { quality = 3; price = 150; };
+class rhs_mag_kh25MP_apu68_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh25MT { quality = 3; price = 150; };
+class rhs_mag_kh25MT_apu68_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh25MTP { quality = 3; price = 150; };
+class rhs_mag_kh25MTP_apu68_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh29D { quality = 3; price = 150; };
+class rhs_mag_kh29l { quality = 3; price = 150; };
+class rhs_mag_kh29l_aku58_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh29ML { quality = 3; price = 150; };
+class rhs_mag_kh29ML_aku58_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh29MP { quality = 3; price = 150; };
+class rhs_mag_kh29MP_aku58_mig29 { quality = 3; price = 150; };
+class rhs_mag_kh29T { quality = 3; price = 150; };
+class rhs_mag_kh29T_aku58_mig29 { quality = 3; price = 150; };
+class rhs_mag_Kh38mae { quality = 3; price = 150; };
+class rhs_mag_Kh38mae_int { quality = 3; price = 150; };
+class rhs_mag_Kh38mle { quality = 3; price = 150; };
+class rhs_mag_Kh38mle_int { quality = 3; price = 150; };
+class rhs_mag_Kh38mte { quality = 3; price = 150; };
+class rhs_mag_Kh38mte_int { quality = 3; price = 150; };
+class rhs_mag_kh55sh { quality = 3; price = 150; };
+class rhs_mag_kh55sh_6 { quality = 3; price = 150; };
+class rhs_mag_kh55sh_nocamo { quality = 3; price = 150; };
+class rhs_mag_kh55sh_nocamo_6 { quality = 3; price = 150; };
+class rhs_mag_kh55sm { quality = 3; price = 150; };
+class rhs_mag_kh55sm_6 { quality = 3; price = 150; };
+class rhs_mag_kh55sm_nocamo { quality = 3; price = 150; };
+class rhs_mag_kh55sm_nocamo_6 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ao25 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ao25_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ao25_ka52 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_pfm1 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_pfm1_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kmgu2_pfm1_ka52 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptab1m { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptab1m_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptab1m_ka52 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptm1 { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptm1_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_kmgu2_ptm1_ka52 { quality = 3; price = 150; };
+class rhs_mag_LASER_2a33 { quality = 3; price = 150; };
+class rhs_mag_LASER_2a33_26 { quality = 3; price = 150; };
+class rhs_mag_MCLOS_Training { quality = 3; price = 150; };
+class rhs_mag_mi24_empty { quality = 3; price = 150; };
+class rhs_mag_o25l_s25l { quality = 3; price = 150; };
+class rhs_mag_o25l_s25ld { quality = 3; price = 150; };
+class rhs_mag_o25l_s25o { quality = 3; price = 150; };
+class rhs_mag_o25l_s25of { quality = 3; price = 150; };
+class rhs_mag_of11_20 { quality = 3; price = 150; };
+class rhs_mag_of28_20 { quality = 3; price = 150; };
+class rhs_mag_of412_17 { quality = 3; price = 150; };
+class rhs_mag_of412_18 { quality = 3; price = 150; };
+class rhs_mag_of412_21 { quality = 3; price = 150; };
+class rhs_mag_of462 { quality = 3; price = 150; };
+class rhs_mag_of462_10 { quality = 3; price = 150; };
+class rhs_mag_ofab250 { quality = 3; price = 150; };
+class rhs_mag_ofab250_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_ofab250_ka52 { quality = 3; price = 150; };
+class rhs_mag_og15v_16 { quality = 3; price = 150; };
+class rhs_mag_og15v_20 { quality = 3; price = 150; };
+class rhs_mag_og15v_8 { quality = 3; price = 150; };
+class rhs_mag_og9v { quality = 3; price = 150; };
+class rhs_mag_og9vm { quality = 3; price = 150; };
+class rhs_mag_pg15v_12 { quality = 3; price = 150; };
+class rhs_mag_pg15v_20 { quality = 3; price = 150; };
+class rhs_mag_pg15v_24 { quality = 3; price = 150; };
+class rhs_mag_pg9n { quality = 3; price = 150; };
+class rhs_mag_pg9v { quality = 3; price = 150; };
+class rhs_mag_pg9vnt { quality = 3; price = 150; };
+class rhs_mag_ptb1150_ptb { quality = 3; price = 150; };
+class rhs_mag_ptb1500 { quality = 3; price = 150; };
+class rhs_mag_R27ER { quality = 3; price = 150; };
+class rhs_mag_R27ER_APU470 { quality = 3; price = 150; };
+class rhs_mag_R27ET { quality = 3; price = 150; };
+class rhs_mag_R27ET_APU470 { quality = 3; price = 150; };
+class rhs_mag_R27R { quality = 3; price = 150; };
+class rhs_mag_R27R_APU470 { quality = 3; price = 150; };
+class rhs_mag_R27T { quality = 3; price = 150; };
+class rhs_mag_R27T_APU470 { quality = 3; price = 150; };
+class rhs_mag_R60 { quality = 3; price = 150; };
+class rhs_mag_R60_APU60 { quality = 3; price = 150; };
+class rhs_mag_R60M { quality = 3; price = 150; };
+class rhs_mag_R60M_APU60 { quality = 3; price = 150; };
+class rhs_mag_R73 { quality = 3; price = 150; };
+class rhs_mag_R73_APU73 { quality = 3; price = 150; };
+class rhs_mag_R73M { quality = 3; price = 150; };
+class rhs_mag_R73M_APU73 { quality = 3; price = 150; };
+class rhs_mag_R74 { quality = 3; price = 150; };
+class rhs_mag_R74_APU73 { quality = 3; price = 150; };
+class rhs_mag_R74M2 { quality = 3; price = 150; };
+class rhs_mag_R74M2_int { quality = 3; price = 150; };
+class rhs_mag_R77 { quality = 3; price = 150; };
+class rhs_mag_R77_AKU170 { quality = 3; price = 150; };
+class rhs_mag_R77_AKU170_MIG29 { quality = 3; price = 150; };
+class rhs_mag_R77M { quality = 3; price = 150; };
+class rhs_mag_R77M_AKU170 { quality = 3; price = 150; };
+class rhs_mag_R77M_AKU170_MIG29 { quality = 3; price = 150; };
+class rhs_mag_rbk250_ao1 { quality = 3; price = 150; };
+class rhs_mag_rbk250_ao1_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk250_ao1_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk250_ptab25 { quality = 3; price = 150; };
+class rhs_mag_rbk250_ptab25_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk250_ptab25_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk250_zab25t { quality = 3; price = 150; };
+class rhs_mag_rbk250_zab25t_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk250_zab25t_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk500_ao25 { quality = 3; price = 150; };
+class rhs_mag_rbk500_ao25_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ao25_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ao25_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk500_ofab50 { quality = 3; price = 150; };
+class rhs_mag_rbk500_ofab50_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ofab50_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ofab50_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk500_ptab1m { quality = 3; price = 150; };
+class rhs_mag_rbk500_ptab1m_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ptab1m_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_rbk500_ptab1m_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk500_spbed { quality = 3; price = 150; };
+class rhs_mag_rbk500_spbed_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk500_spbed_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_rbk500_spbed_ka52 { quality = 3; price = 150; };
+class rhs_mag_rbk500_zab25t { quality = 3; price = 150; };
+class rhs_mag_rbk500_zab25t_bd3_umk2a { quality = 3; price = 150; };
+class rhs_mag_rbk500_zab25t_bd3_usk_a { quality = 3; price = 150; };
+class rhs_mag_rbk500_zab25t_ka52 { quality = 3; price = 150; };
+class rhs_mag_s13b_10 { quality = 3; price = 150; };
+class rhs_mag_s13d_10 { quality = 3; price = 150; };
+class rhs_mag_s13df_10 { quality = 3; price = 150; };
+class rhs_mag_s13of_10 { quality = 3; price = 150; };
+class rhs_mag_s13t_10 { quality = 3; price = 150; };
+class rhs_mag_s463 { quality = 3; price = 150; };
+class rhs_mag_s463_2 { quality = 3; price = 150; };
+class rhs_mag_s5_128 { quality = 3; price = 150; };
+class rhs_mag_s5_16 { quality = 3; price = 150; };
+class rhs_mag_s5_192 { quality = 3; price = 150; };
+class rhs_mag_s5_32 { quality = 3; price = 150; };
+class rhs_mag_s5_64 { quality = 3; price = 150; };
+class rhs_mag_s5_k1_128 { quality = 3; price = 150; };
+class rhs_mag_s5_k1_16 { quality = 3; price = 150; };
+class rhs_mag_s5_k1_192 { quality = 3; price = 150; };
+class rhs_mag_s5_k1_32 { quality = 3; price = 150; };
+class rhs_mag_s5_k1_64 { quality = 3; price = 150; };
+class rhs_mag_s5_ko_128 { quality = 3; price = 150; };
+class rhs_mag_s5_ko_16 { quality = 3; price = 150; };
+class rhs_mag_s5_ko_192 { quality = 3; price = 150; };
+class rhs_mag_s5_ko_32 { quality = 3; price = 150; };
+class rhs_mag_s5_ko_64 { quality = 3; price = 150; };
+class rhs_mag_s5_m1_128 { quality = 3; price = 150; };
+class rhs_mag_s5_m1_16 { quality = 3; price = 150; };
+class rhs_mag_s5_m1_192 { quality = 3; price = 150; };
+class rhs_mag_s5_m1_32 { quality = 3; price = 150; };
+class rhs_mag_s5_m1_64 { quality = 3; price = 150; };
+class rhs_mag_s8_12 { quality = 3; price = 150; };
+class rhs_mag_s8_120 { quality = 3; price = 150; };
+class rhs_mag_s8_20 { quality = 3; price = 150; };
+class rhs_mag_s8_40 { quality = 3; price = 150; };
+class rhs_mag_s8_80 { quality = 3; price = 150; };
+class rhs_mag_s8_DF_20 { quality = 3; price = 150; };
+class rhs_mag_s8_DF_40 { quality = 3; price = 150; };
+class rhs_mag_s8_DF_80 { quality = 3; price = 150; };
+class rhs_mag_s8_T_20 { quality = 3; price = 150; };
+class rhs_mag_s8_T_40 { quality = 3; price = 150; };
+class rhs_mag_s8_T_80 { quality = 3; price = 150; };
+class rhs_mag_SMOKE_2a33 { quality = 3; price = 150; };
+class rhs_mag_SMOKE_2a33_26 { quality = 3; price = 150; };
+class rhs_mag_smokegen { quality = 3; price = 150; };
+class rhs_mag_ub16_bd3_umk2a_s5 { quality = 3; price = 150; };
+class rhs_mag_ub16_bd3_umk2a_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub16_bd3_umk2a_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub16_bd3_umk2a_s5m1 { quality = 3; price = 150; };
+class rhs_mag_ub16_ka52_s5 { quality = 3; price = 150; };
+class rhs_mag_ub16_ka52_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub16_ka52_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub16_ka52_s5m1 { quality = 3; price = 150; };
+class rhs_mag_ub16_s5 { quality = 3; price = 150; };
+class rhs_mag_ub16_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub16_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub16_s5m1 { quality = 3; price = 150; };
+class rhs_mag_ub32_bd3_umk2a_s5 { quality = 3; price = 150; };
+class rhs_mag_ub32_bd3_umk2a_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub32_bd3_umk2a_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub32_bd3_umk2a_s5m1 { quality = 3; price = 150; };
+class rhs_mag_ub32_ka52_s5 { quality = 3; price = 150; };
+class rhs_mag_ub32_ka52_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub32_ka52_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub32_ka52_s5m1 { quality = 3; price = 150; };
+class rhs_mag_ub32_s5 { quality = 3; price = 150; };
+class rhs_mag_ub32_s5k1 { quality = 3; price = 150; };
+class rhs_mag_ub32_s5ko { quality = 3; price = 150; };
+class rhs_mag_ub32_s5m1 { quality = 3; price = 150; };
+class rhs_mag_upk23_btz { quality = 3; price = 150; };
+class rhs_mag_upk23_ka52_btz { quality = 3; price = 150; };
+class rhs_mag_upk23_ka52_mixed { quality = 3; price = 150; };
+class rhs_mag_upk23_ka52_ofz { quality = 3; price = 150; };
+class rhs_mag_upk23_ka52_ofzt { quality = 3; price = 150; };
+class rhs_mag_upk23_mixed { quality = 3; price = 150; };
+class rhs_mag_upk23_ofz { quality = 3; price = 150; };
+class rhs_mag_upk23_ofzt { quality = 3; price = 150; };
+class RHS_mag_VOG17m_30 { quality = 3; price = 150; };
+class RHS_mag_VOG30_30 { quality = 3; price = 150; };
+class rhs_mag_WP_2a33 { quality = 3; price = 150; };
+class rhs_mag_WP_2a33_26 { quality = 3; price = 150; };
+class rhs_proxy_ags30_12_mag { quality = 3; price = 150; };
+class rhs_proxy_ags30_mag { quality = 3; price = 150; };
+class rhs_proxy_pkm_18_mag { quality = 3; price = 150; };
+
+
+/*
+
+        Exile Loottable Entries
+
+*/
+
+//  Grenades, Smoke Grenades, Chemlights and Flares
+5, rhs_mag_fakel 
+5, rhs_mag_fakels 
+5, rhs_mag_nspd 
+5, rhs_mag_nspn_green 
+5, rhs_mag_nspn_red 
+5, rhs_mag_nspn_yellow 
+5, rhs_mag_plamyam 
+5, rhs_mag_rdg2_black 
+5, rhs_mag_rdg2_white 
+5, rhs_mag_rgd5 
+5, rhs_mag_rgn 
+5, rhs_mag_rgo 
+5, rhs_mag_zarya2 
+
+
+//  Launcher Rounds
+5, rhs_mag_2Rnd_Igla 
+5, rhs_mag_9k32_rocket 
+5, rhs_mag_9k38_rocket 
+5, rhs_rpg7_OG7V_mag 
+5, rhs_rpg7_PG7V_mag 
+5, rhs_rpg7_PG7VL_mag 
+5, rhs_rpg7_PG7VM_mag 
+5, rhs_rpg7_PG7VR_mag 
+5, rhs_rpg7_PG7VS_mag 
+5, rhs_rpg7_TBG7V_mag 
+5, rhs_rpg7_type69_airburst_mag 
+
+
+//  Vehicle Ammo
+5, rhs_mag_127x108mm_100 
+5, rhs_mag_127x108mm_1470 
+5, rhs_mag_127x108mm_150 
+5, rhs_mag_127x108mm_1slt_1470 
+5, rhs_mag_127x108mm_300 
+5, rhs_mag_127x108mm_50 
+5, rhs_mag_145x115mm_50 
+5, rhs_mag_3bk12_8 
+5, rhs_mag_3bk14_6 
+5, rhs_mag_3bk14_8 
+5, rhs_mag_3bk18_6 
+5, rhs_mag_3bk18_8 
+5, rhs_mag_3bk18m_6 
+5, rhs_mag_3bk18m_8 
+5, rhs_mag_3bk21_8 
+5, rhs_mag_3bk29_8 
+5, rhs_mag_3bk31_3 
+5, rhs_mag_3bk31_6 
+5, rhs_mag_3bk31_8 
+5, rhs_mag_3bm12_10 
+5, rhs_mag_3bm15_10 
+5, rhs_mag_3bm17_10 
+5, rhs_mag_3bm17_14 
+5, rhs_mag_3bm22_10 
+5, rhs_mag_3bm22_14 
+5, rhs_mag_3bm22_7 
+5, rhs_mag_3bm26_10 
+5, rhs_mag_3bm26_7 
+5, rhs_mag_3bm29_10 
+5, rhs_mag_3bm29_7 
+5, rhs_mag_3bm32_10 
+5, rhs_mag_3bm32_7 
+5, rhs_mag_3bm42_10 
+5, rhs_mag_3bm42_7 
+5, rhs_mag_3bm42m_10 
+5, rhs_mag_3bm46_10 
+5, rhs_mag_3bm46_8 
+5, rhs_mag_3bm59_10 
+5, rhs_mag_3bm60_10 
+5, rhs_mag_3bm69_10 
+5, rhs_mag_3bm69_17 
+5, rhs_mag_3bm70_10 
+5, rhs_mag_3bm9_10 
+5, rhs_mag_3d17 
+5, rhs_mag_3d17_12 
+5, rhs_mag_3d17_4 
+5, rhs_mag_3d17_6 
+5, rhs_mag_3m7_12 
+5, rhs_mag_3of11_6 
+5, rhs_mag_3of26_5 
+5, rhs_mag_3of26_6 
+5, rhs_mag_3of26_7 
+5, rhs_mag_3of56 
+5, rhs_mag_3of56_10 
+5, rhs_mag_3of69m 
+5, rhs_mag_3of69m_2 
+5, rhs_mag_3ubr11_125 
+5, rhs_mag_3ubr11_160 
+5, rhs_mag_3ubr11_195 
+5, rhs_mag_3ubr11_230 
+5, rhs_mag_3ubr11_250 
+5, rhs_mag_3ubr6_150 
+5, rhs_mag_3ubr6_160 
+5, rhs_mag_3ubr6_195 
+5, rhs_mag_3ubr6_230 
+5, rhs_mag_3ubr6_250 
+5, rhs_mag_3ubr8_125 
+5, rhs_mag_3ubr8_160 
+5, rhs_mag_3ubr8_195 
+5, rhs_mag_3ubr8_230 
+5, rhs_mag_3ubr8_250 
+5, rhs_mag_3UOF17_22 
+5, rhs_mag_3UOF191_22 
+5, rhs_mag_3UOF19_22 
+5, rhs_mag_3uof8_125 
+5, rhs_mag_3uof8_305 
+5, rhs_mag_3uof8_340 
+5, rhs_mag_3uor6_150 
+5, rhs_mag_3uor6_230 
+5, rhs_mag_3uor6_250 
+5, rhs_mag_3uor6_305 
+5, rhs_mag_3uor6_340 
+5, rhs_mag_3vo18_10 
+5, rhs_mag_3vs25m_10 
+5, rhs_mag_40Rnd_122mm_rockets 
+5, rhs_mag_53_va_832a_10 
+5, rhs_mag_762x54mm_100 
+5, rhs_mag_762x54mm_1000 
+5, rhs_mag_762x54mm_2000 
+5, rhs_mag_762x54mm_250 
+5, rhs_mag_762x54mm_500 
+5, rhs_mag_902a 
+5, rhs_mag_9m111 
+5, rhs_mag_9m111_3 
+5, rhs_mag_9m111_4 
+5, rhs_mag_9m111_5 
+5, rhs_mag_9m111M 
+5, rhs_mag_9m111M_3 
+5, rhs_mag_9m111M_4 
+5, rhs_mag_9m111M_5 
+5, rhs_mag_9m112_6 
+5, rhs_mag_9m112m2_6 
+5, rhs_mag_9m112m_4 
+5, rhs_mag_9m112m_6 
+5, rhs_mag_9m113 
+5, rhs_mag_9m113_3 
+5, rhs_mag_9m113_4 
+5, rhs_mag_9m113_5 
+5, rhs_mag_9m113M 
+5, rhs_mag_9m113M_3 
+5, rhs_mag_9m113M_4 
+5, rhs_mag_9m113M_5 
+5, rhs_mag_9M114 
+5, rhs_mag_9M114_Mi24_2x 
+5, rhs_mag_9M114F_Mi24_2x 
+5, rhs_mag_9M114M1_Mi24_2x 
+5, rhs_mag_9M114M2_Mi24_2x 
+5, rhs_mag_9M114M_Mi24_2x 
+5, rhs_mag_9M115 
+5, rhs_mag_9m117_3 
+5, rhs_mag_9m117_8 
+5, rhs_mag_9m117m1_3 
+5, rhs_mag_9m117m1_8 
+5, rhs_mag_9m117m_3 
+5, rhs_mag_9m117m_8 
+5, rhs_mag_9m118_3 
+5, rhs_mag_9m119_4 
+5, rhs_mag_9m119_6 
+5, rhs_mag_9m119f_6 
+5, rhs_mag_9m119m_4 
+5, rhs_mag_9m119m_6 
+5, rhs_mag_9m119rx_6 
+5, rhs_mag_9m120 
+5, rhs_mag_9M120_16 
+5, rhs_mag_9M120_8 
+5, rhs_mag_9M120_Mi24_2x 
+5, rhs_mag_9M120_Mi28_8x 
+5, rhs_mag_9m120f 
+5, rhs_mag_9M120f_16 
+5, rhs_mag_9M120f_8 
+5, rhs_mag_9M120F_Mi24_2x 
+5, rhs_mag_9M120f_Mi28_8x 
+5, rhs_mag_9m120m 
+5, rhs_mag_9M120m_16 
+5, rhs_mag_9M120m_8 
+5, rhs_mag_9M120M_Mi24_2x 
+5, rhs_mag_9M120M_Mi28_8x 
+5, rhs_mag_9m120o 
+5, rhs_mag_9M120O_Mi24_2x 
+5, rhs_mag_9M120O_Mi28_8x 
+5, rhs_mag_9m124_6 
+5, rhs_mag_9m127 
+5, rhs_mag_9m127m 
+5, rhs_mag_9m128_6 
+5, rhs_mag_9M131 
+5, rhs_mag_9M131F 
+5, rhs_mag_9M131M 
+5, rhs_mag_9m133 
+5, rhs_mag_9m1331 
+5, rhs_mag_9m1331_2 
+5, rhs_mag_9m133_2 
+5, rhs_mag_9m133f 
+5, rhs_mag_9m133f_2 
+5, rhs_mag_9m133m2 
+5, rhs_mag_9m133m2_2 
+5, rhs_mag_9m14 
+5, rhs_mag_9m14m 
+5, rhs_mag_9m14m_3 
+5, rhs_mag_9m14m_4 
+5, rhs_mag_9m17 
+5, rhs_mag_9M17_Mi24_2x 
+5, rhs_mag_9m17p 
+5, rhs_mag_9M17p_Mi24_2x 
+5, rhs_mag_9m41_20 
+5, rhs_mag_AM23_500 
+5, rhs_mag_apu68_bd3_umk2a_s24 
+5, rhs_mag_apu68_bd3_umk2a_s24b 
+5, rhs_mag_apu68m3_s24 
+5, rhs_mag_apu68m3_s24b 
+5, rhs_mag_apu6_9m127m_ka52 
+5, rhs_mag_Atomic_2a33 
+5, rhs_mag_Atomic_2a33_26 
+5, rhs_mag_AZP23_100 
+5, rhs_mag_AZP23_100_ap 
+5, rhs_mag_AZP23_2000 
+5, rhs_mag_AZP23_2000_mixed 
+5, rhs_mag_AZP23_250 
+5, rhs_mag_AZP23_250_ap 
+5, rhs_mag_AZP23_250_mixed 
+5, rhs_mag_b13l1_ka52_s13b 
+5, rhs_mag_b13l1_ka52_s13d 
+5, rhs_mag_b13l1_ka52_s13df 
+5, rhs_mag_b13l1_ka52_s13of 
+5, rhs_mag_b13l1_ka52_s13t 
+5, rhs_mag_b13l1_s13b 
+5, rhs_mag_b13l1_s13d 
+5, rhs_mag_b13l1_s13df 
+5, rhs_mag_b13l1_s13of 
+5, rhs_mag_b13l1_s13t 
+5, rhs_mag_b13l_bd3_umk2a_s13b 
+5, rhs_mag_b13l_bd3_umk2a_s13d 
+5, rhs_mag_b13l_bd3_umk2a_s13df 
+5, rhs_mag_b13l_bd3_umk2a_s13of 
+5, rhs_mag_b13l_bd3_umk2a_s13t 
+5, rhs_mag_b13l_s13b 
+5, rhs_mag_b13l_s13d 
+5, rhs_mag_b13l_s13df 
+5, rhs_mag_b13l_s13of 
+5, rhs_mag_b13l_s13t 
+5, rhs_mag_b8m1_bd3_umk2a_s8df 
+5, rhs_mag_b8m1_bd3_umk2a_s8kom 
+5, rhs_mag_b8m1_bd3_umk2a_s8t 
+5, rhs_mag_b8m1_s8df 
+5, rhs_mag_b8m1_s8kom 
+5, rhs_mag_b8m1_s8t 
+5, rhs_mag_b8v20a_ka52_s8df 
+5, rhs_mag_b8v20a_ka52_s8kom 
+5, rhs_mag_b8v20a_ka52_s8t 
+5, rhs_mag_b8v20a_s8df 
+5, rhs_mag_b8v20a_s8kom 
+5, rhs_mag_b8v20a_s8t 
+5, rhs_mag_bd3_usk_a_o25l_s25l 
+5, rhs_mag_bd3_usk_a_o25l_s25ld 
+5, rhs_mag_bd3_usk_a_o25l_s25o 
+5, rhs_mag_bd3_usk_a_o25l_s25of 
+5, rhs_mag_bk13 
+5, rhs_mag_bk13_26 
+5, rhs_mag_bk15_5 
+5, rhs_mag_bk17_8 
+5, rhs_mag_bk4_5 
+5, rhs_mag_bk5_8 
+5, rhs_mag_bk6m 
+5, rhs_mag_bk6m_26 
+5, rhs_mag_bm23_15 
+5, rhs_mag_bm25_14 
+5, rhs_mag_bm4_15 
+5, rhs_mag_bm8_14 
+5, rhs_mag_br412_14 
+5, rhs_mag_br412_17 
+5, rhs_mag_d462 
+5, rhs_mag_d462_2 
+5, rhs_mag_d832du_10 
+5, rhs_mag_dazzler 
+5, rhs_mag_fab100 
+5, rhs_mag_fab100_bd3_umk2a 
+5, rhs_mag_fab100_ka52 
+5, rhs_mag_fab100_MBD3_U4T 
+5, rhs_mag_fab100_MBD3_U6 
+5, rhs_mag_fab250 
+5, rhs_mag_fab250_2 
+5, rhs_mag_fab250_4 
+5, rhs_mag_fab250_bd3_umk2a 
+5, rhs_mag_fab250_ka52 
+5, rhs_mag_fab250_m62 
+5, rhs_mag_fab250_m62_bd3_umk2a 
+5, rhs_mag_fab250_m62_ka52 
+5, rhs_mag_fab500 
+5, rhs_mag_fab500_bd3_umk2a 
+5, rhs_mag_fab500_bd3_usk_a 
+5, rhs_mag_fab500_ka52 
+5, rhs_mag_fab500_m54 
+5, rhs_mag_fab500_m54_bd3_umk2a 
+5, rhs_mag_fab500_m54_bd3_usk_a 
+5, rhs_mag_fab500_m54_ka52 
+5, RHS_mag_GPD30_30 
+5, rhs_mag_gsh30_bt_150 
+5, rhs_mag_gsh30_bt_250 
+5, rhs_mag_gsh30_bt_750 
+5, rhs_mag_gsh30_mixed_150 
+5, rhs_mag_gsh30_ofzt_250 
+5, rhs_mag_gsh30_ofzt_750 
+5, rhs_mag_HE_2a33 
+5, rhs_mag_HE_2a33_26 
+5, rhs_mag_ILLUM_2a33 
+5, rhs_mag_ILLUM_2a33_26 
+5, rhs_mag_kab250 
+5, rhs_mag_kab250_int 
+5, rhs_mag_kab500 
+5, rhs_mag_kab500_bd3_umk2a 
+5, rhs_mag_kab500kr 
+5, rhs_mag_kab500kr_bd3_umk2a 
+5, rhs_mag_kab500LK 
+5, rhs_mag_kab500LK_bd3_umk2a 
+5, rhs_mag_kab500od 
+5, rhs_mag_kab500od_bd3_umk2a 
+5, rhs_mag_kh25 
+5, rhs_mag_kh25_apu68_mig29 
+5, rhs_mag_kh25MA 
+5, rhs_mag_kh25ML 
+5, rhs_mag_kh25ML_apu68_mig29 
+5, rhs_mag_kh25MP 
+5, rhs_mag_kh25MP_apu68_mig29 
+5, rhs_mag_kh25MT 
+5, rhs_mag_kh25MT_apu68_mig29 
+5, rhs_mag_kh25MTP 
+5, rhs_mag_kh25MTP_apu68_mig29 
+5, rhs_mag_kh29D 
+5, rhs_mag_kh29l 
+5, rhs_mag_kh29l_aku58_mig29 
+5, rhs_mag_kh29ML 
+5, rhs_mag_kh29ML_aku58_mig29 
+5, rhs_mag_kh29MP 
+5, rhs_mag_kh29MP_aku58_mig29 
+5, rhs_mag_kh29T 
+5, rhs_mag_kh29T_aku58_mig29 
+5, rhs_mag_Kh38mae 
+5, rhs_mag_Kh38mae_int 
+5, rhs_mag_Kh38mle 
+5, rhs_mag_Kh38mle_int 
+5, rhs_mag_Kh38mte 
+5, rhs_mag_Kh38mte_int 
+5, rhs_mag_kh55sh 
+5, rhs_mag_kh55sh_6 
+5, rhs_mag_kh55sh_nocamo 
+5, rhs_mag_kh55sh_nocamo_6 
+5, rhs_mag_kh55sm 
+5, rhs_mag_kh55sm_6 
+5, rhs_mag_kh55sm_nocamo 
+5, rhs_mag_kh55sm_nocamo_6 
+5, rhs_mag_kmgu2_ao25 
+5, rhs_mag_kmgu2_ao25_bd3_umk2a 
+5, rhs_mag_kmgu2_ao25_ka52 
+5, rhs_mag_kmgu2_pfm1 
+5, rhs_mag_kmgu2_pfm1_bd3_umk2a 
+5, rhs_mag_kmgu2_pfm1_ka52 
+5, rhs_mag_kmgu2_ptab1m 
+5, rhs_mag_kmgu2_ptab1m_bd3_umk2a 
+5, rhs_mag_kmgu2_ptab1m_ka52 
+5, rhs_mag_kmgu2_ptm1 
+5, rhs_mag_kmgu2_ptm1_bd3_umk2a 
+5, rhs_mag_kmgu2_ptm1_ka52 
+5, rhs_mag_LASER_2a33 
+5, rhs_mag_LASER_2a33_26 
+5, rhs_mag_MCLOS_Training 
+5, rhs_mag_mi24_empty 
+5, rhs_mag_o25l_s25l 
+5, rhs_mag_o25l_s25ld 
+5, rhs_mag_o25l_s25o 
+5, rhs_mag_o25l_s25of 
+5, rhs_mag_of11_20 
+5, rhs_mag_of28_20 
+5, rhs_mag_of412_17 
+5, rhs_mag_of412_18 
+5, rhs_mag_of412_21 
+5, rhs_mag_of462 
+5, rhs_mag_of462_10 
+5, rhs_mag_ofab250 
+5, rhs_mag_ofab250_bd3_umk2a 
+5, rhs_mag_ofab250_ka52 
+5, rhs_mag_og15v_16 
+5, rhs_mag_og15v_20 
+5, rhs_mag_og15v_8 
+5, rhs_mag_og9v 
+5, rhs_mag_og9vm 
+5, rhs_mag_pg15v_12 
+5, rhs_mag_pg15v_20 
+5, rhs_mag_pg15v_24 
+5, rhs_mag_pg9n 
+5, rhs_mag_pg9v 
+5, rhs_mag_pg9vnt 
+5, rhs_mag_ptb1150_ptb 
+5, rhs_mag_ptb1500 
+5, rhs_mag_R27ER 
+5, rhs_mag_R27ER_APU470 
+5, rhs_mag_R27ET 
+5, rhs_mag_R27ET_APU470 
+5, rhs_mag_R27R 
+5, rhs_mag_R27R_APU470 
+5, rhs_mag_R27T 
+5, rhs_mag_R27T_APU470 
+5, rhs_mag_R60 
+5, rhs_mag_R60_APU60 
+5, rhs_mag_R60M 
+5, rhs_mag_R60M_APU60 
+5, rhs_mag_R73 
+5, rhs_mag_R73_APU73 
+5, rhs_mag_R73M 
+5, rhs_mag_R73M_APU73 
+5, rhs_mag_R74 
+5, rhs_mag_R74_APU73 
+5, rhs_mag_R74M2 
+5, rhs_mag_R74M2_int 
+5, rhs_mag_R77 
+5, rhs_mag_R77_AKU170 
+5, rhs_mag_R77_AKU170_MIG29 
+5, rhs_mag_R77M 
+5, rhs_mag_R77M_AKU170 
+5, rhs_mag_R77M_AKU170_MIG29 
+5, rhs_mag_rbk250_ao1 
+5, rhs_mag_rbk250_ao1_bd3_umk2a 
+5, rhs_mag_rbk250_ao1_ka52 
+5, rhs_mag_rbk250_ptab25 
+5, rhs_mag_rbk250_ptab25_bd3_umk2a 
+5, rhs_mag_rbk250_ptab25_ka52 
+5, rhs_mag_rbk250_zab25t 
+5, rhs_mag_rbk250_zab25t_bd3_umk2a 
+5, rhs_mag_rbk250_zab25t_ka52 
+5, rhs_mag_rbk500_ao25 
+5, rhs_mag_rbk500_ao25_bd3_umk2a 
+5, rhs_mag_rbk500_ao25_bd3_usk_a 
+5, rhs_mag_rbk500_ao25_ka52 
+5, rhs_mag_rbk500_ofab50 
+5, rhs_mag_rbk500_ofab50_bd3_umk2a 
+5, rhs_mag_rbk500_ofab50_bd3_usk_a 
+5, rhs_mag_rbk500_ofab50_ka52 
+5, rhs_mag_rbk500_ptab1m 
+5, rhs_mag_rbk500_ptab1m_bd3_umk2a 
+5, rhs_mag_rbk500_ptab1m_bd3_usk_a 
+5, rhs_mag_rbk500_ptab1m_ka52 
+5, rhs_mag_rbk500_spbed 
+5, rhs_mag_rbk500_spbed_bd3_umk2a 
+5, rhs_mag_rbk500_spbed_bd3_usk_a 
+5, rhs_mag_rbk500_spbed_ka52 
+5, rhs_mag_rbk500_zab25t 
+5, rhs_mag_rbk500_zab25t_bd3_umk2a 
+5, rhs_mag_rbk500_zab25t_bd3_usk_a 
+5, rhs_mag_rbk500_zab25t_ka52 
+5, rhs_mag_s13b_10 
+5, rhs_mag_s13d_10 
+5, rhs_mag_s13df_10 
+5, rhs_mag_s13of_10 
+5, rhs_mag_s13t_10 
+5, rhs_mag_s463 
+5, rhs_mag_s463_2 
+5, rhs_mag_s5_128 
+5, rhs_mag_s5_16 
+5, rhs_mag_s5_192 
+5, rhs_mag_s5_32 
+5, rhs_mag_s5_64 
+5, rhs_mag_s5_k1_128 
+5, rhs_mag_s5_k1_16 
+5, rhs_mag_s5_k1_192 
+5, rhs_mag_s5_k1_32 
+5, rhs_mag_s5_k1_64 
+5, rhs_mag_s5_ko_128 
+5, rhs_mag_s5_ko_16 
+5, rhs_mag_s5_ko_192 
+5, rhs_mag_s5_ko_32 
+5, rhs_mag_s5_ko_64 
+5, rhs_mag_s5_m1_128 
+5, rhs_mag_s5_m1_16 
+5, rhs_mag_s5_m1_192 
+5, rhs_mag_s5_m1_32 
+5, rhs_mag_s5_m1_64 
+5, rhs_mag_s8_12 
+5, rhs_mag_s8_120 
+5, rhs_mag_s8_20 
+5, rhs_mag_s8_40 
+5, rhs_mag_s8_80 
+5, rhs_mag_s8_DF_20 
+5, rhs_mag_s8_DF_40 
+5, rhs_mag_s8_DF_80 
+5, rhs_mag_s8_T_20 
+5, rhs_mag_s8_T_40 
+5, rhs_mag_s8_T_80 
+5, rhs_mag_SMOKE_2a33 
+5, rhs_mag_SMOKE_2a33_26 
+5, rhs_mag_smokegen 
+5, rhs_mag_ub16_bd3_umk2a_s5 
+5, rhs_mag_ub16_bd3_umk2a_s5k1 
+5, rhs_mag_ub16_bd3_umk2a_s5ko 
+5, rhs_mag_ub16_bd3_umk2a_s5m1 
+5, rhs_mag_ub16_ka52_s5 
+5, rhs_mag_ub16_ka52_s5k1 
+5, rhs_mag_ub16_ka52_s5ko 
+5, rhs_mag_ub16_ka52_s5m1 
+5, rhs_mag_ub16_s5 
+5, rhs_mag_ub16_s5k1 
+5, rhs_mag_ub16_s5ko 
+5, rhs_mag_ub16_s5m1 
+5, rhs_mag_ub32_bd3_umk2a_s5 
+5, rhs_mag_ub32_bd3_umk2a_s5k1 
+5, rhs_mag_ub32_bd3_umk2a_s5ko 
+5, rhs_mag_ub32_bd3_umk2a_s5m1 
+5, rhs_mag_ub32_ka52_s5 
+5, rhs_mag_ub32_ka52_s5k1 
+5, rhs_mag_ub32_ka52_s5ko 
+5, rhs_mag_ub32_ka52_s5m1 
+5, rhs_mag_ub32_s5 
+5, rhs_mag_ub32_s5k1 
+5, rhs_mag_ub32_s5ko 
+5, rhs_mag_ub32_s5m1 
+5, rhs_mag_upk23_btz 
+5, rhs_mag_upk23_ka52_btz 
+5, rhs_mag_upk23_ka52_mixed 
+5, rhs_mag_upk23_ka52_ofz 
+5, rhs_mag_upk23_ka52_ofzt 
+5, rhs_mag_upk23_mixed 
+5, rhs_mag_upk23_ofz 
+5, rhs_mag_upk23_ofzt 
+5, RHS_mag_VOG17m_30 
+5, RHS_mag_VOG30_30 
+5, rhs_mag_WP_2a33 
+5, rhs_mag_WP_2a33_26 
+5, rhs_proxy_ags30_12_mag 
+5, rhs_proxy_ags30_mag 
+5, rhs_proxy_pkm_18_mag 

@@ -1,0 +1,861 @@
+
+
+/*
+
+        Exile Trader Item Lists
+
+*/
+
+// Assault Rifles  
+
+
+
+// Assault Rifles with GL 
+
+"rhs_weap_ak74m",
+"rhs_weap_ak74m_camo",
+"rhs_weap_ak74m_npz",
+"rhs_weap_ak74m_desert_npz",
+"rhs_weap_ak74m_folded",
+"rhs_weap_ak74m_camo_folded",
+"rhs_weap_ak74m_desert_folded",
+"rhs_weap_ak74m_2mag",
+"rhs_weap_ak74m_2mag_npz",
+"rhs_weap_ak74m_2mag_camo",
+"rhs_weap_ak74m_desert",
+"rhs_weap_ak74m_gp25",
+"rhs_weap_ak74m_gp25_npz",
+"rhs_weap_ak74m_fullplum",
+"rhs_weap_ak74m_fullplum_npz",
+"rhs_weap_ak74m_Base_F",
+"rhs_weap_ak74m_fullplum_gp25",
+"rhs_weap_ak74m_fullplum_gp25_npz",
+"rhs_weap_ak74m_zenitco01",
+"rhs_weap_ak74m_zenitco01_npz",
+"rhs_weap_ak74m_zenitco01_b33",
+"rhs_weap_ak74mr",
+"rhs_weap_ak74mr_folded",
+"rhs_weap_ak74mr_gp25",
+"rhs_weap_ak105",
+"rhs_weap_ak105_zenitco01",
+"rhs_weap_ak105_zenitco01_npz",
+"rhs_weap_ak105_npz",
+"rhs_weap_ak105_folded",
+"rhs_weap_ak105_zenitco01_b33",
+"rhs_weap_akm",
+"rhs_weap_akm_gp25",
+"rhs_weap_akmn",
+"rhs_weap_akmn_gp25",
+"rhs_weap_akmn_npz",
+"rhs_weap_akmn_gp25_npz",
+"rhs_weap_akm_zenitco01_b33",
+"rhs_weap_akms",
+"rhs_weap_akms_folded",
+"rhs_weap_akms_gp25",
+"rhs_weap_pm63",
+"rhs_weap_ak103",
+"rhs_weap_ak104",
+"rhs_weap_ak104_npz",
+"rhs_weap_ak104_zenitco01",
+"rhs_weap_ak104_zenitco01_npz",
+"rhs_weap_ak104_zenitco01_b33",
+"rhs_weap_ak104_folded",
+"rhs_weap_ak103_npz",
+"rhs_weap_ak103_folded",
+"rhs_weap_ak103_zenitco01",
+"rhs_weap_ak103_zenitco01_folded",
+"rhs_weap_ak103_zenitco01_npz",
+"rhs_weap_ak103_zenitco01_b33",
+"rhs_weap_ak103_1",
+"rhs_weap_ak103_1_npz",
+"rhs_weap_ak103_1_folded",
+"rhs_weap_ak103_2",
+"rhs_weap_ak103_2_npz",
+"rhs_weap_ak103_2_folded",
+"rhs_weap_ak103_gp25",
+"rhs_weap_ak103_gp25_npz",
+"rhs_weap_ak74",
+"rhs_weap_ak74_gp25",
+"rhs_weap_ak74n",
+"rhs_weap_ak74n_gp25",
+"rhs_weap_ak74n_npz",
+"rhs_weap_ak74n_gp25_npz",
+"rhs_weap_ak74_2",
+"rhs_weap_ak74n_2",
+"rhs_weap_ak74n_2_npz",
+"rhs_weap_ak74n_2_gp25",
+"rhs_weap_ak74n_2_gp25_npz",
+"rhs_weap_ak74_3",
+"rhs_weap_aks74",
+"rhs_weap_aks74_folded",
+"rhs_weap_aks74_2",
+"rhs_weap_aks74_2_folded",
+"rhs_weap_aks74_gp25",
+"rhs_weap_aks74n",
+"rhs_weap_aks74n_npz",
+"rhs_weap_aks74n_2",
+"rhs_weap_aks74n_2_npz",
+"rhs_weap_aks74n_folded",
+"rhs_weap_aks74n_2_folded",
+"rhs_weap_aks74n_gp25",
+"rhs_weap_aks74n_gp25_npz",
+"rhs_weap_aks74u",
+"rhs_weap_aks74u_folded",
+"rhs_weap_aks74un",
+"rhs_weap_aks74un_folded",
+"rhs_weap_asval",
+"rhs_weap_asval_grip",
+"rhs_weap_asval_npz",
+"rhs_weap_asval_grip_npz",
+"rhs_weap_vss",
+"rhs_weap_vss_grip",
+"rhs_weap_vss_npz",
+"rhs_weap_vss_grip_npz",
+"rhs_weap_svd",
+"rhs_weap_svdp",
+"rhs_weap_svdp_npz",
+"rhs_weap_svdp_wd",
+"rhs_weap_svdp_wd_npz",
+"rhs_weap_svds",
+"rhs_weap_svds_npz",
+"rhs_weap_t5000",
+"rhs_weap_pp2000",
+"rhs_weap_rifle_empty",
+
+
+// LMGs 
+
+"rhs_weap_pkp",
+"rhs_weap_pkm",
+"rhs_weap_rpk74",
+"rhs_weap_rpk74m",
+
+
+//  SMGs  
+
+
+
+// Snipers  
+
+
+
+// DMRs  
+
+
+
+// Launchers  
+
+"rhs_weap_rpg26",
+"rhs_weap_rpg26_used",
+"rhs_weap_rpg18",
+"rhs_weap_rpg18_used",
+"rhs_weap_rshg2",
+"rhs_weap_rshg2_used",
+"rhs_weap_rpg7",
+"rhs_weap_strela",
+"rhs_weap_igla",
+
+
+// Handguns  
+
+"rhs_weap_pp2000_folded",
+"rhs_weap_pya",
+"rhs_weap_rsp30_white",
+"rhs_weap_rsp30_red",
+"rhs_weap_rsp30_green",
+"rhs_weap_tr8",
+"rhs_weap_makarov_pm",
+"rhs_weap_makarov_pmm",
+"rhs_weap_pb_6p9",
+"rhs_weap_6p53",
+
+
+// Shotguns  
+
+
+
+// Throwables  
+
+
+
+// Magazines  
+
+"rhs_30Rnd_545x39_7N10_AK",
+"rhs_30Rnd_545x39_7N10_plum_AK",
+"rhs_30Rnd_545x39_7N10_desert_AK",
+"rhs_30Rnd_545x39_7N10_camo_AK",
+"rhs_30Rnd_545x39_7N6_AK",
+"rhs_30Rnd_545x39_7N6_green_AK",
+"rhs_30Rnd_545x39_7N6M_AK",
+"rhs_30Rnd_545x39_7N6M_green_AK",
+"rhs_30Rnd_545x39_7N6M_plum_AK",
+"rhs_30Rnd_545x39_7N10_2mag_AK",
+"rhs_30Rnd_545x39_7N10_2mag_plum_AK",
+"rhs_30Rnd_545x39_7N10_2mag_desert_AK",
+"rhs_30Rnd_545x39_7N10_2mag_camo_AK",
+"rhs_30Rnd_545x39_7N22_AK",
+"rhs_30Rnd_545x39_7N22_plum_AK",
+"rhs_30Rnd_545x39_7N22_desert_AK",
+"rhs_30Rnd_545x39_7N22_camo_AK",
+"rhs_30Rnd_545x39_AK_green",
+"rhs_30Rnd_545x39_AK_plum_green",
+"rhs_30Rnd_545x39_7U1_AK",
+"rhs_45Rnd_545x39_AK",
+"rhs_45Rnd_545x39_7N6_AK",
+"rhs_45Rnd_545x39_7N10_AK",
+"rhs_45Rnd_545x39_7N22_AK",
+"rhs_45Rnd_545x39_AK_green",
+"rhs_45Rnd_545x39_7U1_AK",
+"rhs_30Rnd_545x39_AK",
+"rhs_30Rnd_545x39_AK_no_tracers",
+"rhs_30Rnd_762x39mm_bakelite",
+"rhs_30Rnd_762x39mm_bakelite_tracer",
+"rhs_30Rnd_762x39mm_bakelite_89",
+"rhs_30Rnd_762x39mm_bakelite_U",
+"rhs_30Rnd_762x39mm",
+"rhs_30Rnd_762x39mm_tracer",
+"rhs_30Rnd_762x39mm_89",
+"rhs_30Rnd_762x39mm_U",
+"rhs_30Rnd_762x39mm_polymer",
+"rhs_30Rnd_762x39mm_polymer_tracer",
+"rhs_30Rnd_762x39mm_polymer_89",
+"rhs_30Rnd_762x39mm_polymer_U",
+"rhs_10Rnd_762x39mm",
+"rhs_10Rnd_762x39mm_tracer",
+"rhs_10Rnd_762x39mm_89",
+"rhs_10Rnd_762x39mm_U",
+"rhs_75Rnd_762x39mm",
+"rhs_75Rnd_762x39mm_tracer",
+"rhs_75Rnd_762x39mm_89",
+"rhs_20rnd_9x39mm_SP5",
+"rhs_20rnd_9x39mm_SP6",
+"rhs_10rnd_9x39mm_SP5",
+"rhs_10rnd_9x39mm_SP6",
+"rhs_10Rnd_762x54mmR_7N1",
+"rhs_10Rnd_762x54mmR_7N14",
+"rhs_5Rnd_338lapua_t5000",
+"rhs_mag_9x19mm_7n21_20",
+"rhs_mag_9x19mm_7n31_20",
+"rhs_mag_9x19mm_7n21_44",
+"rhs_mag_9x19mm_7n31_44",
+"rhs_mag_9x19_17",
+"rhs_mag_rsp30_white",
+"rhs_mag_rsp30_red",
+"rhs_mag_rsp30_green",
+"rhs_mag_9x18_8_57N181S",
+"rhs_mag_9x18_12_57N181S",
+"rhs_18rnd_9x21mm_7N28",
+"rhs_18rnd_9x21mm_7N29",
+"rhs_18rnd_9x21mm_7BT3",
+"rhs_100Rnd_762x54mmR",
+"rhs_100Rnd_762x54mmR_green",
+"rhs_100Rnd_762x54mmR_7N13",
+"rhs_100Rnd_762x54mmR_7N26",
+"rhs_100Rnd_762x54mmR_7BZ3",
+"rhs_rpg26_mag",
+"rhs_launcher_dummy_mag",
+"rhs_rpg18_mag",
+"rhs_rshg2_mag",
+"rhs_rpg7_PG7V_mag",
+"rhs_rpg7_PG7VL_mag",
+"rhs_rpg7_PG7VR_mag",
+"rhs_rpg7_OG7V_mag",
+"rhs_rpg7_TBG7V_mag",
+"rhs_rpg7_TYPE69_airburst_mag",
+"rhs_mag_9k32_rocket",
+"rhs_mag_9k38_rocket",
+
+
+// Optics  
+
+
+
+// Muzzles  
+
+"rhs_acc_6p9_suppressor",
+
+
+// Pointers  
+
+
+
+// Underbarrel  
+
+
+
+// Unknown  
+
+
+
+/*
+
+        Exile Pricelists
+
+*/
+
+// Assault Rifles  
+
+
+
+// Assault Rifles with GL 
+
+class rhs_weap_ak74m { quality = 3; price = 150; };
+class rhs_weap_ak74m_camo { quality = 3; price = 150; };
+class rhs_weap_ak74m_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_desert_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_folded { quality = 3; price = 150; };
+class rhs_weap_ak74m_camo_folded { quality = 3; price = 150; };
+class rhs_weap_ak74m_desert_folded { quality = 3; price = 150; };
+class rhs_weap_ak74m_2mag { quality = 3; price = 150; };
+class rhs_weap_ak74m_2mag_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_2mag_camo { quality = 3; price = 150; };
+class rhs_weap_ak74m_desert { quality = 3; price = 150; };
+class rhs_weap_ak74m_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak74m_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_fullplum { quality = 3; price = 150; };
+class rhs_weap_ak74m_fullplum_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_Base_F { quality = 3; price = 150; };
+class rhs_weap_ak74m_fullplum_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak74m_fullplum_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_zenitco01 { quality = 3; price = 150; };
+class rhs_weap_ak74m_zenitco01_npz { quality = 3; price = 150; };
+class rhs_weap_ak74m_zenitco01_b33 { quality = 3; price = 150; };
+class rhs_weap_ak74mr { quality = 3; price = 150; };
+class rhs_weap_ak74mr_folded { quality = 3; price = 150; };
+class rhs_weap_ak74mr_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak105 { quality = 3; price = 150; };
+class rhs_weap_ak105_zenitco01 { quality = 3; price = 150; };
+class rhs_weap_ak105_zenitco01_npz { quality = 3; price = 150; };
+class rhs_weap_ak105_npz { quality = 3; price = 150; };
+class rhs_weap_ak105_folded { quality = 3; price = 150; };
+class rhs_weap_ak105_zenitco01_b33 { quality = 3; price = 150; };
+class rhs_weap_akm { quality = 3; price = 150; };
+class rhs_weap_akm_gp25 { quality = 3; price = 150; };
+class rhs_weap_akmn { quality = 3; price = 150; };
+class rhs_weap_akmn_gp25 { quality = 3; price = 150; };
+class rhs_weap_akmn_npz { quality = 3; price = 150; };
+class rhs_weap_akmn_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_akm_zenitco01_b33 { quality = 3; price = 150; };
+class rhs_weap_akms { quality = 3; price = 150; };
+class rhs_weap_akms_folded { quality = 3; price = 150; };
+class rhs_weap_akms_gp25 { quality = 3; price = 150; };
+class rhs_weap_pm63 { quality = 3; price = 150; };
+class rhs_weap_ak103 { quality = 3; price = 150; };
+class rhs_weap_ak104 { quality = 3; price = 150; };
+class rhs_weap_ak104_npz { quality = 3; price = 150; };
+class rhs_weap_ak104_zenitco01 { quality = 3; price = 150; };
+class rhs_weap_ak104_zenitco01_npz { quality = 3; price = 150; };
+class rhs_weap_ak104_zenitco01_b33 { quality = 3; price = 150; };
+class rhs_weap_ak104_folded { quality = 3; price = 150; };
+class rhs_weap_ak103_npz { quality = 3; price = 150; };
+class rhs_weap_ak103_folded { quality = 3; price = 150; };
+class rhs_weap_ak103_zenitco01 { quality = 3; price = 150; };
+class rhs_weap_ak103_zenitco01_folded { quality = 3; price = 150; };
+class rhs_weap_ak103_zenitco01_npz { quality = 3; price = 150; };
+class rhs_weap_ak103_zenitco01_b33 { quality = 3; price = 150; };
+class rhs_weap_ak103_1 { quality = 3; price = 150; };
+class rhs_weap_ak103_1_npz { quality = 3; price = 150; };
+class rhs_weap_ak103_1_folded { quality = 3; price = 150; };
+class rhs_weap_ak103_2 { quality = 3; price = 150; };
+class rhs_weap_ak103_2_npz { quality = 3; price = 150; };
+class rhs_weap_ak103_2_folded { quality = 3; price = 150; };
+class rhs_weap_ak103_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak103_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_ak74 { quality = 3; price = 150; };
+class rhs_weap_ak74_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak74n { quality = 3; price = 150; };
+class rhs_weap_ak74n_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak74n_npz { quality = 3; price = 150; };
+class rhs_weap_ak74n_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_ak74_2 { quality = 3; price = 150; };
+class rhs_weap_ak74n_2 { quality = 3; price = 150; };
+class rhs_weap_ak74n_2_npz { quality = 3; price = 150; };
+class rhs_weap_ak74n_2_gp25 { quality = 3; price = 150; };
+class rhs_weap_ak74n_2_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_ak74_3 { quality = 3; price = 150; };
+class rhs_weap_aks74 { quality = 3; price = 150; };
+class rhs_weap_aks74_folded { quality = 3; price = 150; };
+class rhs_weap_aks74_2 { quality = 3; price = 150; };
+class rhs_weap_aks74_2_folded { quality = 3; price = 150; };
+class rhs_weap_aks74_gp25 { quality = 3; price = 150; };
+class rhs_weap_aks74n { quality = 3; price = 150; };
+class rhs_weap_aks74n_npz { quality = 3; price = 150; };
+class rhs_weap_aks74n_2 { quality = 3; price = 150; };
+class rhs_weap_aks74n_2_npz { quality = 3; price = 150; };
+class rhs_weap_aks74n_folded { quality = 3; price = 150; };
+class rhs_weap_aks74n_2_folded { quality = 3; price = 150; };
+class rhs_weap_aks74n_gp25 { quality = 3; price = 150; };
+class rhs_weap_aks74n_gp25_npz { quality = 3; price = 150; };
+class rhs_weap_aks74u { quality = 3; price = 150; };
+class rhs_weap_aks74u_folded { quality = 3; price = 150; };
+class rhs_weap_aks74un { quality = 3; price = 150; };
+class rhs_weap_aks74un_folded { quality = 3; price = 150; };
+class rhs_weap_asval { quality = 3; price = 150; };
+class rhs_weap_asval_grip { quality = 3; price = 150; };
+class rhs_weap_asval_npz { quality = 3; price = 150; };
+class rhs_weap_asval_grip_npz { quality = 3; price = 150; };
+class rhs_weap_vss { quality = 3; price = 150; };
+class rhs_weap_vss_grip { quality = 3; price = 150; };
+class rhs_weap_vss_npz { quality = 3; price = 150; };
+class rhs_weap_vss_grip_npz { quality = 3; price = 150; };
+class rhs_weap_svd { quality = 3; price = 150; };
+class rhs_weap_svdp { quality = 3; price = 150; };
+class rhs_weap_svdp_npz { quality = 3; price = 150; };
+class rhs_weap_svdp_wd { quality = 3; price = 150; };
+class rhs_weap_svdp_wd_npz { quality = 3; price = 150; };
+class rhs_weap_svds { quality = 3; price = 150; };
+class rhs_weap_svds_npz { quality = 3; price = 150; };
+class rhs_weap_t5000 { quality = 3; price = 150; };
+class rhs_weap_pp2000 { quality = 3; price = 150; };
+class rhs_weap_rifle_empty { quality = 3; price = 150; };
+
+
+// LMGs 
+
+class rhs_weap_pkp { quality = 3; price = 150; };
+class rhs_weap_pkm { quality = 3; price = 150; };
+class rhs_weap_rpk74 { quality = 3; price = 150; };
+class rhs_weap_rpk74m { quality = 3; price = 150; };
+
+
+//  SMGs  
+
+
+
+// Snipers  
+
+
+
+// DMRs  
+
+
+
+// Launchers  
+
+class rhs_weap_rpg26 { quality = 3; price = 150; };
+class rhs_weap_rpg26_used { quality = 3; price = 150; };
+class rhs_weap_rpg18 { quality = 3; price = 150; };
+class rhs_weap_rpg18_used { quality = 3; price = 150; };
+class rhs_weap_rshg2 { quality = 3; price = 150; };
+class rhs_weap_rshg2_used { quality = 3; price = 150; };
+class rhs_weap_rpg7 { quality = 3; price = 150; };
+class rhs_weap_strela { quality = 3; price = 150; };
+class rhs_weap_igla { quality = 3; price = 150; };
+
+
+// Handguns  
+
+class rhs_weap_pp2000_folded { quality = 3; price = 150; };
+class rhs_weap_pya { quality = 3; price = 150; };
+class rhs_weap_rsp30_white { quality = 3; price = 150; };
+class rhs_weap_rsp30_red { quality = 3; price = 150; };
+class rhs_weap_rsp30_green { quality = 3; price = 150; };
+class rhs_weap_tr8 { quality = 3; price = 150; };
+class rhs_weap_makarov_pm { quality = 3; price = 150; };
+class rhs_weap_makarov_pmm { quality = 3; price = 150; };
+class rhs_weap_pb_6p9 { quality = 3; price = 150; };
+class rhs_weap_6p53 { quality = 3; price = 150; };
+
+
+// Shotguns  
+
+
+
+// Throwables  
+
+
+
+// Magazines  
+
+class rhs_30Rnd_545x39_7N10_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_plum_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_desert_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_camo_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N6_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N6_green_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N6M_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N6M_green_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N6M_plum_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_2mag_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_2mag_plum_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_2mag_desert_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N10_2mag_camo_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N22_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N22_plum_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N22_desert_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7N22_camo_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_AK_green { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_AK_plum_green { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_7U1_AK { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_AK { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_7N6_AK { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_7N10_AK { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_7N22_AK { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_AK_green { quality = 3; price = 150; };
+class rhs_45Rnd_545x39_7U1_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_AK { quality = 3; price = 150; };
+class rhs_30Rnd_545x39_AK_no_tracers { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_bakelite { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_bakelite_tracer { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_bakelite_89 { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_bakelite_U { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_tracer { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_89 { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_U { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_polymer { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_polymer_tracer { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_polymer_89 { quality = 3; price = 150; };
+class rhs_30Rnd_762x39mm_polymer_U { quality = 3; price = 150; };
+class rhs_10Rnd_762x39mm { quality = 3; price = 150; };
+class rhs_10Rnd_762x39mm_tracer { quality = 3; price = 150; };
+class rhs_10Rnd_762x39mm_89 { quality = 3; price = 150; };
+class rhs_10Rnd_762x39mm_U { quality = 3; price = 150; };
+class rhs_75Rnd_762x39mm { quality = 3; price = 150; };
+class rhs_75Rnd_762x39mm_tracer { quality = 3; price = 150; };
+class rhs_75Rnd_762x39mm_89 { quality = 3; price = 150; };
+class rhs_20rnd_9x39mm_SP5 { quality = 3; price = 150; };
+class rhs_20rnd_9x39mm_SP6 { quality = 3; price = 150; };
+class rhs_10rnd_9x39mm_SP5 { quality = 3; price = 150; };
+class rhs_10rnd_9x39mm_SP6 { quality = 3; price = 150; };
+class rhs_10Rnd_762x54mmR_7N1 { quality = 3; price = 150; };
+class rhs_10Rnd_762x54mmR_7N14 { quality = 3; price = 150; };
+class rhs_5Rnd_338lapua_t5000 { quality = 3; price = 150; };
+class rhs_mag_9x19mm_7n21_20 { quality = 3; price = 150; };
+class rhs_mag_9x19mm_7n31_20 { quality = 3; price = 150; };
+class rhs_mag_9x19mm_7n21_44 { quality = 3; price = 150; };
+class rhs_mag_9x19mm_7n31_44 { quality = 3; price = 150; };
+class rhs_mag_9x19_17 { quality = 3; price = 150; };
+class rhs_mag_rsp30_white { quality = 3; price = 150; };
+class rhs_mag_rsp30_red { quality = 3; price = 150; };
+class rhs_mag_rsp30_green { quality = 3; price = 150; };
+class rhs_mag_9x18_8_57N181S { quality = 3; price = 150; };
+class rhs_mag_9x18_12_57N181S { quality = 3; price = 150; };
+class rhs_18rnd_9x21mm_7N28 { quality = 3; price = 150; };
+class rhs_18rnd_9x21mm_7N29 { quality = 3; price = 150; };
+class rhs_18rnd_9x21mm_7BT3 { quality = 3; price = 150; };
+class rhs_100Rnd_762x54mmR { quality = 3; price = 150; };
+class rhs_100Rnd_762x54mmR_green { quality = 3; price = 150; };
+class rhs_100Rnd_762x54mmR_7N13 { quality = 3; price = 150; };
+class rhs_100Rnd_762x54mmR_7N26 { quality = 3; price = 150; };
+class rhs_100Rnd_762x54mmR_7BZ3 { quality = 3; price = 150; };
+class rhs_rpg26_mag { quality = 3; price = 150; };
+class rhs_launcher_dummy_mag { quality = 3; price = 150; };
+class rhs_rpg18_mag { quality = 3; price = 150; };
+class rhs_rshg2_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VL_mag { quality = 3; price = 150; };
+class rhs_rpg7_PG7VR_mag { quality = 3; price = 150; };
+class rhs_rpg7_OG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_TBG7V_mag { quality = 3; price = 150; };
+class rhs_rpg7_TYPE69_airburst_mag { quality = 3; price = 150; };
+class rhs_mag_9k32_rocket { quality = 3; price = 150; };
+class rhs_mag_9k38_rocket { quality = 3; price = 150; };
+
+
+// Optics  
+
+
+
+// Muzzles  
+
+class rhs_acc_6p9_suppressor { quality = 3; price = 150; };
+
+
+// Pointers  
+
+
+
+// Underbarrel  
+
+
+
+// Unknown  
+
+
+
+/*
+
+        Exile Loottable Entries
+
+*/
+
+// Assault Rifles  
+
+
+
+// Assault Rifles with GL 
+
+5, rhs_weap_ak74m 
+5, rhs_weap_ak74m_camo 
+5, rhs_weap_ak74m_npz 
+5, rhs_weap_ak74m_desert_npz 
+5, rhs_weap_ak74m_folded 
+5, rhs_weap_ak74m_camo_folded 
+5, rhs_weap_ak74m_desert_folded 
+5, rhs_weap_ak74m_2mag 
+5, rhs_weap_ak74m_2mag_npz 
+5, rhs_weap_ak74m_2mag_camo 
+5, rhs_weap_ak74m_desert 
+5, rhs_weap_ak74m_gp25 
+5, rhs_weap_ak74m_gp25_npz 
+5, rhs_weap_ak74m_fullplum 
+5, rhs_weap_ak74m_fullplum_npz 
+5, rhs_weap_ak74m_Base_F 
+5, rhs_weap_ak74m_fullplum_gp25 
+5, rhs_weap_ak74m_fullplum_gp25_npz 
+5, rhs_weap_ak74m_zenitco01 
+5, rhs_weap_ak74m_zenitco01_npz 
+5, rhs_weap_ak74m_zenitco01_b33 
+5, rhs_weap_ak74mr 
+5, rhs_weap_ak74mr_folded 
+5, rhs_weap_ak74mr_gp25 
+5, rhs_weap_ak105 
+5, rhs_weap_ak105_zenitco01 
+5, rhs_weap_ak105_zenitco01_npz 
+5, rhs_weap_ak105_npz 
+5, rhs_weap_ak105_folded 
+5, rhs_weap_ak105_zenitco01_b33 
+5, rhs_weap_akm 
+5, rhs_weap_akm_gp25 
+5, rhs_weap_akmn 
+5, rhs_weap_akmn_gp25 
+5, rhs_weap_akmn_npz 
+5, rhs_weap_akmn_gp25_npz 
+5, rhs_weap_akm_zenitco01_b33 
+5, rhs_weap_akms 
+5, rhs_weap_akms_folded 
+5, rhs_weap_akms_gp25 
+5, rhs_weap_pm63 
+5, rhs_weap_ak103 
+5, rhs_weap_ak104 
+5, rhs_weap_ak104_npz 
+5, rhs_weap_ak104_zenitco01 
+5, rhs_weap_ak104_zenitco01_npz 
+5, rhs_weap_ak104_zenitco01_b33 
+5, rhs_weap_ak104_folded 
+5, rhs_weap_ak103_npz 
+5, rhs_weap_ak103_folded 
+5, rhs_weap_ak103_zenitco01 
+5, rhs_weap_ak103_zenitco01_folded 
+5, rhs_weap_ak103_zenitco01_npz 
+5, rhs_weap_ak103_zenitco01_b33 
+5, rhs_weap_ak103_1 
+5, rhs_weap_ak103_1_npz 
+5, rhs_weap_ak103_1_folded 
+5, rhs_weap_ak103_2 
+5, rhs_weap_ak103_2_npz 
+5, rhs_weap_ak103_2_folded 
+5, rhs_weap_ak103_gp25 
+5, rhs_weap_ak103_gp25_npz 
+5, rhs_weap_ak74 
+5, rhs_weap_ak74_gp25 
+5, rhs_weap_ak74n 
+5, rhs_weap_ak74n_gp25 
+5, rhs_weap_ak74n_npz 
+5, rhs_weap_ak74n_gp25_npz 
+5, rhs_weap_ak74_2 
+5, rhs_weap_ak74n_2 
+5, rhs_weap_ak74n_2_npz 
+5, rhs_weap_ak74n_2_gp25 
+5, rhs_weap_ak74n_2_gp25_npz 
+5, rhs_weap_ak74_3 
+5, rhs_weap_aks74 
+5, rhs_weap_aks74_folded 
+5, rhs_weap_aks74_2 
+5, rhs_weap_aks74_2_folded 
+5, rhs_weap_aks74_gp25 
+5, rhs_weap_aks74n 
+5, rhs_weap_aks74n_npz 
+5, rhs_weap_aks74n_2 
+5, rhs_weap_aks74n_2_npz 
+5, rhs_weap_aks74n_folded 
+5, rhs_weap_aks74n_2_folded 
+5, rhs_weap_aks74n_gp25 
+5, rhs_weap_aks74n_gp25_npz 
+5, rhs_weap_aks74u 
+5, rhs_weap_aks74u_folded 
+5, rhs_weap_aks74un 
+5, rhs_weap_aks74un_folded 
+5, rhs_weap_asval 
+5, rhs_weap_asval_grip 
+5, rhs_weap_asval_npz 
+5, rhs_weap_asval_grip_npz 
+5, rhs_weap_vss 
+5, rhs_weap_vss_grip 
+5, rhs_weap_vss_npz 
+5, rhs_weap_vss_grip_npz 
+5, rhs_weap_svd 
+5, rhs_weap_svdp 
+5, rhs_weap_svdp_npz 
+5, rhs_weap_svdp_wd 
+5, rhs_weap_svdp_wd_npz 
+5, rhs_weap_svds 
+5, rhs_weap_svds_npz 
+5, rhs_weap_t5000 
+5, rhs_weap_pp2000 
+5, rhs_weap_rifle_empty 
+
+
+// LMGs 
+
+5, rhs_weap_pkp 
+5, rhs_weap_pkm 
+5, rhs_weap_rpk74 
+5, rhs_weap_rpk74m 
+
+
+//  SMGs  
+
+
+
+// Snipers  
+
+
+
+// DMRs  
+
+
+
+// Launchers  
+
+5, rhs_weap_rpg26 
+5, rhs_weap_rpg26_used 
+5, rhs_weap_rpg18 
+5, rhs_weap_rpg18_used 
+5, rhs_weap_rshg2 
+5, rhs_weap_rshg2_used 
+5, rhs_weap_rpg7 
+5, rhs_weap_strela 
+5, rhs_weap_igla 
+
+
+// Handguns  
+
+5, rhs_weap_pp2000_folded 
+5, rhs_weap_pya 
+5, rhs_weap_rsp30_white 
+5, rhs_weap_rsp30_red 
+5, rhs_weap_rsp30_green 
+5, rhs_weap_tr8 
+5, rhs_weap_makarov_pm 
+5, rhs_weap_makarov_pmm 
+5, rhs_weap_pb_6p9 
+5, rhs_weap_6p53 
+
+
+// Shotguns  
+
+
+
+// Throwables  
+
+
+
+// Magazines  
+
+5, rhs_30Rnd_545x39_7N10_AK 
+5, rhs_30Rnd_545x39_7N10_plum_AK 
+5, rhs_30Rnd_545x39_7N10_desert_AK 
+5, rhs_30Rnd_545x39_7N10_camo_AK 
+5, rhs_30Rnd_545x39_7N6_AK 
+5, rhs_30Rnd_545x39_7N6_green_AK 
+5, rhs_30Rnd_545x39_7N6M_AK 
+5, rhs_30Rnd_545x39_7N6M_green_AK 
+5, rhs_30Rnd_545x39_7N6M_plum_AK 
+5, rhs_30Rnd_545x39_7N10_2mag_AK 
+5, rhs_30Rnd_545x39_7N10_2mag_plum_AK 
+5, rhs_30Rnd_545x39_7N10_2mag_desert_AK 
+5, rhs_30Rnd_545x39_7N10_2mag_camo_AK 
+5, rhs_30Rnd_545x39_7N22_AK 
+5, rhs_30Rnd_545x39_7N22_plum_AK 
+5, rhs_30Rnd_545x39_7N22_desert_AK 
+5, rhs_30Rnd_545x39_7N22_camo_AK 
+5, rhs_30Rnd_545x39_AK_green 
+5, rhs_30Rnd_545x39_AK_plum_green 
+5, rhs_30Rnd_545x39_7U1_AK 
+5, rhs_45Rnd_545x39_AK 
+5, rhs_45Rnd_545x39_7N6_AK 
+5, rhs_45Rnd_545x39_7N10_AK 
+5, rhs_45Rnd_545x39_7N22_AK 
+5, rhs_45Rnd_545x39_AK_green 
+5, rhs_45Rnd_545x39_7U1_AK 
+5, rhs_30Rnd_545x39_AK 
+5, rhs_30Rnd_545x39_AK_no_tracers 
+5, rhs_30Rnd_762x39mm_bakelite 
+5, rhs_30Rnd_762x39mm_bakelite_tracer 
+5, rhs_30Rnd_762x39mm_bakelite_89 
+5, rhs_30Rnd_762x39mm_bakelite_U 
+5, rhs_30Rnd_762x39mm 
+5, rhs_30Rnd_762x39mm_tracer 
+5, rhs_30Rnd_762x39mm_89 
+5, rhs_30Rnd_762x39mm_U 
+5, rhs_30Rnd_762x39mm_polymer 
+5, rhs_30Rnd_762x39mm_polymer_tracer 
+5, rhs_30Rnd_762x39mm_polymer_89 
+5, rhs_30Rnd_762x39mm_polymer_U 
+5, rhs_10Rnd_762x39mm 
+5, rhs_10Rnd_762x39mm_tracer 
+5, rhs_10Rnd_762x39mm_89 
+5, rhs_10Rnd_762x39mm_U 
+5, rhs_75Rnd_762x39mm 
+5, rhs_75Rnd_762x39mm_tracer 
+5, rhs_75Rnd_762x39mm_89 
+5, rhs_20rnd_9x39mm_SP5 
+5, rhs_20rnd_9x39mm_SP6 
+5, rhs_10rnd_9x39mm_SP5 
+5, rhs_10rnd_9x39mm_SP6 
+5, rhs_10Rnd_762x54mmR_7N1 
+5, rhs_10Rnd_762x54mmR_7N14 
+5, rhs_5Rnd_338lapua_t5000 
+5, rhs_mag_9x19mm_7n21_20 
+5, rhs_mag_9x19mm_7n31_20 
+5, rhs_mag_9x19mm_7n21_44 
+5, rhs_mag_9x19mm_7n31_44 
+5, rhs_mag_9x19_17 
+5, rhs_mag_rsp30_white 
+5, rhs_mag_rsp30_red 
+5, rhs_mag_rsp30_green 
+5, rhs_mag_9x18_8_57N181S 
+5, rhs_mag_9x18_12_57N181S 
+5, rhs_18rnd_9x21mm_7N28 
+5, rhs_18rnd_9x21mm_7N29 
+5, rhs_18rnd_9x21mm_7BT3 
+5, rhs_100Rnd_762x54mmR 
+5, rhs_100Rnd_762x54mmR_green 
+5, rhs_100Rnd_762x54mmR_7N13 
+5, rhs_100Rnd_762x54mmR_7N26 
+5, rhs_100Rnd_762x54mmR_7BZ3 
+5, rhs_rpg26_mag 
+5, rhs_launcher_dummy_mag 
+5, rhs_rpg18_mag 
+5, rhs_rshg2_mag 
+5, rhs_rpg7_PG7V_mag 
+5, rhs_rpg7_PG7VL_mag 
+5, rhs_rpg7_PG7VR_mag 
+5, rhs_rpg7_OG7V_mag 
+5, rhs_rpg7_TBG7V_mag 
+5, rhs_rpg7_TYPE69_airburst_mag 
+5, rhs_mag_9k32_rocket 
+5, rhs_mag_9k38_rocket 
+
+
+// Optics  
+
+
+
+// Muzzles  
+
+5, rhs_acc_6p9_suppressor 
+
+
+// Pointers  
+
+
+
+// Underbarrel  
+
+
+
+// Unknown  
+

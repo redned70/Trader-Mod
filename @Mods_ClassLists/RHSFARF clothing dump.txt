@@ -1,0 +1,861 @@
+
+
+/*
+
+        Exile Trader Item Lists
+
+*/
+
+// Uniforms 
+
+"rhs_chdkz_uniform_1",
+"rhs_chdkz_uniform_2",
+"rhs_chdkz_uniform_3",
+"rhs_chdkz_uniform_4",
+"rhs_chdkz_uniform_5",
+"rhs_insurgent_uniform_1",
+"rhs_insurgent_uniform_2",
+"rhs_insurgent_uniform_3",
+"rhs_insurgent_uniform_4",
+"rhs_insurgent_uniform_5",
+"rhs_uniform_df15",
+"rhs_uniform_df15_tan",
+"rhs_uniform_emr_des_patchless",
+"rhs_uniform_emr_patchless",
+"rhs_uniform_flora",
+"rhs_uniform_flora_patchless",
+"rhs_uniform_flora_patchless_alt",
+"rhs_uniform_gorka_r_g",
+"rhs_uniform_gorka_r_y",
+"rhs_uniform_invisible",
+"rhs_uniform_m88_patchless",
+"rhs_uniform_mflora_patchless",
+"rhs_uniform_msv_emr",
+"rhs_uniform_mvd_izlom",
+"rhs_uniform_rva_flora",
+"rhs_uniform_vdv_emr",
+"rhs_uniform_vdv_emr_des",
+"rhs_uniform_vdv_flora",
+"rhs_uniform_vdv_mflora",
+"rhs_uniform_vmf_flora",
+"rhs_uniform_vmf_flora_subdued",
+
+
+// Headgear 
+
+"rhs_6b26",
+"rhs_6b26_bala",
+"rhs_6b26_bala_green",
+"rhs_6b26_ess",
+"rhs_6b26_ess_bala",
+"rhs_6b26_ess_bala_green",
+"rhs_6b26_ess_green",
+"rhs_6b26_green",
+"rhs_6b27m",
+"rhs_6b27m_bala",
+"rhs_6b27m_digi",
+"rhs_6b27m_digi_bala",
+"rhs_6b27m_digi_ess",
+"rhs_6b27m_digi_ess_bala",
+"rhs_6b27m_ess",
+"rhs_6b27m_ess_bala",
+"rhs_6b27m_green",
+"rhs_6b27m_green_bala",
+"rhs_6b27m_green_ess",
+"rhs_6b27m_green_ess_bala",
+"rhs_6b27m_ml",
+"rhs_6b27m_ml_bala",
+"rhs_6b27m_ml_ess",
+"rhs_6b27m_ML_ess_bala",
+"rhs_6b28",
+"rhs_6b28_bala",
+"rhs_6b28_ess",
+"rhs_6b28_ess_bala",
+"rhs_6b28_flora",
+"rhs_6b28_flora_bala",
+"rhs_6b28_flora_ess",
+"rhs_6b28_flora_ess_bala",
+"rhs_6b28_green",
+"rhs_6b28_green_bala",
+"rhs_6b28_green_ess",
+"rhs_6b28_green_ess_bala",
+"rhs_6b47",
+"rhs_6b47_bala",
+"rhs_6b47_ess",
+"rhs_6b47_ess_bala",
+"rhs_6b7_1m",
+"rhs_6b7_1m_bala1",
+"rhs_6b7_1m_bala1_emr",
+"rhs_6b7_1m_bala1_flora",
+"rhs_6b7_1m_bala1_olive",
+"rhs_6b7_1m_bala2",
+"rhs_6b7_1m_bala2_emr",
+"rhs_6b7_1m_bala2_flora",
+"rhs_6b7_1m_bala2_olive",
+"rhs_6b7_1m_emr",
+"rhs_6b7_1m_emr_ess",
+"rhs_6b7_1m_emr_ess_bala",
+"rhs_6b7_1m_ess",
+"rhs_6b7_1m_ess_bala",
+"rhs_6b7_1m_flora",
+"rhs_6b7_1m_flora_ns3",
+"rhs_6b7_1m_olive",
+"rhs_altyn",
+"rhs_altyn_bala",
+"rhs_altyn_novisor",
+"rhs_altyn_novisor_bala",
+"rhs_altyn_novisor_ess",
+"rhs_altyn_novisor_ess_bala",
+"rhs_altyn_visordown",
+"rhs_beanie",
+"rhs_beanie_green",
+"rhs_beret_milp",
+"rhs_beret_mp1",
+"rhs_beret_mp2",
+"rhs_beret_vdv1",
+"rhs_beret_vdv2",
+"rhs_beret_vdv3",
+"rhs_Booniehat_digi",
+"rhs_Booniehat_flora",
+"rhs_fieldcap",
+"rhs_fieldcap_digi",
+"rhs_fieldcap_digi2",
+"rhs_fieldcap_digi_des",
+"rhs_fieldcap_helm",
+"rhs_fieldcap_helm_digi",
+"rhs_fieldcap_helm_ml",
+"rhs_fieldcap_khk",
+"rhs_fieldcap_ml",
+"rhs_fieldcap_vsr",
+"rhs_gssh18",
+"rhs_ssh68",
+"rhs_tsh4",
+"rhs_tsh4_bala",
+"rhs_tsh4_ess",
+"rhs_tsh4_ess_bala",
+"rhs_zsh12",
+"rhs_zsh12_bala",
+"rhs_zsh12_black",
+"rhs_zsh7a",
+"rhs_zsh7a_alt",
+"rhs_zsh7a_mike",
+"rhs_zsh7a_mike_alt",
+"rhs_zsh7a_mike_green",
+"rhs_zsh7a_mike_green_alt",
+
+
+// Vests 
+
+"rhs_6b13",
+"rhs_6b13_6sh92",
+"rhs_6b13_6sh92_headset_mapcase",
+"rhs_6b13_6sh92_radio",
+"rhs_6b13_6sh92_vog",
+"rhs_6b13_crewofficer",
+"rhs_6b13_EMR",
+"rhs_6b13_EMR_6sh92",
+"rhs_6b13_EMR_6sh92_headset_mapcase",
+"rhs_6b13_EMR_6sh92_radio",
+"rhs_6b13_EMR_6sh92_vog",
+"rhs_6b13_Flora",
+"rhs_6b13_Flora_6sh92",
+"rhs_6b13_Flora_6sh92_headset_mapcase",
+"rhs_6b13_Flora_6sh92_radio",
+"rhs_6b13_Flora_6sh92_vog",
+"rhs_6b13_Flora_crewofficer",
+"rhs_6b23",
+"rhs_6b23_6sh116",
+"rhs_6b23_6sh116_flora",
+"rhs_6b23_6sh116_od",
+"rhs_6b23_6sh116_vog",
+"rhs_6b23_6sh116_vog_flora",
+"rhs_6b23_6sh116_vog_od",
+"rhs_6b23_6sh92",
+"rhs_6b23_6sh92_headset",
+"rhs_6b23_6sh92_headset_mapcase",
+"rhs_6b23_6sh92_radio",
+"rhs_6b23_6sh92_vog",
+"rhs_6b23_6sh92_vog_headset",
+"rhs_6b23_crew",
+"rhs_6b23_crewofficer",
+"rhs_6b23_digi",
+"rhs_6b23_digi_6sh92",
+"rhs_6b23_digi_6sh92_headset",
+"rhs_6b23_digi_6sh92_headset_mapcase",
+"rhs_6b23_digi_6sh92_headset_spetsnaz",
+"rhs_6b23_digi_6sh92_radio",
+"rhs_6b23_digi_6sh92_Spetsnaz",
+"rhs_6b23_digi_6sh92_spetsnaz2",
+"rhs_6b23_digi_6sh92_vog",
+"rhs_6b23_digi_6sh92_vog_headset",
+"rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz",
+"rhs_6b23_digi_6sh92_Vog_Spetsnaz",
+"rhs_6b23_digi_crew",
+"rhs_6b23_digi_crewofficer",
+"rhs_6b23_digi_engineer",
+"rhs_6b23_digi_medic",
+"rhs_6b23_digi_rifleman",
+"rhs_6b23_digi_sniper",
+"rhs_6b23_digi_vydra_3m",
+"rhs_6b23_engineer",
+"rhs_6b23_medic",
+"rhs_6b23_ML",
+"rhs_6b23_ML_6sh92",
+"rhs_6b23_ML_6sh92_headset",
+"rhs_6b23_ML_6sh92_headset_mapcase",
+"rhs_6b23_ML_6sh92_radio",
+"rhs_6b23_ML_6sh92_vog",
+"rhs_6b23_ML_6sh92_vog_headset",
+"rhs_6b23_ML_crew",
+"rhs_6b23_ML_crewofficer",
+"rhs_6b23_ML_engineer",
+"rhs_6b23_ML_medic",
+"rhs_6b23_ML_rifleman",
+"rhs_6b23_ML_sniper",
+"rhs_6b23_ML_vydra_3m",
+"rhs_6b23_rifleman",
+"rhs_6b23_sniper",
+"rhs_6b23_vydra_3m",
+"rhs_6b43",
+"rhs_6sh46",
+"rhs_6sh92",
+"rhs_6sh92_digi",
+"rhs_6sh92_digi_headset",
+"rhs_6sh92_digi_radio",
+"rhs_6sh92_digi_vog",
+"rhs_6sh92_digi_vog_headset",
+"rhs_6sh92_headset",
+"rhs_6sh92_radio",
+"rhs_6sh92_vog",
+"rhs_6sh92_vog_headset",
+"rhs_6sh92_vsr",
+"rhs_6sh92_vsr_headset",
+"rhs_6sh92_vsr_radio",
+"rhs_6sh92_vsr_vog",
+"rhs_6sh92_vsr_vog_headset",
+"rhs_vest_commander",
+"rhs_vest_pistol_holster",
+"rhs_vydra_3m",
+
+
+// Backpacks 
+
+"RHS_AGS30_Gun_Bag",
+"RHS_AGS30_Tripod_Bag",
+"rhs_assault_umbts",
+"rhs_assault_umbts_ammo",
+"rhs_assault_umbts_ammo_recon",
+"rhs_assault_umbts_demo",
+"rhs_assault_umbts_engineer",
+"rhs_assault_umbts_engineer_empty",
+"rhs_assault_umbts_medic",
+"rhs_d6_Parachute_backpack",
+"RHS_DShkM_Gun_Bag",
+"RHS_DShkM_TripodHigh_Bag",
+"RHS_DShkM_TripodLow_Bag",
+"rhs_ins_demo",
+"rhs_ins_pack",
+"rhs_ins_pack_GR",
+"rhs_ins_packMG",
+"RHS_Kord_Gun_Bag",
+"RHS_Kord_Tripod_Bag",
+"RHS_Kornet_Gun_Bag",
+"RHS_Kornet_Tripod_Bag",
+"rhs_medic_bag",
+"rhs_medic_bag_filled",
+"RHS_Metis_Gun_Bag",
+"RHS_Metis_Tripod_Bag",
+"RHS_NSV_Gun_Bag",
+"RHS_NSV_Tripod_Bag",
+"RHS_Podnos_Bipod_Bag",
+"RHS_Podnos_Gun_Bag",
+"rhs_rpg",
+"rhs_rpg_at",
+"rhs_rpg_empty",
+"rhs_rpg_v",
+"rhs_rpg_vl",
+"rhs_sidor",
+"rhs_sidorMG",
+"RHS_SPG9_Gun_Bag",
+"RHS_SPG9_Tripod_Bag",
+
+
+// Glasses 
+
+"rhs_balaclava",
+"rhs_balaclava1_olive",
+"rhs_scarf",
+
+
+/*
+
+        Exile Pricelists
+
+*/
+
+// Uniforms 
+
+class rhs_chdkz_uniform_1 { quality = 3; price = 150; };
+class rhs_chdkz_uniform_2 { quality = 3; price = 150; };
+class rhs_chdkz_uniform_3 { quality = 3; price = 150; };
+class rhs_chdkz_uniform_4 { quality = 3; price = 150; };
+class rhs_chdkz_uniform_5 { quality = 3; price = 150; };
+class rhs_insurgent_uniform_1 { quality = 3; price = 150; };
+class rhs_insurgent_uniform_2 { quality = 3; price = 150; };
+class rhs_insurgent_uniform_3 { quality = 3; price = 150; };
+class rhs_insurgent_uniform_4 { quality = 3; price = 150; };
+class rhs_insurgent_uniform_5 { quality = 3; price = 150; };
+class rhs_uniform_df15 { quality = 3; price = 150; };
+class rhs_uniform_df15_tan { quality = 3; price = 150; };
+class rhs_uniform_emr_des_patchless { quality = 3; price = 150; };
+class rhs_uniform_emr_patchless { quality = 3; price = 150; };
+class rhs_uniform_flora { quality = 3; price = 150; };
+class rhs_uniform_flora_patchless { quality = 3; price = 150; };
+class rhs_uniform_flora_patchless_alt { quality = 3; price = 150; };
+class rhs_uniform_gorka_r_g { quality = 3; price = 150; };
+class rhs_uniform_gorka_r_y { quality = 3; price = 150; };
+class rhs_uniform_invisible { quality = 3; price = 150; };
+class rhs_uniform_m88_patchless { quality = 3; price = 150; };
+class rhs_uniform_mflora_patchless { quality = 3; price = 150; };
+class rhs_uniform_msv_emr { quality = 3; price = 150; };
+class rhs_uniform_mvd_izlom { quality = 3; price = 150; };
+class rhs_uniform_rva_flora { quality = 3; price = 150; };
+class rhs_uniform_vdv_emr { quality = 3; price = 150; };
+class rhs_uniform_vdv_emr_des { quality = 3; price = 150; };
+class rhs_uniform_vdv_flora { quality = 3; price = 150; };
+class rhs_uniform_vdv_mflora { quality = 3; price = 150; };
+class rhs_uniform_vmf_flora { quality = 3; price = 150; };
+class rhs_uniform_vmf_flora_subdued { quality = 3; price = 150; };
+
+
+// Headgear 
+
+class rhs_6b26 { quality = 3; price = 150; };
+class rhs_6b26_bala { quality = 3; price = 150; };
+class rhs_6b26_bala_green { quality = 3; price = 150; };
+class rhs_6b26_ess { quality = 3; price = 150; };
+class rhs_6b26_ess_bala { quality = 3; price = 150; };
+class rhs_6b26_ess_bala_green { quality = 3; price = 150; };
+class rhs_6b26_ess_green { quality = 3; price = 150; };
+class rhs_6b26_green { quality = 3; price = 150; };
+class rhs_6b27m { quality = 3; price = 150; };
+class rhs_6b27m_bala { quality = 3; price = 150; };
+class rhs_6b27m_digi { quality = 3; price = 150; };
+class rhs_6b27m_digi_bala { quality = 3; price = 150; };
+class rhs_6b27m_digi_ess { quality = 3; price = 150; };
+class rhs_6b27m_digi_ess_bala { quality = 3; price = 150; };
+class rhs_6b27m_ess { quality = 3; price = 150; };
+class rhs_6b27m_ess_bala { quality = 3; price = 150; };
+class rhs_6b27m_green { quality = 3; price = 150; };
+class rhs_6b27m_green_bala { quality = 3; price = 150; };
+class rhs_6b27m_green_ess { quality = 3; price = 150; };
+class rhs_6b27m_green_ess_bala { quality = 3; price = 150; };
+class rhs_6b27m_ml { quality = 3; price = 150; };
+class rhs_6b27m_ml_bala { quality = 3; price = 150; };
+class rhs_6b27m_ml_ess { quality = 3; price = 150; };
+class rhs_6b27m_ML_ess_bala { quality = 3; price = 150; };
+class rhs_6b28 { quality = 3; price = 150; };
+class rhs_6b28_bala { quality = 3; price = 150; };
+class rhs_6b28_ess { quality = 3; price = 150; };
+class rhs_6b28_ess_bala { quality = 3; price = 150; };
+class rhs_6b28_flora { quality = 3; price = 150; };
+class rhs_6b28_flora_bala { quality = 3; price = 150; };
+class rhs_6b28_flora_ess { quality = 3; price = 150; };
+class rhs_6b28_flora_ess_bala { quality = 3; price = 150; };
+class rhs_6b28_green { quality = 3; price = 150; };
+class rhs_6b28_green_bala { quality = 3; price = 150; };
+class rhs_6b28_green_ess { quality = 3; price = 150; };
+class rhs_6b28_green_ess_bala { quality = 3; price = 150; };
+class rhs_6b47 { quality = 3; price = 150; };
+class rhs_6b47_bala { quality = 3; price = 150; };
+class rhs_6b47_ess { quality = 3; price = 150; };
+class rhs_6b47_ess_bala { quality = 3; price = 150; };
+class rhs_6b7_1m { quality = 3; price = 150; };
+class rhs_6b7_1m_bala1 { quality = 3; price = 150; };
+class rhs_6b7_1m_bala1_emr { quality = 3; price = 150; };
+class rhs_6b7_1m_bala1_flora { quality = 3; price = 150; };
+class rhs_6b7_1m_bala1_olive { quality = 3; price = 150; };
+class rhs_6b7_1m_bala2 { quality = 3; price = 150; };
+class rhs_6b7_1m_bala2_emr { quality = 3; price = 150; };
+class rhs_6b7_1m_bala2_flora { quality = 3; price = 150; };
+class rhs_6b7_1m_bala2_olive { quality = 3; price = 150; };
+class rhs_6b7_1m_emr { quality = 3; price = 150; };
+class rhs_6b7_1m_emr_ess { quality = 3; price = 150; };
+class rhs_6b7_1m_emr_ess_bala { quality = 3; price = 150; };
+class rhs_6b7_1m_ess { quality = 3; price = 150; };
+class rhs_6b7_1m_ess_bala { quality = 3; price = 150; };
+class rhs_6b7_1m_flora { quality = 3; price = 150; };
+class rhs_6b7_1m_flora_ns3 { quality = 3; price = 150; };
+class rhs_6b7_1m_olive { quality = 3; price = 150; };
+class rhs_altyn { quality = 3; price = 150; };
+class rhs_altyn_bala { quality = 3; price = 150; };
+class rhs_altyn_novisor { quality = 3; price = 150; };
+class rhs_altyn_novisor_bala { quality = 3; price = 150; };
+class rhs_altyn_novisor_ess { quality = 3; price = 150; };
+class rhs_altyn_novisor_ess_bala { quality = 3; price = 150; };
+class rhs_altyn_visordown { quality = 3; price = 150; };
+class rhs_beanie { quality = 3; price = 150; };
+class rhs_beanie_green { quality = 3; price = 150; };
+class rhs_beret_milp { quality = 3; price = 150; };
+class rhs_beret_mp1 { quality = 3; price = 150; };
+class rhs_beret_mp2 { quality = 3; price = 150; };
+class rhs_beret_vdv1 { quality = 3; price = 150; };
+class rhs_beret_vdv2 { quality = 3; price = 150; };
+class rhs_beret_vdv3 { quality = 3; price = 150; };
+class rhs_Booniehat_digi { quality = 3; price = 150; };
+class rhs_Booniehat_flora { quality = 3; price = 150; };
+class rhs_fieldcap { quality = 3; price = 150; };
+class rhs_fieldcap_digi { quality = 3; price = 150; };
+class rhs_fieldcap_digi2 { quality = 3; price = 150; };
+class rhs_fieldcap_digi_des { quality = 3; price = 150; };
+class rhs_fieldcap_helm { quality = 3; price = 150; };
+class rhs_fieldcap_helm_digi { quality = 3; price = 150; };
+class rhs_fieldcap_helm_ml { quality = 3; price = 150; };
+class rhs_fieldcap_khk { quality = 3; price = 150; };
+class rhs_fieldcap_ml { quality = 3; price = 150; };
+class rhs_fieldcap_vsr { quality = 3; price = 150; };
+class rhs_gssh18 { quality = 3; price = 150; };
+class rhs_ssh68 { quality = 3; price = 150; };
+class rhs_tsh4 { quality = 3; price = 150; };
+class rhs_tsh4_bala { quality = 3; price = 150; };
+class rhs_tsh4_ess { quality = 3; price = 150; };
+class rhs_tsh4_ess_bala { quality = 3; price = 150; };
+class rhs_zsh12 { quality = 3; price = 150; };
+class rhs_zsh12_bala { quality = 3; price = 150; };
+class rhs_zsh12_black { quality = 3; price = 150; };
+class rhs_zsh7a { quality = 3; price = 150; };
+class rhs_zsh7a_alt { quality = 3; price = 150; };
+class rhs_zsh7a_mike { quality = 3; price = 150; };
+class rhs_zsh7a_mike_alt { quality = 3; price = 150; };
+class rhs_zsh7a_mike_green { quality = 3; price = 150; };
+class rhs_zsh7a_mike_green_alt { quality = 3; price = 150; };
+
+
+// Vests 
+
+class rhs_6b13 { quality = 3; price = 150; };
+class rhs_6b13_6sh92 { quality = 3; price = 150; };
+class rhs_6b13_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b13_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b13_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b13_crewofficer { quality = 3; price = 150; };
+class rhs_6b13_EMR { quality = 3; price = 150; };
+class rhs_6b13_EMR_6sh92 { quality = 3; price = 150; };
+class rhs_6b13_EMR_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b13_EMR_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b13_EMR_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b13_Flora { quality = 3; price = 150; };
+class rhs_6b13_Flora_6sh92 { quality = 3; price = 150; };
+class rhs_6b13_Flora_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b13_Flora_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b13_Flora_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b13_Flora_crewofficer { quality = 3; price = 150; };
+class rhs_6b23 { quality = 3; price = 150; };
+class rhs_6b23_6sh116 { quality = 3; price = 150; };
+class rhs_6b23_6sh116_flora { quality = 3; price = 150; };
+class rhs_6b23_6sh116_od { quality = 3; price = 150; };
+class rhs_6b23_6sh116_vog { quality = 3; price = 150; };
+class rhs_6b23_6sh116_vog_flora { quality = 3; price = 150; };
+class rhs_6b23_6sh116_vog_od { quality = 3; price = 150; };
+class rhs_6b23_6sh92 { quality = 3; price = 150; };
+class rhs_6b23_6sh92_headset { quality = 3; price = 150; };
+class rhs_6b23_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b23_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b23_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b23_6sh92_vog_headset { quality = 3; price = 150; };
+class rhs_6b23_crew { quality = 3; price = 150; };
+class rhs_6b23_crewofficer { quality = 3; price = 150; };
+class rhs_6b23_digi { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92 { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_headset { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_headset_spetsnaz { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_Spetsnaz { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_spetsnaz2 { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_vog_headset { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz { quality = 3; price = 150; };
+class rhs_6b23_digi_6sh92_Vog_Spetsnaz { quality = 3; price = 150; };
+class rhs_6b23_digi_crew { quality = 3; price = 150; };
+class rhs_6b23_digi_crewofficer { quality = 3; price = 150; };
+class rhs_6b23_digi_engineer { quality = 3; price = 150; };
+class rhs_6b23_digi_medic { quality = 3; price = 150; };
+class rhs_6b23_digi_rifleman { quality = 3; price = 150; };
+class rhs_6b23_digi_sniper { quality = 3; price = 150; };
+class rhs_6b23_digi_vydra_3m { quality = 3; price = 150; };
+class rhs_6b23_engineer { quality = 3; price = 150; };
+class rhs_6b23_medic { quality = 3; price = 150; };
+class rhs_6b23_ML { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92 { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92_headset { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92_headset_mapcase { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92_radio { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92_vog { quality = 3; price = 150; };
+class rhs_6b23_ML_6sh92_vog_headset { quality = 3; price = 150; };
+class rhs_6b23_ML_crew { quality = 3; price = 150; };
+class rhs_6b23_ML_crewofficer { quality = 3; price = 150; };
+class rhs_6b23_ML_engineer { quality = 3; price = 150; };
+class rhs_6b23_ML_medic { quality = 3; price = 150; };
+class rhs_6b23_ML_rifleman { quality = 3; price = 150; };
+class rhs_6b23_ML_sniper { quality = 3; price = 150; };
+class rhs_6b23_ML_vydra_3m { quality = 3; price = 150; };
+class rhs_6b23_rifleman { quality = 3; price = 150; };
+class rhs_6b23_sniper { quality = 3; price = 150; };
+class rhs_6b23_vydra_3m { quality = 3; price = 150; };
+class rhs_6b43 { quality = 3; price = 150; };
+class rhs_6sh46 { quality = 3; price = 150; };
+class rhs_6sh92 { quality = 3; price = 150; };
+class rhs_6sh92_digi { quality = 3; price = 150; };
+class rhs_6sh92_digi_headset { quality = 3; price = 150; };
+class rhs_6sh92_digi_radio { quality = 3; price = 150; };
+class rhs_6sh92_digi_vog { quality = 3; price = 150; };
+class rhs_6sh92_digi_vog_headset { quality = 3; price = 150; };
+class rhs_6sh92_headset { quality = 3; price = 150; };
+class rhs_6sh92_radio { quality = 3; price = 150; };
+class rhs_6sh92_vog { quality = 3; price = 150; };
+class rhs_6sh92_vog_headset { quality = 3; price = 150; };
+class rhs_6sh92_vsr { quality = 3; price = 150; };
+class rhs_6sh92_vsr_headset { quality = 3; price = 150; };
+class rhs_6sh92_vsr_radio { quality = 3; price = 150; };
+class rhs_6sh92_vsr_vog { quality = 3; price = 150; };
+class rhs_6sh92_vsr_vog_headset { quality = 3; price = 150; };
+class rhs_vest_commander { quality = 3; price = 150; };
+class rhs_vest_pistol_holster { quality = 3; price = 150; };
+class rhs_vydra_3m { quality = 3; price = 150; };
+
+
+// Backpacks 
+
+class RHS_AGS30_Gun_Bag { quality = 3; price = 150; };
+class RHS_AGS30_Tripod_Bag { quality = 3; price = 150; };
+class rhs_assault_umbts { quality = 3; price = 150; };
+class rhs_assault_umbts_ammo { quality = 3; price = 150; };
+class rhs_assault_umbts_ammo_recon { quality = 3; price = 150; };
+class rhs_assault_umbts_demo { quality = 3; price = 150; };
+class rhs_assault_umbts_engineer { quality = 3; price = 150; };
+class rhs_assault_umbts_engineer_empty { quality = 3; price = 150; };
+class rhs_assault_umbts_medic { quality = 3; price = 150; };
+class rhs_d6_Parachute_backpack { quality = 3; price = 150; };
+class RHS_DShkM_Gun_Bag { quality = 3; price = 150; };
+class RHS_DShkM_TripodHigh_Bag { quality = 3; price = 150; };
+class RHS_DShkM_TripodLow_Bag { quality = 3; price = 150; };
+class rhs_ins_demo { quality = 3; price = 150; };
+class rhs_ins_pack { quality = 3; price = 150; };
+class rhs_ins_pack_GR { quality = 3; price = 150; };
+class rhs_ins_packMG { quality = 3; price = 150; };
+class RHS_Kord_Gun_Bag { quality = 3; price = 150; };
+class RHS_Kord_Tripod_Bag { quality = 3; price = 150; };
+class RHS_Kornet_Gun_Bag { quality = 3; price = 150; };
+class RHS_Kornet_Tripod_Bag { quality = 3; price = 150; };
+class rhs_medic_bag { quality = 3; price = 150; };
+class rhs_medic_bag_filled { quality = 3; price = 150; };
+class RHS_Metis_Gun_Bag { quality = 3; price = 150; };
+class RHS_Metis_Tripod_Bag { quality = 3; price = 150; };
+class RHS_NSV_Gun_Bag { quality = 3; price = 150; };
+class RHS_NSV_Tripod_Bag { quality = 3; price = 150; };
+class RHS_Podnos_Bipod_Bag { quality = 3; price = 150; };
+class RHS_Podnos_Gun_Bag { quality = 3; price = 150; };
+class rhs_rpg { quality = 3; price = 150; };
+class rhs_rpg_at { quality = 3; price = 150; };
+class rhs_rpg_empty { quality = 3; price = 150; };
+class rhs_rpg_v { quality = 3; price = 150; };
+class rhs_rpg_vl { quality = 3; price = 150; };
+class rhs_sidor { quality = 3; price = 150; };
+class rhs_sidorMG { quality = 3; price = 150; };
+class RHS_SPG9_Gun_Bag { quality = 3; price = 150; };
+class RHS_SPG9_Tripod_Bag { quality = 3; price = 150; };
+
+
+// Glasses 
+
+class rhs_balaclava { quality = 3; price = 150; };
+class rhs_balaclava1_olive { quality = 3; price = 150; };
+class rhs_scarf { quality = 3; price = 150; };
+
+
+/*
+
+        Exile Loottable Entries
+
+*/
+
+// Uniforms 
+
+5, rhs_chdkz_uniform_1 
+5, rhs_chdkz_uniform_2 
+5, rhs_chdkz_uniform_3 
+5, rhs_chdkz_uniform_4 
+5, rhs_chdkz_uniform_5 
+5, rhs_insurgent_uniform_1 
+5, rhs_insurgent_uniform_2 
+5, rhs_insurgent_uniform_3 
+5, rhs_insurgent_uniform_4 
+5, rhs_insurgent_uniform_5 
+5, rhs_uniform_df15 
+5, rhs_uniform_df15_tan 
+5, rhs_uniform_emr_des_patchless 
+5, rhs_uniform_emr_patchless 
+5, rhs_uniform_flora 
+5, rhs_uniform_flora_patchless 
+5, rhs_uniform_flora_patchless_alt 
+5, rhs_uniform_gorka_r_g 
+5, rhs_uniform_gorka_r_y 
+5, rhs_uniform_invisible 
+5, rhs_uniform_m88_patchless 
+5, rhs_uniform_mflora_patchless 
+5, rhs_uniform_msv_emr 
+5, rhs_uniform_mvd_izlom 
+5, rhs_uniform_rva_flora 
+5, rhs_uniform_vdv_emr 
+5, rhs_uniform_vdv_emr_des 
+5, rhs_uniform_vdv_flora 
+5, rhs_uniform_vdv_mflora 
+5, rhs_uniform_vmf_flora 
+5, rhs_uniform_vmf_flora_subdued 
+
+
+// Headgear 
+
+5, rhs_6b26 
+5, rhs_6b26_bala 
+5, rhs_6b26_bala_green 
+5, rhs_6b26_ess 
+5, rhs_6b26_ess_bala 
+5, rhs_6b26_ess_bala_green 
+5, rhs_6b26_ess_green 
+5, rhs_6b26_green 
+5, rhs_6b27m 
+5, rhs_6b27m_bala 
+5, rhs_6b27m_digi 
+5, rhs_6b27m_digi_bala 
+5, rhs_6b27m_digi_ess 
+5, rhs_6b27m_digi_ess_bala 
+5, rhs_6b27m_ess 
+5, rhs_6b27m_ess_bala 
+5, rhs_6b27m_green 
+5, rhs_6b27m_green_bala 
+5, rhs_6b27m_green_ess 
+5, rhs_6b27m_green_ess_bala 
+5, rhs_6b27m_ml 
+5, rhs_6b27m_ml_bala 
+5, rhs_6b27m_ml_ess 
+5, rhs_6b27m_ML_ess_bala 
+5, rhs_6b28 
+5, rhs_6b28_bala 
+5, rhs_6b28_ess 
+5, rhs_6b28_ess_bala 
+5, rhs_6b28_flora 
+5, rhs_6b28_flora_bala 
+5, rhs_6b28_flora_ess 
+5, rhs_6b28_flora_ess_bala 
+5, rhs_6b28_green 
+5, rhs_6b28_green_bala 
+5, rhs_6b28_green_ess 
+5, rhs_6b28_green_ess_bala 
+5, rhs_6b47 
+5, rhs_6b47_bala 
+5, rhs_6b47_ess 
+5, rhs_6b47_ess_bala 
+5, rhs_6b7_1m 
+5, rhs_6b7_1m_bala1 
+5, rhs_6b7_1m_bala1_emr 
+5, rhs_6b7_1m_bala1_flora 
+5, rhs_6b7_1m_bala1_olive 
+5, rhs_6b7_1m_bala2 
+5, rhs_6b7_1m_bala2_emr 
+5, rhs_6b7_1m_bala2_flora 
+5, rhs_6b7_1m_bala2_olive 
+5, rhs_6b7_1m_emr 
+5, rhs_6b7_1m_emr_ess 
+5, rhs_6b7_1m_emr_ess_bala 
+5, rhs_6b7_1m_ess 
+5, rhs_6b7_1m_ess_bala 
+5, rhs_6b7_1m_flora 
+5, rhs_6b7_1m_flora_ns3 
+5, rhs_6b7_1m_olive 
+5, rhs_altyn 
+5, rhs_altyn_bala 
+5, rhs_altyn_novisor 
+5, rhs_altyn_novisor_bala 
+5, rhs_altyn_novisor_ess 
+5, rhs_altyn_novisor_ess_bala 
+5, rhs_altyn_visordown 
+5, rhs_beanie 
+5, rhs_beanie_green 
+5, rhs_beret_milp 
+5, rhs_beret_mp1 
+5, rhs_beret_mp2 
+5, rhs_beret_vdv1 
+5, rhs_beret_vdv2 
+5, rhs_beret_vdv3 
+5, rhs_Booniehat_digi 
+5, rhs_Booniehat_flora 
+5, rhs_fieldcap 
+5, rhs_fieldcap_digi 
+5, rhs_fieldcap_digi2 
+5, rhs_fieldcap_digi_des 
+5, rhs_fieldcap_helm 
+5, rhs_fieldcap_helm_digi 
+5, rhs_fieldcap_helm_ml 
+5, rhs_fieldcap_khk 
+5, rhs_fieldcap_ml 
+5, rhs_fieldcap_vsr 
+5, rhs_gssh18 
+5, rhs_ssh68 
+5, rhs_tsh4 
+5, rhs_tsh4_bala 
+5, rhs_tsh4_ess 
+5, rhs_tsh4_ess_bala 
+5, rhs_zsh12 
+5, rhs_zsh12_bala 
+5, rhs_zsh12_black 
+5, rhs_zsh7a 
+5, rhs_zsh7a_alt 
+5, rhs_zsh7a_mike 
+5, rhs_zsh7a_mike_alt 
+5, rhs_zsh7a_mike_green 
+5, rhs_zsh7a_mike_green_alt 
+
+
+// Vests 
+
+5, rhs_6b13 
+5, rhs_6b13_6sh92 
+5, rhs_6b13_6sh92_headset_mapcase 
+5, rhs_6b13_6sh92_radio 
+5, rhs_6b13_6sh92_vog 
+5, rhs_6b13_crewofficer 
+5, rhs_6b13_EMR 
+5, rhs_6b13_EMR_6sh92 
+5, rhs_6b13_EMR_6sh92_headset_mapcase 
+5, rhs_6b13_EMR_6sh92_radio 
+5, rhs_6b13_EMR_6sh92_vog 
+5, rhs_6b13_Flora 
+5, rhs_6b13_Flora_6sh92 
+5, rhs_6b13_Flora_6sh92_headset_mapcase 
+5, rhs_6b13_Flora_6sh92_radio 
+5, rhs_6b13_Flora_6sh92_vog 
+5, rhs_6b13_Flora_crewofficer 
+5, rhs_6b23 
+5, rhs_6b23_6sh116 
+5, rhs_6b23_6sh116_flora 
+5, rhs_6b23_6sh116_od 
+5, rhs_6b23_6sh116_vog 
+5, rhs_6b23_6sh116_vog_flora 
+5, rhs_6b23_6sh116_vog_od 
+5, rhs_6b23_6sh92 
+5, rhs_6b23_6sh92_headset 
+5, rhs_6b23_6sh92_headset_mapcase 
+5, rhs_6b23_6sh92_radio 
+5, rhs_6b23_6sh92_vog 
+5, rhs_6b23_6sh92_vog_headset 
+5, rhs_6b23_crew 
+5, rhs_6b23_crewofficer 
+5, rhs_6b23_digi 
+5, rhs_6b23_digi_6sh92 
+5, rhs_6b23_digi_6sh92_headset 
+5, rhs_6b23_digi_6sh92_headset_mapcase 
+5, rhs_6b23_digi_6sh92_headset_spetsnaz 
+5, rhs_6b23_digi_6sh92_radio 
+5, rhs_6b23_digi_6sh92_Spetsnaz 
+5, rhs_6b23_digi_6sh92_spetsnaz2 
+5, rhs_6b23_digi_6sh92_vog 
+5, rhs_6b23_digi_6sh92_vog_headset 
+5, rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz 
+5, rhs_6b23_digi_6sh92_Vog_Spetsnaz 
+5, rhs_6b23_digi_crew 
+5, rhs_6b23_digi_crewofficer 
+5, rhs_6b23_digi_engineer 
+5, rhs_6b23_digi_medic 
+5, rhs_6b23_digi_rifleman 
+5, rhs_6b23_digi_sniper 
+5, rhs_6b23_digi_vydra_3m 
+5, rhs_6b23_engineer 
+5, rhs_6b23_medic 
+5, rhs_6b23_ML 
+5, rhs_6b23_ML_6sh92 
+5, rhs_6b23_ML_6sh92_headset 
+5, rhs_6b23_ML_6sh92_headset_mapcase 
+5, rhs_6b23_ML_6sh92_radio 
+5, rhs_6b23_ML_6sh92_vog 
+5, rhs_6b23_ML_6sh92_vog_headset 
+5, rhs_6b23_ML_crew 
+5, rhs_6b23_ML_crewofficer 
+5, rhs_6b23_ML_engineer 
+5, rhs_6b23_ML_medic 
+5, rhs_6b23_ML_rifleman 
+5, rhs_6b23_ML_sniper 
+5, rhs_6b23_ML_vydra_3m 
+5, rhs_6b23_rifleman 
+5, rhs_6b23_sniper 
+5, rhs_6b23_vydra_3m 
+5, rhs_6b43 
+5, rhs_6sh46 
+5, rhs_6sh92 
+5, rhs_6sh92_digi 
+5, rhs_6sh92_digi_headset 
+5, rhs_6sh92_digi_radio 
+5, rhs_6sh92_digi_vog 
+5, rhs_6sh92_digi_vog_headset 
+5, rhs_6sh92_headset 
+5, rhs_6sh92_radio 
+5, rhs_6sh92_vog 
+5, rhs_6sh92_vog_headset 
+5, rhs_6sh92_vsr 
+5, rhs_6sh92_vsr_headset 
+5, rhs_6sh92_vsr_radio 
+5, rhs_6sh92_vsr_vog 
+5, rhs_6sh92_vsr_vog_headset 
+5, rhs_vest_commander 
+5, rhs_vest_pistol_holster 
+5, rhs_vydra_3m 
+
+
+// Backpacks 
+
+5, RHS_AGS30_Gun_Bag 
+5, RHS_AGS30_Tripod_Bag 
+5, rhs_assault_umbts 
+5, rhs_assault_umbts_ammo 
+5, rhs_assault_umbts_ammo_recon 
+5, rhs_assault_umbts_demo 
+5, rhs_assault_umbts_engineer 
+5, rhs_assault_umbts_engineer_empty 
+5, rhs_assault_umbts_medic 
+5, rhs_d6_Parachute_backpack 
+5, RHS_DShkM_Gun_Bag 
+5, RHS_DShkM_TripodHigh_Bag 
+5, RHS_DShkM_TripodLow_Bag 
+5, rhs_ins_demo 
+5, rhs_ins_pack 
+5, rhs_ins_pack_GR 
+5, rhs_ins_packMG 
+5, RHS_Kord_Gun_Bag 
+5, RHS_Kord_Tripod_Bag 
+5, RHS_Kornet_Gun_Bag 
+5, RHS_Kornet_Tripod_Bag 
+5, rhs_medic_bag 
+5, rhs_medic_bag_filled 
+5, RHS_Metis_Gun_Bag 
+5, RHS_Metis_Tripod_Bag 
+5, RHS_NSV_Gun_Bag 
+5, RHS_NSV_Tripod_Bag 
+5, RHS_Podnos_Bipod_Bag 
+5, RHS_Podnos_Gun_Bag 
+5, rhs_rpg 
+5, rhs_rpg_at 
+5, rhs_rpg_empty 
+5, rhs_rpg_v 
+5, rhs_rpg_vl 
+5, rhs_sidor 
+5, rhs_sidorMG 
+5, RHS_SPG9_Gun_Bag 
+5, RHS_SPG9_Tripod_Bag 
+
+
+// Glasses 
+
+5, rhs_balaclava 
+5, rhs_balaclava1_olive 
+5, rhs_scarf 
