@@ -281,14 +281,14 @@
 		{
 			"UK3CB_BAF_AT4_CS_AP_Launcher",
 			"UK3CB_BAF_AT4_CS_AT_Launcher",
-			"UK3CB_BAF_AT4_CS_Launcher_Used",
-			"UK3CB_BAF_AT4_Launcher_Used",
+			//"UK3CB_BAF_AT4_CS_Launcher_Used",
+			//"UK3CB_BAF_AT4_Launcher_Used",
 			"UK3CB_BAF_Javelin_CLU",
 			"UK3CB_BAF_Javelin_Launcher",
 			"UK3CB_BAF_Javelin_Slung_Tube",
-			"UK3CB_BAF_Javelin_Slung_Tube_Used",
-			"UK3CB_BAF_NLAW_Launcher",
-			"UK3CB_BAF_NLAW_Launcher_Used"
+			//"UK3CB_BAF_Javelin_Slung_Tube_Used",
+			"UK3CB_BAF_NLAW_Launcher"
+			//"UK3CB_BAF_NLAW_Launcher_Used"
 		};
 	};
 
