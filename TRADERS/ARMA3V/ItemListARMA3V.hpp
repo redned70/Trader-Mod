@@ -246,7 +246,7 @@
 	class C_Heli_light_01_wasp_F                        { quality = 1; price = 22000; };
 	class C_Heli_light_01_wave_F                        { quality = 1; price = 22000; };
 	class I_Heli_light_03_unarmed_F 					{ quality = 1; price = 22000; };
-	class O_Heli_Light_02_dynamicLoadout_F              { quality = 1; price = 22000; };
+	class O_Heli_Light_02_unarmed_F 					{ quality = 1; price = 22000; };
 	class O_Heli_Transport_04_F							{ quality = 1; price = 40000; };
 	class O_Heli_Transport_04_ammo_F					{ quality = 1; price = 60000; };
 	class O_Heli_Transport_04_ammo_black_F 				{ quality = 1; price = 58000; };
@@ -283,7 +283,7 @@
 	class O_Heli_Attack_02_dynamicLoadout_F				{ quality = 1; price = 160000; };	//new dynamic version
 	class O_Heli_Attack_02_dynamicLoadout_black_F		{ quality = 1; price = 160000; };	//new dynamic version
 	class O_Heli_Light_02_F 							{ quality = 1; price = 110000; };
-	class O_Heli_Light_02_unarmed_F 					{ quality = 1; price = 110000; };
+	class O_Heli_Light_02_dynamicLoadout_F              { quality = 1; price = 110000; };
 	class O_Heli_Light_02_v2_F							{ quality = 1; price = 110000; };
 
 	///////////////////////////////////////////////////////////////////////////////
