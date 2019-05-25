@@ -11,7 +11,7 @@
 	class FHQ_optic_AC12136_tan 					{ quality = 1; price = 300; };
 	class FHQ_optic_ACOG 							{ quality = 1; price = 300; };
 	class FHQ_optic_ACOG_tan 						{ quality = 1; price = 300; };
-	class FHQ_optic_AIM CompM4 						{ quality = 1; price = 300; };
+	class FHQ_optic_AIM_CompM4 						{ quality = 1; price = 300; };
 	class FHQ_optic_AIM_tan 						{ quality = 1; price = 300; };
 	class FHQ_optic_AimM_BLK 						{ quality = 1; price = 300; };
 	class FHQ_optic_AimM_TAN 						{ quality = 1; price = 300; };

@@ -127,7 +127,7 @@ class BAFVests
 		"UK3CB_BAF_V_PLCE_Webbing_Plate_OLI",
 		"UK3CB_BAF_V_PLCE_Webbing_Plate_Winter",
 		"UK3CB_BAF_V_PLCE_Webbing_Winter",
-		"UK3CB_BAF_V_Pilot_A"
+		"UK3CB_BAF_V_Pilot_A",
 		"UK3CB_BAF_V_Pilot_DDPM",
 		"UK3CB_BAF_V_Pilot_DPMT",
 		"UK3CB_BAF_V_Pilot_DPMW"

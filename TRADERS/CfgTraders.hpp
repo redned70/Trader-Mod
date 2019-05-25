@@ -294,7 +294,7 @@
 			"SAFArmed",
 			"SAFUnarmed",
 			"TankDLC",
-			"Trucks",
+			"Trucks"
 			//"MASTanks"
 			//"A3Tanks"
 			//"UGV"
