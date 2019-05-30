@@ -139,3 +139,10 @@ class CfgTraders
 	#include "TRADERS\CfgTraders.hpp"
 };
 You can alternatively copy the cfgtraders file content over the traders in the main config, not recommended.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+5. IN CONFIG.CPP IN MISSION PBO: Add to the "class CfgExileCustomCode" these lines
+
+	ExileClient_gui_traderDialog_updateStoreListBox = "overrides\ExileClient_gui_traderDialog_updateStoreListBox.sqf";
+	ExileClient_gui_vehicleTraderDialog_updateVehicleListBox = "overrides\ExileClient_gui_vehicleTraderDialog_updateVehicleListBox.sqf";
